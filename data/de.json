@@ -1,0 +1,84 @@
+[
+  {
+    "id": "german-artikel",
+    "word": "der / die / das",
+    "language": "German",
+    "category": "definite article — declension",
+    "matrices": [
+      {
+        "label": "Definite article (der-words)",
+        "rowHeaders": ["Nominative", "Accusative", "Genitive", "Dative"],
+        "columnHeaders": ["Masculine", "Feminine", "Neuter", "Plural"],
+        "cells": [
+          [{"answer": "der", "hidden": false}, {"answer": "die", "hidden": false}, {"answer": "das", "hidden": false}, {"answer": "die", "hidden": false}],
+          [{"answer": "den", "hidden": true}, {"answer": "die", "hidden": true}, {"answer": "das", "hidden": true}, {"answer": "die", "hidden": true}],
+          [{"answer": "des", "hidden": true}, {"answer": "der", "hidden": true}, {"answer": "des", "hidden": true}, {"answer": "der", "hidden": true}],
+          [{"answer": "dem", "hidden": true}, {"answer": "der", "hidden": true}, {"answer": "dem", "hidden": true}, {"answer": "den", "hidden": true}]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-sein",
+    "word": "sein",
+    "language": "German",
+    "category": "verb · irregular, present tense",
+    "matrices": [
+      {
+        "label": "sein — Präsens",
+        "rowHeaders": ["ich", "du", "er/sie/es", "wir", "ihr", "sie/Sie"],
+        "columnHeaders": ["Präsens"],
+        "cells": [
+          [{"answer": "bin", "hidden": false}],
+          [{"answer": "bist", "hidden": true}],
+          [{"answer": "ist", "hidden": true}],
+          [{"answer": "sind", "hidden": true}],
+          [{"answer": "seid", "hidden": true}],
+          [{"answer": "sind", "hidden": true}]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-haben",
+    "word": "haben",
+    "language": "German",
+    "category": "verb · irregular, present tense",
+    "matrices": [
+      {
+        "label": "haben — Präsens",
+        "rowHeaders": ["ich", "du", "er/sie/es", "wir", "ihr", "sie/Sie"],
+        "columnHeaders": ["Präsens"],
+        "cells": [
+          [{"answer": "habe", "hidden": false}],
+          [{"answer": "hast", "hidden": true}],
+          [{"answer": "hat", "hidden": true}],
+          [{"answer": "haben", "hidden": true}],
+          [{"answer": "habt", "hidden": true}],
+          [{"answer": "haben", "hidden": true}]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-werden",
+    "word": "werden",
+    "language": "German",
+    "category": "verb · irregular, present tense",
+    "matrices": [
+      {
+        "label": "werden — Präsens",
+        "rowHeaders": ["ich", "du", "er/sie/es", "wir", "ihr", "sie/Sie"],
+        "columnHeaders": ["Präsens"],
+        "cells": [
+          [{"answer": "werde", "hidden": false}],
+          [{"answer": "wirst", "hidden": true}],
+          [{"answer": "wird", "hidden": true}],
+          [{"answer": "werden", "hidden": true}],
+          [{"answer": "werdet", "hidden": true}],
+          [{"answer": "werden", "hidden": true}]
+        ]
+      }
+    ]
+  }
+]

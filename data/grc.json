@@ -1,0 +1,84 @@
+[
+  {
+    "id": "greek-chora",
+    "word": "chōrā",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 1st declension (ā-stem) feminine",
+    "matrices": [
+      {
+        "label": "chōrā, chōrās (f.) — 'land'",
+        "rowHeaders": ["Nominative", "Vocative", "Accusative", "Genitive", "Dative"],
+        "columnHeaders": ["Singular", "Plural"],
+        "cells": [
+          [{"answer": "chōrā", "hidden": false}, {"answer": "chōrai", "hidden": false}],
+          [{"answer": "chōrā", "hidden": true}, {"answer": "chōrai", "hidden": true}],
+          [{"answer": "chōrān", "hidden": true}, {"answer": "chōrās", "hidden": true}],
+          [{"answer": "chōrās", "hidden": true}, {"answer": "chōrōn", "hidden": true}],
+          [{"answer": "chōrāi", "hidden": true}, {"answer": "chōrais", "hidden": true}]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-logos",
+    "word": "logos",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 2nd declension masculine",
+    "matrices": [
+      {
+        "label": "logos, logou (m.) — 'word'",
+        "rowHeaders": ["Nominative", "Vocative", "Accusative", "Genitive", "Dative"],
+        "columnHeaders": ["Singular", "Plural"],
+        "cells": [
+          [{"answer": "logos", "hidden": false}, {"answer": "logoi", "hidden": false}],
+          [{"answer": "loge", "hidden": true}, {"answer": "logoi", "hidden": true}],
+          [{"answer": "logon", "hidden": true}, {"answer": "logous", "hidden": true}],
+          [{"answer": "logou", "hidden": true}, {"answer": "logōn", "hidden": true}],
+          [{"answer": "logōi", "hidden": true}, {"answer": "logois", "hidden": true}]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-eimi",
+    "word": "eimi",
+    "language": "Ancient Greek (romanised)",
+    "category": "verb · irregular (to be), present indicative",
+    "matrices": [
+      {
+        "label": "eimi — present indicative 'to be'",
+        "rowHeaders": ["1st sing", "2nd sing", "3rd sing", "1st plur", "2nd plur", "3rd plur"],
+        "columnHeaders": ["Present"],
+        "cells": [
+          [{"answer": "eimi", "hidden": false}],
+          [{"answer": "ei", "hidden": true}],
+          [{"answer": "esti/estin", "hidden": true}],
+          [{"answer": "esmen", "hidden": true}],
+          [{"answer": "este", "hidden": true}],
+          [{"answer": "eisi/eisin", "hidden": true}]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-luo",
+    "word": "luō",
+    "language": "Ancient Greek (romanised)",
+    "category": "verb · present active indicative",
+    "matrices": [
+      {
+        "label": "luō — present active indicative 'loosen'",
+        "rowHeaders": ["1st sing", "2nd sing", "3rd sing", "1st plur", "2nd plur", "3rd plur"],
+        "columnHeaders": ["Present"],
+        "cells": [
+          [{"answer": "luō", "hidden": false}],
+          [{"answer": "lueis", "hidden": true}],
+          [{"answer": "luei", "hidden": true}],
+          [{"answer": "luomen", "hidden": true}],
+          [{"answer": "luete", "hidden": true}],
+          [{"answer": "luousi/luousin", "hidden": true}]
+        ]
+      }
+    ]
+  }
+]

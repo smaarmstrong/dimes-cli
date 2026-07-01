@@ -1,0 +1,207 @@
+#!/usr/bin/env python3
+"""
+dimes — a console grammar-matrix drill for German, Latin, and Romanised Ancient Greek.
+
+A terminal take on the dimes apps: you fill in the blanks of a declension /
+conjugation table, and it grades you. Answers are matched case- and diacritic-
+insensitively (so you can type `chora` for `chōrā`), `/` marks alternatives, and
+`-` marks a cell that doesn't apply.
+
+Usage:
+    dimes list                    # all paradigms, grouped by language
+    dimes drill                   # drill a spread across all languages
+    dimes drill latin             # drill one language (latin | german | greek)
+    dimes drill latin-servus      # drill one specific card
+    dimes drill latin -n 5        # limit to N cards (default 6)
+    dimes status                  # your recent scores per card
+"""
+import json
+import os
+import random
+import sys
+import unicodedata
+from datetime import date
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+DATA = ROOT / "data"
+STATE = Path(os.environ.get("XDG_STATE_HOME", Path.home() / ".local/state")) / "dimes-cli/history.json"
+LANGS = {"latin": "Latin", "german": "German", "greek": "Ancient Greek (romanised)"}
+
+# ---- colour ----------------------------------------------------------------
+_tty = sys.stdout.isatty()
+def c(code, s): return f"\033[{code}m{s}\033[0m" if _tty else s
+G = lambda s: c("32", s); R = lambda s: c("31", s); Y = lambda s: c("33", s)
+B = lambda s: c("34;1", s); DIM = lambda s: c("2", s); BOLD = lambda s: c("1", s)
+
+# ---- matching --------------------------------------------------------------
+def norm(s):
+    s = unicodedata.normalize("NFD", s or "")
+    s = "".join(ch for ch in s if unicodedata.category(ch) != "Mn")  # drop macrons/accents
+    return s.replace("(", "").replace(")", "").strip().lower()
+
+def is_correct(answer, given):
+    if given is None:
+        return False
+    return any(norm(given) == norm(alt) for alt in answer.split("/"))
+
+# ---- data ------------------------------------------------------------------
+def load_cards():
+    cards = []
+    for f in sorted(DATA.glob("*.json")):
+        try:
+            cards.extend(json.loads(f.read_text()))
+        except json.JSONDecodeError as e:
+            print(R(f"bad data file {f.name}: {e}"), file=sys.stderr)
+    return cards
+
+def load_state():
+    try:
+        return json.loads(STATE.read_text())
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+def save_state(st):
+    STATE.parent.mkdir(parents=True, exist_ok=True)
+    STATE.write_text(json.dumps(st, indent=2))
+
+# ---- rendering -------------------------------------------------------------
+def render(matrix, filled):
+    """filled: dict (r,c)->(given, ok) for hidden cells that were answered."""
+    rows, cols = matrix["rowHeaders"], matrix["columnHeaders"]
+    cells = matrix["cells"]
+    def shown(r, col):
+        cell = cells[r][col]
+        if cell["answer"] == "-":
+            return DIM("—")
+        if not cell["hidden"]:
+            return cell["answer"]
+        if (r, col) in filled:
+            given, ok = filled[(r, col)]
+            return G(cell["answer"]) if ok else R(f"{given or '∅'}→{cell['answer']}")
+        return DIM("____")
+    rh_w = max(len(x) for x in rows + [""]) + 1
+    col_w = []
+    for col in range(len(cols)):
+        w = len(cols[col])
+        for r in range(len(rows)):
+            cell = cells[r][col]
+            txt = cell["answer"] if cell["answer"] != "-" else "-"
+            w = max(w, len(txt) + (len(str(filled.get((r, col), ("", ""))[0])) if cell["hidden"] else 0))
+        col_w.append(max(w, 8) + 2)
+    print("  " + BOLD(matrix["label"]))
+    hdr = " " * rh_w + "│" + "│".join(f" {cols[i].center(col_w[i]-1)}" for i in range(len(cols)))
+    print("  " + hdr)
+    print("  " + "─" * rh_w + "┼" + "┼".join("─" * (col_w[i]+1) for i in range(len(cols))))
+    for r in range(len(rows)):
+        line = rows[r].ljust(rh_w) + "│"
+        line += "│".join(f" {shown(r,i):<{col_w[i]}}" for i in range(len(cols)))
+        print("  " + line)
+    print()
+
+# ---- drill -----------------------------------------------------------------
+def drill_card(card):
+    print()
+    print(B(f"{card['word']}") + DIM(f"   {card['category']} · {card['language']}"))
+    print(DIM("  (type your answer; blank = skip; diacritics optional)"))
+    print()
+    total = correct = 0
+    for matrix in card["matrices"]:
+        render(matrix, {})
+        filled = {}
+        for r, row in enumerate(matrix["cells"]):
+            for col, cell in enumerate(row):
+                if not cell["hidden"] or cell["answer"] == "-":
+                    continue
+                total += 1
+                label = matrix["rowHeaders"][r]
+                if len(matrix["columnHeaders"]) > 1:
+                    label += " · " + matrix["columnHeaders"][col]
+                try:
+                    given = input(f"  {label}: ").strip()
+                except (EOFError, KeyboardInterrupt):
+                    print(); return None
+                ok = is_correct(cell["answer"], given)
+                filled[(r, col)] = (given, ok)
+                if ok:
+                    correct += 1
+        print()
+        render(matrix, filled)
+    pct = round(100 * correct / total) if total else 0
+    tag = G if pct >= 90 else (Y if pct >= 70 else R)
+    print("  " + tag(BOLD(f"{correct}/{total}  ({pct}%)")))
+    return pct
+
+# ---- commands --------------------------------------------------------------
+def cmd_list(cards, st):
+    by = {}
+    for card in cards:
+        by.setdefault(card["language"], []).append(card)
+    for lang in sorted(by):
+        print("\n" + BOLD(lang))
+        for card in sorted(by[lang], key=lambda x: x["id"]):
+            h = st.get(card["id"], {})
+            score = f"  {DIM(str(h['score'])+'%')}" if "score" in h else ""
+            print(f"  • {card['id']:<22} {DIM(card['word'] + ' — ' + card['category'])}{score}")
+    print()
+
+def cmd_status(cards, st):
+    print()
+    if not st:
+        print(DIM("No practice history yet. Try: dimes drill")); return
+    for cid, h in sorted(st.items()):
+        pct = h.get("score", 0)
+        tag = G if pct >= 90 else (Y if pct >= 70 else R)
+        print(f"  {tag(str(pct).rjust(3)+'%')}  {cid:<22} {DIM('last: ' + h.get('date',''))}")
+    print()
+
+def cmd_drill(cards, st, sel, n):
+    pool = cards
+    if sel:
+        key = sel.lower()
+        if key in LANGS:
+            pool = [c for c in cards if c["language"] == LANGS[key]]
+        else:
+            pool = [c for c in cards if c["id"] == sel or c["id"].endswith("-" + sel)]
+    if not pool:
+        sys.exit(R(f"nothing matches '{sel}'. Try: dimes list"))
+    random.shuffle(pool)
+    pool = pool[:n]
+    scores = []
+    for i, card in enumerate(pool, 1):
+        print(DIM(f"\n── card {i}/{len(pool)} " + "─" * 30))
+        pct = drill_card(card)
+        if pct is None:
+            print(DIM("\nstopped.")); break
+        scores.append(pct)
+        st[card["id"]] = {"score": pct, "date": date.today().isoformat()}
+        save_state(st)
+    if scores:
+        print("\n" + BOLD(f"session: {round(sum(scores)/len(scores))}% over {len(scores)} card(s)"))
+
+def main():
+    cards = load_cards()
+    st = load_state()
+    args = sys.argv[1:]
+    if not args or args[0] in ("-h", "--help", "help"):
+        print(__doc__); return
+    cmd, rest = args[0], args[1:]
+    if cmd == "list":
+        cmd_list(cards, st)
+    elif cmd == "status":
+        cmd_status(cards, st)
+    elif cmd == "drill":
+        n = 6
+        sel = None
+        it = iter(rest)
+        for a in it:
+            if a == "-n":
+                n = int(next(it, "6"))
+            else:
+                sel = a
+        cmd_drill(cards, st, sel, n)
+    else:
+        sys.exit(R(f"unknown command '{cmd}'. Try: dimes help"))
+
+if __name__ == "__main__":
+    main()

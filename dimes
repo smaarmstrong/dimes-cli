@@ -36,8 +36,12 @@ B = lambda s: c("34;1", s); DIM = lambda s: c("2", s); BOLD = lambda s: c("1", s
 
 # ---- matching --------------------------------------------------------------
 def norm(s):
-    s = unicodedata.normalize("NFD", s or "")
-    s = "".join(ch for ch in s if unicodedata.category(ch) != "Mn")  # drop macrons/accents
+    # Fold to plain ASCII so a learner can type romanised forms without special
+    # characters: ß→ss, then drop combining marks (macrons, Greek accents/breathings,
+    # German umlaut diaereses all decompose away under NFD).
+    s = (s or "").replace("ß", "ss").replace("ẞ", "SS")
+    s = unicodedata.normalize("NFD", s)
+    s = "".join(ch for ch in s if unicodedata.category(ch) != "Mn")
     return s.replace("(", "").replace(")", "").strip().lower()
 
 def is_correct(answer, given):
@@ -70,15 +74,16 @@ def render(matrix, filled):
     """filled: dict (r,c)->(given, ok) for hidden cells that were answered."""
     rows, cols = matrix["rowHeaders"], matrix["columnHeaders"]
     cells = matrix["cells"]
+    disp = lambda cell: cell.get("display") or cell["answer"]
     def shown(r, col):
         cell = cells[r][col]
         if cell["answer"] == "-":
             return DIM("—")
         if not cell["hidden"]:
-            return cell["answer"]
+            return disp(cell)          # visible hint (may be polytonic Greek / umlauts)
         if (r, col) in filled:
             given, ok = filled[(r, col)]
-            return G(cell["answer"]) if ok else R(f"{given or '∅'}→{cell['answer']}")
+            return G(disp(cell)) if ok else R(f"{given or '∅'}→{disp(cell)}")
         return DIM("____")
     rh_w = max(len(x) for x in rows + [""]) + 1
     col_w = []
@@ -86,8 +91,8 @@ def render(matrix, filled):
         w = len(cols[col])
         for r in range(len(rows)):
             cell = cells[r][col]
-            txt = cell["answer"] if cell["answer"] != "-" else "-"
-            w = max(w, len(txt) + (len(str(filled.get((r, col), ("", ""))[0])) if cell["hidden"] else 0))
+            txt = disp(cell) if cell["answer"] != "-" else "-"
+            w = max(w, len(txt))
         col_w.append(max(w, 8) + 2)
     print("  " + BOLD(matrix["label"]))
     hdr = " " * rh_w + "│" + "│".join(f" {cols[i].center(col_w[i]-1)}" for i in range(len(cols)))

@@ -80,5 +80,24 @@
         ]
       }
     ]
+  },
+  {
+    "id": "german-mann",
+    "word": "der Mann",
+    "language": "German",
+    "category": "noun · masculine (umlaut plural)",
+    "matrices": [
+      {
+        "label": "der Mann, die Männer — type ASCII ok (Manner, Mannern)",
+        "rowHeaders": ["Nominative", "Accusative", "Genitive", "Dative"],
+        "columnHeaders": ["Singular", "Plural"],
+        "cells": [
+          [{"answer": "der Mann", "hidden": false}, {"answer": "die Männer", "hidden": false}],
+          [{"answer": "den Mann", "hidden": true}, {"answer": "die Männer", "hidden": true}],
+          [{"answer": "des Mannes/des Manns", "hidden": true}, {"answer": "der Männer", "hidden": true}],
+          [{"answer": "dem Mann/dem Manne", "hidden": true}, {"answer": "den Männern", "hidden": true}]
+        ]
+      }
+    ]
   }
 ]

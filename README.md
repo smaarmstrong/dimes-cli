@@ -1,25 +1,26 @@
 # dimes-cli
 
-A console **grammar-matrix** drill for **German**, **Latin**, and **Romanised
-Ancient Greek** — a terminal take on the [dimes](https://github.com/smaarmstrong)
+A console **grammar-matrix** drill for **Latin**, **Ancient Greek**, and
+**German** — a terminal take on the [dimes](https://github.com/smaarmstrong)
 apps. You fill in the blanks of a declension / conjugation table and it grades you.
 
-Ancient Greek is **romanised** on purpose: it's a CLI, so you type `chora` /
-`chōrā` at the prompt instead of wrestling polytonic Greek input.
+Greek tables display polytonic Greek; you answer in plain ASCII, in either
+**scholarly transliteration** (`chora`, `basileus`, `techne`) or **ELOT 743 /
+modern style** (`chora`, `vasilefs`, `techni`) — no accent marks, ever.
 
 ## Use it
 
 ```bash
 ./dimes list                 # every paradigm, grouped by language
 ./dimes drill                # a spread across all three languages
-./dimes drill latin          # one language (latin | german | greek)
+./dimes drill latin          # one language (latin | greek | german)
 ./dimes drill latin-servus   # one specific card
 ./dimes drill greek -n 3     # limit to N cards
 ./dimes status               # your recent score per paradigm
 ```
 
 At each blank you type the form. Matching is **case- and diacritic-insensitive**
-(`servi` == `servī`, `chora` == `chōrā`), `/` marks accepted alternatives
+(`servi` == `servī`, `schon` == `schön`), `/` marks accepted alternatives
 (`esti/estin`), and `—` marks a cell that doesn't apply.
 
 ## How it works
@@ -47,8 +48,9 @@ At each blank you type the form. Matching is **case- and diacritic-insensitive**
   ```
 
   `hidden: false` cells are shown as hints; `hidden: true` cells are the blanks you
-  fill. For Greek, an optional `display` holds the polytonic form that is shown,
-  while `answer` holds the romanisation that is matched.
+  fill. For Greek, `display` holds the polytonic form that is shown, while
+  `answer` holds the accepted ASCII transliterations, `/`-separated (scholarly
+  and modern).
 - `./selfcheck` — validates every card: schema, unique ids, and a simulated
   drill in which each stored answer must score 100% with the engine's matcher.
   Run it after any data edit.
@@ -63,6 +65,11 @@ Progress (last score + date per card) is stored in
   classes with comparative/superlative; personal, demonstrative, relative,
   interrogative and reflexive pronouns; irregular verbs (sum, possum, eō, ferō,
   volō/nōlō/mālō, fīō).
+- **Ancient Greek** (45 cards) — 1st/2nd/3rd declension nouns incl. πόλις,
+  βασιλεύς, γένος; adjectives incl. πᾶς and comparison; the article, personal,
+  demonstrative, relative and interrogative/indefinite pronouns; λύω across the
+  tense systems, the α/ε/ο contract verbs, deponents; -μι verbs (τίθημι, δίδωμι,
+  ἵστημι, δείκνῡμι) and εἰμί, εἶμι, οἶδα, φημί, ἔρχομαι.
 - **German** (56 cards) — der/die/das and ein-word declension, dieser/jeder/
   welcher; weak/strong/mixed adjective endings; 15 noun declensions covering
   umlaut/-en/-er/-s plurals, the n-declension (Junge, Student, Herr) and Name;
@@ -70,9 +77,3 @@ Progress (last score + date per card) is stored in
   modals, and a spread of strong verbs, each conjugated through Präsens,
   Präteritum, Konjunktiv I/II, imperative and non-finite forms, plus a Perfekt
   auxiliary drill (ist gefahren / hat gegeben).
-- **Greek (romanised)** (45 cards) — 1st/2nd/3rd declension nouns incl. πόλις,
-  βασιλεύς, γένος; adjectives incl. πᾶς and comparison; the article, personal,
-  demonstrative, relative and interrogative/indefinite pronouns; λύω across the
-  tense systems, the α/ε/ο contract verbs, deponents; -μι verbs (τίθημι, δίδωμι,
-  ἵστημι, δείκνῡμι) and εἰμί, εἶμι, οἶδα, φημί, ἔρχομαι. Tables display
-  polytonic Greek; you answer in romanised ASCII (`chora` for χώρᾱ).

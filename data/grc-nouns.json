@@ -1,8 +1,8 @@
 [
   {
     "id": "greek-chora",
-    "word": "χώρᾱ (chōrā)",
-    "language": "Ancient Greek (romanised)",
+    "word": "χώρᾱ (chora)",
+    "language": "Ancient Greek",
     "category": "noun · 1st declension (ā-stem) feminine",
     "matrices": [
       {
@@ -21,60 +21,60 @@
         "cells": [
           [
             {
-              "answer": "chōrā",
+              "answer": "chora",
               "display": "χώρᾱ",
               "hidden": false
             },
             {
-              "answer": "chōrai",
+              "answer": "chorai",
               "display": "χῶραι",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "chōrā",
+              "answer": "chora",
               "display": "χώρᾱ",
               "hidden": true
             },
             {
-              "answer": "chōrai",
+              "answer": "chorai",
               "display": "χῶραι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "chōrān",
+              "answer": "choran",
               "display": "χώρᾱν",
               "hidden": true
             },
             {
-              "answer": "chōrās",
+              "answer": "choras",
               "display": "χώρᾱς",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "chōrās",
+              "answer": "choras",
               "display": "χώρᾱς",
               "hidden": true
             },
             {
-              "answer": "chōrōn",
+              "answer": "choron",
               "display": "χωρῶν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "chōrāi",
+              "answer": "chorai/chora",
               "display": "χώρᾳ",
               "hidden": true
             },
             {
-              "answer": "chōrais",
+              "answer": "chorais",
               "display": "χώραις",
               "hidden": true
             }
@@ -85,8 +85,8 @@
   },
   {
     "id": "greek-techne",
-    "word": "τέχνη (technē)",
-    "language": "Ancient Greek (romanised)",
+    "word": "τέχνη (techne)",
+    "language": "Ancient Greek",
     "category": "noun · 1st declension (η-stem) feminine",
     "matrices": [
       {
@@ -105,7 +105,7 @@
         "cells": [
           [
             {
-              "answer": "technē",
+              "answer": "techne/techni",
               "display": "τέχνη",
               "hidden": false
             },
@@ -117,7 +117,7 @@
           ],
           [
             {
-              "answer": "technē",
+              "answer": "techne/techni",
               "display": "τέχνη",
               "hidden": true
             },
@@ -129,31 +129,31 @@
           ],
           [
             {
-              "answer": "technēn",
+              "answer": "technen/technin",
               "display": "τέχνην",
               "hidden": true
             },
             {
-              "answer": "technās",
+              "answer": "technas",
               "display": "τέχνᾱς",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "technēs",
+              "answer": "technes/technis",
               "display": "τέχνης",
               "hidden": true
             },
             {
-              "answer": "technōn",
+              "answer": "technon",
               "display": "τεχνῶν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "technēi",
+              "answer": "technei/techni",
               "display": "τέχνῃ",
               "hidden": true
             },
@@ -170,7 +170,7 @@
   {
     "id": "greek-thalatta",
     "word": "θάλαττα (thalatta)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "noun · 1st declension (short α) feminine",
     "matrices": [
       {
@@ -218,26 +218,26 @@
               "hidden": true
             },
             {
-              "answer": "thalattās",
+              "answer": "thalattas",
               "display": "θαλάττᾱς",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "thalattēs",
+              "answer": "thalattes/thalattis",
               "display": "θαλάττης",
               "hidden": true
             },
             {
-              "answer": "thalattōn",
+              "answer": "thalatton",
               "display": "θαλαττῶν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "thalattēi",
+              "answer": "thalattei/thalatti",
               "display": "θαλάττῃ",
               "hidden": true
             },
@@ -253,8 +253,8 @@
   },
   {
     "id": "greek-neanias",
-    "word": "νεᾱνίᾱς (neāniās)",
-    "language": "Ancient Greek (romanised)",
+    "word": "νεᾱνίᾱς (neanias)",
+    "language": "Ancient Greek",
     "category": "noun · 1st declension masculine",
     "matrices": [
       {
@@ -273,60 +273,60 @@
         "cells": [
           [
             {
-              "answer": "neāniās",
+              "answer": "neanias",
               "display": "νεᾱνίᾱς",
               "hidden": false
             },
             {
-              "answer": "neāniai",
+              "answer": "neaniai",
               "display": "νεᾱνίαι",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "neāniā",
+              "answer": "neania",
               "display": "νεᾱνίᾱ",
               "hidden": true
             },
             {
-              "answer": "neāniai",
+              "answer": "neaniai",
               "display": "νεᾱνίαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "neāniān",
+              "answer": "neanian",
               "display": "νεᾱνίᾱν",
               "hidden": true
             },
             {
-              "answer": "neāniās",
+              "answer": "neanias",
               "display": "νεᾱνίᾱς",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "neāniou",
+              "answer": "neaniou",
               "display": "νεᾱνίου",
               "hidden": true
             },
             {
-              "answer": "neāniōn",
+              "answer": "neanion",
               "display": "νεᾱνιῶν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "neāniāi",
+              "answer": "neaniai/neania",
               "display": "νεᾱνίᾳ",
               "hidden": true
             },
             {
-              "answer": "neāniais",
+              "answer": "neaniais",
               "display": "νεᾱνίαις",
               "hidden": true
             }
@@ -337,8 +337,8 @@
   },
   {
     "id": "greek-doron",
-    "word": "δῶρον (dōron)",
-    "language": "Ancient Greek (romanised)",
+    "word": "δῶρον (doron)",
+    "language": "Ancient Greek",
     "category": "noun · 2nd declension neuter",
     "matrices": [
       {
@@ -357,60 +357,60 @@
         "cells": [
           [
             {
-              "answer": "dōron",
+              "answer": "doron",
               "display": "δῶρον",
               "hidden": false
             },
             {
-              "answer": "dōra",
+              "answer": "dora",
               "display": "δῶρα",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "dōron",
+              "answer": "doron",
               "display": "δῶρον",
               "hidden": true
             },
             {
-              "answer": "dōra",
+              "answer": "dora",
               "display": "δῶρα",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dōron",
+              "answer": "doron",
               "display": "δῶρον",
               "hidden": true
             },
             {
-              "answer": "dōra",
+              "answer": "dora",
               "display": "δῶρα",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dōrou",
+              "answer": "dorou",
               "display": "δώρου",
               "hidden": true
             },
             {
-              "answer": "dōrōn",
+              "answer": "doron",
               "display": "δώρων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dōrōi",
+              "answer": "doroi/doro",
               "display": "δώρῳ",
               "hidden": true
             },
             {
-              "answer": "dōrois",
+              "answer": "dorois/doris",
               "display": "δώροις",
               "hidden": true
             }
@@ -421,8 +421,8 @@
   },
   {
     "id": "greek-neos",
-    "word": "νεώς (neōs)",
-    "language": "Ancient Greek (romanised)",
+    "word": "νεώς (neos)",
+    "language": "Ancient Greek",
     "category": "noun · 2nd declension (Attic) masculine",
     "matrices": [
       {
@@ -441,60 +441,60 @@
         "cells": [
           [
             {
-              "answer": "neōs",
+              "answer": "neos",
               "display": "νεώς",
               "hidden": false
             },
             {
-              "answer": "neōi",
+              "answer": "neoi/neo",
               "display": "νεῴ",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "neōs",
+              "answer": "neos",
               "display": "νεώς",
               "hidden": true
             },
             {
-              "answer": "neōi",
+              "answer": "neoi/neo",
               "display": "νεῴ",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "neōn",
+              "answer": "neon",
               "display": "νεών",
               "hidden": true
             },
             {
-              "answer": "neōs",
+              "answer": "neos",
               "display": "νεώς",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "neō",
+              "answer": "neo",
               "display": "νεώ",
               "hidden": true
             },
             {
-              "answer": "neōn",
+              "answer": "neon",
               "display": "νεών",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "neōi",
+              "answer": "neoi/neo",
               "display": "νεῴ",
               "hidden": true
             },
             {
-              "answer": "neōis",
+              "answer": "neois/neos",
               "display": "νεῴς",
               "hidden": true
             }
@@ -506,7 +506,7 @@
   {
     "id": "greek-phylax",
     "word": "φύλαξ (phulax)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "noun · 3rd declension (velar stem) masculine",
     "matrices": [
       {
@@ -525,60 +525,60 @@
         "cells": [
           [
             {
-              "answer": "phulax",
+              "answer": "phulax/fylax/filax",
               "display": "φύλαξ",
               "hidden": false
             },
             {
-              "answer": "phulakes",
+              "answer": "phulakes/fylakes/filakes",
               "display": "φύλακες",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "phulax",
+              "answer": "phulax/fylax/filax",
               "display": "φύλαξ",
               "hidden": true
             },
             {
-              "answer": "phulakes",
+              "answer": "phulakes/fylakes/filakes",
               "display": "φύλακες",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "phulaka",
+              "answer": "phulaka/fylaka/filaka",
               "display": "φύλακα",
               "hidden": true
             },
             {
-              "answer": "phulakas",
+              "answer": "phulakas/fylakas/filakas",
               "display": "φύλακας",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "phulakos",
+              "answer": "phulakos/fylakos/filakos",
               "display": "φύλακος",
               "hidden": true
             },
             {
-              "answer": "phulakōn",
+              "answer": "phulakon/fylakon/filakon",
               "display": "φυλάκων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "phulaki",
+              "answer": "phulaki/fylaki/filaki",
               "display": "φύλακι",
               "hidden": true
             },
             {
-              "answer": "phulaxi/phulaxin",
+              "answer": "phulaxi/phulaxin/fylaxi/filaxi/fylaxin/filaxin",
               "display": "φύλαξι(ν)",
               "hidden": true
             }
@@ -590,7 +590,7 @@
   {
     "id": "greek-elpis",
     "word": "ἐλπίς (elpis)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "noun · 3rd declension (dental stem) feminine",
     "matrices": [
       {
@@ -650,7 +650,7 @@
               "hidden": true
             },
             {
-              "answer": "elpidōn",
+              "answer": "elpidon",
               "display": "ἐλπίδων",
               "hidden": true
             }
@@ -673,8 +673,8 @@
   },
   {
     "id": "greek-daimon",
-    "word": "δαίμων (daimōn)",
-    "language": "Ancient Greek (romanised)",
+    "word": "δαίμων (daimon)",
+    "language": "Ancient Greek",
     "category": "noun · 3rd declension (nasal stem) masculine",
     "matrices": [
       {
@@ -693,7 +693,7 @@
         "cells": [
           [
             {
-              "answer": "daimōn",
+              "answer": "daimon",
               "display": "δαίμων",
               "hidden": false
             },
@@ -734,7 +734,7 @@
               "hidden": true
             },
             {
-              "answer": "daimonōn",
+              "answer": "daimonon",
               "display": "δαιμόνων",
               "hidden": true
             }
@@ -757,8 +757,8 @@
   },
   {
     "id": "greek-rhetor",
-    "word": "ῥήτωρ (rhētōr)",
-    "language": "Ancient Greek (romanised)",
+    "word": "ῥήτωρ (rhetor)",
+    "language": "Ancient Greek",
     "category": "noun · 3rd declension (liquid stem) masculine",
     "matrices": [
       {
@@ -777,60 +777,60 @@
         "cells": [
           [
             {
-              "answer": "rhētōr",
+              "answer": "rhetor/ritor",
               "display": "ῥήτωρ",
               "hidden": false
             },
             {
-              "answer": "rhētores",
+              "answer": "rhetores/ritores",
               "display": "ῥήτορες",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "rhētor",
+              "answer": "rhetor/ritor",
               "display": "ῥῆτορ",
               "hidden": true
             },
             {
-              "answer": "rhētores",
+              "answer": "rhetores/ritores",
               "display": "ῥήτορες",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "rhētora",
+              "answer": "rhetora/ritora",
               "display": "ῥήτορα",
               "hidden": true
             },
             {
-              "answer": "rhētoras",
+              "answer": "rhetoras/ritoras",
               "display": "ῥήτορας",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "rhētoros",
+              "answer": "rhetoros/ritoros",
               "display": "ῥήτορος",
               "hidden": true
             },
             {
-              "answer": "rhētorōn",
+              "answer": "rhetoron/ritoron",
               "display": "ῥητόρων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "rhētori",
+              "answer": "rhetori/ritori",
               "display": "ῥήτορι",
               "hidden": true
             },
             {
-              "answer": "rhētorsi/rhētorsin",
+              "answer": "rhetorsi/rhetorsin/ritorsi/ritorsin",
               "display": "ῥήτορσι(ν)",
               "hidden": true
             }
@@ -842,7 +842,7 @@
   {
     "id": "greek-genos",
     "word": "γένος (genos)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "noun · 3rd declension (sigma stem) neuter",
     "matrices": [
       {
@@ -866,7 +866,7 @@
               "hidden": false
             },
             {
-              "answer": "genē",
+              "answer": "gene/geni",
               "display": "γένη",
               "hidden": false
             }
@@ -878,7 +878,7 @@
               "hidden": true
             },
             {
-              "answer": "genē",
+              "answer": "gene/geni",
               "display": "γένη",
               "hidden": true
             }
@@ -890,7 +890,7 @@
               "hidden": true
             },
             {
-              "answer": "genē",
+              "answer": "gene/geni",
               "display": "γένη",
               "hidden": true
             }
@@ -902,14 +902,14 @@
               "hidden": true
             },
             {
-              "answer": "genōn",
+              "answer": "genon",
               "display": "γενῶν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "genei",
+              "answer": "genei/geni",
               "display": "γένει",
               "hidden": true
             },
@@ -926,7 +926,7 @@
   {
     "id": "greek-polis",
     "word": "πόλις (polis)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "noun · 3rd declension (-ις stem) feminine",
     "matrices": [
       {
@@ -950,7 +950,7 @@
               "hidden": false
             },
             {
-              "answer": "poleis",
+              "answer": "poleis/polis",
               "display": "πόλεις",
               "hidden": false
             }
@@ -962,7 +962,7 @@
               "hidden": true
             },
             {
-              "answer": "poleis",
+              "answer": "poleis/polis",
               "display": "πόλεις",
               "hidden": true
             }
@@ -974,26 +974,26 @@
               "hidden": true
             },
             {
-              "answer": "poleis",
+              "answer": "poleis/polis",
               "display": "πόλεις",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poleōs",
+              "answer": "poleos",
               "display": "πόλεως",
               "hidden": true
             },
             {
-              "answer": "poleōn",
+              "answer": "poleon",
               "display": "πόλεων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "polei",
+              "answer": "polei/poli",
               "display": "πόλει",
               "hidden": true
             },
@@ -1010,7 +1010,7 @@
   {
     "id": "greek-basileus",
     "word": "βασιλεύς (basileus)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "noun · 3rd declension (-εύς stem) masculine",
     "matrices": [
       {
@@ -1029,60 +1029,60 @@
         "cells": [
           [
             {
-              "answer": "basileus",
+              "answer": "basileus/vasilefs",
               "display": "βασιλεύς",
               "hidden": false
             },
             {
-              "answer": "basileis/basilēs",
+              "answer": "basileis/basiles/vasileis/vasilis",
               "display": "βασιλεῖς/βασιλῆς",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "basileu",
+              "answer": "basileu/vasilef",
               "display": "βασιλεῦ",
               "hidden": true
             },
             {
-              "answer": "basileis/basilēs",
+              "answer": "basileis/basiles/vasileis/vasilis",
               "display": "βασιλεῖς/βασιλῆς",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "basilea",
+              "answer": "basilea/vasilea",
               "display": "βασιλέα",
               "hidden": true
             },
             {
-              "answer": "basileas",
+              "answer": "basileas/vasileas",
               "display": "βασιλέας",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "basileōs",
+              "answer": "basileos/vasileos",
               "display": "βασιλέως",
               "hidden": true
             },
             {
-              "answer": "basileōn",
+              "answer": "basileon/vasileon",
               "display": "βασιλέων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "basilei",
+              "answer": "basilei/vasilei/vasili",
               "display": "βασιλεῖ",
               "hidden": true
             },
             {
-              "answer": "basileusi/basileusin",
+              "answer": "basileusi/basileusin/vasilefsi/vasilefsin",
               "display": "βασιλεῦσι(ν)",
               "hidden": true
             }
@@ -1094,7 +1094,7 @@
   {
     "id": "greek-logos",
     "word": "λόγος (logos)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "noun · 2nd declension masculine",
     "matrices": [
       {
@@ -1118,7 +1118,7 @@
               "hidden": false
             },
             {
-              "answer": "logoi",
+              "answer": "logoi/logi",
               "display": "λόγοι",
               "hidden": false
             }
@@ -1130,7 +1130,7 @@
               "hidden": true
             },
             {
-              "answer": "logoi",
+              "answer": "logoi/logi",
               "display": "λόγοι",
               "hidden": true
             }
@@ -1154,19 +1154,19 @@
               "hidden": true
             },
             {
-              "answer": "logōn",
+              "answer": "logon",
               "display": "λόγων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "logōi",
+              "answer": "logoi/logo",
               "display": "λόγῳ",
               "hidden": true
             },
             {
-              "answer": "logois",
+              "answer": "logois/logis",
               "display": "λόγοις",
               "hidden": true
             }

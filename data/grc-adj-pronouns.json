@@ -2,7 +2,7 @@
   {
     "id": "greek-agathos",
     "word": "ἀγαθός (agathos)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "adjective · 1st/2nd declension (-ος, -η, -ον)",
     "matrices": [
       {
@@ -30,7 +30,7 @@
               "hidden": false
             },
             {
-              "answer": "agathē",
+              "answer": "agathe/agathi",
               "display": "ἀγαθή",
               "hidden": false
             },
@@ -40,7 +40,7 @@
               "hidden": false
             },
             {
-              "answer": "agathoi",
+              "answer": "agathoi/agathi",
               "display": "ἀγαθοί",
               "hidden": false
             },
@@ -62,7 +62,7 @@
               "hidden": true
             },
             {
-              "answer": "agathē",
+              "answer": "agathe/agathi",
               "display": "ἀγαθή",
               "hidden": true
             },
@@ -72,7 +72,7 @@
               "hidden": true
             },
             {
-              "answer": "agathoi",
+              "answer": "agathoi/agathi",
               "display": "ἀγαθοί",
               "hidden": true
             },
@@ -94,7 +94,7 @@
               "hidden": true
             },
             {
-              "answer": "agathēn",
+              "answer": "agathen/agathin",
               "display": "ἀγαθήν",
               "hidden": true
             },
@@ -126,7 +126,7 @@
               "hidden": true
             },
             {
-              "answer": "agathēs",
+              "answer": "agathes/agathis",
               "display": "ἀγαθῆς",
               "hidden": true
             },
@@ -136,39 +136,39 @@
               "hidden": true
             },
             {
-              "answer": "agathōn",
+              "answer": "agathon",
               "display": "ἀγαθῶν",
               "hidden": true
             },
             {
-              "answer": "agathōn",
+              "answer": "agathon",
               "display": "ἀγαθῶν",
               "hidden": true
             },
             {
-              "answer": "agathōn",
+              "answer": "agathon",
               "display": "ἀγαθῶν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "agathōi",
+              "answer": "agathoi/agatho",
               "display": "ἀγαθῷ",
               "hidden": true
             },
             {
-              "answer": "agathēi",
+              "answer": "agathei/agathi",
               "display": "ἀγαθῇ",
               "hidden": true
             },
             {
-              "answer": "agathōi",
+              "answer": "agathoi/agatho",
               "display": "ἀγαθῷ",
               "hidden": true
             },
             {
-              "answer": "agathois",
+              "answer": "agathois/agathis",
               "display": "ἀγαθοῖς",
               "hidden": true
             },
@@ -178,7 +178,7 @@
               "hidden": true
             },
             {
-              "answer": "agathois",
+              "answer": "agathois/agathis",
               "display": "ἀγαθοῖς",
               "hidden": true
             }
@@ -190,7 +190,7 @@
   {
     "id": "greek-dikaios",
     "word": "δίκαιος (dikaios)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "adjective · 1st/2nd declension (-ος, -ᾱ, -ον)",
     "matrices": [
       {
@@ -218,7 +218,7 @@
               "hidden": false
             },
             {
-              "answer": "dikaiā",
+              "answer": "dikaia",
               "display": "δικαίᾱ",
               "hidden": false
             },
@@ -228,7 +228,7 @@
               "hidden": false
             },
             {
-              "answer": "dikaioi",
+              "answer": "dikaioi/dikaii",
               "display": "δίκαιοι",
               "hidden": false
             },
@@ -250,7 +250,7 @@
               "hidden": true
             },
             {
-              "answer": "dikaiā",
+              "answer": "dikaia",
               "display": "δικαίᾱ",
               "hidden": true
             },
@@ -260,7 +260,7 @@
               "hidden": true
             },
             {
-              "answer": "dikaioi",
+              "answer": "dikaioi/dikaii",
               "display": "δίκαιοι",
               "hidden": true
             },
@@ -282,7 +282,7 @@
               "hidden": true
             },
             {
-              "answer": "dikaiān",
+              "answer": "dikaian",
               "display": "δικαίᾱν",
               "hidden": true
             },
@@ -297,7 +297,7 @@
               "hidden": true
             },
             {
-              "answer": "dikaiās",
+              "answer": "dikaias",
               "display": "δικαίᾱς",
               "hidden": true
             },
@@ -314,7 +314,7 @@
               "hidden": true
             },
             {
-              "answer": "dikaiās",
+              "answer": "dikaias",
               "display": "δικαίᾱς",
               "hidden": true
             },
@@ -324,39 +324,39 @@
               "hidden": true
             },
             {
-              "answer": "dikaiōn",
+              "answer": "dikaion",
               "display": "δικαίων",
               "hidden": true
             },
             {
-              "answer": "dikaiōn",
+              "answer": "dikaion",
               "display": "δικαίων",
               "hidden": true
             },
             {
-              "answer": "dikaiōn",
+              "answer": "dikaion",
               "display": "δικαίων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dikaiōi",
+              "answer": "dikaioi/dikaio",
               "display": "δικαίῳ",
               "hidden": true
             },
             {
-              "answer": "dikaiāi",
+              "answer": "dikaiai/dikaia",
               "display": "δικαίᾳ",
               "hidden": true
             },
             {
-              "answer": "dikaiōi",
+              "answer": "dikaioi/dikaio",
               "display": "δικαίῳ",
               "hidden": true
             },
             {
-              "answer": "dikaiois",
+              "answer": "dikaiois/dikaiis",
               "display": "δικαίοις",
               "hidden": true
             },
@@ -366,7 +366,7 @@
               "hidden": true
             },
             {
-              "answer": "dikaiois",
+              "answer": "dikaiois/dikaiis",
               "display": "δικαίοις",
               "hidden": true
             }
@@ -378,7 +378,7 @@
   {
     "id": "greek-adikos",
     "word": "ἄδικος (adikos)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "adjective · 1st/2nd declension, two-termination (ἄδικος)",
     "matrices": [
       {
@@ -409,7 +409,7 @@
               "hidden": false
             },
             {
-              "answer": "adikoi",
+              "answer": "adikoi/adiki",
               "display": "ἄδικοι",
               "hidden": false
             },
@@ -431,7 +431,7 @@
               "hidden": true
             },
             {
-              "answer": "adikoi",
+              "answer": "adikoi/adiki",
               "display": "ἄδικοι",
               "hidden": true
             },
@@ -475,34 +475,34 @@
               "hidden": true
             },
             {
-              "answer": "adikōn",
+              "answer": "adikon",
               "display": "ἀδίκων",
               "hidden": true
             },
             {
-              "answer": "adikōn",
+              "answer": "adikon",
               "display": "ἀδίκων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "adikōi",
+              "answer": "adikoi/adiko",
               "display": "ἀδίκῳ",
               "hidden": true
             },
             {
-              "answer": "adikōi",
+              "answer": "adikoi/adiko",
               "display": "ἀδίκῳ",
               "hidden": true
             },
             {
-              "answer": "adikois",
+              "answer": "adikois/adikis",
               "display": "ἀδίκοις",
               "hidden": true
             },
             {
-              "answer": "adikois",
+              "answer": "adikois/adikis",
               "display": "ἀδίκοις",
               "hidden": true
             }
@@ -513,8 +513,8 @@
   },
   {
     "id": "greek-eudaimon",
-    "word": "εὐδαίμων (eudaimōn)",
-    "language": "Ancient Greek (romanised)",
+    "word": "εὐδαίμων (eudaimon)",
+    "language": "Ancient Greek",
     "category": "adjective · 3rd declension (εὐδαίμων)",
     "matrices": [
       {
@@ -535,110 +535,110 @@
         "cells": [
           [
             {
-              "answer": "eudaimōn",
+              "answer": "eudaimon/evdaimon",
               "display": "εὐδαίμων",
               "hidden": false
             },
             {
-              "answer": "eudaimon",
+              "answer": "eudaimon/evdaimon",
               "display": "εὔδαιμον",
               "hidden": false
             },
             {
-              "answer": "eudaimones",
+              "answer": "eudaimones/evdaimones",
               "display": "εὐδαίμονες",
               "hidden": false
             },
             {
-              "answer": "eudaimona",
+              "answer": "eudaimona/evdaimona",
               "display": "εὐδαίμονα",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "eudaimon",
+              "answer": "eudaimon/evdaimon",
               "display": "εὔδαιμον",
               "hidden": true
             },
             {
-              "answer": "eudaimon",
+              "answer": "eudaimon/evdaimon",
               "display": "εὔδαιμον",
               "hidden": true
             },
             {
-              "answer": "eudaimones",
+              "answer": "eudaimones/evdaimones",
               "display": "εὐδαίμονες",
               "hidden": true
             },
             {
-              "answer": "eudaimona",
+              "answer": "eudaimona/evdaimona",
               "display": "εὐδαίμονα",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "eudaimona",
+              "answer": "eudaimona/evdaimona",
               "display": "εὐδαίμονα",
               "hidden": true
             },
             {
-              "answer": "eudaimon",
+              "answer": "eudaimon/evdaimon",
               "display": "εὔδαιμον",
               "hidden": true
             },
             {
-              "answer": "eudaimonas",
+              "answer": "eudaimonas/evdaimonas",
               "display": "εὐδαίμονας",
               "hidden": true
             },
             {
-              "answer": "eudaimona",
+              "answer": "eudaimona/evdaimona",
               "display": "εὐδαίμονα",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "eudaimonos",
+              "answer": "eudaimonos/evdaimonos",
               "display": "εὐδαίμονος",
               "hidden": true
             },
             {
-              "answer": "eudaimonos",
+              "answer": "eudaimonos/evdaimonos",
               "display": "εὐδαίμονος",
               "hidden": true
             },
             {
-              "answer": "eudaimonōn",
+              "answer": "eudaimonon/evdaimonon",
               "display": "εὐδαιμόνων",
               "hidden": true
             },
             {
-              "answer": "eudaimonōn",
+              "answer": "eudaimonon/evdaimonon",
               "display": "εὐδαιμόνων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "eudaimoni",
+              "answer": "eudaimoni/evdaimoni",
               "display": "εὐδαίμονι",
               "hidden": true
             },
             {
-              "answer": "eudaimoni",
+              "answer": "eudaimoni/evdaimoni",
               "display": "εὐδαίμονι",
               "hidden": true
             },
             {
-              "answer": "eudaimosi/eudaimosin",
+              "answer": "eudaimosi/eudaimosin/evdaimosi/evdaimosin",
               "display": "εὐδαίμοσι(ν)",
               "hidden": true
             },
             {
-              "answer": "eudaimosi/eudaimosin",
+              "answer": "eudaimosi/eudaimosin/evdaimosi/evdaimosin",
               "display": "εὐδαίμοσι(ν)",
               "hidden": true
             }
@@ -650,7 +650,7 @@
   {
     "id": "greek-pas",
     "word": "πᾶς (pas)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "adjective · 1st/3rd declension mixed (πᾶς)",
     "matrices": [
       {
@@ -757,7 +757,7 @@
               "hidden": true
             },
             {
-              "answer": "pasās",
+              "answer": "pasas",
               "display": "πάσᾱς",
               "hidden": true
             },
@@ -774,7 +774,7 @@
               "hidden": true
             },
             {
-              "answer": "pasēs",
+              "answer": "pases/pasis",
               "display": "πάσης",
               "hidden": true
             },
@@ -784,17 +784,17 @@
               "hidden": true
             },
             {
-              "answer": "pantōn",
+              "answer": "panton",
               "display": "πάντων",
               "hidden": true
             },
             {
-              "answer": "pasōn",
+              "answer": "pason",
               "display": "πασῶν",
               "hidden": true
             },
             {
-              "answer": "pantōn",
+              "answer": "panton",
               "display": "πάντων",
               "hidden": true
             }
@@ -806,7 +806,7 @@
               "hidden": true
             },
             {
-              "answer": "pasēi",
+              "answer": "pasei/pasi",
               "display": "πάσῃ",
               "hidden": true
             },
@@ -837,8 +837,8 @@
   },
   {
     "id": "greek-sophoteros",
-    "word": "σοφώτερος (sophōteros)",
-    "language": "Ancient Greek (romanised)",
+    "word": "σοφώτερος (sophoteros)",
+    "language": "Ancient Greek",
     "category": "adjective · comparative (σοφώτερος)",
     "matrices": [
       {
@@ -861,160 +861,160 @@
         "cells": [
           [
             {
-              "answer": "sophōteros",
+              "answer": "sophoteros/sofoteros",
               "display": "σοφώτερος",
               "hidden": false
             },
             {
-              "answer": "sophōterā",
+              "answer": "sophotera/sofotera",
               "display": "σοφωτέρᾱ",
               "hidden": false
             },
             {
-              "answer": "sophōteron",
+              "answer": "sophoteron/sofoteron",
               "display": "σοφώτερον",
               "hidden": false
             },
             {
-              "answer": "sophōteroi",
+              "answer": "sophoteroi/sofoteroi/sofoteri",
               "display": "σοφώτεροι",
               "hidden": false
             },
             {
-              "answer": "sophōterai",
+              "answer": "sophoterai/sofoterai",
               "display": "σοφώτεραι",
               "hidden": false
             },
             {
-              "answer": "sophōtera",
+              "answer": "sophotera/sofotera",
               "display": "σοφώτερα",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "sophōtere",
+              "answer": "sophotere/sofotere",
               "display": "σοφώτερε",
               "hidden": true
             },
             {
-              "answer": "sophōterā",
+              "answer": "sophotera/sofotera",
               "display": "σοφωτέρᾱ",
               "hidden": true
             },
             {
-              "answer": "sophōteron",
+              "answer": "sophoteron/sofoteron",
               "display": "σοφώτερον",
               "hidden": true
             },
             {
-              "answer": "sophōteroi",
+              "answer": "sophoteroi/sofoteroi/sofoteri",
               "display": "σοφώτεροι",
               "hidden": true
             },
             {
-              "answer": "sophōterai",
+              "answer": "sophoterai/sofoterai",
               "display": "σοφώτεραι",
               "hidden": true
             },
             {
-              "answer": "sophōtera",
+              "answer": "sophotera/sofotera",
               "display": "σοφώτερα",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "sophōteron",
+              "answer": "sophoteron/sofoteron",
               "display": "σοφώτερον",
               "hidden": true
             },
             {
-              "answer": "sophōterān",
+              "answer": "sophoteran/sofoteran",
               "display": "σοφωτέρᾱν",
               "hidden": true
             },
             {
-              "answer": "sophōteron",
+              "answer": "sophoteron/sofoteron",
               "display": "σοφώτερον",
               "hidden": true
             },
             {
-              "answer": "sophōterous",
+              "answer": "sophoterous/sofoterous",
               "display": "σοφωτέρους",
               "hidden": true
             },
             {
-              "answer": "sophōterās",
+              "answer": "sophoteras/sofoteras",
               "display": "σοφωτέρᾱς",
               "hidden": true
             },
             {
-              "answer": "sophōtera",
+              "answer": "sophotera/sofotera",
               "display": "σοφώτερα",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "sophōterou",
+              "answer": "sophoterou/sofoterou",
               "display": "σοφωτέρου",
               "hidden": true
             },
             {
-              "answer": "sophōterās",
+              "answer": "sophoteras/sofoteras",
               "display": "σοφωτέρᾱς",
               "hidden": true
             },
             {
-              "answer": "sophōterou",
+              "answer": "sophoterou/sofoterou",
               "display": "σοφωτέρου",
               "hidden": true
             },
             {
-              "answer": "sophōterōn",
+              "answer": "sophoteron/sofoteron",
               "display": "σοφωτέρων",
               "hidden": true
             },
             {
-              "answer": "sophōterōn",
+              "answer": "sophoteron/sofoteron",
               "display": "σοφωτέρων",
               "hidden": true
             },
             {
-              "answer": "sophōterōn",
+              "answer": "sophoteron/sofoteron",
               "display": "σοφωτέρων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "sophōterōi",
+              "answer": "sophoteroi/sofotero",
               "display": "σοφωτέρῳ",
               "hidden": true
             },
             {
-              "answer": "sophōterāi",
+              "answer": "sophoterai/sofotera",
               "display": "σοφωτέρᾳ",
               "hidden": true
             },
             {
-              "answer": "sophōterōi",
+              "answer": "sophoteroi/sofotero",
               "display": "σοφωτέρῳ",
               "hidden": true
             },
             {
-              "answer": "sophōterois",
+              "answer": "sophoterois/sofoterois/sofoteris",
               "display": "σοφωτέροις",
               "hidden": true
             },
             {
-              "answer": "sophōterais",
+              "answer": "sophoterais/sofoterais",
               "display": "σοφωτέραις",
               "hidden": true
             },
             {
-              "answer": "sophōterois",
+              "answer": "sophoterois/sofoterois/sofoteris",
               "display": "σοφωτέροις",
               "hidden": true
             }
@@ -1025,8 +1025,8 @@
   },
   {
     "id": "greek-sophotatos",
-    "word": "σοφώτατος (sophōtatos)",
-    "language": "Ancient Greek (romanised)",
+    "word": "σοφώτατος (sophotatos)",
+    "language": "Ancient Greek",
     "category": "adjective · superlative (σοφώτατος)",
     "matrices": [
       {
@@ -1049,160 +1049,160 @@
         "cells": [
           [
             {
-              "answer": "sophōtatos",
+              "answer": "sophotatos/sofotatos",
               "display": "σοφώτατος",
               "hidden": false
             },
             {
-              "answer": "sophōtatē",
+              "answer": "sophotate/sofotati",
               "display": "σοφωτάτη",
               "hidden": false
             },
             {
-              "answer": "sophōtaton",
+              "answer": "sophotaton/sofotaton",
               "display": "σοφώτατον",
               "hidden": false
             },
             {
-              "answer": "sophōtatoi",
+              "answer": "sophotatoi/sofotatoi/sofotati",
               "display": "σοφώτατοι",
               "hidden": false
             },
             {
-              "answer": "sophōtatai",
+              "answer": "sophotatai/sofotatai",
               "display": "σοφώταται",
               "hidden": false
             },
             {
-              "answer": "sophōtata",
+              "answer": "sophotata/sofotata",
               "display": "σοφώτατα",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "sophōtate",
+              "answer": "sophotate/sofotate",
               "display": "σοφώτατε",
               "hidden": true
             },
             {
-              "answer": "sophōtatē",
+              "answer": "sophotate/sofotati",
               "display": "σοφωτάτη",
               "hidden": true
             },
             {
-              "answer": "sophōtaton",
+              "answer": "sophotaton/sofotaton",
               "display": "σοφώτατον",
               "hidden": true
             },
             {
-              "answer": "sophōtatoi",
+              "answer": "sophotatoi/sofotatoi/sofotati",
               "display": "σοφώτατοι",
               "hidden": true
             },
             {
-              "answer": "sophōtatai",
+              "answer": "sophotatai/sofotatai",
               "display": "σοφώταται",
               "hidden": true
             },
             {
-              "answer": "sophōtata",
+              "answer": "sophotata/sofotata",
               "display": "σοφώτατα",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "sophōtaton",
+              "answer": "sophotaton/sofotaton",
               "display": "σοφώτατον",
               "hidden": true
             },
             {
-              "answer": "sophōtatēn",
+              "answer": "sophotaten/sofotatin",
               "display": "σοφωτάτην",
               "hidden": true
             },
             {
-              "answer": "sophōtaton",
+              "answer": "sophotaton/sofotaton",
               "display": "σοφώτατον",
               "hidden": true
             },
             {
-              "answer": "sophōtatous",
+              "answer": "sophotatous/sofotatous",
               "display": "σοφωτάτους",
               "hidden": true
             },
             {
-              "answer": "sophōtatās",
+              "answer": "sophotatas/sofotatas",
               "display": "σοφωτάτᾱς",
               "hidden": true
             },
             {
-              "answer": "sophōtata",
+              "answer": "sophotata/sofotata",
               "display": "σοφώτατα",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "sophōtatou",
+              "answer": "sophotatou/sofotatou",
               "display": "σοφωτάτου",
               "hidden": true
             },
             {
-              "answer": "sophōtatēs",
+              "answer": "sophotates/sofotatis",
               "display": "σοφωτάτης",
               "hidden": true
             },
             {
-              "answer": "sophōtatou",
+              "answer": "sophotatou/sofotatou",
               "display": "σοφωτάτου",
               "hidden": true
             },
             {
-              "answer": "sophōtatōn",
+              "answer": "sophotaton/sofotaton",
               "display": "σοφωτάτων",
               "hidden": true
             },
             {
-              "answer": "sophōtatōn",
+              "answer": "sophotaton/sofotaton",
               "display": "σοφωτάτων",
               "hidden": true
             },
             {
-              "answer": "sophōtatōn",
+              "answer": "sophotaton/sofotaton",
               "display": "σοφωτάτων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "sophōtatōi",
+              "answer": "sophotatoi/sofotato",
               "display": "σοφωτάτῳ",
               "hidden": true
             },
             {
-              "answer": "sophōtatēi",
+              "answer": "sophotatei/sofotati",
               "display": "σοφωτάτῃ",
               "hidden": true
             },
             {
-              "answer": "sophōtatōi",
+              "answer": "sophotatoi/sofotato",
               "display": "σοφωτάτῳ",
               "hidden": true
             },
             {
-              "answer": "sophōtatois",
+              "answer": "sophotatois/sofotatois/sofotatis",
               "display": "σοφωτάτοις",
               "hidden": true
             },
             {
-              "answer": "sophōtatais",
+              "answer": "sophotatais/sofotatais",
               "display": "σοφωτάταις",
               "hidden": true
             },
             {
-              "answer": "sophōtatois",
+              "answer": "sophotatois/sofotatois/sofotatis",
               "display": "σοφωτάτοις",
               "hidden": true
             }
@@ -1213,8 +1213,8 @@
   },
   {
     "id": "greek-ego",
-    "word": "ἐγώ (egō)",
-    "language": "Ancient Greek (romanised)",
+    "word": "ἐγώ (ego)",
+    "language": "Ancient Greek",
     "category": "pronoun · personal, 1st person (ἐγώ)",
     "matrices": [
       {
@@ -1233,17 +1233,17 @@
         "cells": [
           [
             {
-              "answer": "egō",
+              "answer": "ego",
               "display": "ἐγώ",
               "hidden": false
             },
             {
-              "answer": "hēmeis",
+              "answer": "hemeis/imeis/imis",
               "display": "ἡμεῖς",
               "hidden": false
             },
             {
-              "answer": "nō",
+              "answer": "no",
               "display": "νώ",
               "hidden": false
             }
@@ -1255,12 +1255,12 @@
               "hidden": true
             },
             {
-              "answer": "hēmas",
+              "answer": "hemas/imas",
               "display": "ἡμᾶς",
               "hidden": true
             },
             {
-              "answer": "nō",
+              "answer": "no",
               "display": "νώ",
               "hidden": true
             }
@@ -1272,29 +1272,29 @@
               "hidden": true
             },
             {
-              "answer": "hēmōn",
+              "answer": "hemon/imon",
               "display": "ἡμῶν",
               "hidden": true
             },
             {
-              "answer": "nōin",
+              "answer": "noin/non",
               "display": "νῷν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "emoi/moi",
+              "answer": "emoi/moi/emi/mi",
               "display": "ἐμοί/μοι",
               "hidden": true
             },
             {
-              "answer": "hēmin",
+              "answer": "hemin/imin",
               "display": "ἡμῖν",
               "hidden": true
             },
             {
-              "answer": "nōin",
+              "answer": "noin/non",
               "display": "νῷν",
               "hidden": true
             }
@@ -1306,7 +1306,7 @@
   {
     "id": "greek-sy",
     "word": "σύ (su)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "pronoun · personal, 2nd person (σύ)",
     "matrices": [
       {
@@ -1326,34 +1326,34 @@
         "cells": [
           [
             {
-              "answer": "su",
+              "answer": "su/sy/si",
               "display": "σύ",
               "hidden": false
             },
             {
-              "answer": "humeis",
+              "answer": "humeis/ymeis/imis",
               "display": "ὑμεῖς",
               "hidden": false
             },
             {
-              "answer": "sphō",
+              "answer": "spho/sfo",
               "display": "σφώ",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "su",
+              "answer": "su/sy/si",
               "display": "σύ",
               "hidden": true
             },
             {
-              "answer": "humeis",
+              "answer": "humeis/ymeis/imis",
               "display": "ὑμεῖς",
               "hidden": true
             },
             {
-              "answer": "sphō",
+              "answer": "spho/sfo",
               "display": "σφώ",
               "hidden": true
             }
@@ -1365,12 +1365,12 @@
               "hidden": true
             },
             {
-              "answer": "humas",
+              "answer": "humas/ymas/imas",
               "display": "ὑμᾶς",
               "hidden": true
             },
             {
-              "answer": "sphō",
+              "answer": "spho/sfo",
               "display": "σφώ",
               "hidden": true
             }
@@ -1382,29 +1382,29 @@
               "hidden": true
             },
             {
-              "answer": "humōn",
+              "answer": "humon/ymon/imon",
               "display": "ὑμῶν",
               "hidden": true
             },
             {
-              "answer": "sphōin",
+              "answer": "sphoin/sfon",
               "display": "σφῷν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "soi",
+              "answer": "soi/si",
               "display": "σοί/σοι",
               "hidden": true
             },
             {
-              "answer": "humin",
+              "answer": "humin/ymin/imin",
               "display": "ὑμῖν",
               "hidden": true
             },
             {
-              "answer": "sphōin",
+              "answer": "sphoin/sfon",
               "display": "σφῷν",
               "hidden": true
             }
@@ -1416,7 +1416,7 @@
   {
     "id": "greek-houtos",
     "word": "οὗτος (houtos)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "pronoun · demonstrative (οὗτος)",
     "matrices": [
       {
@@ -1438,12 +1438,12 @@
         "cells": [
           [
             {
-              "answer": "houtos",
+              "answer": "houtos/outos",
               "display": "οὗτος",
               "hidden": false
             },
             {
-              "answer": "hautē",
+              "answer": "haute/afti",
               "display": "αὕτη",
               "hidden": false
             },
@@ -1453,17 +1453,17 @@
               "hidden": false
             },
             {
-              "answer": "houtoi",
+              "answer": "houtoi/outoi/outi",
               "display": "οὗτοι",
               "hidden": false
             },
             {
-              "answer": "hautai",
+              "answer": "hautai/aftai",
               "display": "αὗται",
               "hidden": false
             },
             {
-              "answer": "tauta",
+              "answer": "tauta/tafta",
               "display": "ταῦτα",
               "hidden": false
             }
@@ -1475,7 +1475,7 @@
               "hidden": true
             },
             {
-              "answer": "tautēn",
+              "answer": "tauten/taftin",
               "display": "ταύτην",
               "hidden": true
             },
@@ -1490,12 +1490,12 @@
               "hidden": true
             },
             {
-              "answer": "tautās",
+              "answer": "tautas/taftas",
               "display": "ταύτᾱς",
               "hidden": true
             },
             {
-              "answer": "tauta",
+              "answer": "tauta/tafta",
               "display": "ταῦτα",
               "hidden": true
             }
@@ -1507,7 +1507,7 @@
               "hidden": true
             },
             {
-              "answer": "tautēs",
+              "answer": "tautes/taftis",
               "display": "ταύτης",
               "hidden": true
             },
@@ -1517,49 +1517,49 @@
               "hidden": true
             },
             {
-              "answer": "toutōn",
+              "answer": "touton",
               "display": "τούτων",
               "hidden": true
             },
             {
-              "answer": "toutōn",
+              "answer": "touton",
               "display": "τούτων",
               "hidden": true
             },
             {
-              "answer": "toutōn",
+              "answer": "touton",
               "display": "τούτων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "toutōi",
+              "answer": "toutoi/touto",
               "display": "τούτῳ",
               "hidden": true
             },
             {
-              "answer": "tautēi",
+              "answer": "tautei/tafti",
               "display": "ταύτῃ",
               "hidden": true
             },
             {
-              "answer": "toutōi",
+              "answer": "toutoi/touto",
               "display": "τούτῳ",
               "hidden": true
             },
             {
-              "answer": "toutois",
+              "answer": "toutois/toutis",
               "display": "τούτοις",
               "hidden": true
             },
             {
-              "answer": "tautais",
+              "answer": "tautais/taftais",
               "display": "ταύταις",
               "hidden": true
             },
             {
-              "answer": "toutois",
+              "answer": "toutois/toutis",
               "display": "τούτοις",
               "hidden": true
             }
@@ -1571,7 +1571,7 @@
   {
     "id": "greek-ekeinos",
     "word": "ἐκεῖνος (ekeinos)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "pronoun · demonstrative (ἐκεῖνος)",
     "matrices": [
       {
@@ -1593,128 +1593,128 @@
         "cells": [
           [
             {
-              "answer": "ekeinos",
+              "answer": "ekeinos/ekinos",
               "display": "ἐκεῖνος",
               "hidden": false
             },
             {
-              "answer": "ekeinē",
+              "answer": "ekeine/ekeini/ekini",
               "display": "ἐκείνη",
               "hidden": false
             },
             {
-              "answer": "ekeino",
+              "answer": "ekeino/ekino",
               "display": "ἐκεῖνο",
               "hidden": false
             },
             {
-              "answer": "ekeinoi",
+              "answer": "ekeinoi/ekini",
               "display": "ἐκεῖνοι",
               "hidden": false
             },
             {
-              "answer": "ekeinai",
+              "answer": "ekeinai/ekinai",
               "display": "ἐκεῖναι",
               "hidden": false
             },
             {
-              "answer": "ekeina",
+              "answer": "ekeina/ekina",
               "display": "ἐκεῖνα",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "ekeinon",
+              "answer": "ekeinon/ekinon",
               "display": "ἐκεῖνον",
               "hidden": true
             },
             {
-              "answer": "ekeinēn",
+              "answer": "ekeinen/ekeinin/ekinin",
               "display": "ἐκείνην",
               "hidden": true
             },
             {
-              "answer": "ekeino",
+              "answer": "ekeino/ekino",
               "display": "ἐκεῖνο",
               "hidden": true
             },
             {
-              "answer": "ekeinous",
+              "answer": "ekeinous/ekinous",
               "display": "ἐκείνους",
               "hidden": true
             },
             {
-              "answer": "ekeinās",
+              "answer": "ekeinas/ekinas",
               "display": "ἐκείνᾱς",
               "hidden": true
             },
             {
-              "answer": "ekeina",
+              "answer": "ekeina/ekina",
               "display": "ἐκεῖνα",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "ekeinou",
+              "answer": "ekeinou/ekinou",
               "display": "ἐκείνου",
               "hidden": true
             },
             {
-              "answer": "ekeinēs",
+              "answer": "ekeines/ekeinis/ekinis",
               "display": "ἐκείνης",
               "hidden": true
             },
             {
-              "answer": "ekeinou",
+              "answer": "ekeinou/ekinou",
               "display": "ἐκείνου",
               "hidden": true
             },
             {
-              "answer": "ekeinōn",
+              "answer": "ekeinon/ekinon",
               "display": "ἐκείνων",
               "hidden": true
             },
             {
-              "answer": "ekeinōn",
+              "answer": "ekeinon/ekinon",
               "display": "ἐκείνων",
               "hidden": true
             },
             {
-              "answer": "ekeinōn",
+              "answer": "ekeinon/ekinon",
               "display": "ἐκείνων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "ekeinōi",
+              "answer": "ekeinoi/ekeino/ekino",
               "display": "ἐκείνῳ",
               "hidden": true
             },
             {
-              "answer": "ekeinēi",
+              "answer": "ekeinei/ekeini/ekini",
               "display": "ἐκείνῃ",
               "hidden": true
             },
             {
-              "answer": "ekeinōi",
+              "answer": "ekeinoi/ekeino/ekino",
               "display": "ἐκείνῳ",
               "hidden": true
             },
             {
-              "answer": "ekeinois",
+              "answer": "ekeinois/ekinis",
               "display": "ἐκείνοις",
               "hidden": true
             },
             {
-              "answer": "ekeinais",
+              "answer": "ekeinais/ekinais",
               "display": "ἐκείναις",
               "hidden": true
             },
             {
-              "answer": "ekeinois",
+              "answer": "ekeinois/ekinis",
               "display": "ἐκείνοις",
               "hidden": true
             }
@@ -1726,7 +1726,7 @@
   {
     "id": "greek-hode",
     "word": "ὅδε (hode)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "pronoun · demonstrative (ὅδε)",
     "matrices": [
       {
@@ -1748,12 +1748,12 @@
         "cells": [
           [
             {
-              "answer": "hode",
+              "answer": "hode/ode",
               "display": "ὅδε",
               "hidden": false
             },
             {
-              "answer": "hēde",
+              "answer": "hede/ide",
               "display": "ἥδε",
               "hidden": false
             },
@@ -1763,12 +1763,12 @@
               "hidden": false
             },
             {
-              "answer": "hoide",
+              "answer": "hoide/oide/ide",
               "display": "οἵδε",
               "hidden": false
             },
             {
-              "answer": "haide",
+              "answer": "haide/aide",
               "display": "αἵδε",
               "hidden": false
             },
@@ -1785,7 +1785,7 @@
               "hidden": true
             },
             {
-              "answer": "tēnde",
+              "answer": "tende/tinde",
               "display": "τήνδε",
               "hidden": true
             },
@@ -1800,7 +1800,7 @@
               "hidden": true
             },
             {
-              "answer": "tāsde",
+              "answer": "tasde",
               "display": "τᾱ́σδε",
               "hidden": true
             },
@@ -1817,7 +1817,7 @@
               "hidden": true
             },
             {
-              "answer": "tēsde",
+              "answer": "tesde/tisde",
               "display": "τῆσδε",
               "hidden": true
             },
@@ -1827,39 +1827,39 @@
               "hidden": true
             },
             {
-              "answer": "tōnde",
+              "answer": "tonde",
               "display": "τῶνδε",
               "hidden": true
             },
             {
-              "answer": "tōnde",
+              "answer": "tonde",
               "display": "τῶνδε",
               "hidden": true
             },
             {
-              "answer": "tōnde",
+              "answer": "tonde",
               "display": "τῶνδε",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tōide",
+              "answer": "toide/tode",
               "display": "τῷδε",
               "hidden": true
             },
             {
-              "answer": "tēide",
+              "answer": "teide/tide",
               "display": "τῇδε",
               "hidden": true
             },
             {
-              "answer": "tōide",
+              "answer": "toide/tode",
               "display": "τῷδε",
               "hidden": true
             },
             {
-              "answer": "toisde",
+              "answer": "toisde/tisde",
               "display": "τοῖσδε",
               "hidden": true
             },
@@ -1869,7 +1869,7 @@
               "hidden": true
             },
             {
-              "answer": "toisde",
+              "answer": "toisde/tisde",
               "display": "τοῖσδε",
               "hidden": true
             }
@@ -1880,8 +1880,8 @@
   },
   {
     "id": "greek-hos",
-    "word": "ὅς, ἥ, ὅ (hos, hē, ho)",
-    "language": "Ancient Greek (romanised)",
+    "word": "ὅς, ἥ, ὅ (hos, he, ho)",
+    "language": "Ancient Greek",
     "category": "pronoun · relative (ὅς, ἥ, ὅ)",
     "matrices": [
       {
@@ -1903,128 +1903,128 @@
         "cells": [
           [
             {
-              "answer": "hos",
+              "answer": "hos/os",
               "display": "ὅς",
               "hidden": false
             },
             {
-              "answer": "hē",
+              "answer": "he/i",
               "display": "ἥ",
               "hidden": false
             },
             {
-              "answer": "ho",
+              "answer": "ho/o",
               "display": "ὅ",
               "hidden": false
             },
             {
-              "answer": "hoi",
+              "answer": "hoi/oi/i",
               "display": "οἵ",
               "hidden": false
             },
             {
-              "answer": "hai",
+              "answer": "hai/ai",
               "display": "αἵ",
               "hidden": false
             },
             {
-              "answer": "ha",
+              "answer": "ha/a",
               "display": "ἅ",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "hon",
+              "answer": "hon/on",
               "display": "ὅν",
               "hidden": true
             },
             {
-              "answer": "hēn",
+              "answer": "hen/in",
               "display": "ἥν",
               "hidden": true
             },
             {
-              "answer": "ho",
+              "answer": "ho/o",
               "display": "ὅ",
               "hidden": true
             },
             {
-              "answer": "hous",
+              "answer": "hous/ous",
               "display": "οὕς",
               "hidden": true
             },
             {
-              "answer": "has",
+              "answer": "has/as",
               "display": "ἅς",
               "hidden": true
             },
             {
-              "answer": "ha",
+              "answer": "ha/a",
               "display": "ἅ",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "hou",
+              "answer": "hou/ou",
               "display": "οὗ",
               "hidden": true
             },
             {
-              "answer": "hēs",
+              "answer": "hes/is",
               "display": "ἧς",
               "hidden": true
             },
             {
-              "answer": "hou",
+              "answer": "hou/ou",
               "display": "οὗ",
               "hidden": true
             },
             {
-              "answer": "hōn",
+              "answer": "hon/on",
               "display": "ὧν",
               "hidden": true
             },
             {
-              "answer": "hōn",
+              "answer": "hon/on",
               "display": "ὧν",
               "hidden": true
             },
             {
-              "answer": "hōn",
+              "answer": "hon/on",
               "display": "ὧν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "hōi",
+              "answer": "hoi/o",
               "display": "ᾧ",
               "hidden": true
             },
             {
-              "answer": "hēi",
+              "answer": "hei/i",
               "display": "ᾗ",
               "hidden": true
             },
             {
-              "answer": "hōi",
+              "answer": "hoi/o",
               "display": "ᾧ",
               "hidden": true
             },
             {
-              "answer": "hois",
+              "answer": "hois/ois/is",
               "display": "οἷς",
               "hidden": true
             },
             {
-              "answer": "hais",
+              "answer": "hais/ais",
               "display": "αἷς",
               "hidden": true
             },
             {
-              "answer": "hois",
+              "answer": "hois/ois/is",
               "display": "οἷς",
               "hidden": true
             }
@@ -2036,7 +2036,7 @@
   {
     "id": "greek-tis-interrog",
     "word": "τίς, τί (tis, ti)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "pronoun · interrogative (τίς, τί)",
     "matrices": [
       {
@@ -2110,24 +2110,24 @@
               "hidden": true
             },
             {
-              "answer": "tinōn",
+              "answer": "tinon",
               "display": "τίνων",
               "hidden": true
             },
             {
-              "answer": "tinōn",
+              "answer": "tinon",
               "display": "τίνων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tini/tōi",
+              "answer": "tini/toi/to",
               "display": "τίνι/τῷ",
               "hidden": true
             },
             {
-              "answer": "tini/tōi",
+              "answer": "tini/toi/to",
               "display": "τίνι/τῷ",
               "hidden": true
             },
@@ -2149,7 +2149,7 @@
   {
     "id": "greek-tis-indef",
     "word": "τις, τι (tis, ti)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "pronoun · indefinite (τις, τι)",
     "matrices": [
       {
@@ -2223,24 +2223,24 @@
               "hidden": true
             },
             {
-              "answer": "tinōn",
+              "answer": "tinon",
               "display": "τινῶν",
               "hidden": true
             },
             {
-              "answer": "tinōn",
+              "answer": "tinon",
               "display": "τινῶν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tini/tōi",
+              "answer": "tini/toi/to",
               "display": "τινί/τῳ",
               "hidden": true
             },
             {
-              "answer": "tini/tōi",
+              "answer": "tini/toi/to",
               "display": "τινί/τῳ",
               "hidden": true
             },
@@ -2261,8 +2261,8 @@
   },
   {
     "id": "greek-article",
-    "word": "ὁ, ἡ, τό (ho, hē, to)",
-    "language": "Ancient Greek (romanised)",
+    "word": "ὁ, ἡ, τό (ho, he, to)",
+    "language": "Ancient Greek",
     "category": "pronoun · definite article (ὁ, ἡ, τό)",
     "matrices": [
       {
@@ -2284,12 +2284,12 @@
         "cells": [
           [
             {
-              "answer": "ho",
+              "answer": "ho/o",
               "display": "ὁ",
               "hidden": false
             },
             {
-              "answer": "hē",
+              "answer": "he/i",
               "display": "ἡ",
               "hidden": false
             },
@@ -2299,12 +2299,12 @@
               "hidden": false
             },
             {
-              "answer": "hoi",
+              "answer": "hoi/oi/i",
               "display": "οἱ",
               "hidden": false
             },
             {
-              "answer": "hai",
+              "answer": "hai/ai",
               "display": "αἱ",
               "hidden": false
             },
@@ -2321,7 +2321,7 @@
               "hidden": true
             },
             {
-              "answer": "tēn",
+              "answer": "ten/tin",
               "display": "τήν",
               "hidden": true
             },
@@ -2336,7 +2336,7 @@
               "hidden": true
             },
             {
-              "answer": "tās",
+              "answer": "tas",
               "display": "τᾱ́ς",
               "hidden": true
             },
@@ -2353,7 +2353,7 @@
               "hidden": true
             },
             {
-              "answer": "tēs",
+              "answer": "tes/tis",
               "display": "τῆς",
               "hidden": true
             },
@@ -2363,39 +2363,39 @@
               "hidden": true
             },
             {
-              "answer": "tōn",
+              "answer": "ton",
               "display": "τῶν",
               "hidden": true
             },
             {
-              "answer": "tōn",
+              "answer": "ton",
               "display": "τῶν",
               "hidden": true
             },
             {
-              "answer": "tōn",
+              "answer": "ton",
               "display": "τῶν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tōi",
+              "answer": "toi/to",
               "display": "τῷ",
               "hidden": true
             },
             {
-              "answer": "tēi",
+              "answer": "tei/ti",
               "display": "τῇ",
               "hidden": true
             },
             {
-              "answer": "tōi",
+              "answer": "toi/to",
               "display": "τῷ",
               "hidden": true
             },
             {
-              "answer": "tois",
+              "answer": "tois/tis",
               "display": "τοῖς",
               "hidden": true
             },
@@ -2405,7 +2405,7 @@
               "hidden": true
             },
             {
-              "answer": "tois",
+              "answer": "tois/tis",
               "display": "τοῖς",
               "hidden": true
             }

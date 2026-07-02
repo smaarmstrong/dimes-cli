@@ -1,8 +1,8 @@
 [
   {
     "id": "greek-tithemi",
-    "word": "τίθημι (tithēmi)",
-    "language": "Ancient Greek (romanised)",
+    "word": "τίθημι (tithemi)",
+    "language": "Ancient Greek",
     "category": "verb · athematic -μι (τίθημι)",
     "matrices": [
       {
@@ -20,7 +20,7 @@
         "cells": [
           [
             {
-              "answer": "tithēmi",
+              "answer": "tithemi/tithimi",
               "display": "τίθημι",
               "hidden": false
             },
@@ -36,7 +36,7 @@
           ],
           [
             {
-              "answer": "tithēs",
+              "answer": "tithes/tithis",
               "display": "τίθης",
               "hidden": true
             },
@@ -53,7 +53,7 @@
           ],
           [
             {
-              "answer": "tithēsi/tithēsin",
+              "answer": "tithesi/tithesin/tithisi/tithisin",
               "display": "τίθησι(ν)",
               "hidden": true
             },
@@ -85,7 +85,7 @@
         "cells": [
           [
             {
-              "answer": "etithēn",
+              "answer": "etithen/etithin",
               "display": "ἐτίθην",
               "hidden": false
             },
@@ -101,7 +101,7 @@
           ],
           [
             {
-              "answer": "etitheis",
+              "answer": "etitheis/etithis",
               "display": "ἐτίθεις",
               "hidden": true
             },
@@ -118,7 +118,7 @@
           ],
           [
             {
-              "answer": "etithei",
+              "answer": "etithei/etithi",
               "display": "ἐτίθει",
               "hidden": true
             },
@@ -128,7 +128,7 @@
               "hidden": true
             },
             {
-              "answer": "etithetēn",
+              "answer": "etitheten/etithetin",
               "display": "ἐτιθέτην",
               "hidden": true
             }
@@ -150,7 +150,7 @@
         "cells": [
           [
             {
-              "answer": "ethēka",
+              "answer": "etheka/ethika",
               "display": "ἔθηκα",
               "hidden": false
             },
@@ -166,7 +166,7 @@
           ],
           [
             {
-              "answer": "ethēkas",
+              "answer": "ethekas/ethikas",
               "display": "ἔθηκας",
               "hidden": true
             },
@@ -183,7 +183,7 @@
           ],
           [
             {
-              "answer": "ethēke/ethēken",
+              "answer": "etheke/etheken/ethike/ethiken",
               "display": "ἔθηκε(ν)",
               "hidden": true
             },
@@ -193,7 +193,7 @@
               "hidden": true
             },
             {
-              "answer": "ethetēn",
+              "answer": "etheten/ethetin",
               "display": "ἐθέτην",
               "hidden": true
             }
@@ -215,12 +215,12 @@
         "cells": [
           [
             {
-              "answer": "tethēka",
+              "answer": "tetheka/tethika",
               "display": "τέθηκα",
               "hidden": false
             },
             {
-              "answer": "tethēkamen",
+              "answer": "tethekamen/tethikamen",
               "display": "τεθήκαμεν",
               "hidden": false
             },
@@ -231,34 +231,34 @@
           ],
           [
             {
-              "answer": "tethēkas",
+              "answer": "tethekas/tethikas",
               "display": "τέθηκας",
               "hidden": true
             },
             {
-              "answer": "tethēkate",
+              "answer": "tethekate/tethikate",
               "display": "τεθήκατε",
               "hidden": true
             },
             {
-              "answer": "tethēkaton",
+              "answer": "tethekaton/tethikaton",
               "display": "τεθήκατον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tethēke/tethēken",
+              "answer": "tetheke/tetheken/tethike/tethiken",
               "display": "τέθηκε(ν)",
               "hidden": true
             },
             {
-              "answer": "tethēkasi/tethēkasin",
+              "answer": "tethekasi/tethekasin/tethikasi/tethikasin",
               "display": "τεθήκασι(ν)",
               "hidden": true
             },
             {
-              "answer": "tethēkaton",
+              "answer": "tethekaton/tethikaton",
               "display": "τεθήκατον",
               "hidden": true
             }
@@ -280,12 +280,12 @@
         "cells": [
           [
             {
-              "answer": "etethēkē",
+              "answer": "etetheke/etethiki",
               "display": "ἐτεθήκη",
               "hidden": false
             },
             {
-              "answer": "etethēkemen",
+              "answer": "etethekemen/etethikemen",
               "display": "ἐτεθήκεμεν",
               "hidden": false
             },
@@ -296,34 +296,34 @@
           ],
           [
             {
-              "answer": "etethēkēs",
+              "answer": "etethekes/etethikis",
               "display": "ἐτεθήκης",
               "hidden": true
             },
             {
-              "answer": "etethēkete",
+              "answer": "etethekete/etethikete",
               "display": "ἐτεθήκετε",
               "hidden": true
             },
             {
-              "answer": "etethēketon",
+              "answer": "etetheketon/etethiketon",
               "display": "ἐτεθήκετον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "etethēkei/etethēkein",
+              "answer": "etethekei/etethekein/etethikei/etethiki/etethikein/etethikin",
               "display": "ἐτεθήκει(ν)",
               "hidden": true
             },
             {
-              "answer": "etethēkesan",
+              "answer": "etethekesan/etethikesan",
               "display": "ἐτεθήκεσαν",
               "hidden": true
             },
             {
-              "answer": "etethēketēn",
+              "answer": "etetheketen/etethiketin",
               "display": "ἐτεθηκέτην",
               "hidden": true
             }
@@ -410,7 +410,7 @@
         "cells": [
           [
             {
-              "answer": "etithemēn",
+              "answer": "etithemen/etithemin",
               "display": "ἐτιθέμην",
               "hidden": false
             },
@@ -453,7 +453,7 @@
               "hidden": true
             },
             {
-              "answer": "etithesthēn",
+              "answer": "etithesthen/etithesthin",
               "display": "ἐτιθέσθην",
               "hidden": true
             }
@@ -475,7 +475,7 @@
         "cells": [
           [
             {
-              "answer": "ethemēn",
+              "answer": "ethemen/ethemin",
               "display": "ἐθέμην",
               "hidden": false
             },
@@ -518,7 +518,7 @@
               "hidden": true
             },
             {
-              "answer": "ethesthēn",
+              "answer": "ethesthen/ethesthin",
               "display": "ἐθέσθην",
               "hidden": true
             }
@@ -540,12 +540,12 @@
         "cells": [
           [
             {
-              "answer": "etethēn",
+              "answer": "etethen/etethin",
               "display": "ἐτέθην",
               "hidden": false
             },
             {
-              "answer": "etethēmen",
+              "answer": "etethemen/etethimen",
               "display": "ἐτέθημεν",
               "hidden": false
             },
@@ -556,34 +556,34 @@
           ],
           [
             {
-              "answer": "etethēs",
+              "answer": "etethes/etethis",
               "display": "ἐτέθης",
               "hidden": true
             },
             {
-              "answer": "etethēte",
+              "answer": "etethete/etethite",
               "display": "ἐτέθητε",
               "hidden": true
             },
             {
-              "answer": "etethēton",
+              "answer": "etetheton/etethiton",
               "display": "ἐτέθητον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "etethē",
+              "answer": "etethe/etethi",
               "display": "ἐτέθη",
               "hidden": true
             },
             {
-              "answer": "etethēsan",
+              "answer": "etethesan/etethisan",
               "display": "ἐτέθησαν",
               "hidden": true
             },
             {
-              "answer": "etethētēn",
+              "answer": "etetheten/etethitin",
               "display": "ἐτεθήτην",
               "hidden": true
             }
@@ -605,12 +605,12 @@
         "cells": [
           [
             {
-              "answer": "tetheimai",
+              "answer": "tetheimai/tethimai",
               "display": "τέθειμαι",
               "hidden": false
             },
             {
-              "answer": "tetheimetha",
+              "answer": "tetheimetha/tethimetha",
               "display": "τεθείμεθα",
               "hidden": false
             },
@@ -621,34 +621,34 @@
           ],
           [
             {
-              "answer": "tetheisai",
+              "answer": "tetheisai/tethisai",
               "display": "τέθεισαι",
               "hidden": true
             },
             {
-              "answer": "tetheisthe",
+              "answer": "tetheisthe/tethisthe",
               "display": "τέθεισθε",
               "hidden": true
             },
             {
-              "answer": "tetheisthon",
+              "answer": "tetheisthon/tethisthon",
               "display": "τέθεισθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tetheitai",
+              "answer": "tetheitai/tethitai",
               "display": "τέθειται",
               "hidden": true
             },
             {
-              "answer": "tetheintai",
+              "answer": "tetheintai/tethintai",
               "display": "τέθεινται",
               "hidden": true
             },
             {
-              "answer": "tetheisthon",
+              "answer": "tetheisthon/tethisthon",
               "display": "τέθεισθον",
               "hidden": true
             }
@@ -670,12 +670,12 @@
         "cells": [
           [
             {
-              "answer": "tithō",
+              "answer": "titho",
               "display": "τιθῶ",
               "hidden": false
             },
             {
-              "answer": "tithōmen",
+              "answer": "tithomen",
               "display": "τιθῶμεν",
               "hidden": false
             },
@@ -686,34 +686,34 @@
           ],
           [
             {
-              "answer": "tithēis",
+              "answer": "titheis/tithis",
               "display": "τιθῇς",
               "hidden": true
             },
             {
-              "answer": "tithēte",
+              "answer": "tithete/tithite",
               "display": "τιθῆτε",
               "hidden": true
             },
             {
-              "answer": "tithēton",
+              "answer": "titheton/tithiton",
               "display": "τιθῆτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tithēi",
+              "answer": "tithei/tithi",
               "display": "τιθῇ",
               "hidden": true
             },
             {
-              "answer": "tithōsi/tithōsin",
+              "answer": "tithosi/tithosin",
               "display": "τιθῶσι(ν)",
               "hidden": true
             },
             {
-              "answer": "tithēton",
+              "answer": "titheton/tithiton",
               "display": "τιθῆτον",
               "hidden": true
             }
@@ -735,12 +735,12 @@
         "cells": [
           [
             {
-              "answer": "thō",
+              "answer": "tho",
               "display": "θῶ",
               "hidden": false
             },
             {
-              "answer": "thōmen",
+              "answer": "thomen",
               "display": "θῶμεν",
               "hidden": false
             },
@@ -751,34 +751,34 @@
           ],
           [
             {
-              "answer": "thēis",
+              "answer": "theis/this",
               "display": "θῇς",
               "hidden": true
             },
             {
-              "answer": "thēte",
+              "answer": "thete/thite",
               "display": "θῆτε",
               "hidden": true
             },
             {
-              "answer": "thēton",
+              "answer": "theton/thiton",
               "display": "θῆτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "thēi",
+              "answer": "thei/thi",
               "display": "θῇ",
               "hidden": true
             },
             {
-              "answer": "thōsi/thōsin",
+              "answer": "thosi/thosin",
               "display": "θῶσι(ν)",
               "hidden": true
             },
             {
-              "answer": "thēton",
+              "answer": "theton/thiton",
               "display": "θῆτον",
               "hidden": true
             }
@@ -800,12 +800,12 @@
         "cells": [
           [
             {
-              "answer": "tithōmai",
+              "answer": "tithomai",
               "display": "τιθῶμαι",
               "hidden": false
             },
             {
-              "answer": "tithōmetha",
+              "answer": "tithometha",
               "display": "τιθώμεθα",
               "hidden": false
             },
@@ -816,34 +816,34 @@
           ],
           [
             {
-              "answer": "tithēi",
+              "answer": "tithei/tithi",
               "display": "τιθῇ",
               "hidden": true
             },
             {
-              "answer": "tithēsthe",
+              "answer": "tithesthe/tithisthe",
               "display": "τιθῆσθε",
               "hidden": true
             },
             {
-              "answer": "tithēsthon",
+              "answer": "tithesthon/tithisthon",
               "display": "τιθῆσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tithētai",
+              "answer": "tithetai/tithitai",
               "display": "τιθῆται",
               "hidden": true
             },
             {
-              "answer": "tithōntai",
+              "answer": "tithontai",
               "display": "τιθῶνται",
               "hidden": true
             },
             {
-              "answer": "tithēsthon",
+              "answer": "tithesthon/tithisthon",
               "display": "τιθῆσθον",
               "hidden": true
             }
@@ -865,12 +865,12 @@
         "cells": [
           [
             {
-              "answer": "thōmai",
+              "answer": "thomai",
               "display": "θῶμαι",
               "hidden": false
             },
             {
-              "answer": "thōmetha",
+              "answer": "thometha",
               "display": "θώμεθα",
               "hidden": false
             },
@@ -881,34 +881,34 @@
           ],
           [
             {
-              "answer": "thēi",
+              "answer": "thei/thi",
               "display": "θῇ",
               "hidden": true
             },
             {
-              "answer": "thēsthe",
+              "answer": "thesthe/thisthe",
               "display": "θῆσθε",
               "hidden": true
             },
             {
-              "answer": "thēsthon",
+              "answer": "thesthon/thisthon",
               "display": "θῆσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "thētai",
+              "answer": "thetai/thitai",
               "display": "θῆται",
               "hidden": true
             },
             {
-              "answer": "thōntai",
+              "answer": "thontai",
               "display": "θῶνται",
               "hidden": true
             },
             {
-              "answer": "thēsthon",
+              "answer": "thesthon/thisthon",
               "display": "θῆσθον",
               "hidden": true
             }
@@ -930,12 +930,12 @@
         "cells": [
           [
             {
-              "answer": "tethō",
+              "answer": "tetho",
               "display": "τεθῶ",
               "hidden": false
             },
             {
-              "answer": "tethōmen",
+              "answer": "tethomen",
               "display": "τεθῶμεν",
               "hidden": false
             },
@@ -946,34 +946,34 @@
           ],
           [
             {
-              "answer": "tethēis",
+              "answer": "tetheis/tethis",
               "display": "τεθῇς",
               "hidden": true
             },
             {
-              "answer": "tethēte",
+              "answer": "tethete/tethite",
               "display": "τεθῆτε",
               "hidden": true
             },
             {
-              "answer": "tethēton",
+              "answer": "tetheton/tethiton",
               "display": "τεθῆτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tethēi",
+              "answer": "tethei/tethi",
               "display": "τεθῇ",
               "hidden": true
             },
             {
-              "answer": "tethōsi/tethōsin",
+              "answer": "tethosi/tethosin",
               "display": "τεθῶσι(ν)",
               "hidden": true
             },
             {
-              "answer": "tethēton",
+              "answer": "tetheton/tethiton",
               "display": "τεθῆτον",
               "hidden": true
             }
@@ -995,12 +995,12 @@
         "cells": [
           [
             {
-              "answer": "titheiēn",
+              "answer": "titheien/titheiin/tithiin",
               "display": "τιθείην",
               "hidden": false
             },
             {
-              "answer": "titheimen/titheiēmen",
+              "answer": "titheimen/titheiemen/tithimen/titheiimen/tithiimen",
               "display": "τιθεῖμεν/τιθείημεν",
               "hidden": false
             },
@@ -1011,34 +1011,34 @@
           ],
           [
             {
-              "answer": "titheiēs",
+              "answer": "titheies/titheiis/tithiis",
               "display": "τιθείης",
               "hidden": true
             },
             {
-              "answer": "titheite/titheiēte",
+              "answer": "titheite/titheiete/tithite/titheiite/tithiite",
               "display": "τιθεῖτε/τιθείητε",
               "hidden": true
             },
             {
-              "answer": "titheiēton",
+              "answer": "titheieton/titheiiton/tithiiton",
               "display": "τιθείητον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "titheiē",
+              "answer": "titheie/titheii/tithii",
               "display": "τιθείη",
               "hidden": true
             },
             {
-              "answer": "titheien/titheiēsan",
+              "answer": "titheien/titheiesan/tithien/titheiisan/tithiisan",
               "display": "τιθεῖεν/τιθείησαν",
               "hidden": true
             },
             {
-              "answer": "titheiētēn",
+              "answer": "titheieten/titheiitin/tithiitin",
               "display": "τιθειήτην",
               "hidden": true
             }
@@ -1060,12 +1060,12 @@
         "cells": [
           [
             {
-              "answer": "theiēn",
+              "answer": "theien/theiin/thiin",
               "display": "θείην",
               "hidden": false
             },
             {
-              "answer": "theimen/theiēmen",
+              "answer": "theimen/theiemen/thimen/theiimen/thiimen",
               "display": "θεῖμεν/θείημεν",
               "hidden": false
             },
@@ -1076,34 +1076,34 @@
           ],
           [
             {
-              "answer": "theiēs",
+              "answer": "theies/theiis/thiis",
               "display": "θείης",
               "hidden": true
             },
             {
-              "answer": "theite/theiēte",
+              "answer": "theite/theiete/thite/theiite/thiite",
               "display": "θεῖτε/θείητε",
               "hidden": true
             },
             {
-              "answer": "theiēton",
+              "answer": "theieton/theiiton/thiiton",
               "display": "θείητον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "theiē",
+              "answer": "theie/theii/thii",
               "display": "θείη",
               "hidden": true
             },
             {
-              "answer": "theien/theiēsan",
+              "answer": "theien/theiesan/thien/theiisan/thiisan",
               "display": "θεῖεν/θείησαν",
               "hidden": true
             },
             {
-              "answer": "theiētēn",
+              "answer": "theieten/theiitin/thiitin",
               "display": "θειήτην",
               "hidden": true
             }
@@ -1125,12 +1125,12 @@
         "cells": [
           [
             {
-              "answer": "titheimēn",
+              "answer": "titheimen/titheimin/tithimin",
               "display": "τιθείμην",
               "hidden": false
             },
             {
-              "answer": "titheimetha",
+              "answer": "titheimetha/tithimetha",
               "display": "τιθείμεθα",
               "hidden": false
             },
@@ -1141,34 +1141,34 @@
           ],
           [
             {
-              "answer": "titheio",
+              "answer": "titheio/tithio",
               "display": "τιθεῖο",
               "hidden": true
             },
             {
-              "answer": "titheisthe",
+              "answer": "titheisthe/tithisthe",
               "display": "τιθεῖσθε",
               "hidden": true
             },
             {
-              "answer": "titheisthon",
+              "answer": "titheisthon/tithisthon",
               "display": "τιθεῖσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "titheito",
+              "answer": "titheito/tithito",
               "display": "τιθεῖτο",
               "hidden": true
             },
             {
-              "answer": "titheinto",
+              "answer": "titheinto/tithinto",
               "display": "τιθεῖντο",
               "hidden": true
             },
             {
-              "answer": "titheisthēn",
+              "answer": "titheisthen/titheisthin/tithisthin",
               "display": "τιθείσθην",
               "hidden": true
             }
@@ -1190,12 +1190,12 @@
         "cells": [
           [
             {
-              "answer": "theimēn",
+              "answer": "theimen/theimin/thimin",
               "display": "θείμην",
               "hidden": false
             },
             {
-              "answer": "theimetha",
+              "answer": "theimetha/thimetha",
               "display": "θείμεθα",
               "hidden": false
             },
@@ -1206,34 +1206,34 @@
           ],
           [
             {
-              "answer": "theio",
+              "answer": "theio/thio",
               "display": "θεῖο",
               "hidden": true
             },
             {
-              "answer": "theisthe",
+              "answer": "theisthe/thisthe",
               "display": "θεῖσθε",
               "hidden": true
             },
             {
-              "answer": "theisthon",
+              "answer": "theisthon/thisthon",
               "display": "θεῖσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "theito",
+              "answer": "theito/thito",
               "display": "θεῖτο",
               "hidden": true
             },
             {
-              "answer": "theinto",
+              "answer": "theinto/thinto",
               "display": "θεῖντο",
               "hidden": true
             },
             {
-              "answer": "theisthēn",
+              "answer": "theisthen/theisthin/thisthin",
               "display": "θείσθην",
               "hidden": true
             }
@@ -1255,12 +1255,12 @@
         "cells": [
           [
             {
-              "answer": "tetheiēn",
+              "answer": "tetheien/tetheiin/tethiin",
               "display": "τεθείην",
               "hidden": false
             },
             {
-              "answer": "tetheimen",
+              "answer": "tetheimen/tethimen",
               "display": "τεθεῖμεν",
               "hidden": false
             },
@@ -1271,34 +1271,34 @@
           ],
           [
             {
-              "answer": "tetheiēs",
+              "answer": "tetheies/tetheiis/tethiis",
               "display": "τεθείης",
               "hidden": true
             },
             {
-              "answer": "tetheite",
+              "answer": "tetheite/tethite",
               "display": "τεθεῖτε",
               "hidden": true
             },
             {
-              "answer": "tetheiēton",
+              "answer": "tetheieton/tetheiiton/tethiiton",
               "display": "τεθείητον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tetheiē",
+              "answer": "tetheie/tetheii/tethii",
               "display": "τεθείη",
               "hidden": true
             },
             {
-              "answer": "tetheien",
+              "answer": "tetheien/tethien",
               "display": "τεθεῖεν",
               "hidden": true
             },
             {
-              "answer": "tetheiētēn",
+              "answer": "tetheieten/tetheiitin/tethiitin",
               "display": "τεθειήτην",
               "hidden": true
             }
@@ -1319,14 +1319,14 @@
         "cells": [
           [
             {
-              "answer": "tithei",
+              "answer": "tithei/tithi",
               "display": "τίθει",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "tithetō",
+              "answer": "titheto",
               "display": "τιθέτω",
               "hidden": true
             }
@@ -1340,7 +1340,7 @@
           ],
           [
             {
-              "answer": "tithentōn",
+              "answer": "tithenton",
               "display": "τιθέντων",
               "hidden": true
             }
@@ -1368,7 +1368,7 @@
           ],
           [
             {
-              "answer": "thetō",
+              "answer": "theto",
               "display": "θέτω",
               "hidden": true
             }
@@ -1382,7 +1382,7 @@
           ],
           [
             {
-              "answer": "thentōn",
+              "answer": "thenton",
               "display": "θέντων",
               "hidden": true
             }
@@ -1410,7 +1410,7 @@
           ],
           [
             {
-              "answer": "tithesthō",
+              "answer": "tithestho",
               "display": "τιθέσθω",
               "hidden": true
             }
@@ -1424,7 +1424,7 @@
           ],
           [
             {
-              "answer": "tithesthōn",
+              "answer": "tithesthon",
               "display": "τιθέσθων",
               "hidden": true
             }
@@ -1452,7 +1452,7 @@
           ],
           [
             {
-              "answer": "thesthō",
+              "answer": "thestho",
               "display": "θέσθω",
               "hidden": true
             }
@@ -1466,7 +1466,7 @@
           ],
           [
             {
-              "answer": "thesthōn",
+              "answer": "thesthon",
               "display": "θέσθων",
               "hidden": true
             }
@@ -1487,28 +1487,28 @@
         "cells": [
           [
             {
-              "answer": "tethēti",
+              "answer": "tetheti/tethiti",
               "display": "τέθητι",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "tethētō",
+              "answer": "tetheto/tethito",
               "display": "τεθήτω",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tethēte",
+              "answer": "tethete/tethite",
               "display": "τέθητε",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tethentōn",
+              "answer": "tethenton",
               "display": "τεθέντων",
               "hidden": true
             }
@@ -1539,14 +1539,14 @@
           ],
           [
             {
-              "answer": "theinai",
+              "answer": "theinai/thinai",
               "display": "θεῖναι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tethēkenai",
+              "answer": "tethekenai/tethikenai",
               "display": "τεθηκέναι",
               "hidden": true
             }
@@ -1567,14 +1567,14 @@
           ],
           [
             {
-              "answer": "tetheisthai",
+              "answer": "tetheisthai/tethisthai",
               "display": "τεθεῖσθαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tethēnai",
+              "answer": "tethenai/tethinai",
               "display": "τεθῆναι",
               "hidden": true
             }
@@ -1600,12 +1600,12 @@
         "cells": [
           [
             {
-              "answer": "titheis",
+              "answer": "titheis/tithis",
               "display": "τιθείς",
               "hidden": false
             },
             {
-              "answer": "titheisa",
+              "answer": "titheisa/tithisa",
               "display": "τιθεῖσα",
               "hidden": false
             },
@@ -1617,12 +1617,12 @@
           ],
           [
             {
-              "answer": "theis",
+              "answer": "theis/this",
               "display": "θείς",
               "hidden": true
             },
             {
-              "answer": "theisa",
+              "answer": "theisa/thisa",
               "display": "θεῖσα",
               "hidden": true
             },
@@ -1634,17 +1634,17 @@
           ],
           [
             {
-              "answer": "tethēkōs",
+              "answer": "tethekos/tethikos",
               "display": "τεθηκώς",
               "hidden": true
             },
             {
-              "answer": "tethēkuia",
+              "answer": "tethekuia/tethikyia/tethikia",
               "display": "τεθηκυῖα",
               "hidden": true
             },
             {
-              "answer": "tethēkos",
+              "answer": "tethekos/tethikos",
               "display": "τεθηκός",
               "hidden": true
             }
@@ -1656,7 +1656,7 @@
               "hidden": true
             },
             {
-              "answer": "tithemenē",
+              "answer": "tithemene/tithemeni",
               "display": "τιθεμένη",
               "hidden": true
             },
@@ -1673,7 +1673,7 @@
               "hidden": true
             },
             {
-              "answer": "themenē",
+              "answer": "themene/themeni",
               "display": "θεμένη",
               "hidden": true
             },
@@ -1685,29 +1685,29 @@
           ],
           [
             {
-              "answer": "tetheimenos",
+              "answer": "tetheimenos/tethimenos",
               "display": "τεθειμένος",
               "hidden": true
             },
             {
-              "answer": "tetheimenē",
+              "answer": "tetheimene/tetheimeni/tethimeni",
               "display": "τεθειμένη",
               "hidden": true
             },
             {
-              "answer": "tetheimenon",
+              "answer": "tetheimenon/tethimenon",
               "display": "τεθειμένον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tetheis",
+              "answer": "tetheis/tethis",
               "display": "τεθείς",
               "hidden": true
             },
             {
-              "answer": "tetheisa",
+              "answer": "tetheisa/tethisa",
               "display": "τεθεῖσα",
               "hidden": true
             },
@@ -1723,8 +1723,8 @@
   },
   {
     "id": "greek-timao",
-    "word": "τιμάω (timaō)",
-    "language": "Ancient Greek (romanised)",
+    "word": "τιμάω (timao)",
+    "language": "Ancient Greek",
     "category": "verb · contract -άω (τιμάω)",
     "matrices": [
       {
@@ -1742,12 +1742,12 @@
         "cells": [
           [
             {
-              "answer": "timō",
+              "answer": "timo",
               "display": "τιμῶ",
               "hidden": false
             },
             {
-              "answer": "timōmen",
+              "answer": "timomen",
               "display": "τιμῶμεν",
               "hidden": false
             },
@@ -1758,7 +1758,7 @@
           ],
           [
             {
-              "answer": "timāis",
+              "answer": "timais/timas",
               "display": "τιμᾷς",
               "hidden": true
             },
@@ -1775,12 +1775,12 @@
           ],
           [
             {
-              "answer": "timāi",
+              "answer": "timai/tima",
               "display": "τιμᾷ",
               "hidden": true
             },
             {
-              "answer": "timōsi/timōsin",
+              "answer": "timosi/timosin",
               "display": "τιμῶσι(ν)",
               "hidden": true
             },
@@ -1807,12 +1807,12 @@
         "cells": [
           [
             {
-              "answer": "etimōn",
+              "answer": "etimon",
               "display": "ἐτίμων",
               "hidden": false
             },
             {
-              "answer": "etimōmen",
+              "answer": "etimomen",
               "display": "ἐτιμῶμεν",
               "hidden": false
             },
@@ -1823,7 +1823,7 @@
           ],
           [
             {
-              "answer": "etimās",
+              "answer": "etimas",
               "display": "ἐτίμᾱς",
               "hidden": true
             },
@@ -1840,17 +1840,17 @@
           ],
           [
             {
-              "answer": "etimā",
+              "answer": "etima",
               "display": "ἐτίμᾱ",
               "hidden": true
             },
             {
-              "answer": "etimōn",
+              "answer": "etimon",
               "display": "ἐτίμων",
               "hidden": true
             },
             {
-              "answer": "etimātēn",
+              "answer": "etimaten/etimatin",
               "display": "ἐτιμᾱ́την",
               "hidden": true
             }
@@ -1872,12 +1872,12 @@
         "cells": [
           [
             {
-              "answer": "timēsō",
+              "answer": "timeso/timiso",
               "display": "τιμήσω",
               "hidden": false
             },
             {
-              "answer": "timēsomen",
+              "answer": "timesomen/timisomen",
               "display": "τιμήσομεν",
               "hidden": false
             },
@@ -1888,34 +1888,34 @@
           ],
           [
             {
-              "answer": "timēseis",
+              "answer": "timeseis/timiseis/timisis",
               "display": "τιμήσεις",
               "hidden": true
             },
             {
-              "answer": "timēsete",
+              "answer": "timesete/timisete",
               "display": "τιμήσετε",
               "hidden": true
             },
             {
-              "answer": "timēseton",
+              "answer": "timeseton/timiseton",
               "display": "τιμήσετον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "timēsei",
+              "answer": "timesei/timisei/timisi",
               "display": "τιμήσει",
               "hidden": true
             },
             {
-              "answer": "timēsousi/timēsousin",
+              "answer": "timesousi/timesousin/timisousi/timisousin",
               "display": "τιμήσουσι(ν)",
               "hidden": true
             },
             {
-              "answer": "timēseton",
+              "answer": "timeseton/timiseton",
               "display": "τιμήσετον",
               "hidden": true
             }
@@ -1937,12 +1937,12 @@
         "cells": [
           [
             {
-              "answer": "etimēsa",
+              "answer": "etimesa/etimisa",
               "display": "ἐτίμησα",
               "hidden": false
             },
             {
-              "answer": "etimēsamen",
+              "answer": "etimesamen/etimisamen",
               "display": "ἐτιμήσαμεν",
               "hidden": false
             },
@@ -1953,34 +1953,34 @@
           ],
           [
             {
-              "answer": "etimēsas",
+              "answer": "etimesas/etimisas",
               "display": "ἐτίμησας",
               "hidden": true
             },
             {
-              "answer": "etimēsate",
+              "answer": "etimesate/etimisate",
               "display": "ἐτιμήσατε",
               "hidden": true
             },
             {
-              "answer": "etimēsaton",
+              "answer": "etimesaton/etimisaton",
               "display": "ἐτιμήσατον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "etimēse/etimēsen",
+              "answer": "etimese/etimesen/etimise/etimisen",
               "display": "ἐτίμησε(ν)",
               "hidden": true
             },
             {
-              "answer": "etimēsan",
+              "answer": "etimesan/etimisan",
               "display": "ἐτίμησαν",
               "hidden": true
             },
             {
-              "answer": "etimēsatēn",
+              "answer": "etimesaten/etimisatin",
               "display": "ἐτιμησάτην",
               "hidden": true
             }
@@ -2002,12 +2002,12 @@
         "cells": [
           [
             {
-              "answer": "tetimēka",
+              "answer": "tetimeka/tetimika",
               "display": "τετίμηκα",
               "hidden": false
             },
             {
-              "answer": "tetimēkamen",
+              "answer": "tetimekamen/tetimikamen",
               "display": "τετιμήκαμεν",
               "hidden": false
             },
@@ -2018,34 +2018,34 @@
           ],
           [
             {
-              "answer": "tetimēkas",
+              "answer": "tetimekas/tetimikas",
               "display": "τετίμηκας",
               "hidden": true
             },
             {
-              "answer": "tetimēkate",
+              "answer": "tetimekate/tetimikate",
               "display": "τετιμήκατε",
               "hidden": true
             },
             {
-              "answer": "tetimēkaton",
+              "answer": "tetimekaton/tetimikaton",
               "display": "τετιμήκατον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tetimēke/tetimēken",
+              "answer": "tetimeke/tetimeken/tetimike/tetimiken",
               "display": "τετίμηκε(ν)",
               "hidden": true
             },
             {
-              "answer": "tetimēkasi/tetimēkasin",
+              "answer": "tetimekasi/tetimekasin/tetimikasi/tetimikasin",
               "display": "τετιμήκασι(ν)",
               "hidden": true
             },
             {
-              "answer": "tetimēkaton",
+              "answer": "tetimekaton/tetimikaton",
               "display": "τετιμήκατον",
               "hidden": true
             }
@@ -2067,12 +2067,12 @@
         "cells": [
           [
             {
-              "answer": "etetimēkē",
+              "answer": "etetimeke/etetimiki",
               "display": "ἐτετιμήκη",
               "hidden": false
             },
             {
-              "answer": "etetimēkemen",
+              "answer": "etetimekemen/etetimikemen",
               "display": "ἐτετιμήκεμεν",
               "hidden": false
             },
@@ -2083,34 +2083,34 @@
           ],
           [
             {
-              "answer": "etetimēkēs",
+              "answer": "etetimekes/etetimikis",
               "display": "ἐτετιμήκης",
               "hidden": true
             },
             {
-              "answer": "etetimēkete",
+              "answer": "etetimekete/etetimikete",
               "display": "ἐτετιμήκετε",
               "hidden": true
             },
             {
-              "answer": "etetimēketon",
+              "answer": "etetimeketon/etetimiketon",
               "display": "ἐτετιμήκετον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "etetimēkei/etetimēkein",
+              "answer": "etetimekei/etetimekein/etetimikei/etetimiki/etetimikein/etetimikin",
               "display": "ἐτετιμήκει(ν)",
               "hidden": true
             },
             {
-              "answer": "etetimēkesan",
+              "answer": "etetimekesan/etetimikesan",
               "display": "ἐτετιμήκεσαν",
               "hidden": true
             },
             {
-              "answer": "etetimēketēn",
+              "answer": "etetimeketen/etetimiketin",
               "display": "ἐτετιμηκέτην",
               "hidden": true
             }
@@ -2132,12 +2132,12 @@
         "cells": [
           [
             {
-              "answer": "timōmai",
+              "answer": "timomai",
               "display": "τιμῶμαι",
               "hidden": false
             },
             {
-              "answer": "timōmetha",
+              "answer": "timometha",
               "display": "τιμώμεθα",
               "hidden": false
             },
@@ -2148,7 +2148,7 @@
           ],
           [
             {
-              "answer": "timāi",
+              "answer": "timai/tima",
               "display": "τιμᾷ",
               "hidden": true
             },
@@ -2170,7 +2170,7 @@
               "hidden": true
             },
             {
-              "answer": "timōntai",
+              "answer": "timontai",
               "display": "τιμῶνται",
               "hidden": true
             },
@@ -2197,12 +2197,12 @@
         "cells": [
           [
             {
-              "answer": "etimōmēn",
+              "answer": "etimomen/etimomin",
               "display": "ἐτιμώμην",
               "hidden": false
             },
             {
-              "answer": "etimōmetha",
+              "answer": "etimometha",
               "display": "ἐτιμώμεθα",
               "hidden": false
             },
@@ -2213,7 +2213,7 @@
           ],
           [
             {
-              "answer": "etimō",
+              "answer": "etimo",
               "display": "ἐτιμῶ",
               "hidden": true
             },
@@ -2235,12 +2235,12 @@
               "hidden": true
             },
             {
-              "answer": "etimōnto",
+              "answer": "etimonto",
               "display": "ἐτιμῶντο",
               "hidden": true
             },
             {
-              "answer": "etimāsthēn",
+              "answer": "etimasthen/etimasthin",
               "display": "ἐτιμᾱ́σθην",
               "hidden": true
             }
@@ -2262,12 +2262,12 @@
         "cells": [
           [
             {
-              "answer": "timō",
+              "answer": "timo",
               "display": "τιμῶ",
               "hidden": false
             },
             {
-              "answer": "timōmen",
+              "answer": "timomen",
               "display": "τιμῶμεν",
               "hidden": false
             },
@@ -2278,7 +2278,7 @@
           ],
           [
             {
-              "answer": "timāis",
+              "answer": "timais/timas",
               "display": "τιμᾷς",
               "hidden": true
             },
@@ -2295,12 +2295,12 @@
           ],
           [
             {
-              "answer": "timāi",
+              "answer": "timai/tima",
               "display": "τιμᾷ",
               "hidden": true
             },
             {
-              "answer": "timōsi/timōsin",
+              "answer": "timosi/timosin",
               "display": "τιμῶσι(ν)",
               "hidden": true
             },
@@ -2327,12 +2327,12 @@
         "cells": [
           [
             {
-              "answer": "timōiēn",
+              "answer": "timoien/timoin",
               "display": "τιμῴην",
               "hidden": false
             },
             {
-              "answer": "timōimen/timōiēmen",
+              "answer": "timoimen/timoiemen/timomen",
               "display": "τιμῷμεν/τιμῴημεν",
               "hidden": false
             },
@@ -2343,34 +2343,34 @@
           ],
           [
             {
-              "answer": "timōiēs",
+              "answer": "timoies/timois",
               "display": "τιμῴης",
               "hidden": true
             },
             {
-              "answer": "timōite/timōiēte",
+              "answer": "timoite/timoiete/timote",
               "display": "τιμῷτε/τιμῴητε",
               "hidden": true
             },
             {
-              "answer": "timōiēton",
+              "answer": "timoieton/timoiton",
               "display": "τιμῴητον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "timōiē",
+              "answer": "timoie/timoi",
               "display": "τιμῴη",
               "hidden": true
             },
             {
-              "answer": "timōien/timōiēsan",
+              "answer": "timoien/timoiesan/timoen/timoisan",
               "display": "τιμῷεν/τιμῴησαν",
               "hidden": true
             },
             {
-              "answer": "timōiētēn",
+              "answer": "timoieten/timoitin",
               "display": "τιμῳήτην",
               "hidden": true
             }
@@ -2392,12 +2392,12 @@
         "cells": [
           [
             {
-              "answer": "timōmai",
+              "answer": "timomai",
               "display": "τιμῶμαι",
               "hidden": false
             },
             {
-              "answer": "timōmetha",
+              "answer": "timometha",
               "display": "τιμώμεθα",
               "hidden": false
             },
@@ -2408,7 +2408,7 @@
           ],
           [
             {
-              "answer": "timāi",
+              "answer": "timai/tima",
               "display": "τιμᾷ",
               "hidden": true
             },
@@ -2430,7 +2430,7 @@
               "hidden": true
             },
             {
-              "answer": "timōntai",
+              "answer": "timontai",
               "display": "τιμῶνται",
               "hidden": true
             },
@@ -2457,12 +2457,12 @@
         "cells": [
           [
             {
-              "answer": "timōimēn",
+              "answer": "timoimen/timomin",
               "display": "τιμῴμην",
               "hidden": false
             },
             {
-              "answer": "timōimetha",
+              "answer": "timoimetha/timometha",
               "display": "τιμῴμεθα",
               "hidden": false
             },
@@ -2473,34 +2473,34 @@
           ],
           [
             {
-              "answer": "timōio",
+              "answer": "timoio/timoo",
               "display": "τιμῷο",
               "hidden": true
             },
             {
-              "answer": "timōisthe",
+              "answer": "timoisthe/timosthe",
               "display": "τιμῷσθε",
               "hidden": true
             },
             {
-              "answer": "timōisthon",
+              "answer": "timoisthon/timosthon",
               "display": "τιμῷσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "timōito",
+              "answer": "timoito/timoto",
               "display": "τιμῷτο",
               "hidden": true
             },
             {
-              "answer": "timōinto",
+              "answer": "timointo/timonto",
               "display": "τιμῷντο",
               "hidden": true
             },
             {
-              "answer": "timōisthēn",
+              "answer": "timoisthen/timosthin",
               "display": "τιμῴσθην",
               "hidden": true
             }
@@ -2521,14 +2521,14 @@
         "cells": [
           [
             {
-              "answer": "timā",
+              "answer": "tima",
               "display": "τίμᾱ",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "timatō",
+              "answer": "timato",
               "display": "τιμάτω",
               "hidden": true
             }
@@ -2542,7 +2542,7 @@
           ],
           [
             {
-              "answer": "timōntōn",
+              "answer": "timonton",
               "display": "τιμώντων",
               "hidden": true
             }
@@ -2563,14 +2563,14 @@
         "cells": [
           [
             {
-              "answer": "timō",
+              "answer": "timo",
               "display": "τιμῶ",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "timasthō",
+              "answer": "timastho",
               "display": "τιμάσθω",
               "hidden": true
             }
@@ -2584,7 +2584,7 @@
           ],
           [
             {
-              "answer": "timasthōn",
+              "answer": "timasthon",
               "display": "τιμάσθων",
               "hidden": true
             }
@@ -2622,35 +2622,35 @@
           ],
           [
             {
-              "answer": "timēsai",
+              "answer": "timesai/timisai",
               "display": "τιμῆσαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "timēsasthai",
+              "answer": "timesasthai/timisasthai",
               "display": "τιμήσασθαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "timēthēnai",
+              "answer": "timethenai/timithinai",
               "display": "τιμηθῆναι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tetimēkenai",
+              "answer": "tetimekenai/tetimikenai",
               "display": "τετιμηκέναι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tetimēsthai",
+              "answer": "tetimesthai/tetimisthai",
               "display": "τετιμῆσθαι",
               "hidden": true
             }
@@ -2674,85 +2674,85 @@
         "cells": [
           [
             {
-              "answer": "timōn",
+              "answer": "timon",
               "display": "τιμῶν",
               "hidden": false
             },
             {
-              "answer": "timōsa",
+              "answer": "timosa",
               "display": "τιμῶσα",
               "hidden": false
             },
             {
-              "answer": "timōn",
+              "answer": "timon",
               "display": "τιμῶν",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "timōmenos",
+              "answer": "timomenos",
               "display": "τιμώμενος",
               "hidden": true
             },
             {
-              "answer": "timōmenē",
+              "answer": "timomene/timomeni",
               "display": "τιμωμένη",
               "hidden": true
             },
             {
-              "answer": "timōmenon",
+              "answer": "timomenon",
               "display": "τιμώμενον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "timēsās",
+              "answer": "timesas/timisas",
               "display": "τιμήσᾱς",
               "hidden": true
             },
             {
-              "answer": "timēsāsa",
+              "answer": "timesasa/timisasa",
               "display": "τιμήσᾱσα",
               "hidden": true
             },
             {
-              "answer": "timēsan",
+              "answer": "timesan/timisan",
               "display": "τιμῆσαν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "tetimēkōs",
+              "answer": "tetimekos/tetimikos",
               "display": "τετιμηκώς",
               "hidden": true
             },
             {
-              "answer": "tetimēkuia",
+              "answer": "tetimekuia/tetimikyia/tetimikia",
               "display": "τετιμηκυῖα",
               "hidden": true
             },
             {
-              "answer": "tetimēkos",
+              "answer": "tetimekos/tetimikos",
               "display": "τετιμηκός",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "timētheis",
+              "answer": "timetheis/timitheis/timithis",
               "display": "τιμηθείς",
               "hidden": true
             },
             {
-              "answer": "timētheisa",
+              "answer": "timetheisa/timitheisa/timithisa",
               "display": "τιμηθεῖσα",
               "hidden": true
             },
             {
-              "answer": "timēthen",
+              "answer": "timethen/timithen",
               "display": "τιμηθέν",
               "hidden": true
             }
@@ -2763,8 +2763,8 @@
   },
   {
     "id": "greek-poieo",
-    "word": "ποιέω (poieō)",
-    "language": "Ancient Greek (romanised)",
+    "word": "ποιέω (poieo)",
+    "language": "Ancient Greek",
     "category": "verb · contract -έω (ποιέω)",
     "matrices": [
       {
@@ -2782,12 +2782,12 @@
         "cells": [
           [
             {
-              "answer": "poiō",
+              "answer": "poio/pio",
               "display": "ποιῶ",
               "hidden": false
             },
             {
-              "answer": "poioumen",
+              "answer": "poioumen/pioumen",
               "display": "ποιοῦμεν",
               "hidden": false
             },
@@ -2798,34 +2798,34 @@
           ],
           [
             {
-              "answer": "poieis",
+              "answer": "poieis/piis",
               "display": "ποιεῖς",
               "hidden": true
             },
             {
-              "answer": "poieite",
+              "answer": "poieite/piite",
               "display": "ποιεῖτε",
               "hidden": true
             },
             {
-              "answer": "poieiton",
+              "answer": "poieiton/piiton",
               "display": "ποιεῖτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poiei",
+              "answer": "poiei/pii",
               "display": "ποιεῖ",
               "hidden": true
             },
             {
-              "answer": "poiousi/poiousin",
+              "answer": "poiousi/poiousin/piousi/piousin",
               "display": "ποιοῦσι(ν)",
               "hidden": true
             },
             {
-              "answer": "poieiton",
+              "answer": "poieiton/piiton",
               "display": "ποιεῖτον",
               "hidden": true
             }
@@ -2847,12 +2847,12 @@
         "cells": [
           [
             {
-              "answer": "epoioun",
+              "answer": "epoioun/epioun",
               "display": "ἐποίουν",
               "hidden": false
             },
             {
-              "answer": "epoioumen",
+              "answer": "epoioumen/epioumen",
               "display": "ἐποιοῦμεν",
               "hidden": false
             },
@@ -2863,34 +2863,34 @@
           ],
           [
             {
-              "answer": "epoieis",
+              "answer": "epoieis/epiis",
               "display": "ἐποίεις",
               "hidden": true
             },
             {
-              "answer": "epoieite",
+              "answer": "epoieite/epiite",
               "display": "ἐποιεῖτε",
               "hidden": true
             },
             {
-              "answer": "epoieiton",
+              "answer": "epoieiton/epiiton",
               "display": "ἐποιεῖτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "epoiei",
+              "answer": "epoiei/epii",
               "display": "ἐποίει",
               "hidden": true
             },
             {
-              "answer": "epoioun",
+              "answer": "epoioun/epioun",
               "display": "ἐποίουν",
               "hidden": true
             },
             {
-              "answer": "epoieitēn",
+              "answer": "epoieiten/epoieitin/epiitin",
               "display": "ἐποιείτην",
               "hidden": true
             }
@@ -2912,12 +2912,12 @@
         "cells": [
           [
             {
-              "answer": "poiēsō",
+              "answer": "poieso/poiiso/piiso",
               "display": "ποιήσω",
               "hidden": false
             },
             {
-              "answer": "poiēsomen",
+              "answer": "poiesomen/poiisomen/piisomen",
               "display": "ποιήσομεν",
               "hidden": false
             },
@@ -2928,34 +2928,34 @@
           ],
           [
             {
-              "answer": "poiēseis",
+              "answer": "poieseis/poiiseis/piisis",
               "display": "ποιήσεις",
               "hidden": true
             },
             {
-              "answer": "poiēsete",
+              "answer": "poiesete/poiisete/piisete",
               "display": "ποιήσετε",
               "hidden": true
             },
             {
-              "answer": "poiēseton",
+              "answer": "poieseton/poiiseton/piiseton",
               "display": "ποιήσετον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poiēsei",
+              "answer": "poiesei/poiisei/piisi",
               "display": "ποιήσει",
               "hidden": true
             },
             {
-              "answer": "poiēsousi/poiēsousin",
+              "answer": "poiesousi/poiesousin/poiisousi/piisousi/poiisousin/piisousin",
               "display": "ποιήσουσι(ν)",
               "hidden": true
             },
             {
-              "answer": "poiēseton",
+              "answer": "poieseton/poiiseton/piiseton",
               "display": "ποιήσετον",
               "hidden": true
             }
@@ -2977,12 +2977,12 @@
         "cells": [
           [
             {
-              "answer": "epoiēsa",
+              "answer": "epoiesa/epoiisa/epiisa",
               "display": "ἐποίησα",
               "hidden": false
             },
             {
-              "answer": "epoiēsamen",
+              "answer": "epoiesamen/epoiisamen/epiisamen",
               "display": "ἐποιήσαμεν",
               "hidden": false
             },
@@ -2993,34 +2993,34 @@
           ],
           [
             {
-              "answer": "epoiēsas",
+              "answer": "epoiesas/epoiisas/epiisas",
               "display": "ἐποίησας",
               "hidden": true
             },
             {
-              "answer": "epoiēsate",
+              "answer": "epoiesate/epoiisate/epiisate",
               "display": "ἐποιήσατε",
               "hidden": true
             },
             {
-              "answer": "epoiēsaton",
+              "answer": "epoiesaton/epoiisaton/epiisaton",
               "display": "ἐποιήσατον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "epoiēse/epoiēsen",
+              "answer": "epoiese/epoiesen/epoiise/epiise/epoiisen/epiisen",
               "display": "ἐποίησε(ν)",
               "hidden": true
             },
             {
-              "answer": "epoiēsan",
+              "answer": "epoiesan/epoiisan/epiisan",
               "display": "ἐποίησαν",
               "hidden": true
             },
             {
-              "answer": "epoiēsatēn",
+              "answer": "epoiesaten/epoiisatin/epiisatin",
               "display": "ἐποιησάτην",
               "hidden": true
             }
@@ -3042,12 +3042,12 @@
         "cells": [
           [
             {
-              "answer": "poioumai",
+              "answer": "poioumai/pioumai",
               "display": "ποιοῦμαι",
               "hidden": false
             },
             {
-              "answer": "poioumetha",
+              "answer": "poioumetha/pioumetha",
               "display": "ποιούμεθα",
               "hidden": false
             },
@@ -3058,34 +3058,34 @@
           ],
           [
             {
-              "answer": "poiēi/poiei",
+              "answer": "poiei/poii/pii",
               "display": "ποιῇ/ποιεῖ",
               "hidden": true
             },
             {
-              "answer": "poieisthe",
+              "answer": "poieisthe/piisthe",
               "display": "ποιεῖσθε",
               "hidden": true
             },
             {
-              "answer": "poieisthon",
+              "answer": "poieisthon/piisthon",
               "display": "ποιεῖσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poieitai",
+              "answer": "poieitai/piitai",
               "display": "ποιεῖται",
               "hidden": true
             },
             {
-              "answer": "poiountai",
+              "answer": "poiountai/piountai",
               "display": "ποιοῦνται",
               "hidden": true
             },
             {
-              "answer": "poieisthon",
+              "answer": "poieisthon/piisthon",
               "display": "ποιεῖσθον",
               "hidden": true
             }
@@ -3107,12 +3107,12 @@
         "cells": [
           [
             {
-              "answer": "epoioumēn",
+              "answer": "epoioumen/epoioumin/epioumin",
               "display": "ἐποιούμην",
               "hidden": false
             },
             {
-              "answer": "epoioumetha",
+              "answer": "epoioumetha/epioumetha",
               "display": "ἐποιούμεθα",
               "hidden": false
             },
@@ -3123,34 +3123,34 @@
           ],
           [
             {
-              "answer": "epoiou",
+              "answer": "epoiou/epiou",
               "display": "ἐποιοῦ",
               "hidden": true
             },
             {
-              "answer": "epoieisthe",
+              "answer": "epoieisthe/epiisthe",
               "display": "ἐποιεῖσθε",
               "hidden": true
             },
             {
-              "answer": "epoieisthon",
+              "answer": "epoieisthon/epiisthon",
               "display": "ἐποιεῖσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "epoieito",
+              "answer": "epoieito/epiito",
               "display": "ἐποιεῖτο",
               "hidden": true
             },
             {
-              "answer": "epoiounto",
+              "answer": "epoiounto/epiounto",
               "display": "ἐποιοῦντο",
               "hidden": true
             },
             {
-              "answer": "epoieisthēn",
+              "answer": "epoieisthen/epoieisthin/epiisthin",
               "display": "ἐποιείσθην",
               "hidden": true
             }
@@ -3172,12 +3172,12 @@
         "cells": [
           [
             {
-              "answer": "poiō",
+              "answer": "poio/pio",
               "display": "ποιῶ",
               "hidden": false
             },
             {
-              "answer": "poiōmen",
+              "answer": "poiomen/piomen",
               "display": "ποιῶμεν",
               "hidden": false
             },
@@ -3188,34 +3188,34 @@
           ],
           [
             {
-              "answer": "poiēis",
+              "answer": "poieis/poiis/piis",
               "display": "ποιῇς",
               "hidden": true
             },
             {
-              "answer": "poiēte",
+              "answer": "poiete/poiite/piite",
               "display": "ποιῆτε",
               "hidden": true
             },
             {
-              "answer": "poiēton",
+              "answer": "poieton/poiiton/piiton",
               "display": "ποιῆτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poiēi",
+              "answer": "poiei/poii/pii",
               "display": "ποιῇ",
               "hidden": true
             },
             {
-              "answer": "poiōsi/poiōsin",
+              "answer": "poiosi/poiosin/piosi/piosin",
               "display": "ποιῶσι(ν)",
               "hidden": true
             },
             {
-              "answer": "poiēton",
+              "answer": "poieton/poiiton/piiton",
               "display": "ποιῆτον",
               "hidden": true
             }
@@ -3237,12 +3237,12 @@
         "cells": [
           [
             {
-              "answer": "poioimi",
+              "answer": "poioimi/piimi",
               "display": "ποιοῖμι",
               "hidden": false
             },
             {
-              "answer": "poioimen",
+              "answer": "poioimen/piimen",
               "display": "ποιοῖμεν",
               "hidden": false
             },
@@ -3253,34 +3253,34 @@
           ],
           [
             {
-              "answer": "poiois",
+              "answer": "poiois/piis",
               "display": "ποιοῖς",
               "hidden": true
             },
             {
-              "answer": "poioite",
+              "answer": "poioite/piite",
               "display": "ποιοῖτε",
               "hidden": true
             },
             {
-              "answer": "poioiton",
+              "answer": "poioiton/piiton",
               "display": "ποιοῖτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poioi",
+              "answer": "poioi/pii",
               "display": "ποιοῖ",
               "hidden": true
             },
             {
-              "answer": "poioien",
+              "answer": "poioien/piien",
               "display": "ποιοῖεν",
               "hidden": true
             },
             {
-              "answer": "poioitēn",
+              "answer": "poioiten/poioitin/piitin",
               "display": "ποιοίτην",
               "hidden": true
             }
@@ -3302,12 +3302,12 @@
         "cells": [
           [
             {
-              "answer": "poiōmai",
+              "answer": "poiomai/piomai",
               "display": "ποιῶμαι",
               "hidden": false
             },
             {
-              "answer": "poiōmetha",
+              "answer": "poiometha/piometha",
               "display": "ποιώμεθα",
               "hidden": false
             },
@@ -3318,34 +3318,34 @@
           ],
           [
             {
-              "answer": "poiēi",
+              "answer": "poiei/poii/pii",
               "display": "ποιῇ",
               "hidden": true
             },
             {
-              "answer": "poiēsthe",
+              "answer": "poiesthe/poiisthe/piisthe",
               "display": "ποιῆσθε",
               "hidden": true
             },
             {
-              "answer": "poiēsthon",
+              "answer": "poiesthon/poiisthon/piisthon",
               "display": "ποιῆσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poiētai",
+              "answer": "poietai/poiitai/piitai",
               "display": "ποιῆται",
               "hidden": true
             },
             {
-              "answer": "poiōntai",
+              "answer": "poiontai/piontai",
               "display": "ποιῶνται",
               "hidden": true
             },
             {
-              "answer": "poiēsthon",
+              "answer": "poiesthon/poiisthon/piisthon",
               "display": "ποιῆσθον",
               "hidden": true
             }
@@ -3367,12 +3367,12 @@
         "cells": [
           [
             {
-              "answer": "poioimēn",
+              "answer": "poioimen/poioimin/piimin",
               "display": "ποιοίμην",
               "hidden": false
             },
             {
-              "answer": "poioimetha",
+              "answer": "poioimetha/piimetha",
               "display": "ποιοίμεθα",
               "hidden": false
             },
@@ -3383,34 +3383,34 @@
           ],
           [
             {
-              "answer": "poioio",
+              "answer": "poioio/piio",
               "display": "ποιοῖο",
               "hidden": true
             },
             {
-              "answer": "poioisthe",
+              "answer": "poioisthe/piisthe",
               "display": "ποιοῖσθε",
               "hidden": true
             },
             {
-              "answer": "poioisthon",
+              "answer": "poioisthon/piisthon",
               "display": "ποιοῖσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poioito",
+              "answer": "poioito/piito",
               "display": "ποιοῖτο",
               "hidden": true
             },
             {
-              "answer": "poiointo",
+              "answer": "poiointo/piinto",
               "display": "ποιοῖντο",
               "hidden": true
             },
             {
-              "answer": "poioisthēn",
+              "answer": "poioisthen/poioisthin/piisthin",
               "display": "ποιοίσθην",
               "hidden": true
             }
@@ -3431,28 +3431,28 @@
         "cells": [
           [
             {
-              "answer": "poiei",
+              "answer": "poiei/pii",
               "display": "ποίει",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "poieitō",
+              "answer": "poieito/piito",
               "display": "ποιείτω",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poieite",
+              "answer": "poieite/piite",
               "display": "ποιεῖτε",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poiountōn",
+              "answer": "poiounton/piounton",
               "display": "ποιούντων",
               "hidden": true
             }
@@ -3473,28 +3473,28 @@
         "cells": [
           [
             {
-              "answer": "poiou",
+              "answer": "poiou/piou",
               "display": "ποιοῦ",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "poieisthō",
+              "answer": "poieistho/piistho",
               "display": "ποιείσθω",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poieisthe",
+              "answer": "poieisthe/piisthe",
               "display": "ποιεῖσθε",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poieisthōn",
+              "answer": "poieisthon/piisthon",
               "display": "ποιείσθων",
               "hidden": true
             }
@@ -3518,49 +3518,49 @@
         "cells": [
           [
             {
-              "answer": "poiein",
+              "answer": "poiein/piin",
               "display": "ποιεῖν",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "poieisthai",
+              "answer": "poieisthai/piisthai",
               "display": "ποιεῖσθαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poiēsai",
+              "answer": "poiesai/poiisai/piisai",
               "display": "ποιῆσαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poiēsasthai",
+              "answer": "poiesasthai/poiisasthai/piisasthai",
               "display": "ποιήσασθαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "poiēthēnai",
+              "answer": "poiethenai/poiithinai/piithinai",
               "display": "ποιηθῆναι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "pepoiēkenai",
+              "answer": "pepoiekenai/pepoiikenai/pepiikenai",
               "display": "πεποιηκέναι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "pepoiēsthai",
+              "answer": "pepoiesthai/pepoiisthai/pepiisthai",
               "display": "πεποιῆσθαι",
               "hidden": true
             }
@@ -3581,34 +3581,34 @@
         "cells": [
           [
             {
-              "answer": "poiōn",
+              "answer": "poion/pion",
               "display": "ποιῶν",
               "hidden": false
             },
             {
-              "answer": "poiousa",
+              "answer": "poiousa/piousa",
               "display": "ποιοῦσα",
               "hidden": false
             },
             {
-              "answer": "poioun",
+              "answer": "poioun/pioun",
               "display": "ποιοῦν",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "poioumenos",
+              "answer": "poioumenos/pioumenos",
               "display": "ποιούμενος",
               "hidden": true
             },
             {
-              "answer": "poioumenē",
+              "answer": "poioumene/poioumeni/pioumeni",
               "display": "ποιουμένη",
               "hidden": true
             },
             {
-              "answer": "poioumenon",
+              "answer": "poioumenon/pioumenon",
               "display": "ποιούμενον",
               "hidden": true
             }
@@ -3619,8 +3619,8 @@
   },
   {
     "id": "greek-deloo",
-    "word": "δηλόω (dēloō)",
-    "language": "Ancient Greek (romanised)",
+    "word": "δηλόω (deloo)",
+    "language": "Ancient Greek",
     "category": "verb · contract -όω (δηλόω)",
     "matrices": [
       {
@@ -3638,12 +3638,12 @@
         "cells": [
           [
             {
-              "answer": "dēlō",
+              "answer": "delo/dilo",
               "display": "δηλῶ",
               "hidden": false
             },
             {
-              "answer": "dēloumen",
+              "answer": "deloumen/diloumen",
               "display": "δηλοῦμεν",
               "hidden": false
             },
@@ -3654,34 +3654,34 @@
           ],
           [
             {
-              "answer": "dēlois",
+              "answer": "delois/dilois/dilis",
               "display": "δηλοῖς",
               "hidden": true
             },
             {
-              "answer": "dēloute",
+              "answer": "deloute/diloute",
               "display": "δηλοῦτε",
               "hidden": true
             },
             {
-              "answer": "dēlouton",
+              "answer": "delouton/dilouton",
               "display": "δηλοῦτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēloi",
+              "answer": "deloi/diloi/dili",
               "display": "δηλοῖ",
               "hidden": true
             },
             {
-              "answer": "dēlousi/dēlousin",
+              "answer": "delousi/delousin/dilousi/dilousin",
               "display": "δηλοῦσι(ν)",
               "hidden": true
             },
             {
-              "answer": "dēlouton",
+              "answer": "delouton/dilouton",
               "display": "δηλοῦτον",
               "hidden": true
             }
@@ -3703,12 +3703,12 @@
         "cells": [
           [
             {
-              "answer": "edēloun",
+              "answer": "edeloun/ediloun",
               "display": "ἐδήλουν",
               "hidden": false
             },
             {
-              "answer": "edēloumen",
+              "answer": "edeloumen/ediloumen",
               "display": "ἐδηλοῦμεν",
               "hidden": false
             },
@@ -3719,34 +3719,34 @@
           ],
           [
             {
-              "answer": "edēlous",
+              "answer": "edelous/edilous",
               "display": "ἐδήλους",
               "hidden": true
             },
             {
-              "answer": "edēloute",
+              "answer": "edeloute/ediloute",
               "display": "ἐδηλοῦτε",
               "hidden": true
             },
             {
-              "answer": "edēlouton",
+              "answer": "edelouton/edilouton",
               "display": "ἐδηλοῦτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "edēlou",
+              "answer": "edelou/edilou",
               "display": "ἐδήλου",
               "hidden": true
             },
             {
-              "answer": "edēloun",
+              "answer": "edeloun/ediloun",
               "display": "ἐδήλουν",
               "hidden": true
             },
             {
-              "answer": "edēloutēn",
+              "answer": "edelouten/ediloutin",
               "display": "ἐδηλούτην",
               "hidden": true
             }
@@ -3768,12 +3768,12 @@
         "cells": [
           [
             {
-              "answer": "dēlōsō",
+              "answer": "deloso/diloso",
               "display": "δηλώσω",
               "hidden": false
             },
             {
-              "answer": "dēlōsomen",
+              "answer": "delosomen/dilosomen",
               "display": "δηλώσομεν",
               "hidden": false
             },
@@ -3784,34 +3784,34 @@
           ],
           [
             {
-              "answer": "dēlōseis",
+              "answer": "deloseis/diloseis/dilosis",
               "display": "δηλώσεις",
               "hidden": true
             },
             {
-              "answer": "dēlōsete",
+              "answer": "delosete/dilosete",
               "display": "δηλώσετε",
               "hidden": true
             },
             {
-              "answer": "dēlōseton",
+              "answer": "deloseton/diloseton",
               "display": "δηλώσετον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēlōsei",
+              "answer": "delosei/dilosei/dilosi",
               "display": "δηλώσει",
               "hidden": true
             },
             {
-              "answer": "dēlōsousi/dēlōsousin",
+              "answer": "delosousi/delosousin/dilosousi/dilosousin",
               "display": "δηλώσουσι(ν)",
               "hidden": true
             },
             {
-              "answer": "dēlōseton",
+              "answer": "deloseton/diloseton",
               "display": "δηλώσετον",
               "hidden": true
             }
@@ -3833,12 +3833,12 @@
         "cells": [
           [
             {
-              "answer": "edēlōsa",
+              "answer": "edelosa/edilosa",
               "display": "ἐδήλωσα",
               "hidden": false
             },
             {
-              "answer": "edēlōsamen",
+              "answer": "edelosamen/edilosamen",
               "display": "ἐδηλώσαμεν",
               "hidden": false
             },
@@ -3849,34 +3849,34 @@
           ],
           [
             {
-              "answer": "edēlōsas",
+              "answer": "edelosas/edilosas",
               "display": "ἐδήλωσας",
               "hidden": true
             },
             {
-              "answer": "edēlōsate",
+              "answer": "edelosate/edilosate",
               "display": "ἐδηλώσατε",
               "hidden": true
             },
             {
-              "answer": "edēlōsaton",
+              "answer": "edelosaton/edilosaton",
               "display": "ἐδηλώσατον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "edēlōse/edēlōsen",
+              "answer": "edelose/edelosen/edilose/edilosen",
               "display": "ἐδήλωσε(ν)",
               "hidden": true
             },
             {
-              "answer": "edēlōsan",
+              "answer": "edelosan/edilosan",
               "display": "ἐδήλωσαν",
               "hidden": true
             },
             {
-              "answer": "edēlōsatēn",
+              "answer": "edelosaten/edilosatin",
               "display": "ἐδηλωσάτην",
               "hidden": true
             }
@@ -3898,12 +3898,12 @@
         "cells": [
           [
             {
-              "answer": "dēloumai",
+              "answer": "deloumai/diloumai",
               "display": "δηλοῦμαι",
               "hidden": false
             },
             {
-              "answer": "dēloumetha",
+              "answer": "deloumetha/diloumetha",
               "display": "δηλούμεθα",
               "hidden": false
             },
@@ -3914,34 +3914,34 @@
           ],
           [
             {
-              "answer": "dēloi",
+              "answer": "deloi/diloi/dili",
               "display": "δηλοῖ",
               "hidden": true
             },
             {
-              "answer": "dēlousthe",
+              "answer": "delousthe/dilousthe",
               "display": "δηλοῦσθε",
               "hidden": true
             },
             {
-              "answer": "dēlousthon",
+              "answer": "delousthon/dilousthon",
               "display": "δηλοῦσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēloutai",
+              "answer": "deloutai/diloutai",
               "display": "δηλοῦται",
               "hidden": true
             },
             {
-              "answer": "dēlountai",
+              "answer": "delountai/dilountai",
               "display": "δηλοῦνται",
               "hidden": true
             },
             {
-              "answer": "dēlousthon",
+              "answer": "delousthon/dilousthon",
               "display": "δηλοῦσθον",
               "hidden": true
             }
@@ -3963,12 +3963,12 @@
         "cells": [
           [
             {
-              "answer": "edēloumēn",
+              "answer": "edeloumen/ediloumin",
               "display": "ἐδηλούμην",
               "hidden": false
             },
             {
-              "answer": "edēloumetha",
+              "answer": "edeloumetha/ediloumetha",
               "display": "ἐδηλούμεθα",
               "hidden": false
             },
@@ -3979,34 +3979,34 @@
           ],
           [
             {
-              "answer": "edēlou",
+              "answer": "edelou/edilou",
               "display": "ἐδηλοῦ",
               "hidden": true
             },
             {
-              "answer": "edēlousthe",
+              "answer": "edelousthe/edilousthe",
               "display": "ἐδηλοῦσθε",
               "hidden": true
             },
             {
-              "answer": "edēlousthon",
+              "answer": "edelousthon/edilousthon",
               "display": "ἐδηλοῦσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "edēlouto",
+              "answer": "edelouto/edilouto",
               "display": "ἐδηλοῦτο",
               "hidden": true
             },
             {
-              "answer": "edēlounto",
+              "answer": "edelounto/edilounto",
               "display": "ἐδηλοῦντο",
               "hidden": true
             },
             {
-              "answer": "edēlousthēn",
+              "answer": "edelousthen/edilousthin",
               "display": "ἐδηλούσθην",
               "hidden": true
             }
@@ -4028,12 +4028,12 @@
         "cells": [
           [
             {
-              "answer": "dēlō",
+              "answer": "delo/dilo",
               "display": "δηλῶ",
               "hidden": false
             },
             {
-              "answer": "dēlōmen",
+              "answer": "delomen/dilomen",
               "display": "δηλῶμεν",
               "hidden": false
             },
@@ -4044,34 +4044,34 @@
           ],
           [
             {
-              "answer": "dēlois",
+              "answer": "delois/dilois/dilis",
               "display": "δηλοῖς",
               "hidden": true
             },
             {
-              "answer": "dēlōte",
+              "answer": "delote/dilote",
               "display": "δηλῶτε",
               "hidden": true
             },
             {
-              "answer": "dēlōton",
+              "answer": "deloton/diloton",
               "display": "δηλῶτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēloi",
+              "answer": "deloi/diloi/dili",
               "display": "δηλοῖ",
               "hidden": true
             },
             {
-              "answer": "dēlōsi/dēlōsin",
+              "answer": "delosi/delosin/dilosi/dilosin",
               "display": "δηλῶσι(ν)",
               "hidden": true
             },
             {
-              "answer": "dēlōton",
+              "answer": "deloton/diloton",
               "display": "δηλῶτον",
               "hidden": true
             }
@@ -4093,12 +4093,12 @@
         "cells": [
           [
             {
-              "answer": "dēloimi",
+              "answer": "deloimi/diloimi/dilimi",
               "display": "δηλοῖμι",
               "hidden": false
             },
             {
-              "answer": "dēloimen",
+              "answer": "deloimen/diloimen/dilimen",
               "display": "δηλοῖμεν",
               "hidden": false
             },
@@ -4109,34 +4109,34 @@
           ],
           [
             {
-              "answer": "dēlois",
+              "answer": "delois/dilois/dilis",
               "display": "δηλοῖς",
               "hidden": true
             },
             {
-              "answer": "dēloite",
+              "answer": "deloite/diloite/dilite",
               "display": "δηλοῖτε",
               "hidden": true
             },
             {
-              "answer": "dēloiton",
+              "answer": "deloiton/diloiton/diliton",
               "display": "δηλοῖτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēloi",
+              "answer": "deloi/diloi/dili",
               "display": "δηλοῖ",
               "hidden": true
             },
             {
-              "answer": "dēloien",
+              "answer": "deloien/diloien/dilien",
               "display": "δηλοῖεν",
               "hidden": true
             },
             {
-              "answer": "dēloitēn",
+              "answer": "deloiten/diloitin/dilitin",
               "display": "δηλοίτην",
               "hidden": true
             }
@@ -4158,12 +4158,12 @@
         "cells": [
           [
             {
-              "answer": "dēlōmai",
+              "answer": "delomai/dilomai",
               "display": "δηλῶμαι",
               "hidden": false
             },
             {
-              "answer": "dēlōmetha",
+              "answer": "delometha/dilometha",
               "display": "δηλώμεθα",
               "hidden": false
             },
@@ -4174,34 +4174,34 @@
           ],
           [
             {
-              "answer": "dēloi",
+              "answer": "deloi/diloi/dili",
               "display": "δηλοῖ",
               "hidden": true
             },
             {
-              "answer": "dēlōsthe",
+              "answer": "delosthe/dilosthe",
               "display": "δηλῶσθε",
               "hidden": true
             },
             {
-              "answer": "dēlōsthon",
+              "answer": "delosthon/dilosthon",
               "display": "δηλῶσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēlōtai",
+              "answer": "delotai/dilotai",
               "display": "δηλῶται",
               "hidden": true
             },
             {
-              "answer": "dēlōntai",
+              "answer": "delontai/dilontai",
               "display": "δηλῶνται",
               "hidden": true
             },
             {
-              "answer": "dēlōsthon",
+              "answer": "delosthon/dilosthon",
               "display": "δηλῶσθον",
               "hidden": true
             }
@@ -4223,12 +4223,12 @@
         "cells": [
           [
             {
-              "answer": "dēloimēn",
+              "answer": "deloimen/diloimin/dilimin",
               "display": "δηλοίμην",
               "hidden": false
             },
             {
-              "answer": "dēloimetha",
+              "answer": "deloimetha/diloimetha/dilimetha",
               "display": "δηλοίμεθα",
               "hidden": false
             },
@@ -4239,34 +4239,34 @@
           ],
           [
             {
-              "answer": "dēloio",
+              "answer": "deloio/diloio/dilio",
               "display": "δηλοῖο",
               "hidden": true
             },
             {
-              "answer": "dēloisthe",
+              "answer": "deloisthe/diloisthe/dilisthe",
               "display": "δηλοῖσθε",
               "hidden": true
             },
             {
-              "answer": "dēloisthon",
+              "answer": "deloisthon/diloisthon/dilisthon",
               "display": "δηλοῖσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēloito",
+              "answer": "deloito/diloito/dilito",
               "display": "δηλοῖτο",
               "hidden": true
             },
             {
-              "answer": "dēlointo",
+              "answer": "delointo/dilointo/dilinto",
               "display": "δηλοῖντο",
               "hidden": true
             },
             {
-              "answer": "dēloisthēn",
+              "answer": "deloisthen/diloisthin/dilisthin",
               "display": "δηλοίσθην",
               "hidden": true
             }
@@ -4287,28 +4287,28 @@
         "cells": [
           [
             {
-              "answer": "dēlou",
+              "answer": "delou/dilou",
               "display": "δήλου",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "dēloutō",
+              "answer": "delouto/dilouto",
               "display": "δηλούτω",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēloute",
+              "answer": "deloute/diloute",
               "display": "δηλοῦτε",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēlountōn",
+              "answer": "delounton/dilounton",
               "display": "δηλούντων",
               "hidden": true
             }
@@ -4329,28 +4329,28 @@
         "cells": [
           [
             {
-              "answer": "dēlou",
+              "answer": "delou/dilou",
               "display": "δηλοῦ",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "dēlousthō",
+              "answer": "deloustho/diloustho",
               "display": "δηλούσθω",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēlousthe",
+              "answer": "delousthe/dilousthe",
               "display": "δηλοῦσθε",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēlousthōn",
+              "answer": "delousthon/dilousthon",
               "display": "δηλούσθων",
               "hidden": true
             }
@@ -4372,35 +4372,35 @@
         "cells": [
           [
             {
-              "answer": "dēloun",
+              "answer": "deloun/diloun",
               "display": "δηλοῦν",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "dēlousthai",
+              "answer": "delousthai/dilousthai",
               "display": "δηλοῦσθαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēlōsai",
+              "answer": "delosai/dilosai",
               "display": "δηλῶσαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēlōsasthai",
+              "answer": "delosasthai/dilosasthai",
               "display": "δηλώσασθαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dēlōthēnai",
+              "answer": "delothenai/dilothinai",
               "display": "δηλωθῆναι",
               "hidden": true
             }
@@ -4421,34 +4421,34 @@
         "cells": [
           [
             {
-              "answer": "dēlōn",
+              "answer": "delon/dilon",
               "display": "δηλῶν",
               "hidden": false
             },
             {
-              "answer": "dēlousa",
+              "answer": "delousa/dilousa",
               "display": "δηλοῦσα",
               "hidden": false
             },
             {
-              "answer": "dēloun",
+              "answer": "deloun/diloun",
               "display": "δηλοῦν",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "dēloumenos",
+              "answer": "deloumenos/diloumenos",
               "display": "δηλούμενος",
               "hidden": true
             },
             {
-              "answer": "dēloumenē",
+              "answer": "deloumene/diloumeni",
               "display": "δηλουμένη",
               "hidden": true
             },
             {
-              "answer": "dēloumenon",
+              "answer": "deloumenon/diloumenon",
               "display": "δηλούμενον",
               "hidden": true
             }
@@ -4460,7 +4460,7 @@
   {
     "id": "greek-boulomai",
     "word": "βούλομαι (boulomai)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "verb · deponent (βούλομαι)",
     "matrices": [
       {
@@ -4478,12 +4478,12 @@
         "cells": [
           [
             {
-              "answer": "boulomai",
+              "answer": "boulomai/voulomai",
               "display": "βούλομαι",
               "hidden": false
             },
             {
-              "answer": "boulometha",
+              "answer": "boulometha/voulometha",
               "display": "βουλόμεθα",
               "hidden": false
             },
@@ -4494,34 +4494,34 @@
           ],
           [
             {
-              "answer": "boulei/boulēi",
+              "answer": "boulei/voulei/vouli",
               "display": "βούλει/βούλῃ",
               "hidden": true
             },
             {
-              "answer": "boulesthe",
+              "answer": "boulesthe/voulesthe",
               "display": "βούλεσθε",
               "hidden": true
             },
             {
-              "answer": "boulesthon",
+              "answer": "boulesthon/voulesthon",
               "display": "βούλεσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "bouletai",
+              "answer": "bouletai/vouletai",
               "display": "βούλεται",
               "hidden": true
             },
             {
-              "answer": "boulontai",
+              "answer": "boulontai/voulontai",
               "display": "βούλονται",
               "hidden": true
             },
             {
-              "answer": "boulesthon",
+              "answer": "boulesthon/voulesthon",
               "display": "βούλεσθον",
               "hidden": true
             }
@@ -4543,12 +4543,12 @@
         "cells": [
           [
             {
-              "answer": "eboulomēn",
+              "answer": "eboulomen/evoulomin",
               "display": "ἐβουλόμην",
               "hidden": false
             },
             {
-              "answer": "eboulometha",
+              "answer": "eboulometha/evoulometha",
               "display": "ἐβουλόμεθα",
               "hidden": false
             },
@@ -4559,34 +4559,34 @@
           ],
           [
             {
-              "answer": "eboulou",
+              "answer": "eboulou/evoulou",
               "display": "ἐβούλου",
               "hidden": true
             },
             {
-              "answer": "eboulesthe",
+              "answer": "eboulesthe/evoulesthe",
               "display": "ἐβούλεσθε",
               "hidden": true
             },
             {
-              "answer": "eboulesthon",
+              "answer": "eboulesthon/evoulesthon",
               "display": "ἐβούλεσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "ebouleto",
+              "answer": "ebouleto/evouleto",
               "display": "ἐβούλετο",
               "hidden": true
             },
             {
-              "answer": "eboulonto",
+              "answer": "eboulonto/evoulonto",
               "display": "ἐβούλοντο",
               "hidden": true
             },
             {
-              "answer": "eboulesthēn",
+              "answer": "eboulesthen/evoulesthin",
               "display": "ἐβουλέσθην",
               "hidden": true
             }
@@ -4608,12 +4608,12 @@
         "cells": [
           [
             {
-              "answer": "boulēsomai",
+              "answer": "boulesomai/voulisomai",
               "display": "βουλήσομαι",
               "hidden": false
             },
             {
-              "answer": "boulēsometha",
+              "answer": "boulesometha/voulisometha",
               "display": "βουλησόμεθα",
               "hidden": false
             },
@@ -4624,34 +4624,34 @@
           ],
           [
             {
-              "answer": "boulēsēi/boulēsei",
+              "answer": "boulesei/voulisi/voulisei",
               "display": "βουλήσῃ/βουλήσει",
               "hidden": true
             },
             {
-              "answer": "boulēsesthe",
+              "answer": "boulesesthe/voulisesthe",
               "display": "βουλήσεσθε",
               "hidden": true
             },
             {
-              "answer": "boulēsesthon",
+              "answer": "boulesesthon/voulisesthon",
               "display": "βουλήσεσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "boulēsetai",
+              "answer": "boulesetai/voulisetai",
               "display": "βουλήσεται",
               "hidden": true
             },
             {
-              "answer": "boulēsontai",
+              "answer": "boulesontai/voulisontai",
               "display": "βουλήσονται",
               "hidden": true
             },
             {
-              "answer": "boulēsesthon",
+              "answer": "boulesesthon/voulisesthon",
               "display": "βουλήσεσθον",
               "hidden": true
             }
@@ -4673,12 +4673,12 @@
         "cells": [
           [
             {
-              "answer": "eboulēthēn",
+              "answer": "eboulethen/evoulithin",
               "display": "ἐβουλήθην",
               "hidden": false
             },
             {
-              "answer": "eboulēthēmen",
+              "answer": "eboulethemen/evoulithimen",
               "display": "ἐβουλήθημεν",
               "hidden": false
             },
@@ -4689,34 +4689,34 @@
           ],
           [
             {
-              "answer": "eboulēthēs",
+              "answer": "eboulethes/evoulithis",
               "display": "ἐβουλήθης",
               "hidden": true
             },
             {
-              "answer": "eboulēthēte",
+              "answer": "eboulethete/evoulithite",
               "display": "ἐβουλήθητε",
               "hidden": true
             },
             {
-              "answer": "eboulēthēton",
+              "answer": "ebouletheton/evoulithiton",
               "display": "ἐβουλήθητον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "eboulēthē",
+              "answer": "eboulethe/evoulithi",
               "display": "ἐβουλήθη",
               "hidden": true
             },
             {
-              "answer": "eboulēthēsan",
+              "answer": "eboulethesan/evoulithisan",
               "display": "ἐβουλήθησαν",
               "hidden": true
             },
             {
-              "answer": "eboulēthētēn",
+              "answer": "ebouletheten/evoulithitin",
               "display": "ἐβουληθήτην",
               "hidden": true
             }
@@ -4738,12 +4738,12 @@
         "cells": [
           [
             {
-              "answer": "beboulēmai",
+              "answer": "beboulemai/vevoulimai",
               "display": "βεβούλημαι",
               "hidden": false
             },
             {
-              "answer": "beboulēmetha",
+              "answer": "beboulemetha/vevoulimetha",
               "display": "βεβουλήμεθα",
               "hidden": false
             },
@@ -4754,34 +4754,34 @@
           ],
           [
             {
-              "answer": "beboulēsai",
+              "answer": "beboulesai/vevoulisai",
               "display": "βεβούλησαι",
               "hidden": true
             },
             {
-              "answer": "beboulēsthe",
+              "answer": "beboulesthe/vevoulisthe",
               "display": "βεβούλησθε",
               "hidden": true
             },
             {
-              "answer": "beboulēsthon",
+              "answer": "beboulesthon/vevoulisthon",
               "display": "βεβούλησθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "beboulētai",
+              "answer": "bebouletai/vevoulitai",
               "display": "βεβούληται",
               "hidden": true
             },
             {
-              "answer": "beboulēntai",
+              "answer": "beboulentai/vevoulintai",
               "display": "βεβούληνται",
               "hidden": true
             },
             {
-              "answer": "beboulēsthon",
+              "answer": "beboulesthon/vevoulisthon",
               "display": "βεβούλησθον",
               "hidden": true
             }
@@ -4803,12 +4803,12 @@
         "cells": [
           [
             {
-              "answer": "boulōmai",
+              "answer": "boulomai/voulomai",
               "display": "βούλωμαι",
               "hidden": false
             },
             {
-              "answer": "boulōmetha",
+              "answer": "boulometha/voulometha",
               "display": "βουλώμεθα",
               "hidden": false
             },
@@ -4819,34 +4819,34 @@
           ],
           [
             {
-              "answer": "boulēi",
+              "answer": "boulei/vouli",
               "display": "βούλῃ",
               "hidden": true
             },
             {
-              "answer": "boulēsthe",
+              "answer": "boulesthe/voulisthe",
               "display": "βούλησθε",
               "hidden": true
             },
             {
-              "answer": "boulēsthon",
+              "answer": "boulesthon/voulisthon",
               "display": "βούλησθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "boulētai",
+              "answer": "bouletai/voulitai",
               "display": "βούληται",
               "hidden": true
             },
             {
-              "answer": "boulōntai",
+              "answer": "boulontai/voulontai",
               "display": "βούλωνται",
               "hidden": true
             },
             {
-              "answer": "boulēsthon",
+              "answer": "boulesthon/voulisthon",
               "display": "βούλησθον",
               "hidden": true
             }
@@ -4868,12 +4868,12 @@
         "cells": [
           [
             {
-              "answer": "boulēthō",
+              "answer": "bouletho/voulitho",
               "display": "βουληθῶ",
               "hidden": false
             },
             {
-              "answer": "boulēthōmen",
+              "answer": "boulethomen/voulithomen",
               "display": "βουληθῶμεν",
               "hidden": false
             },
@@ -4884,34 +4884,34 @@
           ],
           [
             {
-              "answer": "boulēthēis",
+              "answer": "bouletheis/voulithis",
               "display": "βουληθῇς",
               "hidden": true
             },
             {
-              "answer": "boulēthēte",
+              "answer": "boulethete/voulithite",
               "display": "βουληθῆτε",
               "hidden": true
             },
             {
-              "answer": "boulēthēton",
+              "answer": "bouletheton/voulithiton",
               "display": "βουληθῆτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "boulēthēi",
+              "answer": "boulethei/voulithi",
               "display": "βουληθῇ",
               "hidden": true
             },
             {
-              "answer": "boulēthōsi/boulēthōsin",
+              "answer": "boulethosi/boulethosin/voulithosi/voulithosin",
               "display": "βουληθῶσι(ν)",
               "hidden": true
             },
             {
-              "answer": "boulēthēton",
+              "answer": "bouletheton/voulithiton",
               "display": "βουληθῆτον",
               "hidden": true
             }
@@ -4933,12 +4933,12 @@
         "cells": [
           [
             {
-              "answer": "bouloimēn",
+              "answer": "bouloimen/vouloimin/voulimin",
               "display": "βουλοίμην",
               "hidden": false
             },
             {
-              "answer": "bouloimetha",
+              "answer": "bouloimetha/vouloimetha/voulimetha",
               "display": "βουλοίμεθα",
               "hidden": false
             },
@@ -4949,34 +4949,34 @@
           ],
           [
             {
-              "answer": "bouloio",
+              "answer": "bouloio/vouloio/voulio",
               "display": "βούλοιο",
               "hidden": true
             },
             {
-              "answer": "bouloisthe",
+              "answer": "bouloisthe/vouloisthe/voulisthe",
               "display": "βούλοισθε",
               "hidden": true
             },
             {
-              "answer": "bouloisthon",
+              "answer": "bouloisthon/vouloisthon/voulisthon",
               "display": "βούλοισθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "bouloito",
+              "answer": "bouloito/vouloito/voulito",
               "display": "βούλοιτο",
               "hidden": true
             },
             {
-              "answer": "boulointo",
+              "answer": "boulointo/voulointo/voulinto",
               "display": "βούλοιντο",
               "hidden": true
             },
             {
-              "answer": "bouloisthēn",
+              "answer": "bouloisthen/vouloisthin/voulisthin",
               "display": "βουλοίσθην",
               "hidden": true
             }
@@ -4998,12 +4998,12 @@
         "cells": [
           [
             {
-              "answer": "boulētheiēn",
+              "answer": "bouletheien/voulitheiin/voulithiin",
               "display": "βουληθείην",
               "hidden": false
             },
             {
-              "answer": "boulētheimen",
+              "answer": "bouletheimen/voulitheimen/voulithimen",
               "display": "βουληθεῖμεν",
               "hidden": false
             },
@@ -5014,34 +5014,34 @@
           ],
           [
             {
-              "answer": "boulētheiēs",
+              "answer": "bouletheies/voulitheiis/voulithiis",
               "display": "βουληθείης",
               "hidden": true
             },
             {
-              "answer": "boulētheite",
+              "answer": "bouletheite/voulitheite/voulithite",
               "display": "βουληθεῖτε",
               "hidden": true
             },
             {
-              "answer": "boulētheiēton",
+              "answer": "bouletheieton/voulitheiiton/voulithiiton",
               "display": "βουληθείητον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "boulētheiē",
+              "answer": "bouletheie/voulitheii/voulithii",
               "display": "βουληθείη",
               "hidden": true
             },
             {
-              "answer": "boulētheien",
+              "answer": "bouletheien/voulitheien/voulithien",
               "display": "βουληθεῖεν",
               "hidden": true
             },
             {
-              "answer": "boulētheiētēn",
+              "answer": "bouletheieten/voulitheiitin/voulithiitin",
               "display": "βουληθειήτην",
               "hidden": true
             }
@@ -5061,21 +5061,21 @@
         "cells": [
           [
             {
-              "answer": "boulesthai",
+              "answer": "boulesthai/voulesthai",
               "display": "βούλεσθαι",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "boulēthēnai",
+              "answer": "boulethenai/voulithinai",
               "display": "βουληθῆναι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "beboulēsthai",
+              "answer": "beboulesthai/vevoulisthai",
               "display": "βεβουλῆσθαι",
               "hidden": true
             }
@@ -5096,34 +5096,34 @@
         "cells": [
           [
             {
-              "answer": "boulomenos",
+              "answer": "boulomenos/voulomenos",
               "display": "βουλόμενος",
               "hidden": false
             },
             {
-              "answer": "boulomenē",
+              "answer": "boulomene/voulomeni",
               "display": "βουλομένη",
               "hidden": false
             },
             {
-              "answer": "boulomenon",
+              "answer": "boulomenon/voulomenon",
               "display": "βουλόμενον",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "boulētheis",
+              "answer": "bouletheis/voulitheis/voulithis",
               "display": "βουληθείς",
               "hidden": true
             },
             {
-              "answer": "boulētheisa",
+              "answer": "bouletheisa/voulitheisa/voulithisa",
               "display": "βουληθεῖσα",
               "hidden": true
             },
             {
-              "answer": "boulēthen",
+              "answer": "boulethen/voulithen",
               "display": "βουληθέν",
               "hidden": true
             }
@@ -5135,7 +5135,7 @@
   {
     "id": "greek-dynamai",
     "word": "δύναμαι (dunamai)",
-    "language": "Ancient Greek (romanised)",
+    "language": "Ancient Greek",
     "category": "verb · athematic deponent (δύναμαι)",
     "matrices": [
       {
@@ -5153,12 +5153,12 @@
         "cells": [
           [
             {
-              "answer": "dunamai",
+              "answer": "dunamai/dynamai/dinamai",
               "display": "δύναμαι",
               "hidden": false
             },
             {
-              "answer": "dunametha",
+              "answer": "dunametha/dynametha/dinametha",
               "display": "δυνάμεθα",
               "hidden": false
             },
@@ -5169,34 +5169,34 @@
           ],
           [
             {
-              "answer": "dunasai",
+              "answer": "dunasai/dynasai/dinasai",
               "display": "δύνασαι",
               "hidden": true
             },
             {
-              "answer": "dunasthe",
+              "answer": "dunasthe/dynasthe/dinasthe",
               "display": "δύνασθε",
               "hidden": true
             },
             {
-              "answer": "dunasthon",
+              "answer": "dunasthon/dynasthon/dinasthon",
               "display": "δύνασθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dunatai",
+              "answer": "dunatai/dynatai/dinatai",
               "display": "δύναται",
               "hidden": true
             },
             {
-              "answer": "dunantai",
+              "answer": "dunantai/dynantai/dinantai",
               "display": "δύνανται",
               "hidden": true
             },
             {
-              "answer": "dunasthon",
+              "answer": "dunasthon/dynasthon/dinasthon",
               "display": "δύνασθον",
               "hidden": true
             }
@@ -5218,12 +5218,12 @@
         "cells": [
           [
             {
-              "answer": "edunamēn",
+              "answer": "edunamen/edynamin/edinamin",
               "display": "ἐδυνάμην",
               "hidden": false
             },
             {
-              "answer": "edunametha",
+              "answer": "edunametha/edynametha/edinametha",
               "display": "ἐδυνάμεθα",
               "hidden": false
             },
@@ -5234,34 +5234,34 @@
           ],
           [
             {
-              "answer": "edunaso/edunō",
+              "answer": "edunaso/eduno/edynaso/edinaso/edyno/edino",
               "display": "ἐδύνασο/ἐδύνω",
               "hidden": true
             },
             {
-              "answer": "edunasthe",
+              "answer": "edunasthe/edynasthe/edinasthe",
               "display": "ἐδύνασθε",
               "hidden": true
             },
             {
-              "answer": "edunasthon",
+              "answer": "edunasthon/edynasthon/edinasthon",
               "display": "ἐδύνασθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "edunato",
+              "answer": "edunato/edynato/edinato",
               "display": "ἐδύνατο",
               "hidden": true
             },
             {
-              "answer": "edunanto",
+              "answer": "edunanto/edynanto/edinanto",
               "display": "ἐδύναντο",
               "hidden": true
             },
             {
-              "answer": "edunasthēn",
+              "answer": "edunasthen/edynasthin/edinasthin",
               "display": "ἐδυνάσθην",
               "hidden": true
             }
@@ -5283,12 +5283,12 @@
         "cells": [
           [
             {
-              "answer": "dunēsomai",
+              "answer": "dunesomai/dynisomai/dinisomai",
               "display": "δυνήσομαι",
               "hidden": false
             },
             {
-              "answer": "dunēsometha",
+              "answer": "dunesometha/dynisometha/dinisometha",
               "display": "δυνησόμεθα",
               "hidden": false
             },
@@ -5299,34 +5299,34 @@
           ],
           [
             {
-              "answer": "dunēsēi/dunēsei",
+              "answer": "dunesei/dynisi/dinisi/dynisei",
               "display": "δυνήσῃ/δυνήσει",
               "hidden": true
             },
             {
-              "answer": "dunēsesthe",
+              "answer": "dunesesthe/dynisesthe/dinisesthe",
               "display": "δυνήσεσθε",
               "hidden": true
             },
             {
-              "answer": "dunēsesthon",
+              "answer": "dunesesthon/dynisesthon/dinisesthon",
               "display": "δυνήσεσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dunēsetai",
+              "answer": "dunesetai/dynisetai/dinisetai",
               "display": "δυνήσεται",
               "hidden": true
             },
             {
-              "answer": "dunēsontai",
+              "answer": "dunesontai/dynisontai/dinisontai",
               "display": "δυνήσονται",
               "hidden": true
             },
             {
-              "answer": "dunēsesthon",
+              "answer": "dunesesthon/dynisesthon/dinisesthon",
               "display": "δυνήσεσθον",
               "hidden": true
             }
@@ -5348,12 +5348,12 @@
         "cells": [
           [
             {
-              "answer": "edunēthēn/edunasthēn",
+              "answer": "edunethen/edunasthen/edynithin/edinithin/edynasthin/edinasthin",
               "display": "ἐδυνήθην/ἐδυνάσθην",
               "hidden": false
             },
             {
-              "answer": "edunēthēmen",
+              "answer": "edunethemen/edynithimen/edinithimen",
               "display": "ἐδυνήθημεν",
               "hidden": false
             },
@@ -5364,34 +5364,34 @@
           ],
           [
             {
-              "answer": "edunēthēs",
+              "answer": "edunethes/edynithis/edinithis",
               "display": "ἐδυνήθης",
               "hidden": true
             },
             {
-              "answer": "edunēthēte",
+              "answer": "edunethete/edynithite/edinithite",
               "display": "ἐδυνήθητε",
               "hidden": true
             },
             {
-              "answer": "edunēthēton",
+              "answer": "edunetheton/edynithiton/edinithiton",
               "display": "ἐδυνήθητον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "edunēthē",
+              "answer": "edunethe/edynithi/edinithi",
               "display": "ἐδυνήθη",
               "hidden": true
             },
             {
-              "answer": "edunēthēsan",
+              "answer": "edunethesan/edynithisan/edinithisan",
               "display": "ἐδυνήθησαν",
               "hidden": true
             },
             {
-              "answer": "edunēthētēn",
+              "answer": "edunetheten/edynithitin/edinithitin",
               "display": "ἐδυνηθήτην",
               "hidden": true
             }
@@ -5413,12 +5413,12 @@
         "cells": [
           [
             {
-              "answer": "dedunēmai",
+              "answer": "dedunemai/dedynimai/dedinimai",
               "display": "δεδύνημαι",
               "hidden": false
             },
             {
-              "answer": "dedunēmetha",
+              "answer": "dedunemetha/dedynimetha/dedinimetha",
               "display": "δεδυνήμεθα",
               "hidden": false
             },
@@ -5429,34 +5429,34 @@
           ],
           [
             {
-              "answer": "dedunēsai",
+              "answer": "dedunesai/dedynisai/dedinisai",
               "display": "δεδύνησαι",
               "hidden": true
             },
             {
-              "answer": "dedunēsthe",
+              "answer": "dedunesthe/dedynisthe/dedinisthe",
               "display": "δεδύνησθε",
               "hidden": true
             },
             {
-              "answer": "dedunēsthon",
+              "answer": "dedunesthon/dedynisthon/dedinisthon",
               "display": "δεδύνησθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dedunētai",
+              "answer": "dedunetai/dedynitai/dedinitai",
               "display": "δεδύνηται",
               "hidden": true
             },
             {
-              "answer": "dedunēntai",
+              "answer": "dedunentai/dedynintai/dedinintai",
               "display": "δεδύνηνται",
               "hidden": true
             },
             {
-              "answer": "dedunēsthon",
+              "answer": "dedunesthon/dedynisthon/dedinisthon",
               "display": "δεδύνησθον",
               "hidden": true
             }
@@ -5478,12 +5478,12 @@
         "cells": [
           [
             {
-              "answer": "dunōmai",
+              "answer": "dunomai/dynomai/dinomai",
               "display": "δύνωμαι",
               "hidden": false
             },
             {
-              "answer": "dunōmetha",
+              "answer": "dunometha/dynometha/dinometha",
               "display": "δυνώμεθα",
               "hidden": false
             },
@@ -5494,34 +5494,34 @@
           ],
           [
             {
-              "answer": "dunēi",
+              "answer": "dunei/dyni/dini",
               "display": "δύνῃ",
               "hidden": true
             },
             {
-              "answer": "dunēsthe",
+              "answer": "dunesthe/dynisthe/dinisthe",
               "display": "δύνησθε",
               "hidden": true
             },
             {
-              "answer": "dunēsthon",
+              "answer": "dunesthon/dynisthon/dinisthon",
               "display": "δύνησθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dunētai",
+              "answer": "dunetai/dynitai/dinitai",
               "display": "δύνηται",
               "hidden": true
             },
             {
-              "answer": "dunōntai",
+              "answer": "dunontai/dynontai/dinontai",
               "display": "δύνωνται",
               "hidden": true
             },
             {
-              "answer": "dunēsthon",
+              "answer": "dunesthon/dynisthon/dinisthon",
               "display": "δύνησθον",
               "hidden": true
             }
@@ -5543,12 +5543,12 @@
         "cells": [
           [
             {
-              "answer": "dunēthō",
+              "answer": "dunetho/dynitho/dinitho",
               "display": "δυνηθῶ",
               "hidden": false
             },
             {
-              "answer": "dunēthōmen",
+              "answer": "dunethomen/dynithomen/dinithomen",
               "display": "δυνηθῶμεν",
               "hidden": false
             },
@@ -5559,34 +5559,34 @@
           ],
           [
             {
-              "answer": "dunēthēis",
+              "answer": "dunetheis/dynithis/dinithis",
               "display": "δυνηθῇς",
               "hidden": true
             },
             {
-              "answer": "dunēthēte",
+              "answer": "dunethete/dynithite/dinithite",
               "display": "δυνηθῆτε",
               "hidden": true
             },
             {
-              "answer": "dunēthēton",
+              "answer": "dunetheton/dynithiton/dinithiton",
               "display": "δυνηθῆτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dunēthēi",
+              "answer": "dunethei/dynithi/dinithi",
               "display": "δυνηθῇ",
               "hidden": true
             },
             {
-              "answer": "dunēthōsi/dunēthōsin",
+              "answer": "dunethosi/dunethosin/dynithosi/dinithosi/dynithosin/dinithosin",
               "display": "δυνηθῶσι(ν)",
               "hidden": true
             },
             {
-              "answer": "dunēthēton",
+              "answer": "dunetheton/dynithiton/dinithiton",
               "display": "δυνηθῆτον",
               "hidden": true
             }
@@ -5608,12 +5608,12 @@
         "cells": [
           [
             {
-              "answer": "dunaimēn",
+              "answer": "dunaimen/dynaimin/dinaimin",
               "display": "δυναίμην",
               "hidden": false
             },
             {
-              "answer": "dunaimetha",
+              "answer": "dunaimetha/dynaimetha/dinaimetha",
               "display": "δυναίμεθα",
               "hidden": false
             },
@@ -5624,34 +5624,34 @@
           ],
           [
             {
-              "answer": "dunaio",
+              "answer": "dunaio/dynaio/dinaio",
               "display": "δύναιο",
               "hidden": true
             },
             {
-              "answer": "dunaisthe",
+              "answer": "dunaisthe/dynaisthe/dinaisthe",
               "display": "δύναισθε",
               "hidden": true
             },
             {
-              "answer": "dunaisthon",
+              "answer": "dunaisthon/dynaisthon/dinaisthon",
               "display": "δύναισθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dunaito",
+              "answer": "dunaito/dynaito/dinaito",
               "display": "δύναιτο",
               "hidden": true
             },
             {
-              "answer": "dunainto",
+              "answer": "dunainto/dynainto/dinainto",
               "display": "δύναιντο",
               "hidden": true
             },
             {
-              "answer": "dunaisthēn",
+              "answer": "dunaisthen/dynaisthin/dinaisthin",
               "display": "δυναίσθην",
               "hidden": true
             }
@@ -5673,12 +5673,12 @@
         "cells": [
           [
             {
-              "answer": "dunētheiēn",
+              "answer": "dunetheien/dynitheiin/dinithiin",
               "display": "δυνηθείην",
               "hidden": false
             },
             {
-              "answer": "dunētheimen",
+              "answer": "dunetheimen/dynitheimen/dinithimen",
               "display": "δυνηθεῖμεν",
               "hidden": false
             },
@@ -5689,34 +5689,34 @@
           ],
           [
             {
-              "answer": "dunētheiēs",
+              "answer": "dunetheies/dynitheiis/dinithiis",
               "display": "δυνηθείης",
               "hidden": true
             },
             {
-              "answer": "dunētheite",
+              "answer": "dunetheite/dynitheite/dinithite",
               "display": "δυνηθεῖτε",
               "hidden": true
             },
             {
-              "answer": "dunētheiēton",
+              "answer": "dunetheieton/dynitheiiton/dinithiiton",
               "display": "δυνηθείητον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dunētheiē",
+              "answer": "dunetheie/dynitheii/dinithii",
               "display": "δυνηθείη",
               "hidden": true
             },
             {
-              "answer": "dunētheien",
+              "answer": "dunetheien/dynitheien/dinithien",
               "display": "δυνηθεῖεν",
               "hidden": true
             },
             {
-              "answer": "dunētheiētēn",
+              "answer": "dunetheieten/dynitheiitin/dinithiitin",
               "display": "δυνηθειήτην",
               "hidden": true
             }
@@ -5736,21 +5736,21 @@
         "cells": [
           [
             {
-              "answer": "dunasthai",
+              "answer": "dunasthai/dynasthai/dinasthai",
               "display": "δύνασθαι",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "dunēthēnai",
+              "answer": "dunethenai/dynithinai/dinithinai",
               "display": "δυνηθῆναι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "dedunēsthai",
+              "answer": "dedunesthai/dedynisthai/dedinisthai",
               "display": "δεδυνῆσθαι",
               "hidden": true
             }
@@ -5771,34 +5771,34 @@
         "cells": [
           [
             {
-              "answer": "dunamenos",
+              "answer": "dunamenos/dynamenos/dinamenos",
               "display": "δυνάμενος",
               "hidden": false
             },
             {
-              "answer": "dunamenē",
+              "answer": "dunamene/dynameni/dinameni",
               "display": "δυναμένη",
               "hidden": false
             },
             {
-              "answer": "dunamenon",
+              "answer": "dunamenon/dynamenon/dinamenon",
               "display": "δυνάμενον",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "dunētheis",
+              "answer": "dunetheis/dynitheis/dinithis",
               "display": "δυνηθείς",
               "hidden": true
             },
             {
-              "answer": "dunētheisa",
+              "answer": "dunetheisa/dynitheisa/dinithisa",
               "display": "δυνηθεῖσα",
               "hidden": true
             },
             {
-              "answer": "dunēthen",
+              "answer": "dunethen/dynithen/dinithen",
               "display": "δυνηθέν",
               "hidden": true
             }
@@ -5809,8 +5809,8 @@
   },
   {
     "id": "greek-lyo",
-    "word": "λύω (luō)",
-    "language": "Ancient Greek (romanised)",
+    "word": "λύω (luo)",
+    "language": "Ancient Greek",
     "category": "verb · thematic (λύω), full conjugation",
     "matrices": [
       {
@@ -5828,12 +5828,12 @@
         "cells": [
           [
             {
-              "answer": "luō",
+              "answer": "luo/lyo/lio",
               "display": "λύω",
               "hidden": false
             },
             {
-              "answer": "luomen",
+              "answer": "luomen/lyomen/liomen",
               "display": "λύομεν",
               "hidden": false
             },
@@ -5844,34 +5844,34 @@
           ],
           [
             {
-              "answer": "lueis",
+              "answer": "lueis/lyeis/liis",
               "display": "λύεις",
               "hidden": true
             },
             {
-              "answer": "luete",
+              "answer": "luete/lyete/liete",
               "display": "λύετε",
               "hidden": true
             },
             {
-              "answer": "lueton",
+              "answer": "lueton/lyeton/lieton",
               "display": "λύετον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luei",
+              "answer": "luei/lyei/lii",
               "display": "λύει",
               "hidden": true
             },
             {
-              "answer": "luousi/luousin",
+              "answer": "luousi/luousin/lyousi/liousi/lyousin/liousin",
               "display": "λύουσι(ν)",
               "hidden": true
             },
             {
-              "answer": "lueton",
+              "answer": "lueton/lyeton/lieton",
               "display": "λύετον",
               "hidden": true
             }
@@ -5893,12 +5893,12 @@
         "cells": [
           [
             {
-              "answer": "eluon",
+              "answer": "eluon/elyon/elion",
               "display": "ἔλυον",
               "hidden": false
             },
             {
-              "answer": "eluomen",
+              "answer": "eluomen/elyomen/eliomen",
               "display": "ἐλύομεν",
               "hidden": false
             },
@@ -5909,34 +5909,34 @@
           ],
           [
             {
-              "answer": "elues",
+              "answer": "elues/elyes/elies",
               "display": "ἔλυες",
               "hidden": true
             },
             {
-              "answer": "eluete",
+              "answer": "eluete/elyete/eliete",
               "display": "ἐλύετε",
               "hidden": true
             },
             {
-              "answer": "elueton",
+              "answer": "elueton/elyeton/elieton",
               "display": "ἐλύετον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "elue/eluen",
+              "answer": "elue/eluen/elye/elie/elyen/elien",
               "display": "ἔλυε(ν)",
               "hidden": true
             },
             {
-              "answer": "eluon",
+              "answer": "eluon/elyon/elion",
               "display": "ἔλυον",
               "hidden": true
             },
             {
-              "answer": "eluetēn",
+              "answer": "elueten/elyetin/elietin",
               "display": "ἐλυέτην",
               "hidden": true
             }
@@ -5958,12 +5958,12 @@
         "cells": [
           [
             {
-              "answer": "lusō",
+              "answer": "luso/lyso/liso",
               "display": "λύσω",
               "hidden": false
             },
             {
-              "answer": "lusomen",
+              "answer": "lusomen/lysomen/lisomen",
               "display": "λύσομεν",
               "hidden": false
             },
@@ -5974,34 +5974,34 @@
           ],
           [
             {
-              "answer": "luseis",
+              "answer": "luseis/lyseis/lisis",
               "display": "λύσεις",
               "hidden": true
             },
             {
-              "answer": "lusete",
+              "answer": "lusete/lysete/lisete",
               "display": "λύσετε",
               "hidden": true
             },
             {
-              "answer": "luseton",
+              "answer": "luseton/lyseton/liseton",
               "display": "λύσετον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusei",
+              "answer": "lusei/lysei/lisi",
               "display": "λύσει",
               "hidden": true
             },
             {
-              "answer": "lusousi/lusousin",
+              "answer": "lusousi/lusousin/lysousi/lisousi/lysousin/lisousin",
               "display": "λύσουσι(ν)",
               "hidden": true
             },
             {
-              "answer": "luseton",
+              "answer": "luseton/lyseton/liseton",
               "display": "λύσετον",
               "hidden": true
             }
@@ -6023,12 +6023,12 @@
         "cells": [
           [
             {
-              "answer": "elusa",
+              "answer": "elusa/elysa/elisa",
               "display": "ἔλυσα",
               "hidden": false
             },
             {
-              "answer": "elusamen",
+              "answer": "elusamen/elysamen/elisamen",
               "display": "ἐλύσαμεν",
               "hidden": false
             },
@@ -6039,34 +6039,34 @@
           ],
           [
             {
-              "answer": "elusas",
+              "answer": "elusas/elysas/elisas",
               "display": "ἔλυσας",
               "hidden": true
             },
             {
-              "answer": "elusate",
+              "answer": "elusate/elysate/elisate",
               "display": "ἐλύσατε",
               "hidden": true
             },
             {
-              "answer": "elusaton",
+              "answer": "elusaton/elysaton/elisaton",
               "display": "ἐλύσατον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "eluse/elusen",
+              "answer": "eluse/elusen/elyse/elise/elysen/elisen",
               "display": "ἔλυσε(ν)",
               "hidden": true
             },
             {
-              "answer": "elusan",
+              "answer": "elusan/elysan/elisan",
               "display": "ἔλυσαν",
               "hidden": true
             },
             {
-              "answer": "elusatēn",
+              "answer": "elusaten/elysatin/elisatin",
               "display": "ἐλυσάτην",
               "hidden": true
             }
@@ -6088,12 +6088,12 @@
         "cells": [
           [
             {
-              "answer": "leluka",
+              "answer": "leluka/lelyka/lelika",
               "display": "λέλυκα",
               "hidden": false
             },
             {
-              "answer": "lelukamen",
+              "answer": "lelukamen/lelykamen/lelikamen",
               "display": "λελύκαμεν",
               "hidden": false
             },
@@ -6104,34 +6104,34 @@
           ],
           [
             {
-              "answer": "lelukas",
+              "answer": "lelukas/lelykas/lelikas",
               "display": "λέλυκας",
               "hidden": true
             },
             {
-              "answer": "lelukate",
+              "answer": "lelukate/lelykate/lelikate",
               "display": "λελύκατε",
               "hidden": true
             },
             {
-              "answer": "lelukaton",
+              "answer": "lelukaton/lelykaton/lelikaton",
               "display": "λελύκατον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "leluke/leluken",
+              "answer": "leluke/leluken/lelyke/lelike/lelyken/leliken",
               "display": "λέλυκε(ν)",
               "hidden": true
             },
             {
-              "answer": "lelukasi/lelukasin",
+              "answer": "lelukasi/lelukasin/lelykasi/lelikasi/lelykasin/lelikasin",
               "display": "λελύκασι(ν)",
               "hidden": true
             },
             {
-              "answer": "lelukaton",
+              "answer": "lelukaton/lelykaton/lelikaton",
               "display": "λελύκατον",
               "hidden": true
             }
@@ -6153,12 +6153,12 @@
         "cells": [
           [
             {
-              "answer": "elelukein/elelukē",
+              "answer": "elelukein/eleluke/elelykein/elelikin/elelyki/eleliki",
               "display": "ἐλελύκειν/ἐλελύκη",
               "hidden": false
             },
             {
-              "answer": "elelukemen",
+              "answer": "elelukemen/elelykemen/elelikemen",
               "display": "ἐλελύκεμεν",
               "hidden": false
             },
@@ -6169,34 +6169,34 @@
           ],
           [
             {
-              "answer": "elelukeis/elelukēs",
+              "answer": "elelukeis/elelukes/elelykeis/elelikis/elelykis",
               "display": "ἐλελύκεις/ἐλελύκης",
               "hidden": true
             },
             {
-              "answer": "elelukete",
+              "answer": "elelukete/elelykete/elelikete",
               "display": "ἐλελύκετε",
               "hidden": true
             },
             {
-              "answer": "eleluketon",
+              "answer": "eleluketon/elelyketon/eleliketon",
               "display": "ἐλελύκετον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "elelukei/elelukein",
+              "answer": "elelukei/elelukein/elelykei/eleliki/elelykein/elelikin",
               "display": "ἐλελύκει(ν)",
               "hidden": true
             },
             {
-              "answer": "elelukesan",
+              "answer": "elelukesan/elelykesan/elelikesan",
               "display": "ἐλελύκεσαν",
               "hidden": true
             },
             {
-              "answer": "eleluketēn",
+              "answer": "eleluketen/elelyketin/eleliketin",
               "display": "ἐλελυκέτην",
               "hidden": true
             }
@@ -6218,12 +6218,12 @@
         "cells": [
           [
             {
-              "answer": "luomai",
+              "answer": "luomai/lyomai/liomai",
               "display": "λύομαι",
               "hidden": false
             },
             {
-              "answer": "luometha",
+              "answer": "luometha/lyometha/liometha",
               "display": "λυόμεθα",
               "hidden": false
             },
@@ -6234,34 +6234,34 @@
           ],
           [
             {
-              "answer": "luēi/luei",
+              "answer": "luei/lyi/lii/lyei",
               "display": "λύῃ/λύει",
               "hidden": true
             },
             {
-              "answer": "luesthe",
+              "answer": "luesthe/lyesthe/liesthe",
               "display": "λύεσθε",
               "hidden": true
             },
             {
-              "answer": "luesthon",
+              "answer": "luesthon/lyesthon/liesthon",
               "display": "λύεσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luetai",
+              "answer": "luetai/lyetai/lietai",
               "display": "λύεται",
               "hidden": true
             },
             {
-              "answer": "luontai",
+              "answer": "luontai/lyontai/liontai",
               "display": "λύονται",
               "hidden": true
             },
             {
-              "answer": "luesthon",
+              "answer": "luesthon/lyesthon/liesthon",
               "display": "λύεσθον",
               "hidden": true
             }
@@ -6283,12 +6283,12 @@
         "cells": [
           [
             {
-              "answer": "eluomēn",
+              "answer": "eluomen/elyomin/eliomin",
               "display": "ἐλυόμην",
               "hidden": false
             },
             {
-              "answer": "eluometha",
+              "answer": "eluometha/elyometha/eliometha",
               "display": "ἐλυόμεθα",
               "hidden": false
             },
@@ -6299,34 +6299,34 @@
           ],
           [
             {
-              "answer": "eluou",
+              "answer": "eluou/elyou/eliou",
               "display": "ἐλύου",
               "hidden": true
             },
             {
-              "answer": "eluesthe",
+              "answer": "eluesthe/elyesthe/eliesthe",
               "display": "ἐλύεσθε",
               "hidden": true
             },
             {
-              "answer": "eluesthon",
+              "answer": "eluesthon/elyesthon/eliesthon",
               "display": "ἐλύεσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "elueto",
+              "answer": "elueto/elyeto/elieto",
               "display": "ἐλύετο",
               "hidden": true
             },
             {
-              "answer": "eluonto",
+              "answer": "eluonto/elyonto/elionto",
               "display": "ἐλύοντο",
               "hidden": true
             },
             {
-              "answer": "eluesthēn",
+              "answer": "eluesthen/elyesthin/eliesthin",
               "display": "ἐλυέσθην",
               "hidden": true
             }
@@ -6348,12 +6348,12 @@
         "cells": [
           [
             {
-              "answer": "lusomai",
+              "answer": "lusomai/lysomai/lisomai",
               "display": "λύσομαι",
               "hidden": false
             },
             {
-              "answer": "lusometha",
+              "answer": "lusometha/lysometha/lisometha",
               "display": "λυσόμεθα",
               "hidden": false
             },
@@ -6364,34 +6364,34 @@
           ],
           [
             {
-              "answer": "lusēi/lusei",
+              "answer": "lusei/lysi/lisi/lysei",
               "display": "λύσῃ/λύσει",
               "hidden": true
             },
             {
-              "answer": "lusesthe",
+              "answer": "lusesthe/lysesthe/lisesthe",
               "display": "λύσεσθε",
               "hidden": true
             },
             {
-              "answer": "lusesthon",
+              "answer": "lusesthon/lysesthon/lisesthon",
               "display": "λύσεσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusetai",
+              "answer": "lusetai/lysetai/lisetai",
               "display": "λύσεται",
               "hidden": true
             },
             {
-              "answer": "lusontai",
+              "answer": "lusontai/lysontai/lisontai",
               "display": "λύσονται",
               "hidden": true
             },
             {
-              "answer": "lusesthon",
+              "answer": "lusesthon/lysesthon/lisesthon",
               "display": "λύσεσθον",
               "hidden": true
             }
@@ -6413,12 +6413,12 @@
         "cells": [
           [
             {
-              "answer": "elusamēn",
+              "answer": "elusamen/elysamin/elisamin",
               "display": "ἐλυσάμην",
               "hidden": false
             },
             {
-              "answer": "elusametha",
+              "answer": "elusametha/elysametha/elisametha",
               "display": "ἐλυσάμεθα",
               "hidden": false
             },
@@ -6429,34 +6429,34 @@
           ],
           [
             {
-              "answer": "elusō",
+              "answer": "eluso/elyso/eliso",
               "display": "ἐλύσω",
               "hidden": true
             },
             {
-              "answer": "elusasthe",
+              "answer": "elusasthe/elysasthe/elisasthe",
               "display": "ἐλύσασθε",
               "hidden": true
             },
             {
-              "answer": "elusasthon",
+              "answer": "elusasthon/elysasthon/elisasthon",
               "display": "ἐλύσασθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "elusato",
+              "answer": "elusato/elysato/elisato",
               "display": "ἐλύσατο",
               "hidden": true
             },
             {
-              "answer": "elusanto",
+              "answer": "elusanto/elysanto/elisanto",
               "display": "ἐλύσαντο",
               "hidden": true
             },
             {
-              "answer": "elusasthēn",
+              "answer": "elusasthen/elysasthin/elisasthin",
               "display": "ἐλυσάσθην",
               "hidden": true
             }
@@ -6478,12 +6478,12 @@
         "cells": [
           [
             {
-              "answer": "lelumai",
+              "answer": "lelumai/lelymai/lelimai",
               "display": "λέλυμαι",
               "hidden": false
             },
             {
-              "answer": "lelumetha",
+              "answer": "lelumetha/lelymetha/lelimetha",
               "display": "λελύμεθα",
               "hidden": false
             },
@@ -6494,34 +6494,34 @@
           ],
           [
             {
-              "answer": "lelusai",
+              "answer": "lelusai/lelysai/lelisai",
               "display": "λέλυσαι",
               "hidden": true
             },
             {
-              "answer": "lelusthe",
+              "answer": "lelusthe/lelysthe/lelisthe",
               "display": "λέλυσθε",
               "hidden": true
             },
             {
-              "answer": "lelusthon",
+              "answer": "lelusthon/lelysthon/lelisthon",
               "display": "λέλυσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lelutai",
+              "answer": "lelutai/lelytai/lelitai",
               "display": "λέλυται",
               "hidden": true
             },
             {
-              "answer": "leluntai",
+              "answer": "leluntai/lelyntai/lelintai",
               "display": "λέλυνται",
               "hidden": true
             },
             {
-              "answer": "lelusthon",
+              "answer": "lelusthon/lelysthon/lelisthon",
               "display": "λέλυσθον",
               "hidden": true
             }
@@ -6543,12 +6543,12 @@
         "cells": [
           [
             {
-              "answer": "elelumēn",
+              "answer": "elelumen/elelymin/elelimin",
               "display": "ἐλελύμην",
               "hidden": false
             },
             {
-              "answer": "elelumetha",
+              "answer": "elelumetha/elelymetha/elelimetha",
               "display": "ἐλελύμεθα",
               "hidden": false
             },
@@ -6559,34 +6559,34 @@
           ],
           [
             {
-              "answer": "eleluso",
+              "answer": "eleluso/elelyso/eleliso",
               "display": "ἐλέλυσο",
               "hidden": true
             },
             {
-              "answer": "elelusthe",
+              "answer": "elelusthe/elelysthe/elelisthe",
               "display": "ἐλέλυσθε",
               "hidden": true
             },
             {
-              "answer": "elelusthon",
+              "answer": "elelusthon/elelysthon/elelisthon",
               "display": "ἐλέλυσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "eleluto",
+              "answer": "eleluto/elelyto/elelito",
               "display": "ἐλέλυτο",
               "hidden": true
             },
             {
-              "answer": "elelunto",
+              "answer": "elelunto/elelynto/elelinto",
               "display": "ἐλέλυντο",
               "hidden": true
             },
             {
-              "answer": "elelusthēn",
+              "answer": "elelusthen/elelysthin/elelisthin",
               "display": "ἐλελύσθην",
               "hidden": true
             }
@@ -6608,12 +6608,12 @@
         "cells": [
           [
             {
-              "answer": "eluthēn",
+              "answer": "eluthen/elythin/elithin",
               "display": "ἐλύθην",
               "hidden": false
             },
             {
-              "answer": "eluthēmen",
+              "answer": "eluthemen/elythimen/elithimen",
               "display": "ἐλύθημεν",
               "hidden": false
             },
@@ -6624,34 +6624,34 @@
           ],
           [
             {
-              "answer": "eluthēs",
+              "answer": "eluthes/elythis/elithis",
               "display": "ἐλύθης",
               "hidden": true
             },
             {
-              "answer": "eluthēte",
+              "answer": "eluthete/elythite/elithite",
               "display": "ἐλύθητε",
               "hidden": true
             },
             {
-              "answer": "eluthēton",
+              "answer": "elutheton/elythiton/elithiton",
               "display": "ἐλύθητον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "eluthē",
+              "answer": "eluthe/elythi/elithi",
               "display": "ἐλύθη",
               "hidden": true
             },
             {
-              "answer": "eluthēsan",
+              "answer": "eluthesan/elythisan/elithisan",
               "display": "ἐλύθησαν",
               "hidden": true
             },
             {
-              "answer": "eluthētēn",
+              "answer": "elutheten/elythitin/elithitin",
               "display": "ἐλυθήτην",
               "hidden": true
             }
@@ -6673,12 +6673,12 @@
         "cells": [
           [
             {
-              "answer": "luthēsomai",
+              "answer": "luthesomai/lythisomai/lithisomai",
               "display": "λυθήσομαι",
               "hidden": false
             },
             {
-              "answer": "luthēsometha",
+              "answer": "luthesometha/lythisometha/lithisometha",
               "display": "λυθησόμεθα",
               "hidden": false
             },
@@ -6689,34 +6689,34 @@
           ],
           [
             {
-              "answer": "luthēsēi/luthēsei",
+              "answer": "luthesei/lythisi/lithisi/lythisei",
               "display": "λυθήσῃ/λυθήσει",
               "hidden": true
             },
             {
-              "answer": "luthēsesthe",
+              "answer": "luthesesthe/lythisesthe/lithisesthe",
               "display": "λυθήσεσθε",
               "hidden": true
             },
             {
-              "answer": "luthēsesthon",
+              "answer": "luthesesthon/lythisesthon/lithisesthon",
               "display": "λυθήσεσθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luthēsetai",
+              "answer": "luthesetai/lythisetai/lithisetai",
               "display": "λυθήσεται",
               "hidden": true
             },
             {
-              "answer": "luthēsontai",
+              "answer": "luthesontai/lythisontai/lithisontai",
               "display": "λυθήσονται",
               "hidden": true
             },
             {
-              "answer": "luthēsesthon",
+              "answer": "luthesesthon/lythisesthon/lithisesthon",
               "display": "λυθήσεσθον",
               "hidden": true
             }
@@ -6738,51 +6738,51 @@
         "cells": [
           [
             {
-              "answer": "luō",
+              "answer": "luo/lyo/lio",
               "display": "λύω",
               "hidden": false
             },
             {
-              "answer": "luōmen",
+              "answer": "luomen/lyomen/liomen",
               "display": "λύωμεν",
               "hidden": false
             },
             {
-              "answer": "luēton",
+              "answer": "lueton/lyiton/liiton",
               "display": "λύητον",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "luēis",
+              "answer": "lueis/lyis/liis",
               "display": "λύῃς",
               "hidden": true
             },
             {
-              "answer": "luēte",
+              "answer": "luete/lyite/liite",
               "display": "λύητε",
               "hidden": true
             },
             {
-              "answer": "luēton",
+              "answer": "lueton/lyiton/liiton",
               "display": "λύητον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luēi",
+              "answer": "luei/lyi/lii",
               "display": "λύῃ",
               "hidden": true
             },
             {
-              "answer": "luōsi/luōsin",
+              "answer": "luosi/luosin/lyosi/liosi/lyosin/liosin",
               "display": "λύωσι(ν)",
               "hidden": true
             },
             {
-              "answer": "luēton",
+              "answer": "lueton/lyiton/liiton",
               "display": "λύητον",
               "hidden": true
             }
@@ -6804,51 +6804,51 @@
         "cells": [
           [
             {
-              "answer": "lusō",
+              "answer": "luso/lyso/liso",
               "display": "λύσω",
               "hidden": false
             },
             {
-              "answer": "lusōmen",
+              "answer": "lusomen/lysomen/lisomen",
               "display": "λύσωμεν",
               "hidden": false
             },
             {
-              "answer": "lusēton",
+              "answer": "luseton/lysiton/lisiton",
               "display": "λύσητον",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "lusēis",
+              "answer": "luseis/lysis/lisis",
               "display": "λύσῃς",
               "hidden": true
             },
             {
-              "answer": "lusēte",
+              "answer": "lusete/lysite/lisite",
               "display": "λύσητε",
               "hidden": true
             },
             {
-              "answer": "lusēton",
+              "answer": "luseton/lysiton/lisiton",
               "display": "λύσητον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusēi",
+              "answer": "lusei/lysi/lisi",
               "display": "λύσῃ",
               "hidden": true
             },
             {
-              "answer": "lusōsi/lusōsin",
+              "answer": "lusosi/lusosin/lysosi/lisosi/lysosin/lisosin",
               "display": "λύσωσι(ν)",
               "hidden": true
             },
             {
-              "answer": "lusēton",
+              "answer": "luseton/lysiton/lisiton",
               "display": "λύσητον",
               "hidden": true
             }
@@ -6870,51 +6870,51 @@
         "cells": [
           [
             {
-              "answer": "luōmai",
+              "answer": "luomai/lyomai/liomai",
               "display": "λύωμαι",
               "hidden": false
             },
             {
-              "answer": "luōmetha",
+              "answer": "luometha/lyometha/liometha",
               "display": "λυώμεθα",
               "hidden": false
             },
             {
-              "answer": "luēsthon",
+              "answer": "luesthon/lyisthon/liisthon",
               "display": "λύησθον",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "luēi",
+              "answer": "luei/lyi/lii",
               "display": "λύῃ",
               "hidden": true
             },
             {
-              "answer": "luēsthe",
+              "answer": "luesthe/lyisthe/liisthe",
               "display": "λύησθε",
               "hidden": true
             },
             {
-              "answer": "luēsthon",
+              "answer": "luesthon/lyisthon/liisthon",
               "display": "λύησθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luētai",
+              "answer": "luetai/lyitai/liitai",
               "display": "λύηται",
               "hidden": true
             },
             {
-              "answer": "luōntai",
+              "answer": "luontai/lyontai/liontai",
               "display": "λύωνται",
               "hidden": true
             },
             {
-              "answer": "luēsthon",
+              "answer": "luesthon/lyisthon/liisthon",
               "display": "λύησθον",
               "hidden": true
             }
@@ -6936,51 +6936,51 @@
         "cells": [
           [
             {
-              "answer": "lusōmai",
+              "answer": "lusomai/lysomai/lisomai",
               "display": "λύσωμαι",
               "hidden": false
             },
             {
-              "answer": "lusōmetha",
+              "answer": "lusometha/lysometha/lisometha",
               "display": "λυσώμεθα",
               "hidden": false
             },
             {
-              "answer": "lusēsthon",
+              "answer": "lusesthon/lysisthon/lisisthon",
               "display": "λύσησθον",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "lusēi",
+              "answer": "lusei/lysi/lisi",
               "display": "λύσῃ",
               "hidden": true
             },
             {
-              "answer": "lusēsthe",
+              "answer": "lusesthe/lysisthe/lisisthe",
               "display": "λύσησθε",
               "hidden": true
             },
             {
-              "answer": "lusēsthon",
+              "answer": "lusesthon/lysisthon/lisisthon",
               "display": "λύσησθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusētai",
+              "answer": "lusetai/lysitai/lisitai",
               "display": "λύσηται",
               "hidden": true
             },
             {
-              "answer": "lusōntai",
+              "answer": "lusontai/lysontai/lisontai",
               "display": "λύσωνται",
               "hidden": true
             },
             {
-              "answer": "lusēsthon",
+              "answer": "lusesthon/lysisthon/lisisthon",
               "display": "λύσησθον",
               "hidden": true
             }
@@ -7002,51 +7002,51 @@
         "cells": [
           [
             {
-              "answer": "luthō",
+              "answer": "lutho/lytho/litho",
               "display": "λυθῶ",
               "hidden": false
             },
             {
-              "answer": "luthōmen",
+              "answer": "luthomen/lythomen/lithomen",
               "display": "λυθῶμεν",
               "hidden": false
             },
             {
-              "answer": "luthēton",
+              "answer": "lutheton/lythiton/lithiton",
               "display": "λυθῆτον",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "luthēis",
+              "answer": "lutheis/lythis/lithis",
               "display": "λυθῇς",
               "hidden": true
             },
             {
-              "answer": "luthēte",
+              "answer": "luthete/lythite/lithite",
               "display": "λυθῆτε",
               "hidden": true
             },
             {
-              "answer": "luthēton",
+              "answer": "lutheton/lythiton/lithiton",
               "display": "λυθῆτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luthēi",
+              "answer": "luthei/lythi/lithi",
               "display": "λυθῇ",
               "hidden": true
             },
             {
-              "answer": "luthōsi/luthōsin",
+              "answer": "luthosi/luthosin/lythosi/lithosi/lythosin/lithosin",
               "display": "λυθῶσι(ν)",
               "hidden": true
             },
             {
-              "answer": "luthēton",
+              "answer": "lutheton/lythiton/lithiton",
               "display": "λυθῆτον",
               "hidden": true
             }
@@ -7068,51 +7068,51 @@
         "cells": [
           [
             {
-              "answer": "luoimi",
+              "answer": "luoimi/lyoimi/liimi",
               "display": "λύοιμι",
               "hidden": false
             },
             {
-              "answer": "luoimen",
+              "answer": "luoimen/lyoimen/liimen",
               "display": "λύοιμεν",
               "hidden": false
             },
             {
-              "answer": "luoiton",
+              "answer": "luoiton/lyoiton/liiton",
               "display": "λύοιτον",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "luois",
+              "answer": "luois/lyois/liis",
               "display": "λύοις",
               "hidden": true
             },
             {
-              "answer": "luoite",
+              "answer": "luoite/lyoite/liite",
               "display": "λύοιτε",
               "hidden": true
             },
             {
-              "answer": "luoiton",
+              "answer": "luoiton/lyoiton/liiton",
               "display": "λύοιτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luoi",
+              "answer": "luoi/lyoi/lii",
               "display": "λύοι",
               "hidden": true
             },
             {
-              "answer": "luoien",
+              "answer": "luoien/lyoien/liien",
               "display": "λύοιεν",
               "hidden": true
             },
             {
-              "answer": "luoitēn",
+              "answer": "luoiten/lyoitin/liitin",
               "display": "λυοίτην",
               "hidden": true
             }
@@ -7134,51 +7134,51 @@
         "cells": [
           [
             {
-              "answer": "lusaimi",
+              "answer": "lusaimi/lysaimi/lisaimi",
               "display": "λύσαιμι",
               "hidden": false
             },
             {
-              "answer": "lusaimen",
+              "answer": "lusaimen/lysaimen/lisaimen",
               "display": "λύσαιμεν",
               "hidden": false
             },
             {
-              "answer": "lusaiton",
+              "answer": "lusaiton/lysaiton/lisaiton",
               "display": "λύσαιτον",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "lusais",
+              "answer": "lusais/lysais/lisais",
               "display": "λύσαις",
               "hidden": true
             },
             {
-              "answer": "lusaite",
+              "answer": "lusaite/lysaite/lisaite",
               "display": "λύσαιτε",
               "hidden": true
             },
             {
-              "answer": "lusaiton",
+              "answer": "lusaiton/lysaiton/lisaiton",
               "display": "λύσαιτον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusai",
+              "answer": "lusai/lysai/lisai",
               "display": "λύσαι",
               "hidden": true
             },
             {
-              "answer": "lusaien",
+              "answer": "lusaien/lysaien/lisaien",
               "display": "λύσαιεν",
               "hidden": true
             },
             {
-              "answer": "lusaitēn",
+              "answer": "lusaiten/lysaitin/lisaitin",
               "display": "λυσαίτην",
               "hidden": true
             }
@@ -7200,51 +7200,51 @@
         "cells": [
           [
             {
-              "answer": "luoimēn",
+              "answer": "luoimen/lyoimin/liimin",
               "display": "λυοίμην",
               "hidden": false
             },
             {
-              "answer": "luoimetha",
+              "answer": "luoimetha/lyoimetha/liimetha",
               "display": "λυοίμεθα",
               "hidden": false
             },
             {
-              "answer": "luoisthon",
+              "answer": "luoisthon/lyoisthon/liisthon",
               "display": "λύοισθον",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "luoio",
+              "answer": "luoio/lyoio/liio",
               "display": "λύοιο",
               "hidden": true
             },
             {
-              "answer": "luoisthe",
+              "answer": "luoisthe/lyoisthe/liisthe",
               "display": "λύοισθε",
               "hidden": true
             },
             {
-              "answer": "luoisthon",
+              "answer": "luoisthon/lyoisthon/liisthon",
               "display": "λύοισθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luoito",
+              "answer": "luoito/lyoito/liito",
               "display": "λύοιτο",
               "hidden": true
             },
             {
-              "answer": "luointo",
+              "answer": "luointo/lyointo/liinto",
               "display": "λύοιντο",
               "hidden": true
             },
             {
-              "answer": "luoisthēn",
+              "answer": "luoisthen/lyoisthin/liisthin",
               "display": "λυοίσθην",
               "hidden": true
             }
@@ -7266,51 +7266,51 @@
         "cells": [
           [
             {
-              "answer": "lusaimēn",
+              "answer": "lusaimen/lysaimin/lisaimin",
               "display": "λυσαίμην",
               "hidden": false
             },
             {
-              "answer": "lusaimetha",
+              "answer": "lusaimetha/lysaimetha/lisaimetha",
               "display": "λυσαίμεθα",
               "hidden": false
             },
             {
-              "answer": "lusaisthon",
+              "answer": "lusaisthon/lysaisthon/lisaisthon",
               "display": "λύσαισθον",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "lusaio",
+              "answer": "lusaio/lysaio/lisaio",
               "display": "λύσαιο",
               "hidden": true
             },
             {
-              "answer": "lusaisthe",
+              "answer": "lusaisthe/lysaisthe/lisaisthe",
               "display": "λύσαισθε",
               "hidden": true
             },
             {
-              "answer": "lusaisthon",
+              "answer": "lusaisthon/lysaisthon/lisaisthon",
               "display": "λύσαισθον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusaito",
+              "answer": "lusaito/lysaito/lisaito",
               "display": "λύσαιτο",
               "hidden": true
             },
             {
-              "answer": "lusainto",
+              "answer": "lusainto/lysainto/lisainto",
               "display": "λύσαιντο",
               "hidden": true
             },
             {
-              "answer": "lusaisthēn",
+              "answer": "lusaisthen/lysaisthin/lisaisthin",
               "display": "λυσαίσθην",
               "hidden": true
             }
@@ -7332,51 +7332,51 @@
         "cells": [
           [
             {
-              "answer": "lutheiēn",
+              "answer": "lutheien/lytheiin/lithiin",
               "display": "λυθείην",
               "hidden": false
             },
             {
-              "answer": "lutheimen",
+              "answer": "lutheimen/lytheimen/lithimen",
               "display": "λυθεῖμεν",
               "hidden": false
             },
             {
-              "answer": "lutheiēton",
+              "answer": "lutheieton/lytheiiton/lithiiton",
               "display": "λυθείητον",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "lutheiēs",
+              "answer": "lutheies/lytheiis/lithiis",
               "display": "λυθείης",
               "hidden": true
             },
             {
-              "answer": "lutheite",
+              "answer": "lutheite/lytheite/lithite",
               "display": "λυθεῖτε",
               "hidden": true
             },
             {
-              "answer": "lutheiēton",
+              "answer": "lutheieton/lytheiiton/lithiiton",
               "display": "λυθείητον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lutheiē",
+              "answer": "lutheie/lytheii/lithii",
               "display": "λυθείη",
               "hidden": true
             },
             {
-              "answer": "lutheien",
+              "answer": "lutheien/lytheien/lithien",
               "display": "λυθεῖεν",
               "hidden": true
             },
             {
-              "answer": "lutheiētēn",
+              "answer": "lutheieten/lytheiitin/lithiitin",
               "display": "λυθειήτην",
               "hidden": true
             }
@@ -7413,140 +7413,140 @@
         "cells": [
           [
             {
-              "answer": "lue",
+              "answer": "lue/lye/lie",
               "display": "λῦε",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "luetō",
+              "answer": "lueto/lyeto/lieto",
               "display": "λυέτω",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luete",
+              "answer": "luete/lyete/liete",
               "display": "λύετε",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luontōn",
+              "answer": "luonton/lyonton/lionton",
               "display": "λυόντων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luson",
+              "answer": "luson/lyson/lison",
               "display": "λῦσον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusatō",
+              "answer": "lusato/lysato/lisato",
               "display": "λυσάτω",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusate",
+              "answer": "lusate/lysate/lisate",
               "display": "λύσατε",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusantōn",
+              "answer": "lusanton/lysanton/lisanton",
               "display": "λυσάντων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luou",
+              "answer": "luou/lyou/liou",
               "display": "λύου",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luesthō",
+              "answer": "luestho/lyestho/liestho",
               "display": "λυέσθω",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luesthe",
+              "answer": "luesthe/lyesthe/liesthe",
               "display": "λύεσθε",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luesthōn",
+              "answer": "luesthon/lyesthon/liesthon",
               "display": "λυέσθων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusai",
+              "answer": "lusai/lysai/lisai",
               "display": "λῦσαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusasthō",
+              "answer": "lusastho/lysastho/lisastho",
               "display": "λυσάσθω",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusasthe",
+              "answer": "lusasthe/lysasthe/lisasthe",
               "display": "λύσασθε",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusasthōn",
+              "answer": "lusasthon/lysasthon/lisasthon",
               "display": "λυσάσθων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luthēti",
+              "answer": "lutheti/lythiti/lithiti",
               "display": "λύθητι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luthētō",
+              "answer": "lutheto/lythito/lithito",
               "display": "λυθήτω",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luthēte",
+              "answer": "luthete/lythite/lithite",
               "display": "λύθητε",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luthentōn",
+              "answer": "luthenton/lythenton/lithenton",
               "display": "λυθέντων",
               "hidden": true
             }
@@ -7575,170 +7575,170 @@
         "cells": [
           [
             {
-              "answer": "luōn",
+              "answer": "luon/lyon/lion",
               "display": "λύων",
               "hidden": false
             },
             {
-              "answer": "luousa",
+              "answer": "luousa/lyousa/liousa",
               "display": "λύουσα",
               "hidden": false
             },
             {
-              "answer": "luon",
+              "answer": "luon/lyon/lion",
               "display": "λῦον",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "lusōn",
+              "answer": "luson/lyson/lison",
               "display": "λύσων",
               "hidden": true
             },
             {
-              "answer": "lusousa",
+              "answer": "lusousa/lysousa/lisousa",
               "display": "λύσουσα",
               "hidden": true
             },
             {
-              "answer": "luson",
+              "answer": "luson/lyson/lison",
               "display": "λῦσον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusas",
+              "answer": "lusas/lysas/lisas",
               "display": "λύσας",
               "hidden": true
             },
             {
-              "answer": "lusasa",
+              "answer": "lusasa/lysasa/lisasa",
               "display": "λύσασα",
               "hidden": true
             },
             {
-              "answer": "lusan",
+              "answer": "lusan/lysan/lisan",
               "display": "λῦσαν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lelukōs",
+              "answer": "lelukos/lelykos/lelikos",
               "display": "λελυκώς",
               "hidden": true
             },
             {
-              "answer": "lelukuia",
+              "answer": "lelukuia/lelykyia/lelikia",
               "display": "λελυκυῖα",
               "hidden": true
             },
             {
-              "answer": "lelukos",
+              "answer": "lelukos/lelykos/lelikos",
               "display": "λελυκός",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luomenos",
+              "answer": "luomenos/lyomenos/liomenos",
               "display": "λυόμενος",
               "hidden": true
             },
             {
-              "answer": "luomenē",
+              "answer": "luomene/lyomeni/liomeni",
               "display": "λυομένη",
               "hidden": true
             },
             {
-              "answer": "luomenon",
+              "answer": "luomenon/lyomenon/liomenon",
               "display": "λυόμενον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusomenos",
+              "answer": "lusomenos/lysomenos/lisomenos",
               "display": "λυσόμενος",
               "hidden": true
             },
             {
-              "answer": "lusomenē",
+              "answer": "lusomene/lysomeni/lisomeni",
               "display": "λυσομένη",
               "hidden": true
             },
             {
-              "answer": "lusomenon",
+              "answer": "lusomenon/lysomenon/lisomenon",
               "display": "λυσόμενον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusamenos",
+              "answer": "lusamenos/lysamenos/lisamenos",
               "display": "λυσάμενος",
               "hidden": true
             },
             {
-              "answer": "lusamenē",
+              "answer": "lusamene/lysameni/lisameni",
               "display": "λυσαμένη",
               "hidden": true
             },
             {
-              "answer": "lusamenon",
+              "answer": "lusamenon/lysamenon/lisamenon",
               "display": "λυσάμενον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lelumenos",
+              "answer": "lelumenos/lelymenos/lelimenos",
               "display": "λελυμένος",
               "hidden": true
             },
             {
-              "answer": "lelumenē",
+              "answer": "lelumene/lelymeni/lelimeni",
               "display": "λελυμένη",
               "hidden": true
             },
             {
-              "answer": "lelumenon",
+              "answer": "lelumenon/lelymenon/lelimenon",
               "display": "λελυμένον",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lutheis",
+              "answer": "lutheis/lytheis/lithis",
               "display": "λυθείς",
               "hidden": true
             },
             {
-              "answer": "lutheisa",
+              "answer": "lutheisa/lytheisa/lithisa",
               "display": "λυθεῖσα",
               "hidden": true
             },
             {
-              "answer": "luthen",
+              "answer": "luthen/lythen/lithen",
               "display": "λυθέν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luthēsomenos",
+              "answer": "luthesomenos/lythisomenos/lithisomenos",
               "display": "λυθησόμενος",
               "hidden": true
             },
             {
-              "answer": "luthēsomenē",
+              "answer": "luthesomene/lythisomeni/lithisomeni",
               "display": "λυθησομένη",
               "hidden": true
             },
             {
-              "answer": "luthēsomenon",
+              "answer": "luthesomenon/lythisomenon/lithisomenon",
               "display": "λυθησόμενον",
               "hidden": true
             }
@@ -7765,160 +7765,160 @@
         "cells": [
           [
             {
-              "answer": "luōn",
+              "answer": "luon/lyon/lion",
               "display": "λύων",
               "hidden": false
             },
             {
-              "answer": "luousa",
+              "answer": "luousa/lyousa/liousa",
               "display": "λύουσα",
               "hidden": false
             },
             {
-              "answer": "luon",
+              "answer": "luon/lyon/lion",
               "display": "λῦον",
               "hidden": false
             },
             {
-              "answer": "luontes",
+              "answer": "luontes/lyontes/liontes",
               "display": "λύοντες",
               "hidden": false
             },
             {
-              "answer": "luousai",
+              "answer": "luousai/lyousai/liousai",
               "display": "λύουσαι",
               "hidden": false
             },
             {
-              "answer": "luonta",
+              "answer": "luonta/lyonta/lionta",
               "display": "λύοντα",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "luōn",
+              "answer": "luon/lyon/lion",
               "display": "λύων",
               "hidden": true
             },
             {
-              "answer": "luousa",
+              "answer": "luousa/lyousa/liousa",
               "display": "λύουσα",
               "hidden": true
             },
             {
-              "answer": "luon",
+              "answer": "luon/lyon/lion",
               "display": "λῦον",
               "hidden": true
             },
             {
-              "answer": "luontes",
+              "answer": "luontes/lyontes/liontes",
               "display": "λύοντες",
               "hidden": true
             },
             {
-              "answer": "luousai",
+              "answer": "luousai/lyousai/liousai",
               "display": "λύουσαι",
               "hidden": true
             },
             {
-              "answer": "luonta",
+              "answer": "luonta/lyonta/lionta",
               "display": "λύοντα",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luonta",
+              "answer": "luonta/lyonta/lionta",
               "display": "λύοντα",
               "hidden": true
             },
             {
-              "answer": "luousan",
+              "answer": "luousan/lyousan/liousan",
               "display": "λύουσαν",
               "hidden": true
             },
             {
-              "answer": "luon",
+              "answer": "luon/lyon/lion",
               "display": "λῦον",
               "hidden": true
             },
             {
-              "answer": "luontas",
+              "answer": "luontas/lyontas/liontas",
               "display": "λύοντας",
               "hidden": true
             },
             {
-              "answer": "luousas",
+              "answer": "luousas/lyousas/liousas",
               "display": "λυούσας",
               "hidden": true
             },
             {
-              "answer": "luonta",
+              "answer": "luonta/lyonta/lionta",
               "display": "λύοντα",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luontos",
+              "answer": "luontos/lyontos/liontos",
               "display": "λύοντος",
               "hidden": true
             },
             {
-              "answer": "luousēs",
+              "answer": "luouses/lyousis/liousis",
               "display": "λυούσης",
               "hidden": true
             },
             {
-              "answer": "luontos",
+              "answer": "luontos/lyontos/liontos",
               "display": "λύοντος",
               "hidden": true
             },
             {
-              "answer": "luontōn",
+              "answer": "luonton/lyonton/lionton",
               "display": "λυόντων",
               "hidden": true
             },
             {
-              "answer": "luousōn",
+              "answer": "luouson/lyouson/liouson",
               "display": "λυουσῶν",
               "hidden": true
             },
             {
-              "answer": "luontōn",
+              "answer": "luonton/lyonton/lionton",
               "display": "λυόντων",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luonti",
+              "answer": "luonti/lyonti/lionti",
               "display": "λύοντι",
               "hidden": true
             },
             {
-              "answer": "luousēi",
+              "answer": "luousei/lyousi/liousi",
               "display": "λυούσῃ",
               "hidden": true
             },
             {
-              "answer": "luonti",
+              "answer": "luonti/lyonti/lionti",
               "display": "λύοντι",
               "hidden": true
             },
             {
-              "answer": "luousi/luousin",
+              "answer": "luousi/luousin/lyousi/liousi/lyousin/liousin",
               "display": "λύουσι(ν)",
               "hidden": true
             },
             {
-              "answer": "luousais",
+              "answer": "luousais/lyousais/liousais",
               "display": "λυούσαις",
               "hidden": true
             },
             {
-              "answer": "luousi/luousin",
+              "answer": "luousi/luousin/lyousi/liousi/lyousin/liousin",
               "display": "λύουσι(ν)",
               "hidden": true
             }
@@ -7945,70 +7945,70 @@
         "cells": [
           [
             {
-              "answer": "luein",
+              "answer": "luein/lyein/liin",
               "display": "λύειν",
               "hidden": false
             }
           ],
           [
             {
-              "answer": "lusein",
+              "answer": "lusein/lysein/lisin",
               "display": "λύσειν",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusai",
+              "answer": "lusai/lysai/lisai",
               "display": "λῦσαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lelukenai",
+              "answer": "lelukenai/lelykenai/lelikenai",
               "display": "λελυκέναι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luesthai",
+              "answer": "luesthai/lyesthai/liesthai",
               "display": "λύεσθαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusesthai",
+              "answer": "lusesthai/lysesthai/lisesthai",
               "display": "λύσεσθαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lusasthai",
+              "answer": "lusasthai/lysasthai/lisasthai",
               "display": "λύσασθαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "lelusthai",
+              "answer": "lelusthai/lelysthai/lelisthai",
               "display": "λελύσθαι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luthēnai",
+              "answer": "luthenai/lythinai/lithinai",
               "display": "λυθῆναι",
               "hidden": true
             }
           ],
           [
             {
-              "answer": "luthēsesthai",
+              "answer": "luthesesthai/lythisesthai/lithisesthai",
               "display": "λυθήσεσθαι",
               "hidden": true
             }

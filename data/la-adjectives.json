@@ -1,0 +1,1147 @@
+[
+  {
+    "id": "latin-bonus",
+    "word": "bonus",
+    "language": "Latin",
+    "category": "adjective · 1st/2nd declension",
+    "matrices": [
+      {
+        "label": "1st/2nd Declension",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "M Pl.",
+          "F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "bonus",
+              "hidden": false
+            },
+            {
+              "answer": "bona",
+              "hidden": false
+            },
+            {
+              "answer": "bonum",
+              "hidden": false
+            },
+            {
+              "answer": "bonī",
+              "hidden": false
+            },
+            {
+              "answer": "bonae",
+              "hidden": false
+            },
+            {
+              "answer": "bona",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "bone",
+              "hidden": true
+            },
+            {
+              "answer": "bona",
+              "hidden": true
+            },
+            {
+              "answer": "bonum",
+              "hidden": true
+            },
+            {
+              "answer": "bonī",
+              "hidden": true
+            },
+            {
+              "answer": "bonae",
+              "hidden": true
+            },
+            {
+              "answer": "bona",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bonum",
+              "hidden": true
+            },
+            {
+              "answer": "bonam",
+              "hidden": true
+            },
+            {
+              "answer": "bonum",
+              "hidden": true
+            },
+            {
+              "answer": "bonōs",
+              "hidden": true
+            },
+            {
+              "answer": "bonās",
+              "hidden": true
+            },
+            {
+              "answer": "bona",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bonī",
+              "hidden": true
+            },
+            {
+              "answer": "bonae",
+              "hidden": true
+            },
+            {
+              "answer": "bonī",
+              "hidden": true
+            },
+            {
+              "answer": "bonōrum",
+              "hidden": true
+            },
+            {
+              "answer": "bonārum",
+              "hidden": true
+            },
+            {
+              "answer": "bonōrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bonō",
+              "hidden": true
+            },
+            {
+              "answer": "bonae",
+              "hidden": true
+            },
+            {
+              "answer": "bonō",
+              "hidden": true
+            },
+            {
+              "answer": "bonīs",
+              "hidden": true
+            },
+            {
+              "answer": "bonīs",
+              "hidden": true
+            },
+            {
+              "answer": "bonīs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bonō",
+              "hidden": true
+            },
+            {
+              "answer": "bonā",
+              "hidden": true
+            },
+            {
+              "answer": "bonō",
+              "hidden": true
+            },
+            {
+              "answer": "bonīs",
+              "hidden": true
+            },
+            {
+              "answer": "bonīs",
+              "hidden": true
+            },
+            {
+              "answer": "bonīs",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-pulcher",
+    "word": "pulcher",
+    "language": "Latin",
+    "category": "adjective · 1st/2nd declension (-er)",
+    "matrices": [
+      {
+        "label": "1st/2nd Declension (-er)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "M Pl.",
+          "F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "pulcher",
+              "hidden": false
+            },
+            {
+              "answer": "pulchra",
+              "hidden": false
+            },
+            {
+              "answer": "pulchrum",
+              "hidden": false
+            },
+            {
+              "answer": "pulchrī",
+              "hidden": false
+            },
+            {
+              "answer": "pulchrae",
+              "hidden": false
+            },
+            {
+              "answer": "pulchra",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "pulcher",
+              "hidden": true
+            },
+            {
+              "answer": "pulchra",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrum",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrī",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrae",
+              "hidden": true
+            },
+            {
+              "answer": "pulchra",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "pulchrum",
+              "hidden": true
+            },
+            {
+              "answer": "pulchram",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrum",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrōs",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrās",
+              "hidden": true
+            },
+            {
+              "answer": "pulchra",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "pulchrī",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrae",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrī",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrōrum",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrārum",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrōrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "pulchrō",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrae",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrō",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrīs",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrīs",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrīs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "pulchrō",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrā",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrō",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrīs",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrīs",
+              "hidden": true
+            },
+            {
+              "answer": "pulchrīs",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-acer",
+    "word": "ācer",
+    "language": "Latin",
+    "category": "adjective · 3rd declension (3 termination)",
+    "matrices": [
+      {
+        "label": "3rd Declension (3 termination)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "M Pl.",
+          "F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "ācer",
+              "hidden": false
+            },
+            {
+              "answer": "ācris",
+              "hidden": false
+            },
+            {
+              "answer": "ācre",
+              "hidden": false
+            },
+            {
+              "answer": "ācrēs",
+              "hidden": false
+            },
+            {
+              "answer": "ācrēs",
+              "hidden": false
+            },
+            {
+              "answer": "ācria",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "ācer",
+              "hidden": true
+            },
+            {
+              "answer": "ācris",
+              "hidden": true
+            },
+            {
+              "answer": "ācre",
+              "hidden": true
+            },
+            {
+              "answer": "ācrēs",
+              "hidden": true
+            },
+            {
+              "answer": "ācrēs",
+              "hidden": true
+            },
+            {
+              "answer": "ācria",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ācrem",
+              "hidden": true
+            },
+            {
+              "answer": "ācrem",
+              "hidden": true
+            },
+            {
+              "answer": "ācre",
+              "hidden": true
+            },
+            {
+              "answer": "ācrēs/ācrīs",
+              "hidden": true
+            },
+            {
+              "answer": "ācrēs/ācrīs",
+              "hidden": true
+            },
+            {
+              "answer": "ācria",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ācris",
+              "hidden": true
+            },
+            {
+              "answer": "ācris",
+              "hidden": true
+            },
+            {
+              "answer": "ācris",
+              "hidden": true
+            },
+            {
+              "answer": "ācrium",
+              "hidden": true
+            },
+            {
+              "answer": "ācrium",
+              "hidden": true
+            },
+            {
+              "answer": "ācrium",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ācrī",
+              "hidden": true
+            },
+            {
+              "answer": "ācrī",
+              "hidden": true
+            },
+            {
+              "answer": "ācrī",
+              "hidden": true
+            },
+            {
+              "answer": "ācribus",
+              "hidden": true
+            },
+            {
+              "answer": "ācribus",
+              "hidden": true
+            },
+            {
+              "answer": "ācribus",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ācrī",
+              "hidden": true
+            },
+            {
+              "answer": "ācrī",
+              "hidden": true
+            },
+            {
+              "answer": "ācrī",
+              "hidden": true
+            },
+            {
+              "answer": "ācribus",
+              "hidden": true
+            },
+            {
+              "answer": "ācribus",
+              "hidden": true
+            },
+            {
+              "answer": "ācribus",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-fortis",
+    "word": "fortis",
+    "language": "Latin",
+    "category": "adjective · 3rd declension (2 termination)",
+    "matrices": [
+      {
+        "label": "3rd Declension (2 termination)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M/F Sg.",
+          "N Sg.",
+          "M/F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "fortis",
+              "hidden": false
+            },
+            {
+              "answer": "forte",
+              "hidden": false
+            },
+            {
+              "answer": "fortēs",
+              "hidden": false
+            },
+            {
+              "answer": "fortia",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "fortis",
+              "hidden": true
+            },
+            {
+              "answer": "forte",
+              "hidden": true
+            },
+            {
+              "answer": "fortēs",
+              "hidden": true
+            },
+            {
+              "answer": "fortia",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fortem",
+              "hidden": true
+            },
+            {
+              "answer": "forte",
+              "hidden": true
+            },
+            {
+              "answer": "fortēs/fortīs",
+              "hidden": true
+            },
+            {
+              "answer": "fortia",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fortis",
+              "hidden": true
+            },
+            {
+              "answer": "fortis",
+              "hidden": true
+            },
+            {
+              "answer": "fortium",
+              "hidden": true
+            },
+            {
+              "answer": "fortium",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fortī",
+              "hidden": true
+            },
+            {
+              "answer": "fortī",
+              "hidden": true
+            },
+            {
+              "answer": "fortibus",
+              "hidden": true
+            },
+            {
+              "answer": "fortibus",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fortī",
+              "hidden": true
+            },
+            {
+              "answer": "fortī",
+              "hidden": true
+            },
+            {
+              "answer": "fortibus",
+              "hidden": true
+            },
+            {
+              "answer": "fortibus",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-felix",
+    "word": "fēlīx",
+    "language": "Latin",
+    "category": "adjective · 3rd declension (1 termination)",
+    "matrices": [
+      {
+        "label": "3rd Declension (1 termination)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M/F Sg.",
+          "N Sg.",
+          "M/F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "fēlīx",
+              "hidden": false
+            },
+            {
+              "answer": "fēlīx",
+              "hidden": false
+            },
+            {
+              "answer": "fēlīcēs",
+              "hidden": false
+            },
+            {
+              "answer": "fēlīcia",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "fēlīx",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīx",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīcēs",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīcia",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fēlīcem",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīx",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīcēs",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīcia",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fēlīcis",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīcis",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīcium",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīcium",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fēlīcī",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīcī",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīcibus",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīcibus",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fēlīcī/fēlīce",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīcī/fēlīce",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīcibus",
+              "hidden": true
+            },
+            {
+              "answer": "fēlīcibus",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-fortior",
+    "word": "fortior",
+    "language": "Latin",
+    "category": "adjective · comparative",
+    "matrices": [
+      {
+        "label": "Comparative",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M/F Sg.",
+          "N Sg.",
+          "M/F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "fortior",
+              "hidden": false
+            },
+            {
+              "answer": "fortius",
+              "hidden": false
+            },
+            {
+              "answer": "fortiōrēs",
+              "hidden": false
+            },
+            {
+              "answer": "fortiōra",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "fortior",
+              "hidden": true
+            },
+            {
+              "answer": "fortius",
+              "hidden": true
+            },
+            {
+              "answer": "fortiōrēs",
+              "hidden": true
+            },
+            {
+              "answer": "fortiōra",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fortiōrem",
+              "hidden": true
+            },
+            {
+              "answer": "fortius",
+              "hidden": true
+            },
+            {
+              "answer": "fortiōrēs",
+              "hidden": true
+            },
+            {
+              "answer": "fortiōra",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fortiōris",
+              "hidden": true
+            },
+            {
+              "answer": "fortiōris",
+              "hidden": true
+            },
+            {
+              "answer": "fortiōrum",
+              "hidden": true
+            },
+            {
+              "answer": "fortiōrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fortiōrī",
+              "hidden": true
+            },
+            {
+              "answer": "fortiōrī",
+              "hidden": true
+            },
+            {
+              "answer": "fortiōribus",
+              "hidden": true
+            },
+            {
+              "answer": "fortiōribus",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fortiōre",
+              "hidden": true
+            },
+            {
+              "answer": "fortiōre",
+              "hidden": true
+            },
+            {
+              "answer": "fortiōribus",
+              "hidden": true
+            },
+            {
+              "answer": "fortiōribus",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-fortissimus",
+    "word": "fortissimus",
+    "language": "Latin",
+    "category": "adjective · superlative",
+    "matrices": [
+      {
+        "label": "Superlative",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "M Pl.",
+          "F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "fortissimus",
+              "hidden": false
+            },
+            {
+              "answer": "fortissima",
+              "hidden": false
+            },
+            {
+              "answer": "fortissimum",
+              "hidden": false
+            },
+            {
+              "answer": "fortissimī",
+              "hidden": false
+            },
+            {
+              "answer": "fortissimae",
+              "hidden": false
+            },
+            {
+              "answer": "fortissima",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "fortissime",
+              "hidden": true
+            },
+            {
+              "answer": "fortissima",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimum",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimī",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimae",
+              "hidden": true
+            },
+            {
+              "answer": "fortissima",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fortissimum",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimam",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimum",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimōs",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimās",
+              "hidden": true
+            },
+            {
+              "answer": "fortissima",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fortissimī",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimae",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimī",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimōrum",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimārum",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimōrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fortissimō",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimae",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimō",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimīs",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimīs",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimīs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fortissimō",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimā",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimō",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimīs",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimīs",
+              "hidden": true
+            },
+            {
+              "answer": "fortissimīs",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

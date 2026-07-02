@@ -1,0 +1,767 @@
+[
+  {
+    "id": "latin-puella",
+    "word": "puella",
+    "language": "Latin",
+    "category": "noun · 1st declension",
+    "matrices": [
+      {
+        "label": "1st Declension",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "puella",
+              "hidden": false
+            },
+            {
+              "answer": "puellae",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "puella",
+              "hidden": true
+            },
+            {
+              "answer": "puellae",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "puellam",
+              "hidden": true
+            },
+            {
+              "answer": "puellās",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "puellae",
+              "hidden": true
+            },
+            {
+              "answer": "puellārum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "puellae",
+              "hidden": true
+            },
+            {
+              "answer": "puellīs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "puellā",
+              "hidden": true
+            },
+            {
+              "answer": "puellīs",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-servus",
+    "word": "servus",
+    "language": "Latin",
+    "category": "noun · 2nd declension masculine",
+    "matrices": [
+      {
+        "label": "2nd Declension Masculine",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "servus",
+              "hidden": false
+            },
+            {
+              "answer": "servī",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "serve",
+              "hidden": true
+            },
+            {
+              "answer": "servī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "servum",
+              "hidden": true
+            },
+            {
+              "answer": "servōs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "servī",
+              "hidden": true
+            },
+            {
+              "answer": "servōrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "servō",
+              "hidden": true
+            },
+            {
+              "answer": "servīs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "servō",
+              "hidden": true
+            },
+            {
+              "answer": "servīs",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-bellum",
+    "word": "bellum",
+    "language": "Latin",
+    "category": "noun · 2nd declension neuter",
+    "matrices": [
+      {
+        "label": "2nd Declension Neuter",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "bellum",
+              "hidden": false
+            },
+            {
+              "answer": "bella",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "bellum",
+              "hidden": true
+            },
+            {
+              "answer": "bella",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bellum",
+              "hidden": true
+            },
+            {
+              "answer": "bella",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bellī",
+              "hidden": true
+            },
+            {
+              "answer": "bellōrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bellō",
+              "hidden": true
+            },
+            {
+              "answer": "bellīs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bellō",
+              "hidden": true
+            },
+            {
+              "answer": "bellīs",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-rex",
+    "word": "rēx",
+    "language": "Latin",
+    "category": "noun · 3rd declension",
+    "matrices": [
+      {
+        "label": "3rd Declension",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "rēx",
+              "hidden": false
+            },
+            {
+              "answer": "rēgēs",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "rēx",
+              "hidden": true
+            },
+            {
+              "answer": "rēgēs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rēgem",
+              "hidden": true
+            },
+            {
+              "answer": "rēgēs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rēgis",
+              "hidden": true
+            },
+            {
+              "answer": "rēgum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rēgī",
+              "hidden": true
+            },
+            {
+              "answer": "rēgibus",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rēge",
+              "hidden": true
+            },
+            {
+              "answer": "rēgibus",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-civis",
+    "word": "cīvis",
+    "language": "Latin",
+    "category": "noun · 3rd declension i-stem",
+    "matrices": [
+      {
+        "label": "3rd Declension i-stem",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cīvis",
+              "hidden": false
+            },
+            {
+              "answer": "cīvēs",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cīvis",
+              "hidden": true
+            },
+            {
+              "answer": "cīvēs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cīvem",
+              "hidden": true
+            },
+            {
+              "answer": "cīvēs/cīvīs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cīvis",
+              "hidden": true
+            },
+            {
+              "answer": "cīvium",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cīvī",
+              "hidden": true
+            },
+            {
+              "answer": "cīvibus",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cīve",
+              "hidden": true
+            },
+            {
+              "answer": "cīvibus",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-nomen",
+    "word": "nōmen",
+    "language": "Latin",
+    "category": "noun · 3rd declension neuter",
+    "matrices": [
+      {
+        "label": "3rd Declension Neuter",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "nōmen",
+              "hidden": false
+            },
+            {
+              "answer": "nōmina",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "nōmen",
+              "hidden": true
+            },
+            {
+              "answer": "nōmina",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nōmen",
+              "hidden": true
+            },
+            {
+              "answer": "nōmina",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nōminis",
+              "hidden": true
+            },
+            {
+              "answer": "nōminum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nōminī",
+              "hidden": true
+            },
+            {
+              "answer": "nōminibus",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nōmine",
+              "hidden": true
+            },
+            {
+              "answer": "nōminibus",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-portus",
+    "word": "portus",
+    "language": "Latin",
+    "category": "noun · 4th declension",
+    "matrices": [
+      {
+        "label": "4th Declension",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "portus",
+              "hidden": false
+            },
+            {
+              "answer": "portūs",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "portus",
+              "hidden": true
+            },
+            {
+              "answer": "portūs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "portum",
+              "hidden": true
+            },
+            {
+              "answer": "portūs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "portūs",
+              "hidden": true
+            },
+            {
+              "answer": "portuum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "portuī/portū",
+              "hidden": true
+            },
+            {
+              "answer": "portibus",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "portū",
+              "hidden": true
+            },
+            {
+              "answer": "portibus",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-cornu",
+    "word": "cornū",
+    "language": "Latin",
+    "category": "noun · 4th declension neuter",
+    "matrices": [
+      {
+        "label": "4th Declension Neuter",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cornū",
+              "hidden": false
+            },
+            {
+              "answer": "cornua",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cornū",
+              "hidden": true
+            },
+            {
+              "answer": "cornua",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cornū",
+              "hidden": true
+            },
+            {
+              "answer": "cornua",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cornūs",
+              "hidden": true
+            },
+            {
+              "answer": "cornuum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cornū/cornuī",
+              "hidden": true
+            },
+            {
+              "answer": "cornibus",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cornū",
+              "hidden": true
+            },
+            {
+              "answer": "cornibus",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-res",
+    "word": "rēs",
+    "language": "Latin",
+    "category": "noun · 5th declension",
+    "matrices": [
+      {
+        "label": "5th Declension",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "rēs",
+              "hidden": false
+            },
+            {
+              "answer": "rēs",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "rēs",
+              "hidden": true
+            },
+            {
+              "answer": "rēs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rem",
+              "hidden": true
+            },
+            {
+              "answer": "rēs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "reī/rēī",
+              "hidden": true
+            },
+            {
+              "answer": "rērum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "reī/rēī",
+              "hidden": true
+            },
+            {
+              "answer": "rēbus",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rē",
+              "hidden": true
+            },
+            {
+              "answer": "rēbus",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

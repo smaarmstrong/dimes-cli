@@ -27,8 +27,9 @@ At each blank you type the form. Matching is **case- and diacritic-insensitive**
 - `dimes` — a single Python 3 script (no dependencies; Python 3 ships with most
   systems). Renders each matrix as an ASCII table, prompts each hidden cell, then
   re-renders with ✓ / correction and a score.
-- `data/*.json` — the content, one file per language (`la`, `de`, `grc`). Each is a
-  list of cards:
+- `data/*.json` — the content, split per language and category (`la-nouns`,
+  `grc-verbs`, `de-pronouns`, …). Every file is globbed, so add paradigms by
+  editing or adding any `data/*.json`. Each is a list of cards:
 
   ```json
   {
@@ -46,16 +47,21 @@ At each blank you type the form. Matching is **case- and diacritic-insensitive**
   ```
 
   `hidden: false` cells are shown as hints; `hidden: true` cells are the blanks you
-  fill. Add paradigms by editing/adding a `data/*.json` file — no code changes.
+  fill. For Greek, an optional `display` holds the polytonic form that is shown,
+  while `answer` holds the romanisation that is matched.
+- `./selfcheck` — validates every card: schema, unique ids, and a simulated
+  drill in which each stored answer must score 100% with the engine's matcher.
+  Run it after any data edit.
 
 Progress (last score + date per card) is stored in
 `~/.local/state/dimes-cli/history.json`.
 
 ## Content so far
 
-- **Latin** — 1st/2nd declension nouns (puella, servus, bellum), 1st-conjugation
-  `amō`, irregular `sum`.
+- **Latin** (43 cards) — all five noun declensions incl. i-stems and neuters;
+  the four regular conjugations plus -iō verbs and deponents; adjectives of both
+  classes with comparative/superlative; personal, demonstrative, relative,
+  interrogative and reflexive pronouns; irregular verbs (sum, possum, eō, ferō,
+  volō/nōlō/mālō, fīō).
 - **German** — definite-article declension, `sein`, `haben`, `werden`.
 - **Greek (romanised)** — 1st/2nd declension (chōrā, logos), `eimi`, `luō`.
-
-A starter set — the data format makes it easy to keep adding paradigms.

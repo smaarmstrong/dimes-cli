@@ -1,0 +1,1113 @@
+[
+  {
+    "id": "latin-ego",
+    "word": "ego",
+    "language": "Latin",
+    "category": "pronoun · 1st person personal",
+    "matrices": [
+      {
+        "label": "1st Person Personal",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "ego",
+              "hidden": false
+            },
+            {
+              "answer": "nōs",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "mē",
+              "hidden": true
+            },
+            {
+              "answer": "nōs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "meī",
+              "hidden": true
+            },
+            {
+              "answer": "nostrum/nostrī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mihi",
+              "hidden": true
+            },
+            {
+              "answer": "nōbīs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mē",
+              "hidden": true
+            },
+            {
+              "answer": "nōbīs",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-tu",
+    "word": "tū",
+    "language": "Latin",
+    "category": "pronoun · 2nd person personal",
+    "matrices": [
+      {
+        "label": "2nd Person Personal",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tū",
+              "hidden": false
+            },
+            {
+              "answer": "vōs",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "tū",
+              "hidden": true
+            },
+            {
+              "answer": "vōs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tē",
+              "hidden": true
+            },
+            {
+              "answer": "vōs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tuī",
+              "hidden": true
+            },
+            {
+              "answer": "vestrum/vestrī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tibi",
+              "hidden": true
+            },
+            {
+              "answer": "vōbīs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tē",
+              "hidden": true
+            },
+            {
+              "answer": "vōbīs",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-hic",
+    "word": "hic, haec, hoc",
+    "language": "Latin",
+    "category": "pronoun · demonstrative (hic)",
+    "matrices": [
+      {
+        "label": "Demonstrative (this)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "M Pl.",
+          "F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "hic",
+              "hidden": false
+            },
+            {
+              "answer": "haec",
+              "hidden": false
+            },
+            {
+              "answer": "hoc",
+              "hidden": false
+            },
+            {
+              "answer": "hī",
+              "hidden": false
+            },
+            {
+              "answer": "hae",
+              "hidden": false
+            },
+            {
+              "answer": "haec",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "hunc",
+              "hidden": true
+            },
+            {
+              "answer": "hanc",
+              "hidden": true
+            },
+            {
+              "answer": "hoc",
+              "hidden": true
+            },
+            {
+              "answer": "hōs",
+              "hidden": true
+            },
+            {
+              "answer": "hās",
+              "hidden": true
+            },
+            {
+              "answer": "haec",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "huius",
+              "hidden": true
+            },
+            {
+              "answer": "huius",
+              "hidden": true
+            },
+            {
+              "answer": "huius",
+              "hidden": true
+            },
+            {
+              "answer": "hōrum",
+              "hidden": true
+            },
+            {
+              "answer": "hārum",
+              "hidden": true
+            },
+            {
+              "answer": "hōrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "huic",
+              "hidden": true
+            },
+            {
+              "answer": "huic",
+              "hidden": true
+            },
+            {
+              "answer": "huic",
+              "hidden": true
+            },
+            {
+              "answer": "hīs",
+              "hidden": true
+            },
+            {
+              "answer": "hīs",
+              "hidden": true
+            },
+            {
+              "answer": "hīs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hōc",
+              "hidden": true
+            },
+            {
+              "answer": "hāc",
+              "hidden": true
+            },
+            {
+              "answer": "hōc",
+              "hidden": true
+            },
+            {
+              "answer": "hīs",
+              "hidden": true
+            },
+            {
+              "answer": "hīs",
+              "hidden": true
+            },
+            {
+              "answer": "hīs",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-ille",
+    "word": "ille, illa, illud",
+    "language": "Latin",
+    "category": "pronoun · demonstrative (ille)",
+    "matrices": [
+      {
+        "label": "Demonstrative (that)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "M Pl.",
+          "F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "ille",
+              "hidden": false
+            },
+            {
+              "answer": "illa",
+              "hidden": false
+            },
+            {
+              "answer": "illud",
+              "hidden": false
+            },
+            {
+              "answer": "illī",
+              "hidden": false
+            },
+            {
+              "answer": "illae",
+              "hidden": false
+            },
+            {
+              "answer": "illa",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "illum",
+              "hidden": true
+            },
+            {
+              "answer": "illam",
+              "hidden": true
+            },
+            {
+              "answer": "illud",
+              "hidden": true
+            },
+            {
+              "answer": "illōs",
+              "hidden": true
+            },
+            {
+              "answer": "illās",
+              "hidden": true
+            },
+            {
+              "answer": "illa",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "illīus",
+              "hidden": true
+            },
+            {
+              "answer": "illīus",
+              "hidden": true
+            },
+            {
+              "answer": "illīus",
+              "hidden": true
+            },
+            {
+              "answer": "illōrum",
+              "hidden": true
+            },
+            {
+              "answer": "illārum",
+              "hidden": true
+            },
+            {
+              "answer": "illōrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "illī",
+              "hidden": true
+            },
+            {
+              "answer": "illī",
+              "hidden": true
+            },
+            {
+              "answer": "illī",
+              "hidden": true
+            },
+            {
+              "answer": "illīs",
+              "hidden": true
+            },
+            {
+              "answer": "illīs",
+              "hidden": true
+            },
+            {
+              "answer": "illīs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "illō",
+              "hidden": true
+            },
+            {
+              "answer": "illā",
+              "hidden": true
+            },
+            {
+              "answer": "illō",
+              "hidden": true
+            },
+            {
+              "answer": "illīs",
+              "hidden": true
+            },
+            {
+              "answer": "illīs",
+              "hidden": true
+            },
+            {
+              "answer": "illīs",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-iste",
+    "word": "iste, ista, istud",
+    "language": "Latin",
+    "category": "pronoun · demonstrative (iste)",
+    "matrices": [
+      {
+        "label": "Demonstrative (that of yours)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "M Pl.",
+          "F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "iste",
+              "hidden": false
+            },
+            {
+              "answer": "ista",
+              "hidden": false
+            },
+            {
+              "answer": "istud",
+              "hidden": false
+            },
+            {
+              "answer": "istī",
+              "hidden": false
+            },
+            {
+              "answer": "istae",
+              "hidden": false
+            },
+            {
+              "answer": "ista",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "istum",
+              "hidden": true
+            },
+            {
+              "answer": "istam",
+              "hidden": true
+            },
+            {
+              "answer": "istud",
+              "hidden": true
+            },
+            {
+              "answer": "istōs",
+              "hidden": true
+            },
+            {
+              "answer": "istās",
+              "hidden": true
+            },
+            {
+              "answer": "ista",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "istīus",
+              "hidden": true
+            },
+            {
+              "answer": "istīus",
+              "hidden": true
+            },
+            {
+              "answer": "istīus",
+              "hidden": true
+            },
+            {
+              "answer": "istōrum",
+              "hidden": true
+            },
+            {
+              "answer": "istārum",
+              "hidden": true
+            },
+            {
+              "answer": "istōrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "istī",
+              "hidden": true
+            },
+            {
+              "answer": "istī",
+              "hidden": true
+            },
+            {
+              "answer": "istī",
+              "hidden": true
+            },
+            {
+              "answer": "istīs",
+              "hidden": true
+            },
+            {
+              "answer": "istīs",
+              "hidden": true
+            },
+            {
+              "answer": "istīs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "istō",
+              "hidden": true
+            },
+            {
+              "answer": "istā",
+              "hidden": true
+            },
+            {
+              "answer": "istō",
+              "hidden": true
+            },
+            {
+              "answer": "istīs",
+              "hidden": true
+            },
+            {
+              "answer": "istīs",
+              "hidden": true
+            },
+            {
+              "answer": "istīs",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-is",
+    "word": "is, ea, id",
+    "language": "Latin",
+    "category": "pronoun · personal / demonstrative (is)",
+    "matrices": [
+      {
+        "label": "Personal / Demonstrative (he, she, it)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "M Pl.",
+          "F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "is",
+              "hidden": false
+            },
+            {
+              "answer": "ea",
+              "hidden": false
+            },
+            {
+              "answer": "id",
+              "hidden": false
+            },
+            {
+              "answer": "eī/iī",
+              "hidden": false
+            },
+            {
+              "answer": "eae",
+              "hidden": false
+            },
+            {
+              "answer": "ea",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "eum",
+              "hidden": true
+            },
+            {
+              "answer": "eam",
+              "hidden": true
+            },
+            {
+              "answer": "id",
+              "hidden": true
+            },
+            {
+              "answer": "eōs",
+              "hidden": true
+            },
+            {
+              "answer": "eās",
+              "hidden": true
+            },
+            {
+              "answer": "ea",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "eius",
+              "hidden": true
+            },
+            {
+              "answer": "eius",
+              "hidden": true
+            },
+            {
+              "answer": "eius",
+              "hidden": true
+            },
+            {
+              "answer": "eōrum",
+              "hidden": true
+            },
+            {
+              "answer": "eārum",
+              "hidden": true
+            },
+            {
+              "answer": "eōrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "eī",
+              "hidden": true
+            },
+            {
+              "answer": "eī",
+              "hidden": true
+            },
+            {
+              "answer": "eī",
+              "hidden": true
+            },
+            {
+              "answer": "eīs/iīs",
+              "hidden": true
+            },
+            {
+              "answer": "eīs/iīs",
+              "hidden": true
+            },
+            {
+              "answer": "eīs/iīs",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "eō",
+              "hidden": true
+            },
+            {
+              "answer": "eā",
+              "hidden": true
+            },
+            {
+              "answer": "eō",
+              "hidden": true
+            },
+            {
+              "answer": "eīs/iīs",
+              "hidden": true
+            },
+            {
+              "answer": "eīs/iīs",
+              "hidden": true
+            },
+            {
+              "answer": "eīs/iīs",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-qui",
+    "word": "quī, quae, quod",
+    "language": "Latin",
+    "category": "pronoun · relative (quī)",
+    "matrices": [
+      {
+        "label": "Relative Pronoun",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "M Pl.",
+          "F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "quī",
+              "hidden": false
+            },
+            {
+              "answer": "quae",
+              "hidden": false
+            },
+            {
+              "answer": "quod",
+              "hidden": false
+            },
+            {
+              "answer": "quī",
+              "hidden": false
+            },
+            {
+              "answer": "quae",
+              "hidden": false
+            },
+            {
+              "answer": "quae",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "quem",
+              "hidden": true
+            },
+            {
+              "answer": "quam",
+              "hidden": true
+            },
+            {
+              "answer": "quod",
+              "hidden": true
+            },
+            {
+              "answer": "quōs",
+              "hidden": true
+            },
+            {
+              "answer": "quās",
+              "hidden": true
+            },
+            {
+              "answer": "quae",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cuius",
+              "hidden": true
+            },
+            {
+              "answer": "cuius",
+              "hidden": true
+            },
+            {
+              "answer": "cuius",
+              "hidden": true
+            },
+            {
+              "answer": "quōrum",
+              "hidden": true
+            },
+            {
+              "answer": "quārum",
+              "hidden": true
+            },
+            {
+              "answer": "quōrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cui",
+              "hidden": true
+            },
+            {
+              "answer": "cui",
+              "hidden": true
+            },
+            {
+              "answer": "cui",
+              "hidden": true
+            },
+            {
+              "answer": "quibus",
+              "hidden": true
+            },
+            {
+              "answer": "quibus",
+              "hidden": true
+            },
+            {
+              "answer": "quibus",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "quō",
+              "hidden": true
+            },
+            {
+              "answer": "quā",
+              "hidden": true
+            },
+            {
+              "answer": "quō",
+              "hidden": true
+            },
+            {
+              "answer": "quibus",
+              "hidden": true
+            },
+            {
+              "answer": "quibus",
+              "hidden": true
+            },
+            {
+              "answer": "quibus",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-quis",
+    "word": "quis, quid",
+    "language": "Latin",
+    "category": "pronoun · interrogative (quis)",
+    "matrices": [
+      {
+        "label": "Interrogative Pronoun",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M/F Sg.",
+          "N Sg.",
+          "M/F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "quis",
+              "hidden": false
+            },
+            {
+              "answer": "quid",
+              "hidden": false
+            },
+            {
+              "answer": "quī",
+              "hidden": false
+            },
+            {
+              "answer": "quae",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "quem",
+              "hidden": true
+            },
+            {
+              "answer": "quid",
+              "hidden": true
+            },
+            {
+              "answer": "quōs",
+              "hidden": true
+            },
+            {
+              "answer": "quae",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cuius",
+              "hidden": true
+            },
+            {
+              "answer": "cuius",
+              "hidden": true
+            },
+            {
+              "answer": "quōrum",
+              "hidden": true
+            },
+            {
+              "answer": "quōrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cui",
+              "hidden": true
+            },
+            {
+              "answer": "cui",
+              "hidden": true
+            },
+            {
+              "answer": "quibus",
+              "hidden": true
+            },
+            {
+              "answer": "quibus",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "quō",
+              "hidden": true
+            },
+            {
+              "answer": "quō",
+              "hidden": true
+            },
+            {
+              "answer": "quibus",
+              "hidden": true
+            },
+            {
+              "answer": "quibus",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-se",
+    "word": "sē",
+    "language": "Latin",
+    "category": "pronoun · 3rd person reflexive (sē)",
+    "matrices": [
+      {
+        "label": "3rd Person Reflexive",
+        "rowHeaders": [
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Singular/Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sē/sēsē",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "suī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sibi",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sē/sēsē",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

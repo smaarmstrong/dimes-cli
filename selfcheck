@@ -1,0 +1,139 @@
+#!/usr/bin/env python3
+"""selfcheck — validate every card the same way the drill engine would.
+
+For each hidden cell it feeds the exact `answer` (and each `/`-alternative)
+back through the engine's matcher and demands a 100% score, so malformed
+cards, empty alternatives, or answers the engine can't accept fail loudly.
+Extra guards: unique ids, grid shape, known language names, ASCII-typable
+answers, and — for Greek — no untransliterated Greek script in `answer`
+plus a polytonic `display` on every drillable cell.
+
+Usage:
+    ./selfcheck [data_dir]      # default: ./data next to this script
+"""
+import json
+import sys
+import unicodedata
+from pathlib import Path
+
+LANGS = {"Latin", "German", "Ancient Greek (romanised)"}
+
+
+# Keep in sync with norm()/is_correct() in ./dimes.
+def norm(s):
+    s = (s or "").replace("ß", "ss").replace("ẞ", "SS")
+    s = unicodedata.normalize("NFD", s)
+    s = "".join(ch for ch in s if unicodedata.category(ch) != "Mn")
+    return s.replace("(", "").replace(")", "").strip().lower()
+
+
+def is_correct(answer, given):
+    if given is None:
+        return False
+    return any(norm(given) == norm(alt) for alt in answer.split("/"))
+
+
+def has_greek_script(s):
+    return any(0x0370 <= ord(ch) <= 0x03FF or 0x1F00 <= ord(ch) <= 0x1FFF for ch in s)
+
+
+def main():
+    root = Path(__file__).resolve().parent
+    data = Path(sys.argv[1]) if len(sys.argv) > 1 else root / "data"
+    files = sorted(data.glob("*.json"))
+    if not files:
+        sys.exit(f"selfcheck: no *.json under {data}")
+
+    errors = []
+    seen_ids = {}
+    per_lang = {}
+
+    def err(where, msg):
+        errors.append(f"{where}: {msg}")
+
+    for f in files:
+        try:
+            cards = json.loads(f.read_text())
+        except json.JSONDecodeError as e:
+            err(f.name, f"invalid JSON: {e}")
+            continue
+        if not isinstance(cards, list):
+            err(f.name, "top level must be a list of cards")
+            continue
+
+        for card in cards:
+            cid = card.get("id", "<no id>")
+            where = f"{f.name}:{cid}"
+            for key in ("id", "word", "language", "category", "matrices"):
+                if not card.get(key):
+                    err(where, f"missing or empty '{key}'")
+            if cid in seen_ids:
+                err(where, f"duplicate id (also in {seen_ids[cid]})")
+            seen_ids[cid] = f.name
+            lang = card.get("language")
+            if lang not in LANGS:
+                err(where, f"unknown language {lang!r} (engine expects one of {sorted(LANGS)})")
+            per_lang[lang] = per_lang.get(lang, 0) + 1
+
+            for mi, m in enumerate(card.get("matrices") or []):
+                mwhere = f"{where}[{mi}]"
+                rows, cols = m.get("rowHeaders"), m.get("columnHeaders")
+                cells = m.get("cells")
+                if not (m.get("label") and rows and cols and cells):
+                    err(mwhere, "matrix needs label, rowHeaders, columnHeaders, cells")
+                    continue
+                if len(cells) != len(rows):
+                    err(mwhere, f"{len(cells)} cell rows vs {len(rows)} rowHeaders")
+                    continue
+                drillable = visible = 0
+                for r, row in enumerate(cells):
+                    if len(row) != len(cols):
+                        err(mwhere, f"row {r}: {len(row)} cells vs {len(cols)} columnHeaders")
+                        continue
+                    for ci, cell in enumerate(row):
+                        cwhere = f"{mwhere} r{r}c{ci}"
+                        ans = cell.get("answer")
+                        if not isinstance(ans, str) or not ans.strip():
+                            err(cwhere, "answer must be a non-empty string")
+                            continue
+                        if not isinstance(cell.get("hidden"), bool):
+                            err(cwhere, "hidden must be true/false")
+                        if ans == "-":
+                            continue
+                        if not cell.get("hidden", True):
+                            visible += 1
+                        else:
+                            drillable += 1
+                        # The drill simulation: every alternative, typed
+                        # exactly as stored, must score as correct.
+                        for alt in ans.split("/"):
+                            if not norm(alt):
+                                err(cwhere, f"empty/unmatchable alternative in {ans!r}")
+                            elif not is_correct(ans, alt):
+                                err(cwhere, f"engine rejects its own answer {alt!r}")
+                            elif not norm(alt).isascii():
+                                err(cwhere, f"{alt!r} not typable as ASCII after folding "
+                                            f"(norm -> {norm(alt)!r})")
+                        if lang == "Ancient Greek (romanised)":
+                            if has_greek_script(ans):
+                                err(cwhere, f"Greek script left in answer {ans!r} — transliterate it")
+                            if not cell.get("display"):
+                                err(cwhere, "Greek drillable cell needs polytonic 'display'")
+                if drillable == 0:
+                    err(mwhere, "no hidden drillable cells — nothing to drill")
+                if visible == 0:
+                    print(f"  note {mwhere}: no visible hint row")
+
+    print(f"\nselfcheck: {len(seen_ids)} cards in {len(files)} files")
+    for lang in sorted(per_lang, key=str):
+        print(f"  {lang}: {per_lang[lang]}")
+    if errors:
+        print(f"\n{len(errors)} error(s):")
+        for e in errors:
+            print("  " + e)
+        sys.exit(1)
+    print("all cards pass: every stored answer scores 100% in the engine")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,7659 @@
+[
+  {
+    "id": "latin-amo",
+    "word": "amō",
+    "language": "Latin",
+    "category": "verb · 1st conjugation (amō)",
+    "matrices": [
+      {
+        "label": "Active Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amō",
+              "hidden": false
+            },
+            {
+              "answer": "amāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amās",
+              "hidden": true
+            },
+            {
+              "answer": "amātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amat",
+              "hidden": true
+            },
+            {
+              "answer": "amant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amābam",
+              "hidden": false
+            },
+            {
+              "answer": "amābāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amābās",
+              "hidden": true
+            },
+            {
+              "answer": "amābātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amābat",
+              "hidden": true
+            },
+            {
+              "answer": "amābant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amābō",
+              "hidden": false
+            },
+            {
+              "answer": "amābimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amābis",
+              "hidden": true
+            },
+            {
+              "answer": "amābitis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amābit",
+              "hidden": true
+            },
+            {
+              "answer": "amābunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amāvī",
+              "hidden": false
+            },
+            {
+              "answer": "amāvimus/amāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amāvistī/amāstī",
+              "hidden": true
+            },
+            {
+              "answer": "amāvistis/amāstis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amāvit/amāt",
+              "hidden": true
+            },
+            {
+              "answer": "amāvērunt/amārunt/amāvēre",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amāveram/amāram",
+              "hidden": false
+            },
+            {
+              "answer": "amāverāmus/amārāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amāverās/amārās",
+              "hidden": true
+            },
+            {
+              "answer": "amāverātis/amārātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amāverat/amārat",
+              "hidden": true
+            },
+            {
+              "answer": "amāverant/amārant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amāverō/amārō",
+              "hidden": false
+            },
+            {
+              "answer": "amāverimus/amārimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amāveris/amāris",
+              "hidden": true
+            },
+            {
+              "answer": "amāveritis/amāritis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amāverit/amārit",
+              "hidden": true
+            },
+            {
+              "answer": "amāverint/amārint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amor",
+              "hidden": false
+            },
+            {
+              "answer": "amāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amāris/amāre",
+              "hidden": true
+            },
+            {
+              "answer": "amāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātur",
+              "hidden": true
+            },
+            {
+              "answer": "amantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amābar",
+              "hidden": false
+            },
+            {
+              "answer": "amābāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amābāris/amābāre",
+              "hidden": true
+            },
+            {
+              "answer": "amābāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amābātur",
+              "hidden": true
+            },
+            {
+              "answer": "amābantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amābor",
+              "hidden": false
+            },
+            {
+              "answer": "amābimur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amāberis/amābere",
+              "hidden": true
+            },
+            {
+              "answer": "amābiminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amābitur",
+              "hidden": true
+            },
+            {
+              "answer": "amābuntur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amem",
+              "hidden": false
+            },
+            {
+              "answer": "amēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amēs",
+              "hidden": true
+            },
+            {
+              "answer": "amētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amet",
+              "hidden": true
+            },
+            {
+              "answer": "ament",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amārem",
+              "hidden": false
+            },
+            {
+              "answer": "amārēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amārēs",
+              "hidden": true
+            },
+            {
+              "answer": "amārētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amāret",
+              "hidden": true
+            },
+            {
+              "answer": "amārent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amāverim/amārim",
+              "hidden": false
+            },
+            {
+              "answer": "amāverīmus/amārīmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amāverīs/amārīs",
+              "hidden": true
+            },
+            {
+              "answer": "amāverītis/amārītis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amāverit/amārit",
+              "hidden": true
+            },
+            {
+              "answer": "amāverint/amārint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amāvissem/amāssem",
+              "hidden": false
+            },
+            {
+              "answer": "amāvissēmus/amāssēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amāvissēs/amāssēs",
+              "hidden": true
+            },
+            {
+              "answer": "amāvissētis/amāssētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amāvisset/amāsset",
+              "hidden": true
+            },
+            {
+              "answer": "amāvissent/amāssent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amer",
+              "hidden": false
+            },
+            {
+              "answer": "amēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amēris/amēre",
+              "hidden": true
+            },
+            {
+              "answer": "amēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amētur",
+              "hidden": true
+            },
+            {
+              "answer": "amentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amārer",
+              "hidden": false
+            },
+            {
+              "answer": "amārēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amārēris/amārēre",
+              "hidden": true
+            },
+            {
+              "answer": "amārēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amārētur",
+              "hidden": true
+            },
+            {
+              "answer": "amārentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperatives",
+        "rowHeaders": [
+          "Active Present 1sg",
+          "Active Present 2sg",
+          "Active Present 3sg",
+          "Active Present 1pl",
+          "Active Present 2pl",
+          "Active Present 3pl",
+          "Active Future 1sg",
+          "Active Future 2sg",
+          "Active Future 3sg",
+          "Active Future 1pl",
+          "Active Future 2pl",
+          "Active Future 3pl",
+          "Passive Present 1sg",
+          "Passive Present 2sg",
+          "Passive Present 3sg",
+          "Passive Present 1pl",
+          "Passive Present 2pl",
+          "Passive Present 3pl",
+          "Passive Future 1sg",
+          "Passive Future 2sg",
+          "Passive Future 3sg",
+          "Passive Future 1pl",
+          "Passive Future 2pl",
+          "Passive Future 3pl"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amā",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amāte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātō",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātō",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātōte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amantō",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amāre",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātor",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātor",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amantor",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles (Nominative Sg.)",
+        "rowHeaders": [
+          "Present Active",
+          "Future Active",
+          "Perfect Passive",
+          "Gerundive"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amāns",
+              "hidden": false
+            },
+            {
+              "answer": "amāns",
+              "hidden": false
+            },
+            {
+              "answer": "amāns",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amātūrus",
+              "hidden": true
+            },
+            {
+              "answer": "amātūra",
+              "hidden": true
+            },
+            {
+              "answer": "amātūrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātus",
+              "hidden": true
+            },
+            {
+              "answer": "amāta",
+              "hidden": true
+            },
+            {
+              "answer": "amātum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amandus",
+              "hidden": true
+            },
+            {
+              "answer": "amanda",
+              "hidden": true
+            },
+            {
+              "answer": "amandum",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Present Active Participle",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "M/F Sg.",
+          "N Sg.",
+          "M/F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amāns",
+              "hidden": false
+            },
+            {
+              "answer": "amāns",
+              "hidden": false
+            },
+            {
+              "answer": "amantēs",
+              "hidden": false
+            },
+            {
+              "answer": "amantia",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amāns",
+              "hidden": true
+            },
+            {
+              "answer": "amāns",
+              "hidden": true
+            },
+            {
+              "answer": "amantēs",
+              "hidden": true
+            },
+            {
+              "answer": "amantia",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amantem",
+              "hidden": true
+            },
+            {
+              "answer": "amāns",
+              "hidden": true
+            },
+            {
+              "answer": "amantēs",
+              "hidden": true
+            },
+            {
+              "answer": "amantia",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amantis",
+              "hidden": true
+            },
+            {
+              "answer": "amantis",
+              "hidden": true
+            },
+            {
+              "answer": "amantium",
+              "hidden": true
+            },
+            {
+              "answer": "amantium",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amantī",
+              "hidden": true
+            },
+            {
+              "answer": "amantī",
+              "hidden": true
+            },
+            {
+              "answer": "amantibus",
+              "hidden": true
+            },
+            {
+              "answer": "amantibus",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amantī/amante",
+              "hidden": true
+            },
+            {
+              "answer": "amantī/amante",
+              "hidden": true
+            },
+            {
+              "answer": "amantibus",
+              "hidden": true
+            },
+            {
+              "answer": "amantibus",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Gerund",
+        "rowHeaders": [
+          "Accusative",
+          "Genitive",
+          "Dative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amandum",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amandī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amandō",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amandō",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-finite Forms",
+        "rowHeaders": [
+          "Present Active Infinitive",
+          "Perfect Active Infinitive",
+          "Future Active Infinitive",
+          "Future Perfect Infinitive",
+          "Perfect Potential Infinitive",
+          "Present Passive Infinitive",
+          "Perfect Passive Infinitive",
+          "Future Passive Infinitive"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amāre",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amāvisse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātūrum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātūrum fuisse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amārī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātum īrī",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amātus sum",
+              "hidden": false
+            },
+            {
+              "answer": "amātī sumus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amātus es",
+              "hidden": true
+            },
+            {
+              "answer": "amātī estis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātus est",
+              "hidden": true
+            },
+            {
+              "answer": "amātī sunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amātus eram",
+              "hidden": false
+            },
+            {
+              "answer": "amātī erāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amātus erās",
+              "hidden": true
+            },
+            {
+              "answer": "amātī erātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātus erat",
+              "hidden": true
+            },
+            {
+              "answer": "amātī erant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Future Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amātus erō",
+              "hidden": false
+            },
+            {
+              "answer": "amātī erimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amātus eris",
+              "hidden": true
+            },
+            {
+              "answer": "amātī eritis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātus erit",
+              "hidden": true
+            },
+            {
+              "answer": "amātī erunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Subjunctive Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amātus sim",
+              "hidden": false
+            },
+            {
+              "answer": "amātī sīmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amātus sīs",
+              "hidden": true
+            },
+            {
+              "answer": "amātī sītis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātus sit",
+              "hidden": true
+            },
+            {
+              "answer": "amātī sint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Subjunctive Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amātus essem",
+              "hidden": false
+            },
+            {
+              "answer": "amātī essēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amātus essēs",
+              "hidden": true
+            },
+            {
+              "answer": "amātī essētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amātus esset",
+              "hidden": true
+            },
+            {
+              "answer": "amātī essent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Sigmatic Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amāssō",
+              "hidden": false
+            },
+            {
+              "answer": "amāssimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amāssis",
+              "hidden": true
+            },
+            {
+              "answer": "amāssitis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amāssit",
+              "hidden": true
+            },
+            {
+              "answer": "amāssint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Sigmatic Aorist Subjunctive",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amāssim",
+              "hidden": false
+            },
+            {
+              "answer": "amāssīmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amāssīs",
+              "hidden": true
+            },
+            {
+              "answer": "amāssītis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "amāssīt",
+              "hidden": true
+            },
+            {
+              "answer": "amāssint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Supine",
+        "rowHeaders": [
+          "Accusative",
+          "Ablative"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "amātum",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "amātū",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-moneo",
+    "word": "moneō",
+    "language": "Latin",
+    "category": "verb · 2nd conjugation (moneō)",
+    "matrices": [
+      {
+        "label": "Active Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "moneō",
+              "hidden": false
+            },
+            {
+              "answer": "monēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monēs",
+              "hidden": true
+            },
+            {
+              "answer": "monētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monet",
+              "hidden": true
+            },
+            {
+              "answer": "monent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monēbam",
+              "hidden": false
+            },
+            {
+              "answer": "monēbāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monēbās",
+              "hidden": true
+            },
+            {
+              "answer": "monēbātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monēbat",
+              "hidden": true
+            },
+            {
+              "answer": "monēbant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monēbō",
+              "hidden": false
+            },
+            {
+              "answer": "monēbimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monēbis",
+              "hidden": true
+            },
+            {
+              "answer": "monēbitis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monēbit",
+              "hidden": true
+            },
+            {
+              "answer": "monēbunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monuī",
+              "hidden": false
+            },
+            {
+              "answer": "monuimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monuistī",
+              "hidden": true
+            },
+            {
+              "answer": "monuistis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monuit",
+              "hidden": true
+            },
+            {
+              "answer": "monuērunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monueram",
+              "hidden": false
+            },
+            {
+              "answer": "monuerāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monuerās",
+              "hidden": true
+            },
+            {
+              "answer": "monuerātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monuerat",
+              "hidden": true
+            },
+            {
+              "answer": "monuerant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monuerō",
+              "hidden": false
+            },
+            {
+              "answer": "monuerimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monueris",
+              "hidden": true
+            },
+            {
+              "answer": "monueritis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monuerit",
+              "hidden": true
+            },
+            {
+              "answer": "monuerint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "moneor",
+              "hidden": false
+            },
+            {
+              "answer": "monēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monēris/monēre",
+              "hidden": true
+            },
+            {
+              "answer": "monēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monētur",
+              "hidden": true
+            },
+            {
+              "answer": "monentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monēbar",
+              "hidden": false
+            },
+            {
+              "answer": "monēbāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monēbāris/monēbāre",
+              "hidden": true
+            },
+            {
+              "answer": "monēbāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monēbātur",
+              "hidden": true
+            },
+            {
+              "answer": "monēbantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monēbor",
+              "hidden": false
+            },
+            {
+              "answer": "monēbimur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monēberis/monēbere",
+              "hidden": true
+            },
+            {
+              "answer": "monēbiminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monēbitur",
+              "hidden": true
+            },
+            {
+              "answer": "monēbuntur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "moneam",
+              "hidden": false
+            },
+            {
+              "answer": "moneāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "moneās",
+              "hidden": true
+            },
+            {
+              "answer": "moneātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "moneat",
+              "hidden": true
+            },
+            {
+              "answer": "moneant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monērem",
+              "hidden": false
+            },
+            {
+              "answer": "monērēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monērēs",
+              "hidden": true
+            },
+            {
+              "answer": "monērētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monēret",
+              "hidden": true
+            },
+            {
+              "answer": "monērent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monuerim",
+              "hidden": false
+            },
+            {
+              "answer": "monuerīmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monuerīs",
+              "hidden": true
+            },
+            {
+              "answer": "monuerītis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monuerit",
+              "hidden": true
+            },
+            {
+              "answer": "monuerint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monuissem",
+              "hidden": false
+            },
+            {
+              "answer": "monuissēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monuissēs",
+              "hidden": true
+            },
+            {
+              "answer": "monuissētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monuisset",
+              "hidden": true
+            },
+            {
+              "answer": "monuissent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monear",
+              "hidden": false
+            },
+            {
+              "answer": "moneāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "moneāris/moneāre",
+              "hidden": true
+            },
+            {
+              "answer": "moneāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "moneātur",
+              "hidden": true
+            },
+            {
+              "answer": "moneantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monērer",
+              "hidden": false
+            },
+            {
+              "answer": "monērēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monērēris/monērēre",
+              "hidden": true
+            },
+            {
+              "answer": "monērēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monērētur",
+              "hidden": true
+            },
+            {
+              "answer": "monērentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperatives",
+        "rowHeaders": [
+          "Active Present 2sg",
+          "Active Present 2pl",
+          "Active Future 2sg",
+          "Active Future 3sg",
+          "Active Future 2pl",
+          "Active Future 3pl"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monē",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monēte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monētō",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monētō",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monētōte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monentō",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-finite Forms",
+        "rowHeaders": [
+          "Present Active Infinitive",
+          "Perfect Active Infinitive",
+          "Future Active Infinitive",
+          "Present Passive Infinitive",
+          "Perfect Passive Infinitive",
+          "Future Passive Infinitive"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monēre",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monuisse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monitūrum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monērī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monitum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monitum īrī",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles (Nominative Sg.)",
+        "rowHeaders": [
+          "Present Active",
+          "Future Active",
+          "Perfect Passive",
+          "Gerundive"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "monēns",
+              "hidden": false
+            },
+            {
+              "answer": "monēns",
+              "hidden": false
+            },
+            {
+              "answer": "monēns",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "monitūrus",
+              "hidden": true
+            },
+            {
+              "answer": "monitūra",
+              "hidden": true
+            },
+            {
+              "answer": "monitūrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monitus",
+              "hidden": true
+            },
+            {
+              "answer": "monita",
+              "hidden": true
+            },
+            {
+              "answer": "monitum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "monendus",
+              "hidden": true
+            },
+            {
+              "answer": "monenda",
+              "hidden": true
+            },
+            {
+              "answer": "monendum",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-rego",
+    "word": "regō",
+    "language": "Latin",
+    "category": "verb · 3rd conjugation (regō)",
+    "matrices": [
+      {
+        "label": "Active Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "regō",
+              "hidden": false
+            },
+            {
+              "answer": "regimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "regis",
+              "hidden": true
+            },
+            {
+              "answer": "regitis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regit",
+              "hidden": true
+            },
+            {
+              "answer": "regunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "regēbam",
+              "hidden": false
+            },
+            {
+              "answer": "regēbāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "regēbās",
+              "hidden": true
+            },
+            {
+              "answer": "regēbātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regēbat",
+              "hidden": true
+            },
+            {
+              "answer": "regēbant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "regam",
+              "hidden": false
+            },
+            {
+              "answer": "regēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "regēs",
+              "hidden": true
+            },
+            {
+              "answer": "regētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "reget",
+              "hidden": true
+            },
+            {
+              "answer": "regent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "rēxī",
+              "hidden": false
+            },
+            {
+              "answer": "rēximus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "rēxistī",
+              "hidden": true
+            },
+            {
+              "answer": "rēxistis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rēxit",
+              "hidden": true
+            },
+            {
+              "answer": "rēxērunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "rēxeram",
+              "hidden": false
+            },
+            {
+              "answer": "rēxerāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "rēxerās",
+              "hidden": true
+            },
+            {
+              "answer": "rēxerātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rēxerat",
+              "hidden": true
+            },
+            {
+              "answer": "rēxerant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "rēxerō",
+              "hidden": false
+            },
+            {
+              "answer": "rēxerimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "rēxeris",
+              "hidden": true
+            },
+            {
+              "answer": "rēxeritis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rēxerit",
+              "hidden": true
+            },
+            {
+              "answer": "rēxerint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "regor",
+              "hidden": false
+            },
+            {
+              "answer": "regimur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "regeris/regere",
+              "hidden": true
+            },
+            {
+              "answer": "regiminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regitur",
+              "hidden": true
+            },
+            {
+              "answer": "reguntur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "regēbar",
+              "hidden": false
+            },
+            {
+              "answer": "regēbāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "regēbāris/regēbāre",
+              "hidden": true
+            },
+            {
+              "answer": "regēbāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regēbātur",
+              "hidden": true
+            },
+            {
+              "answer": "regēbantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "regar",
+              "hidden": false
+            },
+            {
+              "answer": "regēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "regēris/regēre",
+              "hidden": true
+            },
+            {
+              "answer": "regēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regētur",
+              "hidden": true
+            },
+            {
+              "answer": "regentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "regam",
+              "hidden": false
+            },
+            {
+              "answer": "regāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "regās",
+              "hidden": true
+            },
+            {
+              "answer": "regātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regat",
+              "hidden": true
+            },
+            {
+              "answer": "regant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "regerem",
+              "hidden": false
+            },
+            {
+              "answer": "regerēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "regerēs",
+              "hidden": true
+            },
+            {
+              "answer": "regerētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regeret",
+              "hidden": true
+            },
+            {
+              "answer": "regerent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "rēxerim",
+              "hidden": false
+            },
+            {
+              "answer": "rēxerīmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "rēxerīs",
+              "hidden": true
+            },
+            {
+              "answer": "rēxerītis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rēxerit",
+              "hidden": true
+            },
+            {
+              "answer": "rēxerint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "rēxissem",
+              "hidden": false
+            },
+            {
+              "answer": "rēxissēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "rēxissēs",
+              "hidden": true
+            },
+            {
+              "answer": "rēxissētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rēxisset",
+              "hidden": true
+            },
+            {
+              "answer": "rēxissent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "regar",
+              "hidden": false
+            },
+            {
+              "answer": "regāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "regāris/regāre",
+              "hidden": true
+            },
+            {
+              "answer": "regāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regātur",
+              "hidden": true
+            },
+            {
+              "answer": "regantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "regerer",
+              "hidden": false
+            },
+            {
+              "answer": "regerēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "regerēris/regerēre",
+              "hidden": true
+            },
+            {
+              "answer": "regerēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regerētur",
+              "hidden": true
+            },
+            {
+              "answer": "regerentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperatives",
+        "rowHeaders": [
+          "Active Present 2sg",
+          "Active Present 2pl",
+          "Active Future 2sg",
+          "Active Future 3sg",
+          "Active Future 2pl",
+          "Active Future 3pl"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "rege",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "regite",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regitō",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regitō",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regitōte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "reguntō",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-finite Forms",
+        "rowHeaders": [
+          "Present Active Infinitive",
+          "Perfect Active Infinitive",
+          "Future Active Infinitive",
+          "Present Passive Infinitive",
+          "Perfect Passive Infinitive",
+          "Future Passive Infinitive"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "regere",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "rēxisse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rēctūrum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rēctum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rēctum īrī",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles (Nominative Sg.)",
+        "rowHeaders": [
+          "Present Active",
+          "Future Active",
+          "Perfect Passive",
+          "Gerundive"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "regēns",
+              "hidden": false
+            },
+            {
+              "answer": "regēns",
+              "hidden": false
+            },
+            {
+              "answer": "regēns",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "rēctūrus",
+              "hidden": true
+            },
+            {
+              "answer": "rēctūra",
+              "hidden": true
+            },
+            {
+              "answer": "rēctūrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rēctus",
+              "hidden": true
+            },
+            {
+              "answer": "rēcta",
+              "hidden": true
+            },
+            {
+              "answer": "rēctum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "regendus",
+              "hidden": true
+            },
+            {
+              "answer": "regenda",
+              "hidden": true
+            },
+            {
+              "answer": "regendum",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-capio",
+    "word": "capiō",
+    "language": "Latin",
+    "category": "verb · 3rd -iō conjugation (capiō)",
+    "matrices": [
+      {
+        "label": "Active Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "capiō",
+              "hidden": false
+            },
+            {
+              "answer": "capimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "capis",
+              "hidden": true
+            },
+            {
+              "answer": "capitis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capit",
+              "hidden": true
+            },
+            {
+              "answer": "capiunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "capiēbam",
+              "hidden": false
+            },
+            {
+              "answer": "capiēbāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "capiēbās",
+              "hidden": true
+            },
+            {
+              "answer": "capiēbātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capiēbat",
+              "hidden": true
+            },
+            {
+              "answer": "capiēbant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "capiam",
+              "hidden": false
+            },
+            {
+              "answer": "capiēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "capiēs",
+              "hidden": true
+            },
+            {
+              "answer": "capiētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capiet",
+              "hidden": true
+            },
+            {
+              "answer": "capient",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cēpī",
+              "hidden": false
+            },
+            {
+              "answer": "cēpimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cēpistī",
+              "hidden": true
+            },
+            {
+              "answer": "cēpistis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cēpit",
+              "hidden": true
+            },
+            {
+              "answer": "cēpērunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cēperam",
+              "hidden": false
+            },
+            {
+              "answer": "cēperāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cēperās",
+              "hidden": true
+            },
+            {
+              "answer": "cēperātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cēperat",
+              "hidden": true
+            },
+            {
+              "answer": "cēperant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cēperō",
+              "hidden": false
+            },
+            {
+              "answer": "cēperimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cēperis",
+              "hidden": true
+            },
+            {
+              "answer": "cēperitis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cēperit",
+              "hidden": true
+            },
+            {
+              "answer": "cēperint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "capior",
+              "hidden": false
+            },
+            {
+              "answer": "capimur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "caperis/capere",
+              "hidden": true
+            },
+            {
+              "answer": "capiminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capitur",
+              "hidden": true
+            },
+            {
+              "answer": "capiuntur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "capiēbar",
+              "hidden": false
+            },
+            {
+              "answer": "capiēbāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "capiēbāris/capiēbāre",
+              "hidden": true
+            },
+            {
+              "answer": "capiēbāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capiēbātur",
+              "hidden": true
+            },
+            {
+              "answer": "capiēbantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "capiar",
+              "hidden": false
+            },
+            {
+              "answer": "capiēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "capiēris/capiēre",
+              "hidden": true
+            },
+            {
+              "answer": "capiēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capiētur",
+              "hidden": true
+            },
+            {
+              "answer": "capientur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "capiam",
+              "hidden": false
+            },
+            {
+              "answer": "capiāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "capiās",
+              "hidden": true
+            },
+            {
+              "answer": "capiātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capiat",
+              "hidden": true
+            },
+            {
+              "answer": "capiant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "caperem",
+              "hidden": false
+            },
+            {
+              "answer": "caperēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "caperēs",
+              "hidden": true
+            },
+            {
+              "answer": "caperētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "caperet",
+              "hidden": true
+            },
+            {
+              "answer": "caperent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cēperim",
+              "hidden": false
+            },
+            {
+              "answer": "cēperīmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cēperīs",
+              "hidden": true
+            },
+            {
+              "answer": "cēperītis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cēperit",
+              "hidden": true
+            },
+            {
+              "answer": "cēperint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cēpissem",
+              "hidden": false
+            },
+            {
+              "answer": "cēpissēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cēpissēs",
+              "hidden": true
+            },
+            {
+              "answer": "cēpissētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cēpisset",
+              "hidden": true
+            },
+            {
+              "answer": "cēpissent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "capiar",
+              "hidden": false
+            },
+            {
+              "answer": "capiāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "capiāris/capiāre",
+              "hidden": true
+            },
+            {
+              "answer": "capiāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capiātur",
+              "hidden": true
+            },
+            {
+              "answer": "capiantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "caperer",
+              "hidden": false
+            },
+            {
+              "answer": "caperēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "caperēris/caperēre",
+              "hidden": true
+            },
+            {
+              "answer": "caperēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "caperētur",
+              "hidden": true
+            },
+            {
+              "answer": "caperentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperatives",
+        "rowHeaders": [
+          "Active Present 2sg",
+          "Active Present 2pl",
+          "Active Future 2sg",
+          "Active Future 3sg",
+          "Active Future 2pl",
+          "Active Future 3pl"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cape",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "capite",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capitō",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capitō",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capitōte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capiuntō",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-finite Forms",
+        "rowHeaders": [
+          "Present Active Infinitive",
+          "Perfect Active Infinitive",
+          "Future Active Infinitive",
+          "Present Passive Infinitive",
+          "Perfect Passive Infinitive",
+          "Future Passive Infinitive"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "capere",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cēpisse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "captūrum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "captum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "captum īrī",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles (Nominative Sg.)",
+        "rowHeaders": [
+          "Present Active",
+          "Future Active",
+          "Perfect Passive",
+          "Gerundive"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "capiēns",
+              "hidden": false
+            },
+            {
+              "answer": "capiēns",
+              "hidden": false
+            },
+            {
+              "answer": "capiēns",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "captūrus",
+              "hidden": true
+            },
+            {
+              "answer": "captūra",
+              "hidden": true
+            },
+            {
+              "answer": "captūrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "captus",
+              "hidden": true
+            },
+            {
+              "answer": "capta",
+              "hidden": true
+            },
+            {
+              "answer": "captum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "capiendus",
+              "hidden": true
+            },
+            {
+              "answer": "capienda",
+              "hidden": true
+            },
+            {
+              "answer": "capiendum",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-audio",
+    "word": "audiō",
+    "language": "Latin",
+    "category": "verb · 4th conjugation (audiō)",
+    "matrices": [
+      {
+        "label": "Active Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audiō",
+              "hidden": false
+            },
+            {
+              "answer": "audīmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audīs",
+              "hidden": true
+            },
+            {
+              "answer": "audītis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audit",
+              "hidden": true
+            },
+            {
+              "answer": "audiunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audiēbam",
+              "hidden": false
+            },
+            {
+              "answer": "audiēbāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audiēbās",
+              "hidden": true
+            },
+            {
+              "answer": "audiēbātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audiēbat",
+              "hidden": true
+            },
+            {
+              "answer": "audiēbant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audiam",
+              "hidden": false
+            },
+            {
+              "answer": "audiēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audiēs",
+              "hidden": true
+            },
+            {
+              "answer": "audiētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audiet",
+              "hidden": true
+            },
+            {
+              "answer": "audient",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audīvī",
+              "hidden": false
+            },
+            {
+              "answer": "audīvimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audīvistī/audīstī",
+              "hidden": true
+            },
+            {
+              "answer": "audīvistis/audīstis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audīvit/audīt",
+              "hidden": true
+            },
+            {
+              "answer": "audīvērunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audīveram/audīram",
+              "hidden": false
+            },
+            {
+              "answer": "audīverāmus/audīrāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audīverās/audīrās",
+              "hidden": true
+            },
+            {
+              "answer": "audīverātis/audīrātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audīverat/audīrat",
+              "hidden": true
+            },
+            {
+              "answer": "audīverant/audīrant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audīverō/audīrō",
+              "hidden": false
+            },
+            {
+              "answer": "audīverimus/audīrimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audīveris/audīris",
+              "hidden": true
+            },
+            {
+              "answer": "audīveritis/audīritis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audīverit/audīrit",
+              "hidden": true
+            },
+            {
+              "answer": "audīverint/audīrint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audior",
+              "hidden": false
+            },
+            {
+              "answer": "audīmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audīris/audīre",
+              "hidden": true
+            },
+            {
+              "answer": "audīminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audītur",
+              "hidden": true
+            },
+            {
+              "answer": "audiuntur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audiēbar",
+              "hidden": false
+            },
+            {
+              "answer": "audiēbāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audiēbāris/audiēbāre",
+              "hidden": true
+            },
+            {
+              "answer": "audiēbāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audiēbātur",
+              "hidden": true
+            },
+            {
+              "answer": "audiēbantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audiar",
+              "hidden": false
+            },
+            {
+              "answer": "audiēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audiēris/audiēre",
+              "hidden": true
+            },
+            {
+              "answer": "audiēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audiētur",
+              "hidden": true
+            },
+            {
+              "answer": "audientur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audiam",
+              "hidden": false
+            },
+            {
+              "answer": "audiāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audiās",
+              "hidden": true
+            },
+            {
+              "answer": "audiātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audiat",
+              "hidden": true
+            },
+            {
+              "answer": "audiant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audīrem",
+              "hidden": false
+            },
+            {
+              "answer": "audīrēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audīrēs",
+              "hidden": true
+            },
+            {
+              "answer": "audīrētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audīret",
+              "hidden": true
+            },
+            {
+              "answer": "audīrent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audīverim/audīrim",
+              "hidden": false
+            },
+            {
+              "answer": "audīverīmus/audīrīmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audīverīs/audīrīs",
+              "hidden": true
+            },
+            {
+              "answer": "audīverītis/audīrītis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audīverit/audīrit",
+              "hidden": true
+            },
+            {
+              "answer": "audīverint/audīrint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audīvissem/audīssem",
+              "hidden": false
+            },
+            {
+              "answer": "audīvissēmus/audīssēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audīvissēs/audīssēs",
+              "hidden": true
+            },
+            {
+              "answer": "audīvissētis/audīssētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audīvisset/audīsset",
+              "hidden": true
+            },
+            {
+              "answer": "audīvissent/audīssent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audiar",
+              "hidden": false
+            },
+            {
+              "answer": "audiāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audiāris/audiāre",
+              "hidden": true
+            },
+            {
+              "answer": "audiāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audiātur",
+              "hidden": true
+            },
+            {
+              "answer": "audiantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audīrer",
+              "hidden": false
+            },
+            {
+              "answer": "audīrēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audīrēris/audīrēre",
+              "hidden": true
+            },
+            {
+              "answer": "audīrēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audīrētur",
+              "hidden": true
+            },
+            {
+              "answer": "audīrentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperatives",
+        "rowHeaders": [
+          "Active Present 2sg",
+          "Active Present 2pl",
+          "Active Future 2sg",
+          "Active Future 3sg",
+          "Active Future 2pl",
+          "Active Future 3pl"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audī",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audīte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audītō",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audītō",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audītōte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audiuntō",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-finite Forms",
+        "rowHeaders": [
+          "Present Active Infinitive",
+          "Perfect Active Infinitive",
+          "Future Active Infinitive",
+          "Present Passive Infinitive",
+          "Perfect Passive Infinitive",
+          "Future Passive Infinitive"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audīre",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audīvisse/audīsse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audītūrum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audīrī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audītum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audītum īrī",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles (Nominative Sg.)",
+        "rowHeaders": [
+          "Present Active",
+          "Future Active",
+          "Perfect Passive",
+          "Gerundive"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "audiēns",
+              "hidden": false
+            },
+            {
+              "answer": "audiēns",
+              "hidden": false
+            },
+            {
+              "answer": "audiēns",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "audītūrus",
+              "hidden": true
+            },
+            {
+              "answer": "audītūra",
+              "hidden": true
+            },
+            {
+              "answer": "audītūrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audītus",
+              "hidden": true
+            },
+            {
+              "answer": "audīta",
+              "hidden": true
+            },
+            {
+              "answer": "audītum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "audiendus",
+              "hidden": true
+            },
+            {
+              "answer": "audienda",
+              "hidden": true
+            },
+            {
+              "answer": "audiendum",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-conor",
+    "word": "cōnor",
+    "language": "Latin",
+    "category": "verb · 1st conjugation deponent (cōnor)",
+    "matrices": [
+      {
+        "label": "Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cōnor",
+              "hidden": false
+            },
+            {
+              "answer": "cōnāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cōnāris/cōnāre",
+              "hidden": true
+            },
+            {
+              "answer": "cōnāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cōnātur",
+              "hidden": true
+            },
+            {
+              "answer": "cōnantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cōnābar",
+              "hidden": false
+            },
+            {
+              "answer": "cōnābāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cōnābāris/cōnābāre",
+              "hidden": true
+            },
+            {
+              "answer": "cōnābāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cōnābātur",
+              "hidden": true
+            },
+            {
+              "answer": "cōnābantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cōnābor",
+              "hidden": false
+            },
+            {
+              "answer": "cōnābimur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cōnāberis/cōnābere",
+              "hidden": true
+            },
+            {
+              "answer": "cōnābiminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cōnābitur",
+              "hidden": true
+            },
+            {
+              "answer": "cōnābuntur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cōnātus sum",
+              "hidden": false
+            },
+            {
+              "answer": "cōnātī sumus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cōnātus es",
+              "hidden": true
+            },
+            {
+              "answer": "cōnātī estis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cōnātus est",
+              "hidden": true
+            },
+            {
+              "answer": "cōnātī sunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cōnātus eram",
+              "hidden": false
+            },
+            {
+              "answer": "cōnātī erāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cōnātus erās",
+              "hidden": true
+            },
+            {
+              "answer": "cōnātī erātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cōnātus erat",
+              "hidden": true
+            },
+            {
+              "answer": "cōnātī erant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Future Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cōnātus erō",
+              "hidden": false
+            },
+            {
+              "answer": "cōnātī erimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cōnātus eris",
+              "hidden": true
+            },
+            {
+              "answer": "cōnātī eritis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cōnātus erit",
+              "hidden": true
+            },
+            {
+              "answer": "cōnātī erunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cōner",
+              "hidden": false
+            },
+            {
+              "answer": "cōnēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cōnēris/cōnēre",
+              "hidden": true
+            },
+            {
+              "answer": "cōnēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cōnētur",
+              "hidden": true
+            },
+            {
+              "answer": "cōnentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cōnārer",
+              "hidden": false
+            },
+            {
+              "answer": "cōnārēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cōnārēris/cōnārēre",
+              "hidden": true
+            },
+            {
+              "answer": "cōnārēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cōnārētur",
+              "hidden": true
+            },
+            {
+              "answer": "cōnārentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cōnātus sim",
+              "hidden": false
+            },
+            {
+              "answer": "cōnātī sīmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cōnātus sīs",
+              "hidden": true
+            },
+            {
+              "answer": "cōnātī sītis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cōnātus sit",
+              "hidden": true
+            },
+            {
+              "answer": "cōnātī sint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cōnātus essem",
+              "hidden": false
+            },
+            {
+              "answer": "cōnātī essēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cōnātus essēs",
+              "hidden": true
+            },
+            {
+              "answer": "cōnātī essētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cōnātus esset",
+              "hidden": true
+            },
+            {
+              "answer": "cōnātī essent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperatives",
+        "rowHeaders": [
+          "Present 2sg",
+          "Present 2pl"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cōnāre",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cōnāminī",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-finite Forms",
+        "rowHeaders": [
+          "Present Infinitive",
+          "Perfect Infinitive",
+          "Future Infinitive"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cōnārī",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cōnātum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cōnātūrum esse",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles (Nominative Sg.)",
+        "rowHeaders": [
+          "Present Active",
+          "Future Active",
+          "Perfect"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "cōnāns",
+              "hidden": false
+            },
+            {
+              "answer": "cōnāns",
+              "hidden": false
+            },
+            {
+              "answer": "cōnāns",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "cōnātūrus",
+              "hidden": true
+            },
+            {
+              "answer": "cōnātūra",
+              "hidden": true
+            },
+            {
+              "answer": "cōnātūrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "cōnātus",
+              "hidden": true
+            },
+            {
+              "answer": "cōnāta",
+              "hidden": true
+            },
+            {
+              "answer": "cōnātum",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-vereor",
+    "word": "vereor",
+    "language": "Latin",
+    "category": "verb · 2nd conjugation deponent (vereor)",
+    "matrices": [
+      {
+        "label": "Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "vereor",
+              "hidden": false
+            },
+            {
+              "answer": "verēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "verēris/verēre",
+              "hidden": true
+            },
+            {
+              "answer": "verēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "verētur",
+              "hidden": true
+            },
+            {
+              "answer": "verentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "verēbar",
+              "hidden": false
+            },
+            {
+              "answer": "verēbāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "verēbāris/verēbāre",
+              "hidden": true
+            },
+            {
+              "answer": "verēbāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "verēbātur",
+              "hidden": true
+            },
+            {
+              "answer": "verēbantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "verēbor",
+              "hidden": false
+            },
+            {
+              "answer": "verēbimur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "verēberis/verēbere",
+              "hidden": true
+            },
+            {
+              "answer": "verēbiminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "verēbitur",
+              "hidden": true
+            },
+            {
+              "answer": "verēbuntur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "veritus sum",
+              "hidden": false
+            },
+            {
+              "answer": "veritī sumus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "veritus es",
+              "hidden": true
+            },
+            {
+              "answer": "veritī estis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "veritus est",
+              "hidden": true
+            },
+            {
+              "answer": "veritī sunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "veritus eram",
+              "hidden": false
+            },
+            {
+              "answer": "veritī erāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "veritus erās",
+              "hidden": true
+            },
+            {
+              "answer": "veritī erātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "veritus erat",
+              "hidden": true
+            },
+            {
+              "answer": "veritī erant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Future Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "veritus erō",
+              "hidden": false
+            },
+            {
+              "answer": "veritī erimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "veritus eris",
+              "hidden": true
+            },
+            {
+              "answer": "veritī eritis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "veritus erit",
+              "hidden": true
+            },
+            {
+              "answer": "veritī erunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "verear",
+              "hidden": false
+            },
+            {
+              "answer": "vereāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "vereāris/vereāre",
+              "hidden": true
+            },
+            {
+              "answer": "vereāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "vereātur",
+              "hidden": true
+            },
+            {
+              "answer": "vereantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "verērer",
+              "hidden": false
+            },
+            {
+              "answer": "verērēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "verērēris/verērēre",
+              "hidden": true
+            },
+            {
+              "answer": "verērēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "verērētur",
+              "hidden": true
+            },
+            {
+              "answer": "verērentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "veritus sim",
+              "hidden": false
+            },
+            {
+              "answer": "veritī sīmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "veritus sīs",
+              "hidden": true
+            },
+            {
+              "answer": "veritī sītis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "veritus sit",
+              "hidden": true
+            },
+            {
+              "answer": "veritī sint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "veritus essem",
+              "hidden": false
+            },
+            {
+              "answer": "veritī essēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "veritus essēs",
+              "hidden": true
+            },
+            {
+              "answer": "veritī essētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "veritus esset",
+              "hidden": true
+            },
+            {
+              "answer": "veritī essent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperatives",
+        "rowHeaders": [
+          "Present 2sg",
+          "Present 2pl"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "verēre",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "verēminī",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-finite Forms",
+        "rowHeaders": [
+          "Present Infinitive",
+          "Perfect Infinitive",
+          "Future Infinitive"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "verērī",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "veritum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "veritūrum esse",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles (Nominative Sg.)",
+        "rowHeaders": [
+          "Present Active",
+          "Future Active",
+          "Perfect"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "verēns",
+              "hidden": false
+            },
+            {
+              "answer": "verēns",
+              "hidden": false
+            },
+            {
+              "answer": "verēns",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "veritūrus",
+              "hidden": true
+            },
+            {
+              "answer": "veritūra",
+              "hidden": true
+            },
+            {
+              "answer": "veritūrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "veritus",
+              "hidden": true
+            },
+            {
+              "answer": "verita",
+              "hidden": true
+            },
+            {
+              "answer": "veritum",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-sequor",
+    "word": "sequor",
+    "language": "Latin",
+    "category": "verb · 3rd conjugation deponent (sequor)",
+    "matrices": [
+      {
+        "label": "Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sequor",
+              "hidden": false
+            },
+            {
+              "answer": "sequimur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sequeris/sequere",
+              "hidden": true
+            },
+            {
+              "answer": "sequiminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sequitur",
+              "hidden": true
+            },
+            {
+              "answer": "sequuntur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sequēbar",
+              "hidden": false
+            },
+            {
+              "answer": "sequēbāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sequēbāris/sequēbāre",
+              "hidden": true
+            },
+            {
+              "answer": "sequēbāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sequēbātur",
+              "hidden": true
+            },
+            {
+              "answer": "sequēbantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sequar",
+              "hidden": false
+            },
+            {
+              "answer": "sequēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sequēris/sequēre",
+              "hidden": true
+            },
+            {
+              "answer": "sequēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sequētur",
+              "hidden": true
+            },
+            {
+              "answer": "sequentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "secūtus sum",
+              "hidden": false
+            },
+            {
+              "answer": "secūtī sumus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "secūtus es",
+              "hidden": true
+            },
+            {
+              "answer": "secūtī estis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "secūtus est",
+              "hidden": true
+            },
+            {
+              "answer": "secūtī sunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "secūtus eram",
+              "hidden": false
+            },
+            {
+              "answer": "secūtī erāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "secūtus erās",
+              "hidden": true
+            },
+            {
+              "answer": "secūtī erātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "secūtus erat",
+              "hidden": true
+            },
+            {
+              "answer": "secūtī erant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Future Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "secūtus erō",
+              "hidden": false
+            },
+            {
+              "answer": "secūtī erimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "secūtus eris",
+              "hidden": true
+            },
+            {
+              "answer": "secūtī eritis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "secūtus erit",
+              "hidden": true
+            },
+            {
+              "answer": "secūtī erunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sequar",
+              "hidden": false
+            },
+            {
+              "answer": "sequāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sequāris/sequāre",
+              "hidden": true
+            },
+            {
+              "answer": "sequāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sequātur",
+              "hidden": true
+            },
+            {
+              "answer": "sequantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sequerer",
+              "hidden": false
+            },
+            {
+              "answer": "sequerēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sequērēris/sequerēre",
+              "hidden": true
+            },
+            {
+              "answer": "sequerēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sequerētur",
+              "hidden": true
+            },
+            {
+              "answer": "sequerentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "secūtus sim",
+              "hidden": false
+            },
+            {
+              "answer": "secūtī sīmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "secūtus sīs",
+              "hidden": true
+            },
+            {
+              "answer": "secūtī sītis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "secūtus sit",
+              "hidden": true
+            },
+            {
+              "answer": "secūtī sint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "secūtus essem",
+              "hidden": false
+            },
+            {
+              "answer": "secūtī essēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "secūtus essēs",
+              "hidden": true
+            },
+            {
+              "answer": "secūtī essētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "secūtus esset",
+              "hidden": true
+            },
+            {
+              "answer": "secūtī essent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperatives",
+        "rowHeaders": [
+          "Present 2sg",
+          "Present 2pl"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sequere",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sequiminī",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-finite Forms",
+        "rowHeaders": [
+          "Present Infinitive",
+          "Perfect Infinitive",
+          "Future Infinitive"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sequī",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "secūtum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "secūtūrum esse",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles (Nominative Sg.)",
+        "rowHeaders": [
+          "Present Active",
+          "Future Active",
+          "Perfect"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sequēns",
+              "hidden": false
+            },
+            {
+              "answer": "sequēns",
+              "hidden": false
+            },
+            {
+              "answer": "sequēns",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "secūtūrus",
+              "hidden": true
+            },
+            {
+              "answer": "secūtūra",
+              "hidden": true
+            },
+            {
+              "answer": "secūtūrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "secūtus",
+              "hidden": true
+            },
+            {
+              "answer": "secūta",
+              "hidden": true
+            },
+            {
+              "answer": "secūtum",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-patior",
+    "word": "patior",
+    "language": "Latin",
+    "category": "verb · 3rd -iō conjugation deponent (patior)",
+    "matrices": [
+      {
+        "label": "Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "patior",
+              "hidden": false
+            },
+            {
+              "answer": "patimur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "pateris/patere",
+              "hidden": true
+            },
+            {
+              "answer": "patiminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "patitur",
+              "hidden": true
+            },
+            {
+              "answer": "patiuntur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "patiēbar",
+              "hidden": false
+            },
+            {
+              "answer": "patiēbāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "patiēbāris/patiēbāre",
+              "hidden": true
+            },
+            {
+              "answer": "patiēbāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "patiēbātur",
+              "hidden": true
+            },
+            {
+              "answer": "patiēbantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "patiar",
+              "hidden": false
+            },
+            {
+              "answer": "patiēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "patiēris/patiēre",
+              "hidden": true
+            },
+            {
+              "answer": "patiēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "patiētur",
+              "hidden": true
+            },
+            {
+              "answer": "patientur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "passus sum",
+              "hidden": false
+            },
+            {
+              "answer": "passī sumus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "passus es",
+              "hidden": true
+            },
+            {
+              "answer": "passī estis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "passus est",
+              "hidden": true
+            },
+            {
+              "answer": "passī sunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "passus eram",
+              "hidden": false
+            },
+            {
+              "answer": "passī erāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "passus erās",
+              "hidden": true
+            },
+            {
+              "answer": "passī erātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "passus erat",
+              "hidden": true
+            },
+            {
+              "answer": "passī erant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Future Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "passus erō",
+              "hidden": false
+            },
+            {
+              "answer": "passī erimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "passus eris",
+              "hidden": true
+            },
+            {
+              "answer": "passī eritis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "passus erit",
+              "hidden": true
+            },
+            {
+              "answer": "passī erunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "patiar",
+              "hidden": false
+            },
+            {
+              "answer": "patiāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "patiāris/patiāre",
+              "hidden": true
+            },
+            {
+              "answer": "patiāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "patiātur",
+              "hidden": true
+            },
+            {
+              "answer": "patiantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "paterer",
+              "hidden": false
+            },
+            {
+              "answer": "paterēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "paterēris/paterēre",
+              "hidden": true
+            },
+            {
+              "answer": "paterēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "paterētur",
+              "hidden": true
+            },
+            {
+              "answer": "paterentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "passus sim",
+              "hidden": false
+            },
+            {
+              "answer": "passī sīmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "passus sīs",
+              "hidden": true
+            },
+            {
+              "answer": "passī sītis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "passus sit",
+              "hidden": true
+            },
+            {
+              "answer": "passī sint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "passus essem",
+              "hidden": false
+            },
+            {
+              "answer": "passī essēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "passus essēs",
+              "hidden": true
+            },
+            {
+              "answer": "passī essētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "passus esset",
+              "hidden": true
+            },
+            {
+              "answer": "passī essent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperatives",
+        "rowHeaders": [
+          "Present 2sg",
+          "Present 2pl"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "patere",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "patiminī",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-finite Forms",
+        "rowHeaders": [
+          "Present Infinitive",
+          "Perfect Infinitive",
+          "Future Infinitive"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "patī",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "passum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "passūrum esse",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles (Nominative Sg.)",
+        "rowHeaders": [
+          "Present Active",
+          "Future Active",
+          "Perfect"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "patiēns",
+              "hidden": false
+            },
+            {
+              "answer": "patiēns",
+              "hidden": false
+            },
+            {
+              "answer": "patiēns",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "passūrus",
+              "hidden": true
+            },
+            {
+              "answer": "passūra",
+              "hidden": true
+            },
+            {
+              "answer": "passūrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "passus",
+              "hidden": true
+            },
+            {
+              "answer": "passa",
+              "hidden": true
+            },
+            {
+              "answer": "passum",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "latin-potior",
+    "word": "potior",
+    "language": "Latin",
+    "category": "verb · 4th conjugation deponent (potior)",
+    "matrices": [
+      {
+        "label": "Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "potior",
+              "hidden": false
+            },
+            {
+              "answer": "potīmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "potīris/potīre",
+              "hidden": true
+            },
+            {
+              "answer": "potīminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "potītur",
+              "hidden": true
+            },
+            {
+              "answer": "potiuntur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "potiēbar",
+              "hidden": false
+            },
+            {
+              "answer": "potiēbāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "potiēbāris/potiēbāre",
+              "hidden": true
+            },
+            {
+              "answer": "potiēbāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "potiēbātur",
+              "hidden": true
+            },
+            {
+              "answer": "potiēbantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "potiar",
+              "hidden": false
+            },
+            {
+              "answer": "potiēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "potiēris/potiēre",
+              "hidden": true
+            },
+            {
+              "answer": "potiēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "potiētur",
+              "hidden": true
+            },
+            {
+              "answer": "potientur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "potītus sum",
+              "hidden": false
+            },
+            {
+              "answer": "potītī sumus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "potītus es",
+              "hidden": true
+            },
+            {
+              "answer": "potītī estis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "potītus est",
+              "hidden": true
+            },
+            {
+              "answer": "potītī sunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "potītus eram",
+              "hidden": false
+            },
+            {
+              "answer": "potītī erāmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "potītus erās",
+              "hidden": true
+            },
+            {
+              "answer": "potītī erātis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "potītus erat",
+              "hidden": true
+            },
+            {
+              "answer": "potītī erant",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Indicative Future Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "potītus erō",
+              "hidden": false
+            },
+            {
+              "answer": "potītī erimus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "potītus eris",
+              "hidden": true
+            },
+            {
+              "answer": "potītī eritis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "potītus erit",
+              "hidden": true
+            },
+            {
+              "answer": "potītī erunt",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "potiar",
+              "hidden": false
+            },
+            {
+              "answer": "potiāmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "potiāris/potiāre",
+              "hidden": true
+            },
+            {
+              "answer": "potiāminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "potiātur",
+              "hidden": true
+            },
+            {
+              "answer": "potiantur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "potīrer",
+              "hidden": false
+            },
+            {
+              "answer": "potīrēmur",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "potīrēris/potīrēre",
+              "hidden": true
+            },
+            {
+              "answer": "potīrēminī",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "potīrētur",
+              "hidden": true
+            },
+            {
+              "answer": "potīrentur",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "potītus sim",
+              "hidden": false
+            },
+            {
+              "answer": "potītī sīmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "potītus sīs",
+              "hidden": true
+            },
+            {
+              "answer": "potītī sītis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "potītus sit",
+              "hidden": true
+            },
+            {
+              "answer": "potītī sint",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Subjunctive Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "potītus essem",
+              "hidden": false
+            },
+            {
+              "answer": "potītī essēmus",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "potītus essēs",
+              "hidden": true
+            },
+            {
+              "answer": "potītī essētis",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "potītus esset",
+              "hidden": true
+            },
+            {
+              "answer": "potītī essent",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperatives",
+        "rowHeaders": [
+          "Present 2sg",
+          "Present 2pl"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "potīre",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "potīminī",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-finite Forms",
+        "rowHeaders": [
+          "Present Infinitive",
+          "Perfect Infinitive",
+          "Future Infinitive"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "potīrī",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "potītum esse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "potītūrum esse",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles (Nominative Sg.)",
+        "rowHeaders": [
+          "Present Active",
+          "Future Active",
+          "Perfect"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "potiēns",
+              "hidden": false
+            },
+            {
+              "answer": "potiēns",
+              "hidden": false
+            },
+            {
+              "answer": "potiēns",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "potītūrus",
+              "hidden": true
+            },
+            {
+              "answer": "potītūra",
+              "hidden": true
+            },
+            {
+              "answer": "potītūrum",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "potītus",
+              "hidden": true
+            },
+            {
+              "answer": "potīta",
+              "hidden": true
+            },
+            {
+              "answer": "potītum",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

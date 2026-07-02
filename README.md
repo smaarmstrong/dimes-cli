@@ -64,4 +64,9 @@ Progress (last score + date per card) is stored in
   interrogative and reflexive pronouns; irregular verbs (sum, possum, eō, ferō,
   volō/nōlō/mālō, fīō).
 - **German** — definite-article declension, `sein`, `haben`, `werden`.
-- **Greek (romanised)** — 1st/2nd declension (chōrā, logos), `eimi`, `luō`.
+- **Greek (romanised)** (45 cards) — 1st/2nd/3rd declension nouns incl. πόλις,
+  βασιλεύς, γένος; adjectives incl. πᾶς and comparison; the article, personal,
+  demonstrative, relative and interrogative/indefinite pronouns; λύω across the
+  tense systems, the α/ε/ο contract verbs, deponents; -μι verbs (τίθημι, δίδωμι,
+  ἵστημι, δείκνῡμι) and εἰμί, εἶμι, οἶδα, φημί, ἔρχομαι. Tables display
+  polytonic Greek; you answer in romanised ASCII (`chora` for χώρᾱ).

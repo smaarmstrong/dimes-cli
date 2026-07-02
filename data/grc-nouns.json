@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "greek-chora",
+    "word": "χώρᾱ (chōrā)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 1st declension (ā-stem) feminine",
+    "matrices": [
+      {
+        "label": "1st Declension (ā-stem)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "chōrā",
+              "display": "χώρᾱ",
+              "hidden": false
+            },
+            {
+              "answer": "chōrai",
+              "display": "χῶραι",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "chōrā",
+              "display": "χώρᾱ",
+              "hidden": true
+            },
+            {
+              "answer": "chōrai",
+              "display": "χῶραι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "chōrān",
+              "display": "χώρᾱν",
+              "hidden": true
+            },
+            {
+              "answer": "chōrās",
+              "display": "χώρᾱς",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "chōrās",
+              "display": "χώρᾱς",
+              "hidden": true
+            },
+            {
+              "answer": "chōrōn",
+              "display": "χωρῶν",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "chōrāi",
+              "display": "χώρᾳ",
+              "hidden": true
+            },
+            {
+              "answer": "chōrais",
+              "display": "χώραις",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-techne",
+    "word": "τέχνη (technē)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 1st declension (η-stem) feminine",
+    "matrices": [
+      {
+        "label": "1st Declension (η-stem)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "technē",
+              "display": "τέχνη",
+              "hidden": false
+            },
+            {
+              "answer": "technai",
+              "display": "τέχναι",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "technē",
+              "display": "τέχνη",
+              "hidden": true
+            },
+            {
+              "answer": "technai",
+              "display": "τέχναι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "technēn",
+              "display": "τέχνην",
+              "hidden": true
+            },
+            {
+              "answer": "technās",
+              "display": "τέχνᾱς",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "technēs",
+              "display": "τέχνης",
+              "hidden": true
+            },
+            {
+              "answer": "technōn",
+              "display": "τεχνῶν",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "technēi",
+              "display": "τέχνῃ",
+              "hidden": true
+            },
+            {
+              "answer": "technais",
+              "display": "τέχναις",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-thalatta",
+    "word": "θάλαττα (thalatta)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 1st declension (short α) feminine",
+    "matrices": [
+      {
+        "label": "1st Declension (short α)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "thalatta",
+              "display": "θάλαττα",
+              "hidden": false
+            },
+            {
+              "answer": "thalattai",
+              "display": "θάλατται",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "thalatta",
+              "display": "θάλαττα",
+              "hidden": true
+            },
+            {
+              "answer": "thalattai",
+              "display": "θάλατται",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "thalattan",
+              "display": "θάλατταν",
+              "hidden": true
+            },
+            {
+              "answer": "thalattās",
+              "display": "θαλάττᾱς",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "thalattēs",
+              "display": "θαλάττης",
+              "hidden": true
+            },
+            {
+              "answer": "thalattōn",
+              "display": "θαλαττῶν",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "thalattēi",
+              "display": "θαλάττῃ",
+              "hidden": true
+            },
+            {
+              "answer": "thalattais",
+              "display": "θαλάτταις",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-neanias",
+    "word": "νεᾱνίᾱς (neāniās)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 1st declension masculine",
+    "matrices": [
+      {
+        "label": "1st Declension (masculine)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "neāniās",
+              "display": "νεᾱνίᾱς",
+              "hidden": false
+            },
+            {
+              "answer": "neāniai",
+              "display": "νεᾱνίαι",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "neāniā",
+              "display": "νεᾱνίᾱ",
+              "hidden": true
+            },
+            {
+              "answer": "neāniai",
+              "display": "νεᾱνίαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "neāniān",
+              "display": "νεᾱνίᾱν",
+              "hidden": true
+            },
+            {
+              "answer": "neāniās",
+              "display": "νεᾱνίᾱς",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "neāniou",
+              "display": "νεᾱνίου",
+              "hidden": true
+            },
+            {
+              "answer": "neāniōn",
+              "display": "νεᾱνιῶν",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "neāniāi",
+              "display": "νεᾱνίᾳ",
+              "hidden": true
+            },
+            {
+              "answer": "neāniais",
+              "display": "νεᾱνίαις",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-doron",
+    "word": "δῶρον (dōron)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 2nd declension neuter",
+    "matrices": [
+      {
+        "label": "2nd Declension Neuter",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dōron",
+              "display": "δῶρον",
+              "hidden": false
+            },
+            {
+              "answer": "dōra",
+              "display": "δῶρα",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "dōron",
+              "display": "δῶρον",
+              "hidden": true
+            },
+            {
+              "answer": "dōra",
+              "display": "δῶρα",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dōron",
+              "display": "δῶρον",
+              "hidden": true
+            },
+            {
+              "answer": "dōra",
+              "display": "δῶρα",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dōrou",
+              "display": "δώρου",
+              "hidden": true
+            },
+            {
+              "answer": "dōrōn",
+              "display": "δώρων",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dōrōi",
+              "display": "δώρῳ",
+              "hidden": true
+            },
+            {
+              "answer": "dōrois",
+              "display": "δώροις",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-neos",
+    "word": "νεώς (neōs)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 2nd declension (Attic) masculine",
+    "matrices": [
+      {
+        "label": "2nd Declension Attic",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "neōs",
+              "display": "νεώς",
+              "hidden": false
+            },
+            {
+              "answer": "neōi",
+              "display": "νεῴ",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "neōs",
+              "display": "νεώς",
+              "hidden": true
+            },
+            {
+              "answer": "neōi",
+              "display": "νεῴ",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "neōn",
+              "display": "νεών",
+              "hidden": true
+            },
+            {
+              "answer": "neōs",
+              "display": "νεώς",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "neō",
+              "display": "νεώ",
+              "hidden": true
+            },
+            {
+              "answer": "neōn",
+              "display": "νεών",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "neōi",
+              "display": "νεῴ",
+              "hidden": true
+            },
+            {
+              "answer": "neōis",
+              "display": "νεῴς",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-phylax",
+    "word": "φύλαξ (phulax)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 3rd declension (velar stem) masculine",
+    "matrices": [
+      {
+        "label": "3rd Declension (velar stem)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "phulax",
+              "display": "φύλαξ",
+              "hidden": false
+            },
+            {
+              "answer": "phulakes",
+              "display": "φύλακες",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "phulax",
+              "display": "φύλαξ",
+              "hidden": true
+            },
+            {
+              "answer": "phulakes",
+              "display": "φύλακες",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "phulaka",
+              "display": "φύλακα",
+              "hidden": true
+            },
+            {
+              "answer": "phulakas",
+              "display": "φύλακας",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "phulakos",
+              "display": "φύλακος",
+              "hidden": true
+            },
+            {
+              "answer": "phulakōn",
+              "display": "φυλάκων",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "phulaki",
+              "display": "φύλακι",
+              "hidden": true
+            },
+            {
+              "answer": "phulaxi/phulaxin",
+              "display": "φύλαξι(ν)",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-elpis",
+    "word": "ἐλπίς (elpis)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 3rd declension (dental stem) feminine",
+    "matrices": [
+      {
+        "label": "3rd Declension (dental stem)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "elpis",
+              "display": "ἐλπίς",
+              "hidden": false
+            },
+            {
+              "answer": "elpides",
+              "display": "ἐλπίδες",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "elpi",
+              "display": "ἐλπί",
+              "hidden": true
+            },
+            {
+              "answer": "elpides",
+              "display": "ἐλπίδες",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "elpida",
+              "display": "ἐλπίδα",
+              "hidden": true
+            },
+            {
+              "answer": "elpidas",
+              "display": "ἐλπίδας",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "elpidos",
+              "display": "ἐλπίδος",
+              "hidden": true
+            },
+            {
+              "answer": "elpidōn",
+              "display": "ἐλπίδων",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "elpidi",
+              "display": "ἐλπίδι",
+              "hidden": true
+            },
+            {
+              "answer": "elpisi/elpisin",
+              "display": "ἐλπίσι(ν)",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-daimon",
+    "word": "δαίμων (daimōn)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 3rd declension (nasal stem) masculine",
+    "matrices": [
+      {
+        "label": "3rd Declension (nasal stem)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "daimōn",
+              "display": "δαίμων",
+              "hidden": false
+            },
+            {
+              "answer": "daimones",
+              "display": "δαίμονες",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "daimon",
+              "display": "δαῖμον",
+              "hidden": true
+            },
+            {
+              "answer": "daimones",
+              "display": "δαίμονες",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "daimona",
+              "display": "δαίμονα",
+              "hidden": true
+            },
+            {
+              "answer": "daimonas",
+              "display": "δαίμονας",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "daimonos",
+              "display": "δαίμονος",
+              "hidden": true
+            },
+            {
+              "answer": "daimonōn",
+              "display": "δαιμόνων",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "daimoni",
+              "display": "δαίμονι",
+              "hidden": true
+            },
+            {
+              "answer": "daimosi/daimosin",
+              "display": "δαίμοσι(ν)",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-rhetor",
+    "word": "ῥήτωρ (rhētōr)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 3rd declension (liquid stem) masculine",
+    "matrices": [
+      {
+        "label": "3rd Declension (liquid stem)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "rhētōr",
+              "display": "ῥήτωρ",
+              "hidden": false
+            },
+            {
+              "answer": "rhētores",
+              "display": "ῥήτορες",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "rhētor",
+              "display": "ῥῆτορ",
+              "hidden": true
+            },
+            {
+              "answer": "rhētores",
+              "display": "ῥήτορες",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rhētora",
+              "display": "ῥήτορα",
+              "hidden": true
+            },
+            {
+              "answer": "rhētoras",
+              "display": "ῥήτορας",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rhētoros",
+              "display": "ῥήτορος",
+              "hidden": true
+            },
+            {
+              "answer": "rhētorōn",
+              "display": "ῥητόρων",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "rhētori",
+              "display": "ῥήτορι",
+              "hidden": true
+            },
+            {
+              "answer": "rhētorsi/rhētorsin",
+              "display": "ῥήτορσι(ν)",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-genos",
+    "word": "γένος (genos)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 3rd declension (sigma stem) neuter",
+    "matrices": [
+      {
+        "label": "3rd Declension (sigma stem neuter)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "genos",
+              "display": "γένος",
+              "hidden": false
+            },
+            {
+              "answer": "genē",
+              "display": "γένη",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "genos",
+              "display": "γένος",
+              "hidden": true
+            },
+            {
+              "answer": "genē",
+              "display": "γένη",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "genos",
+              "display": "γένος",
+              "hidden": true
+            },
+            {
+              "answer": "genē",
+              "display": "γένη",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "genous",
+              "display": "γένους",
+              "hidden": true
+            },
+            {
+              "answer": "genōn",
+              "display": "γενῶν",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "genei",
+              "display": "γένει",
+              "hidden": true
+            },
+            {
+              "answer": "genesi/genesin",
+              "display": "γένεσι(ν)",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-polis",
+    "word": "πόλις (polis)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 3rd declension (-ις stem) feminine",
+    "matrices": [
+      {
+        "label": "3rd Declension (-ις stem)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "polis",
+              "display": "πόλις",
+              "hidden": false
+            },
+            {
+              "answer": "poleis",
+              "display": "πόλεις",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "poli",
+              "display": "πόλι",
+              "hidden": true
+            },
+            {
+              "answer": "poleis",
+              "display": "πόλεις",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "polin",
+              "display": "πόλιν",
+              "hidden": true
+            },
+            {
+              "answer": "poleis",
+              "display": "πόλεις",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poleōs",
+              "display": "πόλεως",
+              "hidden": true
+            },
+            {
+              "answer": "poleōn",
+              "display": "πόλεων",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "polei",
+              "display": "πόλει",
+              "hidden": true
+            },
+            {
+              "answer": "polesi/polesin",
+              "display": "πόλεσι(ν)",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-basileus",
+    "word": "βασιλεύς (basileus)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 3rd declension (-εύς stem) masculine",
+    "matrices": [
+      {
+        "label": "3rd Declension (-εύς stem)",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "basileus",
+              "display": "βασιλεύς",
+              "hidden": false
+            },
+            {
+              "answer": "basileis/basilēs",
+              "display": "βασιλεῖς/βασιλῆς",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "basileu",
+              "display": "βασιλεῦ",
+              "hidden": true
+            },
+            {
+              "answer": "basileis/basilēs",
+              "display": "βασιλεῖς/βασιλῆς",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "basilea",
+              "display": "βασιλέα",
+              "hidden": true
+            },
+            {
+              "answer": "basileas",
+              "display": "βασιλέας",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "basileōs",
+              "display": "βασιλέως",
+              "hidden": true
+            },
+            {
+              "answer": "basileōn",
+              "display": "βασιλέων",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "basilei",
+              "display": "βασιλεῖ",
+              "hidden": true
+            },
+            {
+              "answer": "basileusi/basileusin",
+              "display": "βασιλεῦσι(ν)",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-logos",
+    "word": "λόγος (logos)",
+    "language": "Ancient Greek (romanised)",
+    "category": "noun · 2nd declension masculine",
+    "matrices": [
+      {
+        "label": "2nd Declension",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "logos",
+              "display": "λόγος",
+              "hidden": false
+            },
+            {
+              "answer": "logoi",
+              "display": "λόγοι",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "loge",
+              "display": "λόγε",
+              "hidden": true
+            },
+            {
+              "answer": "logoi",
+              "display": "λόγοι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "logon",
+              "display": "λόγον",
+              "hidden": true
+            },
+            {
+              "answer": "logous",
+              "display": "λόγους",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "logou",
+              "display": "λόγου",
+              "hidden": true
+            },
+            {
+              "answer": "logōn",
+              "display": "λόγων",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "logōi",
+              "display": "λόγῳ",
+              "hidden": true
+            },
+            {
+              "answer": "logois",
+              "display": "λόγοις",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

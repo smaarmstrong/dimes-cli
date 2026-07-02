@@ -1,0 +1,452 @@
+[
+  {
+    "id": "german-personal-pronouns",
+    "word": "ich / du / er / sie / es",
+    "language": "German",
+    "category": "pronoun · personal (nom/acc/dat/gen)",
+    "matrices": [
+      {
+        "label": "Personal Pronouns — Singular",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er",
+          "sie (f)",
+          "es"
+        ],
+        "columnHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "ich",
+              "hidden": false
+            },
+            {
+              "answer": "mich",
+              "hidden": false
+            },
+            {
+              "answer": "mir",
+              "hidden": false
+            },
+            {
+              "answer": "meiner",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "du",
+              "hidden": true
+            },
+            {
+              "answer": "dich",
+              "hidden": true
+            },
+            {
+              "answer": "dir",
+              "hidden": true
+            },
+            {
+              "answer": "deiner",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "er",
+              "hidden": true
+            },
+            {
+              "answer": "ihn",
+              "hidden": true
+            },
+            {
+              "answer": "ihm",
+              "hidden": true
+            },
+            {
+              "answer": "seiner",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sie",
+              "hidden": true
+            },
+            {
+              "answer": "sie",
+              "hidden": true
+            },
+            {
+              "answer": "ihr",
+              "hidden": true
+            },
+            {
+              "answer": "ihrer",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "es",
+              "hidden": true
+            },
+            {
+              "answer": "es",
+              "hidden": true
+            },
+            {
+              "answer": "ihm",
+              "hidden": true
+            },
+            {
+              "answer": "seiner",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Personal Pronouns — Plural & Formal",
+        "rowHeaders": [
+          "wir",
+          "ihr",
+          "sie (pl)",
+          "Sie (formal)"
+        ],
+        "columnHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "wir",
+              "hidden": false
+            },
+            {
+              "answer": "uns",
+              "hidden": false
+            },
+            {
+              "answer": "uns",
+              "hidden": false
+            },
+            {
+              "answer": "unser",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "ihr",
+              "hidden": true
+            },
+            {
+              "answer": "euch",
+              "hidden": true
+            },
+            {
+              "answer": "euch",
+              "hidden": true
+            },
+            {
+              "answer": "euer",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sie",
+              "hidden": true
+            },
+            {
+              "answer": "sie",
+              "hidden": true
+            },
+            {
+              "answer": "ihnen",
+              "hidden": true
+            },
+            {
+              "answer": "ihrer",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "Sie",
+              "hidden": true
+            },
+            {
+              "answer": "Sie",
+              "hidden": true
+            },
+            {
+              "answer": "Ihnen",
+              "hidden": true
+            },
+            {
+              "answer": "Ihrer",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-relative-pronoun",
+    "word": "der / die / das (Relativpronomen)",
+    "language": "German",
+    "category": "pronoun · relative (incl. dessen/deren/denen)",
+    "matrices": [
+      {
+        "label": "Relative Pronoun",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "der",
+              "hidden": false
+            },
+            {
+              "answer": "die",
+              "hidden": false
+            },
+            {
+              "answer": "das",
+              "hidden": false
+            },
+            {
+              "answer": "die",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "den",
+              "hidden": true
+            },
+            {
+              "answer": "die",
+              "hidden": true
+            },
+            {
+              "answer": "das",
+              "hidden": true
+            },
+            {
+              "answer": "die",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem",
+              "hidden": true
+            },
+            {
+              "answer": "der",
+              "hidden": true
+            },
+            {
+              "answer": "dem",
+              "hidden": true
+            },
+            {
+              "answer": "denen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dessen",
+              "hidden": true
+            },
+            {
+              "answer": "deren",
+              "hidden": true
+            },
+            {
+              "answer": "dessen",
+              "hidden": true
+            },
+            {
+              "answer": "deren",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-wer-was",
+    "word": "wer / was",
+    "language": "German",
+    "category": "pronoun · interrogative",
+    "matrices": [
+      {
+        "label": "Interrogative Pronoun",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Person (wer)",
+          "Thing (was)"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "wer",
+              "hidden": false
+            },
+            {
+              "answer": "was",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "wen",
+              "hidden": true
+            },
+            {
+              "answer": "was",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wem",
+              "hidden": true
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wessen",
+              "hidden": true
+            },
+            {
+              "answer": "wessen",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-reflexive-pronouns",
+    "word": "sich",
+    "language": "German",
+    "category": "pronoun · reflexive",
+    "matrices": [
+      {
+        "label": "Reflexive Pronouns",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Accusative",
+          "Dative"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "mich",
+              "hidden": false
+            },
+            {
+              "answer": "mir",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "dich",
+              "hidden": true
+            },
+            {
+              "answer": "dir",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sich",
+              "hidden": true
+            },
+            {
+              "answer": "sich",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "uns",
+              "hidden": true
+            },
+            {
+              "answer": "uns",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "euch",
+              "hidden": true
+            },
+            {
+              "answer": "euch",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sich",
+              "hidden": true
+            },
+            {
+              "answer": "sich",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

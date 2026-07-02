@@ -1,0 +1,647 @@
+[
+  {
+    "id": "german-def-article",
+    "word": "der / die / das",
+    "language": "German",
+    "category": "definite article — declension",
+    "matrices": [
+      {
+        "label": "Definite Article",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "der",
+              "hidden": false
+            },
+            {
+              "answer": "die",
+              "hidden": false
+            },
+            {
+              "answer": "das",
+              "hidden": false
+            },
+            {
+              "answer": "die",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "den",
+              "hidden": true
+            },
+            {
+              "answer": "die",
+              "hidden": true
+            },
+            {
+              "answer": "das",
+              "hidden": true
+            },
+            {
+              "answer": "die",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem",
+              "hidden": true
+            },
+            {
+              "answer": "der",
+              "hidden": true
+            },
+            {
+              "answer": "dem",
+              "hidden": true
+            },
+            {
+              "answer": "den",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "des",
+              "hidden": true
+            },
+            {
+              "answer": "der",
+              "hidden": true
+            },
+            {
+              "answer": "des",
+              "hidden": true
+            },
+            {
+              "answer": "der",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-indef-article",
+    "word": "ein / eine / ein",
+    "language": "German",
+    "category": "indefinite article — declension",
+    "matrices": [
+      {
+        "label": "Indefinite Article",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "ein",
+              "hidden": false
+            },
+            {
+              "answer": "eine",
+              "hidden": false
+            },
+            {
+              "answer": "ein",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "einen",
+              "hidden": true
+            },
+            {
+              "answer": "eine",
+              "hidden": true
+            },
+            {
+              "answer": "ein",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "einem",
+              "hidden": true
+            },
+            {
+              "answer": "einer",
+              "hidden": true
+            },
+            {
+              "answer": "einem",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "eines",
+              "hidden": true
+            },
+            {
+              "answer": "einer",
+              "hidden": true
+            },
+            {
+              "answer": "eines",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-mein",
+    "word": "mein",
+    "language": "German",
+    "category": "possessive article — declension (ein-word endings)",
+    "matrices": [
+      {
+        "label": "Possessive Article: mein",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "mein",
+              "hidden": false
+            },
+            {
+              "answer": "meine",
+              "hidden": false
+            },
+            {
+              "answer": "mein",
+              "hidden": false
+            },
+            {
+              "answer": "meine",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "meinen",
+              "hidden": true
+            },
+            {
+              "answer": "meine",
+              "hidden": true
+            },
+            {
+              "answer": "mein",
+              "hidden": true
+            },
+            {
+              "answer": "meine",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "meinem",
+              "hidden": true
+            },
+            {
+              "answer": "meiner",
+              "hidden": true
+            },
+            {
+              "answer": "meinem",
+              "hidden": true
+            },
+            {
+              "answer": "meinen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "meines",
+              "hidden": true
+            },
+            {
+              "answer": "meiner",
+              "hidden": true
+            },
+            {
+              "answer": "meines",
+              "hidden": true
+            },
+            {
+              "answer": "meiner",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-kein",
+    "word": "kein",
+    "language": "German",
+    "category": "negative article — declension (ein-word endings)",
+    "matrices": [
+      {
+        "label": "Negative Article: kein",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "kein",
+              "hidden": false
+            },
+            {
+              "answer": "keine",
+              "hidden": false
+            },
+            {
+              "answer": "kein",
+              "hidden": false
+            },
+            {
+              "answer": "keine",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "keinen",
+              "hidden": true
+            },
+            {
+              "answer": "keine",
+              "hidden": true
+            },
+            {
+              "answer": "kein",
+              "hidden": true
+            },
+            {
+              "answer": "keine",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "keinem",
+              "hidden": true
+            },
+            {
+              "answer": "keiner",
+              "hidden": true
+            },
+            {
+              "answer": "keinem",
+              "hidden": true
+            },
+            {
+              "answer": "keinen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "keines",
+              "hidden": true
+            },
+            {
+              "answer": "keiner",
+              "hidden": true
+            },
+            {
+              "answer": "keines",
+              "hidden": true
+            },
+            {
+              "answer": "keiner",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-dieser",
+    "word": "dieser / diese / dieses",
+    "language": "German",
+    "category": "pronoun · demonstrative (der-word endings)",
+    "matrices": [
+      {
+        "label": "Demonstrative Pronoun: dieser",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dieser",
+              "hidden": false
+            },
+            {
+              "answer": "diese",
+              "hidden": false
+            },
+            {
+              "answer": "dieses",
+              "hidden": false
+            },
+            {
+              "answer": "diese",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "diesen",
+              "hidden": true
+            },
+            {
+              "answer": "diese",
+              "hidden": true
+            },
+            {
+              "answer": "dieses",
+              "hidden": true
+            },
+            {
+              "answer": "diese",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "diesem",
+              "hidden": true
+            },
+            {
+              "answer": "dieser",
+              "hidden": true
+            },
+            {
+              "answer": "diesem",
+              "hidden": true
+            },
+            {
+              "answer": "diesen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dieses",
+              "hidden": true
+            },
+            {
+              "answer": "dieser",
+              "hidden": true
+            },
+            {
+              "answer": "dieses",
+              "hidden": true
+            },
+            {
+              "answer": "dieser",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-jeder",
+    "word": "jeder / jede / jedes",
+    "language": "German",
+    "category": "determiner · der-word endings (singular only)",
+    "matrices": [
+      {
+        "label": "Der-Word: jeder",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "jeder",
+              "hidden": false
+            },
+            {
+              "answer": "jede",
+              "hidden": false
+            },
+            {
+              "answer": "jedes",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "jeden",
+              "hidden": true
+            },
+            {
+              "answer": "jede",
+              "hidden": true
+            },
+            {
+              "answer": "jedes",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "jedem",
+              "hidden": true
+            },
+            {
+              "answer": "jeder",
+              "hidden": true
+            },
+            {
+              "answer": "jedem",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "jedes",
+              "hidden": true
+            },
+            {
+              "answer": "jeder",
+              "hidden": true
+            },
+            {
+              "answer": "jedes",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-welcher",
+    "word": "welcher / welche / welches",
+    "language": "German",
+    "category": "determiner · der-word endings (interrogative)",
+    "matrices": [
+      {
+        "label": "Der-Word: welcher",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "welcher",
+              "hidden": false
+            },
+            {
+              "answer": "welche",
+              "hidden": false
+            },
+            {
+              "answer": "welches",
+              "hidden": false
+            },
+            {
+              "answer": "welche",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "welchen",
+              "hidden": true
+            },
+            {
+              "answer": "welche",
+              "hidden": true
+            },
+            {
+              "answer": "welches",
+              "hidden": true
+            },
+            {
+              "answer": "welche",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "welchem",
+              "hidden": true
+            },
+            {
+              "answer": "welcher",
+              "hidden": true
+            },
+            {
+              "answer": "welchem",
+              "hidden": true
+            },
+            {
+              "answer": "welchen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "welches",
+              "hidden": true
+            },
+            {
+              "answer": "welcher",
+              "hidden": true
+            },
+            {
+              "answer": "welches",
+              "hidden": true
+            },
+            {
+              "answer": "welcher",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,7156 @@
+[
+  {
+    "id": "german-sein",
+    "word": "sein",
+    "language": "German",
+    "category": "verb · irregular (auxiliary), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "bin",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "bist",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ist",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sind",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "seid",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sind",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "war",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "warst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "war",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "waren",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wart",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "waren",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sei",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "seist/seiest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sei",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "seien",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "seiet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "seien",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "wäre",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "wärest/wärst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wäre",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wären",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wäret/wärt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wären",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sei!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "seid!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "seien Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sein",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gewesen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "seiend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-haben",
+    "word": "haben",
+    "language": "German",
+    "category": "verb · irregular (auxiliary), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "habe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "hast",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hat",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "haben",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "habt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "haben",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "hatte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "hattest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hatte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hatten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hattet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hatten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "habe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "habest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "habe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "haben",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "habet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "haben",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "hätte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "hättest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hätte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hätten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hättet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hätten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "hab!/habe!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "habt!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "haben Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "haben",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gehabt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "habend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-werden",
+    "word": "werden",
+    "language": "German",
+    "category": "verb · irregular (auxiliary), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "werde",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "wirst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wird",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "werden",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "werdet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "werden",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "wurde",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "wurdest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wurde",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wurden",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wurdet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wurden",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "werde",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "werdest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "werde",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "werden",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "werdet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "werden",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "würde",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "würdest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "würde",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "würden",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "würdet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "würden",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "werde!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "werdet!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "werden Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "werden",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "geworden",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "werdend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-machen",
+    "word": "machen",
+    "language": "German",
+    "category": "verb · weak (regular), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "mache",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "machst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "macht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "macht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "machte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "machtest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machtet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "mache",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "machest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mache",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "machte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "machtest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machtet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "mach!/mache!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "macht!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machen Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "machen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gemacht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "machend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-geben",
+    "word": "geben",
+    "language": "German",
+    "category": "verb · strong (e→i), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "gebe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gibst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gibt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "geben",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gebt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "geben",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "gab",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gabst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gab",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gaben",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gabt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gaben",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "gebe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gebest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gebe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "geben",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gebet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "geben",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "gäbe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gäbest/gäbst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gäbe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gäben",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gäbet/gäbt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gäben",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "gib!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gebt!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "geben Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "geben",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gegeben",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gebend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-fahren",
+    "word": "fahren",
+    "language": "German",
+    "category": "verb · strong (a→ä), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "fahre",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "fährst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fährt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fahren",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fahrt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fahren",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "fuhr",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "fuhrst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fuhr",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fuhren",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fuhrt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fuhren",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "fahre",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "fahrest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fahre",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fahren",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fahret",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fahren",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "führe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "führest/führst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "führe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "führen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "führet/führt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "führen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "fahr!/fahre!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "fahrt!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fahren Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "fahren",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gefahren",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "fahrend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-koennen",
+    "word": "können",
+    "language": "German",
+    "category": "verb · modal, full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "kann",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "kannst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kann",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "können",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "könnt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "können",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "konnte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "konntest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "konnte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "konnten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "konntet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "konnten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "könne",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "könnest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "könne",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "können",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "könnet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "können",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "könnte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "könntest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "könnte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "könnten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "könntet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "könnten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "können",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gekonnt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "könnend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-muessen",
+    "word": "müssen",
+    "language": "German",
+    "category": "verb · modal, full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "muss",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "musst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "muss",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "müssen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "müsst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "müssen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "musste",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "musstest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "musste",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mussten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "musstet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mussten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "müsse",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "müssest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "müsse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "müssen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "müsset",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "müssen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "müsste",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "müsstest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "müsste",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "müssten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "müsstet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "müssten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "müssen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gemusst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "müssend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-duerfen",
+    "word": "dürfen",
+    "language": "German",
+    "category": "verb · modal, full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "darf",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "darfst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "darf",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dürfen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dürft",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dürfen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "durfte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "durftest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "durfte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "durften",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "durftet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "durften",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dürfe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "dürfest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dürfe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dürfen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dürfet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dürfen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dürfte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "dürftest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dürfte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dürften",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dürftet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dürften",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dürfen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gedurft",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dürfend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-sollen",
+    "word": "sollen",
+    "language": "German",
+    "category": "verb · modal, full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "soll",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sollst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "soll",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sollen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sollt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sollen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sollte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "solltest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sollte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sollten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "solltet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sollten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "solle",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sollest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "solle",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sollen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sollet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sollen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sollte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "solltest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sollte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sollten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "solltet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sollten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sollen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gesollt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sollend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-wollen",
+    "word": "wollen",
+    "language": "German",
+    "category": "verb · modal, full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "will",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "willst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "will",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wollen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wollt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wollen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "wollte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "wolltest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wollte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wollten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wolltet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wollten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "wolle",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "wollest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wolle",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wollen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wollet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wollen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "wollte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "wolltest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wollte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wollten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wolltet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wollten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "wollen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gewollt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wollend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-moegen",
+    "word": "mögen",
+    "language": "German",
+    "category": "verb · modal, full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "mag",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "magst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mag",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mögen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mögt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mögen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "mochte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "mochtest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mochte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mochten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mochtet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mochten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "möge",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "mögest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "möge",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mögen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "möget",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mögen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "möchte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "möchtest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "möchte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "möchten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "möchtet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "möchten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "mögen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gemocht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "mögend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-nehmen",
+    "word": "nehmen",
+    "language": "German",
+    "category": "verb · strong (e→i), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "nehme",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "nimmst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nimmt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nehmen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nehmt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nehmen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "nahm",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "nahmst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nahm",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nahmen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nahmt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nahmen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "nehme",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "nehmest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nehme",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nehmen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nehmet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nehmen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "nähme",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "nähmest/nähmst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nähme",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nähmen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nähmet/nähmt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nähmen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "nimm!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "nehmt!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nehmen Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "nehmen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "genommen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "nehmend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-sprechen",
+    "word": "sprechen",
+    "language": "German",
+    "category": "verb · strong (e→i), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "spreche",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sprichst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "spricht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprechen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprecht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprechen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sprach",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sprachst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprach",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprachen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "spracht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprachen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "spreche",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sprechest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "spreche",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprechen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprechet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprechen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "spräche",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sprächest/sprächst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "spräche",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprächen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprächet/sprächt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprächen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sprich!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sprecht!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprechen Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sprechen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gesprochen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sprechend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-lesen",
+    "word": "lesen",
+    "language": "German",
+    "category": "verb · strong (e→ie), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lese",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "liest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "liest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lesen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lesen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "las",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "last",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "las",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lasen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "last",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lasen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lese",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "lesest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lese",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lesen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "leset",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lesen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "läse",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "läsest/läst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "läse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "läsen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "läset/läst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "läsen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lies!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "lest!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lesen Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lesen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gelesen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lesend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-sehen",
+    "word": "sehen",
+    "language": "German",
+    "category": "verb · strong (e→ie), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sehe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "siehst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sieht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sehen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "seht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sehen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sah",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sahst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sah",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sahen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "saht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sahen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sehe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sehest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sehe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sehen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sehet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sehen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sähe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "sähest/sähst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sähe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sähen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sähet/säht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sähen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sieh!/siehe!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "seht!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sehen Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "sehen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gesehen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "sehend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-tragen",
+    "word": "tragen",
+    "language": "German",
+    "category": "verb · strong (a→ä), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "trage",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "trägst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "trägt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tragen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tragt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tragen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "trug",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "trugst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "trug",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "trugen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "trugt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "trugen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "trage",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "tragest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "trage",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tragen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "traget",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tragen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "trüge",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "trügest/trügst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "trüge",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "trügen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "trüget/trügt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "trügen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "trag!/trage!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "tragt!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tragen Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tragen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "getragen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tragend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-laufen",
+    "word": "laufen",
+    "language": "German",
+    "category": "verb · strong (au→äu), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "laufe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "läufst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "läuft",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "laufen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lauft",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "laufen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lief",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "liefst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lief",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "liefen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lieft",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "liefen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "laufe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "laufest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "laufe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "laufen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "laufet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "laufen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "liefe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "liefest/liefst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "liefe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "liefen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "liefet/lieft",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "liefen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lauf!/laufe!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "lauft!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "laufen Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "laufen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gelaufen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "laufend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-schlafen",
+    "word": "schlafen",
+    "language": "German",
+    "category": "verb · strong (a→ä), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "schlafe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "schläfst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schläft",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schlafen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schlaft",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schlafen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "schlief",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "schliefst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schlief",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schliefen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schlieft",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schliefen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "schlafe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "schlafest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schlafe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schlafen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schlafet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schlafen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "schliefe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "schliefest/schliefst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schliefe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schliefen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schliefet/schlieft",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schliefen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "schlaf!/schlafe!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "schlaft!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schlafen Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "schlafen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "geschlafen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "schlafend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-wissen",
+    "word": "wissen",
+    "language": "German",
+    "category": "verb · irregular (preterite-present), full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "weiß",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "weißt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "weiß",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wissen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wisst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wissen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "wusste",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "wusstest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wusste",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wussten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wusstet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wussten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "wisse",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "wissest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wisse",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wissen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wisset",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wissen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "wüsste",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "wüsstest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wüsste",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wüssten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wüsstet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wüssten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "wisse!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "wisst!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wissen Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "wissen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gewusst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "wissend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-tun",
+    "word": "tun",
+    "language": "German",
+    "category": "verb · irregular, full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tue",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "tust",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tut",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tun",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tut",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tun",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tat",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "tatest/tatst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tat",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "taten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tatet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "taten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tue",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "tuest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tue",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tun",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tuet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tun",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "täte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "tätest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "täte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "täten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tätet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "täten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tu!/tue!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "tut!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tun Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tun",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "getan",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tuend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-gehen",
+    "word": "gehen",
+    "language": "German",
+    "category": "verb · strong, full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "gehe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gehst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "geht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gehen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "geht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gehen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "ging",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gingst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ging",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gingen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gingt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gingen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "gehe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gehest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gehe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gehen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gehet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gehen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "ginge",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gingest/gingst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ginge",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gingen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ginget/gingt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gingen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "geh!/gehe!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "geht!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gehen Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "gehen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gegangen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gehend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-stehen",
+    "word": "stehen",
+    "language": "German",
+    "category": "verb · strong, full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "stehe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "stehst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "steht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "stehen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "steht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "stehen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "stand",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "standest/standst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "stand",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "standen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "standet/standt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "standen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "stehe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "stehest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "stehe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "stehen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "stehet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "stehen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "stünde/stände",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "stündest/ständest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "stünde/stände",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "stünden/ständen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "stündet/ständet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "stünden/ständen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "steh!/stehe!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "steht!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "stehen Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "stehen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gestanden",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "stehend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-kommen",
+    "word": "kommen",
+    "language": "German",
+    "category": "verb · strong, full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "komme",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "kommst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kommt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kommen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kommt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kommen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "kam",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "kamst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kam",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kamen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kamt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kamen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "komme",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "kommest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "komme",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kommen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kommet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kommen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "käme",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "kämest/kämst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "käme",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kämen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kämet/kämt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kämen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "komm!/komme!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "kommt!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kommen Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "kommen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gekommen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "kommend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-bringen",
+    "word": "bringen",
+    "language": "German",
+    "category": "verb · mixed, full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "bringe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "bringst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bringt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bringen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bringt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bringen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "brachte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "brachtest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "brachte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "brachten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "brachtet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "brachten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "bringe",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "bringest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bringe",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bringen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bringet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bringen",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "brächte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "brächtest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "brächte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "brächten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "brächtet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "brächten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "bring!/bringe!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "bringt!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bringen Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "bringen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gebracht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bringend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-denken",
+    "word": "denken",
+    "language": "German",
+    "category": "verb · mixed, full conjugation",
+    "matrices": [
+      {
+        "label": "Präsens Indikativ",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "denke",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "denkst",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "denkt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "denken",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "denkt",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "denken",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Präteritum",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dachte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "dachtest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dachte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dachten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dachtet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dachten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv I",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "denke",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "denkest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "denke",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "denken",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "denket",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "denken",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Konjunktiv II",
+        "rowHeaders": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dächte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "dächtest",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dächte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dächten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dächtet",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dächten",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperativ",
+        "rowHeaders": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "denk!/denke!",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "denkt!",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "denken Sie!",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Non-Finite Forms",
+        "rowHeaders": [
+          "Infinitive",
+          "Past Participle",
+          "Present Participle"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "denken",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "gedacht",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "denkend",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-perfekt-auxiliaries",
+    "word": "Perfekt: haben / sein",
+    "language": "German",
+    "category": "verb · perfekt — auxiliary choice (3rd sg.)",
+    "matrices": [
+      {
+        "label": "Perfekt with sein (motion / change of state)",
+        "rowHeaders": [
+          "fahren",
+          "gehen",
+          "kommen",
+          "laufen",
+          "sein",
+          "werden"
+        ],
+        "columnHeaders": [
+          "er/sie/es (Perfekt)"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "ist gefahren",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "ist gegangen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ist gekommen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ist gelaufen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ist gewesen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ist geworden",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Perfekt with haben",
+        "rowHeaders": [
+          "geben",
+          "nehmen",
+          "sprechen",
+          "sehen",
+          "lesen",
+          "machen"
+        ],
+        "columnHeaders": [
+          "er/sie/es (Perfekt)"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "hat gegeben",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "hat genommen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hat gesprochen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hat gesehen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hat gelesen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "hat gemacht",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -63,7 +63,13 @@ Progress (last score + date per card) is stored in
   classes with comparative/superlative; personal, demonstrative, relative,
   interrogative and reflexive pronouns; irregular verbs (sum, possum, eō, ferō,
   volō/nōlō/mālō, fīō).
-- **German** — definite-article declension, `sein`, `haben`, `werden`.
+- **German** (56 cards) — der/die/das and ein-word declension, dieser/jeder/
+  welcher; weak/strong/mixed adjective endings; 15 noun declensions covering
+  umlaut/-en/-er/-s plurals, the n-declension (Junge, Student, Herr) and Name;
+  personal/reflexive/relative/interrogative pronouns; sein/haben/werden, the six
+  modals, and a spread of strong verbs, each conjugated through Präsens,
+  Präteritum, Konjunktiv I/II, imperative and non-finite forms, plus a Perfekt
+  auxiliary drill (ist gefahren / hat gegeben).
 - **Greek (romanised)** (45 cards) — 1st/2nd/3rd declension nouns incl. πόλις,
   βασιλεύς, γένος; adjectives incl. πᾶς and comparison; the article, personal,
   demonstrative, relative and interrogative/indefinite pronouns; λύω across the

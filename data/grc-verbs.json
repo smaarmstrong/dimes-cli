@@ -1,0 +1,8020 @@
+[
+  {
+    "id": "greek-tithemi",
+    "word": "τίθημι (tithēmi)",
+    "language": "Ancient Greek (romanised)",
+    "category": "verb · athematic -μι (τίθημι)",
+    "matrices": [
+      {
+        "label": "Active Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tithēmi",
+              "display": "τίθημι",
+              "hidden": false
+            },
+            {
+              "answer": "tithemen",
+              "display": "τίθεμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithēs",
+              "display": "τίθης",
+              "hidden": true
+            },
+            {
+              "answer": "tithete",
+              "display": "τίθετε",
+              "hidden": true
+            },
+            {
+              "answer": "titheton",
+              "display": "τίθετον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithēsi/tithēsin",
+              "display": "τίθησι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "titheasi/titheasin",
+              "display": "τιθέασι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "titheton",
+              "display": "τίθετον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "etithēn",
+              "display": "ἐτίθην",
+              "hidden": false
+            },
+            {
+              "answer": "etithemen",
+              "display": "ἐτίθεμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etitheis",
+              "display": "ἐτίθεις",
+              "hidden": true
+            },
+            {
+              "answer": "etithete",
+              "display": "ἐτίθετε",
+              "hidden": true
+            },
+            {
+              "answer": "etitheton",
+              "display": "ἐτίθετον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etithei",
+              "display": "ἐτίθει",
+              "hidden": true
+            },
+            {
+              "answer": "etithesan",
+              "display": "ἐτίθεσαν",
+              "hidden": true
+            },
+            {
+              "answer": "etithetēn",
+              "display": "ἐτιθέτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "ethēka",
+              "display": "ἔθηκα",
+              "hidden": false
+            },
+            {
+              "answer": "ethemen",
+              "display": "ἔθεμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ethēkas",
+              "display": "ἔθηκας",
+              "hidden": true
+            },
+            {
+              "answer": "ethete",
+              "display": "ἔθετε",
+              "hidden": true
+            },
+            {
+              "answer": "etheton",
+              "display": "ἔθετον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ethēke/ethēken",
+              "display": "ἔθηκε(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "ethesan",
+              "display": "ἔθεσαν",
+              "hidden": true
+            },
+            {
+              "answer": "ethetēn",
+              "display": "ἐθέτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tethēka",
+              "display": "τέθηκα",
+              "hidden": false
+            },
+            {
+              "answer": "tethēkamen",
+              "display": "τεθήκαμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tethēkas",
+              "display": "τέθηκας",
+              "hidden": true
+            },
+            {
+              "answer": "tethēkate",
+              "display": "τεθήκατε",
+              "hidden": true
+            },
+            {
+              "answer": "tethēkaton",
+              "display": "τεθήκατον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tethēke/tethēken",
+              "display": "τέθηκε(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "tethēkasi/tethēkasin",
+              "display": "τεθήκασι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "tethēkaton",
+              "display": "τεθήκατον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "etethēkē",
+              "display": "ἐτεθήκη",
+              "hidden": false
+            },
+            {
+              "answer": "etethēkemen",
+              "display": "ἐτεθήκεμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etethēkēs",
+              "display": "ἐτεθήκης",
+              "hidden": true
+            },
+            {
+              "answer": "etethēkete",
+              "display": "ἐτεθήκετε",
+              "hidden": true
+            },
+            {
+              "answer": "etethēketon",
+              "display": "ἐτεθήκετον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etethēkei/etethēkein",
+              "display": "ἐτεθήκει(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "etethēkesan",
+              "display": "ἐτεθήκεσαν",
+              "hidden": true
+            },
+            {
+              "answer": "etethēketēn",
+              "display": "ἐτεθηκέτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tithemai",
+              "display": "τίθεμαι",
+              "hidden": false
+            },
+            {
+              "answer": "tithemetha",
+              "display": "τιθέμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithesai",
+              "display": "τίθεσαι",
+              "hidden": true
+            },
+            {
+              "answer": "tithesthe",
+              "display": "τίθεσθε",
+              "hidden": true
+            },
+            {
+              "answer": "tithesthon",
+              "display": "τίθεσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithetai",
+              "display": "τίθεται",
+              "hidden": true
+            },
+            {
+              "answer": "tithentai",
+              "display": "τίθενται",
+              "hidden": true
+            },
+            {
+              "answer": "tithesthon",
+              "display": "τίθεσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "etithemēn",
+              "display": "ἐτιθέμην",
+              "hidden": false
+            },
+            {
+              "answer": "etithemetha",
+              "display": "ἐτιθέμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etitheso",
+              "display": "ἐτίθεσο",
+              "hidden": true
+            },
+            {
+              "answer": "etithesthe",
+              "display": "ἐτίθεσθε",
+              "hidden": true
+            },
+            {
+              "answer": "etithesthon",
+              "display": "ἐτίθεσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etitheto",
+              "display": "ἐτίθετο",
+              "hidden": true
+            },
+            {
+              "answer": "etithento",
+              "display": "ἐτίθεντο",
+              "hidden": true
+            },
+            {
+              "answer": "etithesthēn",
+              "display": "ἐτιθέσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Aorist Middle Indicative",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "ethemēn",
+              "display": "ἐθέμην",
+              "hidden": false
+            },
+            {
+              "answer": "ethemetha",
+              "display": "ἐθέμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ethou",
+              "display": "ἔθου",
+              "hidden": true
+            },
+            {
+              "answer": "ethesthe",
+              "display": "ἔθεσθε",
+              "hidden": true
+            },
+            {
+              "answer": "ethesthon",
+              "display": "ἔθεσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etheto",
+              "display": "ἔθετο",
+              "hidden": true
+            },
+            {
+              "answer": "ethento",
+              "display": "ἔθεντο",
+              "hidden": true
+            },
+            {
+              "answer": "ethesthēn",
+              "display": "ἐθέσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Aorist Passive Indicative",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "etethēn",
+              "display": "ἐτέθην",
+              "hidden": false
+            },
+            {
+              "answer": "etethēmen",
+              "display": "ἐτέθημεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etethēs",
+              "display": "ἐτέθης",
+              "hidden": true
+            },
+            {
+              "answer": "etethēte",
+              "display": "ἐτέθητε",
+              "hidden": true
+            },
+            {
+              "answer": "etethēton",
+              "display": "ἐτέθητον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etethē",
+              "display": "ἐτέθη",
+              "hidden": true
+            },
+            {
+              "answer": "etethēsan",
+              "display": "ἐτέθησαν",
+              "hidden": true
+            },
+            {
+              "answer": "etethētēn",
+              "display": "ἐτεθήτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Perfect Middle/Passive Indicative",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tetheimai",
+              "display": "τέθειμαι",
+              "hidden": false
+            },
+            {
+              "answer": "tetheimetha",
+              "display": "τεθείμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tetheisai",
+              "display": "τέθεισαι",
+              "hidden": true
+            },
+            {
+              "answer": "tetheisthe",
+              "display": "τέθεισθε",
+              "hidden": true
+            },
+            {
+              "answer": "tetheisthon",
+              "display": "τέθεισθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tetheitai",
+              "display": "τέθειται",
+              "hidden": true
+            },
+            {
+              "answer": "tetheintai",
+              "display": "τέθεινται",
+              "hidden": true
+            },
+            {
+              "answer": "tetheisthon",
+              "display": "τέθεισθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tithō",
+              "display": "τιθῶ",
+              "hidden": false
+            },
+            {
+              "answer": "tithōmen",
+              "display": "τιθῶμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithēis",
+              "display": "τιθῇς",
+              "hidden": true
+            },
+            {
+              "answer": "tithēte",
+              "display": "τιθῆτε",
+              "hidden": true
+            },
+            {
+              "answer": "tithēton",
+              "display": "τιθῆτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithēi",
+              "display": "τιθῇ",
+              "hidden": true
+            },
+            {
+              "answer": "tithōsi/tithōsin",
+              "display": "τιθῶσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "tithēton",
+              "display": "τιθῆτον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "thō",
+              "display": "θῶ",
+              "hidden": false
+            },
+            {
+              "answer": "thōmen",
+              "display": "θῶμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "thēis",
+              "display": "θῇς",
+              "hidden": true
+            },
+            {
+              "answer": "thēte",
+              "display": "θῆτε",
+              "hidden": true
+            },
+            {
+              "answer": "thēton",
+              "display": "θῆτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "thēi",
+              "display": "θῇ",
+              "hidden": true
+            },
+            {
+              "answer": "thōsi/thōsin",
+              "display": "θῶσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "thēton",
+              "display": "θῆτον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tithōmai",
+              "display": "τιθῶμαι",
+              "hidden": false
+            },
+            {
+              "answer": "tithōmetha",
+              "display": "τιθώμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithēi",
+              "display": "τιθῇ",
+              "hidden": true
+            },
+            {
+              "answer": "tithēsthe",
+              "display": "τιθῆσθε",
+              "hidden": true
+            },
+            {
+              "answer": "tithēsthon",
+              "display": "τιθῆσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithētai",
+              "display": "τιθῆται",
+              "hidden": true
+            },
+            {
+              "answer": "tithōntai",
+              "display": "τιθῶνται",
+              "hidden": true
+            },
+            {
+              "answer": "tithēsthon",
+              "display": "τιθῆσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Aorist Middle Subjunctive",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "thōmai",
+              "display": "θῶμαι",
+              "hidden": false
+            },
+            {
+              "answer": "thōmetha",
+              "display": "θώμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "thēi",
+              "display": "θῇ",
+              "hidden": true
+            },
+            {
+              "answer": "thēsthe",
+              "display": "θῆσθε",
+              "hidden": true
+            },
+            {
+              "answer": "thēsthon",
+              "display": "θῆσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "thētai",
+              "display": "θῆται",
+              "hidden": true
+            },
+            {
+              "answer": "thōntai",
+              "display": "θῶνται",
+              "hidden": true
+            },
+            {
+              "answer": "thēsthon",
+              "display": "θῆσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Aorist Passive Subjunctive",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tethō",
+              "display": "τεθῶ",
+              "hidden": false
+            },
+            {
+              "answer": "tethōmen",
+              "display": "τεθῶμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tethēis",
+              "display": "τεθῇς",
+              "hidden": true
+            },
+            {
+              "answer": "tethēte",
+              "display": "τεθῆτε",
+              "hidden": true
+            },
+            {
+              "answer": "tethēton",
+              "display": "τεθῆτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tethēi",
+              "display": "τεθῇ",
+              "hidden": true
+            },
+            {
+              "answer": "tethōsi/tethōsin",
+              "display": "τεθῶσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "tethēton",
+              "display": "τεθῆτον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Optative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "titheiēn",
+              "display": "τιθείην",
+              "hidden": false
+            },
+            {
+              "answer": "titheimen/titheiēmen",
+              "display": "τιθεῖμεν/τιθείημεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "titheiēs",
+              "display": "τιθείης",
+              "hidden": true
+            },
+            {
+              "answer": "titheite/titheiēte",
+              "display": "τιθεῖτε/τιθείητε",
+              "hidden": true
+            },
+            {
+              "answer": "titheiēton",
+              "display": "τιθείητον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "titheiē",
+              "display": "τιθείη",
+              "hidden": true
+            },
+            {
+              "answer": "titheien/titheiēsan",
+              "display": "τιθεῖεν/τιθείησαν",
+              "hidden": true
+            },
+            {
+              "answer": "titheiētēn",
+              "display": "τιθειήτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Optative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "theiēn",
+              "display": "θείην",
+              "hidden": false
+            },
+            {
+              "answer": "theimen/theiēmen",
+              "display": "θεῖμεν/θείημεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "theiēs",
+              "display": "θείης",
+              "hidden": true
+            },
+            {
+              "answer": "theite/theiēte",
+              "display": "θεῖτε/θείητε",
+              "hidden": true
+            },
+            {
+              "answer": "theiēton",
+              "display": "θείητον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "theiē",
+              "display": "θείη",
+              "hidden": true
+            },
+            {
+              "answer": "theien/theiēsan",
+              "display": "θεῖεν/θείησαν",
+              "hidden": true
+            },
+            {
+              "answer": "theiētēn",
+              "display": "θειήτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Optative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "titheimēn",
+              "display": "τιθείμην",
+              "hidden": false
+            },
+            {
+              "answer": "titheimetha",
+              "display": "τιθείμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "titheio",
+              "display": "τιθεῖο",
+              "hidden": true
+            },
+            {
+              "answer": "titheisthe",
+              "display": "τιθεῖσθε",
+              "hidden": true
+            },
+            {
+              "answer": "titheisthon",
+              "display": "τιθεῖσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "titheito",
+              "display": "τιθεῖτο",
+              "hidden": true
+            },
+            {
+              "answer": "titheinto",
+              "display": "τιθεῖντο",
+              "hidden": true
+            },
+            {
+              "answer": "titheisthēn",
+              "display": "τιθείσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Optative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "theimēn",
+              "display": "θείμην",
+              "hidden": false
+            },
+            {
+              "answer": "theimetha",
+              "display": "θείμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "theio",
+              "display": "θεῖο",
+              "hidden": true
+            },
+            {
+              "answer": "theisthe",
+              "display": "θεῖσθε",
+              "hidden": true
+            },
+            {
+              "answer": "theisthon",
+              "display": "θεῖσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "theito",
+              "display": "θεῖτο",
+              "hidden": true
+            },
+            {
+              "answer": "theinto",
+              "display": "θεῖντο",
+              "hidden": true
+            },
+            {
+              "answer": "theisthēn",
+              "display": "θείσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Optative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tetheiēn",
+              "display": "τεθείην",
+              "hidden": false
+            },
+            {
+              "answer": "tetheimen",
+              "display": "τεθεῖμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tetheiēs",
+              "display": "τεθείης",
+              "hidden": true
+            },
+            {
+              "answer": "tetheite",
+              "display": "τεθεῖτε",
+              "hidden": true
+            },
+            {
+              "answer": "tetheiēton",
+              "display": "τεθείητον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tetheiē",
+              "display": "τεθείη",
+              "hidden": true
+            },
+            {
+              "answer": "tetheien",
+              "display": "τεθεῖεν",
+              "hidden": true
+            },
+            {
+              "answer": "tetheiētēn",
+              "display": "τεθειήτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Present Active Imperative",
+        "rowHeaders": [
+          "2nd Sg.",
+          "3rd Sg.",
+          "2nd Pl.",
+          "3rd Pl."
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tithei",
+              "display": "τίθει",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "tithetō",
+              "display": "τιθέτω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithete",
+              "display": "τίθετε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithentōn",
+              "display": "τιθέντων",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Aorist Active Imperative",
+        "rowHeaders": [
+          "2nd Sg.",
+          "3rd Sg.",
+          "2nd Pl.",
+          "3rd Pl."
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "thes",
+              "display": "θές",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "thetō",
+              "display": "θέτω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "thete",
+              "display": "θέτε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "thentōn",
+              "display": "θέντων",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Present Middle/Passive Imperative",
+        "rowHeaders": [
+          "2nd Sg.",
+          "3rd Sg.",
+          "2nd Pl.",
+          "3rd Pl."
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "titheso",
+              "display": "τίθεσο",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "tithesthō",
+              "display": "τιθέσθω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithesthe",
+              "display": "τίθεσθε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithesthōn",
+              "display": "τιθέσθων",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Aorist Middle Imperative",
+        "rowHeaders": [
+          "2nd Sg.",
+          "3rd Sg.",
+          "2nd Pl.",
+          "3rd Pl."
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "thou",
+              "display": "θοῦ",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "thesthō",
+              "display": "θέσθω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "thesthe",
+              "display": "θέσθε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "thesthōn",
+              "display": "θέσθων",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Aorist Passive Imperative",
+        "rowHeaders": [
+          "2nd Sg.",
+          "3rd Sg.",
+          "2nd Pl.",
+          "3rd Pl."
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tethēti",
+              "display": "τέθητι",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "tethētō",
+              "display": "τεθήτω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tethēte",
+              "display": "τέθητε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tethentōn",
+              "display": "τεθέντων",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Infinitives",
+        "rowHeaders": [
+          "Present Active",
+          "Aorist Active",
+          "Perfect Active",
+          "Present Mid/Pass",
+          "Aorist Middle",
+          "Perfect Mid/Pass",
+          "Aorist Passive"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tithenai",
+              "display": "τιθέναι",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "theinai",
+              "display": "θεῖναι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tethēkenai",
+              "display": "τεθηκέναι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithesthai",
+              "display": "τίθεσθαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "thesthai",
+              "display": "θέσθαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tetheisthai",
+              "display": "τεθεῖσθαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tethēnai",
+              "display": "τεθῆναι",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles Nom. Sg.",
+        "rowHeaders": [
+          "Present Active",
+          "Aorist Active",
+          "Perfect Active",
+          "Present Mid/Pass",
+          "Aorist Middle",
+          "Perfect Mid/Pass",
+          "Aorist Passive"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "titheis",
+              "display": "τιθείς",
+              "hidden": false
+            },
+            {
+              "answer": "titheisa",
+              "display": "τιθεῖσα",
+              "hidden": false
+            },
+            {
+              "answer": "tithen",
+              "display": "τιθέν",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "theis",
+              "display": "θείς",
+              "hidden": true
+            },
+            {
+              "answer": "theisa",
+              "display": "θεῖσα",
+              "hidden": true
+            },
+            {
+              "answer": "then",
+              "display": "θέν",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tethēkōs",
+              "display": "τεθηκώς",
+              "hidden": true
+            },
+            {
+              "answer": "tethēkuia",
+              "display": "τεθηκυῖα",
+              "hidden": true
+            },
+            {
+              "answer": "tethēkos",
+              "display": "τεθηκός",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tithemenos",
+              "display": "τιθέμενος",
+              "hidden": true
+            },
+            {
+              "answer": "tithemenē",
+              "display": "τιθεμένη",
+              "hidden": true
+            },
+            {
+              "answer": "tithemenon",
+              "display": "τιθέμενον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "themenos",
+              "display": "θέμενος",
+              "hidden": true
+            },
+            {
+              "answer": "themenē",
+              "display": "θεμένη",
+              "hidden": true
+            },
+            {
+              "answer": "themenon",
+              "display": "θέμενον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tetheimenos",
+              "display": "τεθειμένος",
+              "hidden": true
+            },
+            {
+              "answer": "tetheimenē",
+              "display": "τεθειμένη",
+              "hidden": true
+            },
+            {
+              "answer": "tetheimenon",
+              "display": "τεθειμένον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tetheis",
+              "display": "τεθείς",
+              "hidden": true
+            },
+            {
+              "answer": "tetheisa",
+              "display": "τεθεῖσα",
+              "hidden": true
+            },
+            {
+              "answer": "tethen",
+              "display": "τεθέν",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-timao",
+    "word": "τιμάω (timaō)",
+    "language": "Ancient Greek (romanised)",
+    "category": "verb · contract -άω (τιμάω)",
+    "matrices": [
+      {
+        "label": "Active Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "timō",
+              "display": "τιμῶ",
+              "hidden": false
+            },
+            {
+              "answer": "timōmen",
+              "display": "τιμῶμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timāis",
+              "display": "τιμᾷς",
+              "hidden": true
+            },
+            {
+              "answer": "timate",
+              "display": "τιμᾶτε",
+              "hidden": true
+            },
+            {
+              "answer": "timaton",
+              "display": "τιμᾶτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timāi",
+              "display": "τιμᾷ",
+              "hidden": true
+            },
+            {
+              "answer": "timōsi/timōsin",
+              "display": "τιμῶσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "timaton",
+              "display": "τιμᾶτον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "etimōn",
+              "display": "ἐτίμων",
+              "hidden": false
+            },
+            {
+              "answer": "etimōmen",
+              "display": "ἐτιμῶμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etimās",
+              "display": "ἐτίμᾱς",
+              "hidden": true
+            },
+            {
+              "answer": "etimate",
+              "display": "ἐτιμᾶτε",
+              "hidden": true
+            },
+            {
+              "answer": "etimaton",
+              "display": "ἐτιμᾶτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etimā",
+              "display": "ἐτίμᾱ",
+              "hidden": true
+            },
+            {
+              "answer": "etimōn",
+              "display": "ἐτίμων",
+              "hidden": true
+            },
+            {
+              "answer": "etimātēn",
+              "display": "ἐτιμᾱ́την",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "timēsō",
+              "display": "τιμήσω",
+              "hidden": false
+            },
+            {
+              "answer": "timēsomen",
+              "display": "τιμήσομεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timēseis",
+              "display": "τιμήσεις",
+              "hidden": true
+            },
+            {
+              "answer": "timēsete",
+              "display": "τιμήσετε",
+              "hidden": true
+            },
+            {
+              "answer": "timēseton",
+              "display": "τιμήσετον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timēsei",
+              "display": "τιμήσει",
+              "hidden": true
+            },
+            {
+              "answer": "timēsousi/timēsousin",
+              "display": "τιμήσουσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "timēseton",
+              "display": "τιμήσετον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "etimēsa",
+              "display": "ἐτίμησα",
+              "hidden": false
+            },
+            {
+              "answer": "etimēsamen",
+              "display": "ἐτιμήσαμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etimēsas",
+              "display": "ἐτίμησας",
+              "hidden": true
+            },
+            {
+              "answer": "etimēsate",
+              "display": "ἐτιμήσατε",
+              "hidden": true
+            },
+            {
+              "answer": "etimēsaton",
+              "display": "ἐτιμήσατον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etimēse/etimēsen",
+              "display": "ἐτίμησε(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "etimēsan",
+              "display": "ἐτίμησαν",
+              "hidden": true
+            },
+            {
+              "answer": "etimēsatēn",
+              "display": "ἐτιμησάτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "tetimēka",
+              "display": "τετίμηκα",
+              "hidden": false
+            },
+            {
+              "answer": "tetimēkamen",
+              "display": "τετιμήκαμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tetimēkas",
+              "display": "τετίμηκας",
+              "hidden": true
+            },
+            {
+              "answer": "tetimēkate",
+              "display": "τετιμήκατε",
+              "hidden": true
+            },
+            {
+              "answer": "tetimēkaton",
+              "display": "τετιμήκατον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tetimēke/tetimēken",
+              "display": "τετίμηκε(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "tetimēkasi/tetimēkasin",
+              "display": "τετιμήκασι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "tetimēkaton",
+              "display": "τετιμήκατον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "etetimēkē",
+              "display": "ἐτετιμήκη",
+              "hidden": false
+            },
+            {
+              "answer": "etetimēkemen",
+              "display": "ἐτετιμήκεμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etetimēkēs",
+              "display": "ἐτετιμήκης",
+              "hidden": true
+            },
+            {
+              "answer": "etetimēkete",
+              "display": "ἐτετιμήκετε",
+              "hidden": true
+            },
+            {
+              "answer": "etetimēketon",
+              "display": "ἐτετιμήκετον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etetimēkei/etetimēkein",
+              "display": "ἐτετιμήκει(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "etetimēkesan",
+              "display": "ἐτετιμήκεσαν",
+              "hidden": true
+            },
+            {
+              "answer": "etetimēketēn",
+              "display": "ἐτετιμηκέτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "timōmai",
+              "display": "τιμῶμαι",
+              "hidden": false
+            },
+            {
+              "answer": "timōmetha",
+              "display": "τιμώμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timāi",
+              "display": "τιμᾷ",
+              "hidden": true
+            },
+            {
+              "answer": "timasthe",
+              "display": "τιμᾶσθε",
+              "hidden": true
+            },
+            {
+              "answer": "timasthon",
+              "display": "τιμᾶσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timatai",
+              "display": "τιμᾶται",
+              "hidden": true
+            },
+            {
+              "answer": "timōntai",
+              "display": "τιμῶνται",
+              "hidden": true
+            },
+            {
+              "answer": "timasthon",
+              "display": "τιμᾶσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "etimōmēn",
+              "display": "ἐτιμώμην",
+              "hidden": false
+            },
+            {
+              "answer": "etimōmetha",
+              "display": "ἐτιμώμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etimō",
+              "display": "ἐτιμῶ",
+              "hidden": true
+            },
+            {
+              "answer": "etimasthe",
+              "display": "ἐτιμᾶσθε",
+              "hidden": true
+            },
+            {
+              "answer": "etimasthon",
+              "display": "ἐτιμᾶσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "etimato",
+              "display": "ἐτιμᾶτο",
+              "hidden": true
+            },
+            {
+              "answer": "etimōnto",
+              "display": "ἐτιμῶντο",
+              "hidden": true
+            },
+            {
+              "answer": "etimāsthēn",
+              "display": "ἐτιμᾱ́σθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "timō",
+              "display": "τιμῶ",
+              "hidden": false
+            },
+            {
+              "answer": "timōmen",
+              "display": "τιμῶμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timāis",
+              "display": "τιμᾷς",
+              "hidden": true
+            },
+            {
+              "answer": "timate",
+              "display": "τιμᾶτε",
+              "hidden": true
+            },
+            {
+              "answer": "timaton",
+              "display": "τιμᾶτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timāi",
+              "display": "τιμᾷ",
+              "hidden": true
+            },
+            {
+              "answer": "timōsi/timōsin",
+              "display": "τιμῶσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "timaton",
+              "display": "τιμᾶτον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Optative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "timōiēn",
+              "display": "τιμῴην",
+              "hidden": false
+            },
+            {
+              "answer": "timōimen/timōiēmen",
+              "display": "τιμῷμεν/τιμῴημεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timōiēs",
+              "display": "τιμῴης",
+              "hidden": true
+            },
+            {
+              "answer": "timōite/timōiēte",
+              "display": "τιμῷτε/τιμῴητε",
+              "hidden": true
+            },
+            {
+              "answer": "timōiēton",
+              "display": "τιμῴητον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timōiē",
+              "display": "τιμῴη",
+              "hidden": true
+            },
+            {
+              "answer": "timōien/timōiēsan",
+              "display": "τιμῷεν/τιμῴησαν",
+              "hidden": true
+            },
+            {
+              "answer": "timōiētēn",
+              "display": "τιμῳήτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "timōmai",
+              "display": "τιμῶμαι",
+              "hidden": false
+            },
+            {
+              "answer": "timōmetha",
+              "display": "τιμώμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timāi",
+              "display": "τιμᾷ",
+              "hidden": true
+            },
+            {
+              "answer": "timasthe",
+              "display": "τιμᾶσθε",
+              "hidden": true
+            },
+            {
+              "answer": "timasthon",
+              "display": "τιμᾶσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timatai",
+              "display": "τιμᾶται",
+              "hidden": true
+            },
+            {
+              "answer": "timōntai",
+              "display": "τιμῶνται",
+              "hidden": true
+            },
+            {
+              "answer": "timasthon",
+              "display": "τιμᾶσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Optative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "timōimēn",
+              "display": "τιμῴμην",
+              "hidden": false
+            },
+            {
+              "answer": "timōimetha",
+              "display": "τιμῴμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timōio",
+              "display": "τιμῷο",
+              "hidden": true
+            },
+            {
+              "answer": "timōisthe",
+              "display": "τιμῷσθε",
+              "hidden": true
+            },
+            {
+              "answer": "timōisthon",
+              "display": "τιμῷσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timōito",
+              "display": "τιμῷτο",
+              "hidden": true
+            },
+            {
+              "answer": "timōinto",
+              "display": "τιμῷντο",
+              "hidden": true
+            },
+            {
+              "answer": "timōisthēn",
+              "display": "τιμῴσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Present Active Imperative",
+        "rowHeaders": [
+          "2nd Sg.",
+          "3rd Sg.",
+          "2nd Pl.",
+          "3rd Pl."
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "timā",
+              "display": "τίμᾱ",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "timatō",
+              "display": "τιμάτω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timate",
+              "display": "τιμᾶτε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timōntōn",
+              "display": "τιμώντων",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Present Middle/Passive Imperative",
+        "rowHeaders": [
+          "2nd Sg.",
+          "3rd Sg.",
+          "2nd Pl.",
+          "3rd Pl."
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "timō",
+              "display": "τιμῶ",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "timasthō",
+              "display": "τιμάσθω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timasthe",
+              "display": "τιμᾶσθε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timasthōn",
+              "display": "τιμάσθων",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Infinitives",
+        "rowHeaders": [
+          "Present Active",
+          "Present Mid/Pass",
+          "Aorist Active",
+          "Aorist Middle",
+          "Aorist Passive",
+          "Perfect Active",
+          "Perfect Mid/Pass"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "timan",
+              "display": "τιμᾶν",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "timasthai",
+              "display": "τιμᾶσθαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timēsai",
+              "display": "τιμῆσαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timēsasthai",
+              "display": "τιμήσασθαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timēthēnai",
+              "display": "τιμηθῆναι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tetimēkenai",
+              "display": "τετιμηκέναι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tetimēsthai",
+              "display": "τετιμῆσθαι",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles Nom. Sg.",
+        "rowHeaders": [
+          "Present Active",
+          "Present Mid/Pass",
+          "Aorist Active",
+          "Perfect Active",
+          "Aorist Passive"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "timōn",
+              "display": "τιμῶν",
+              "hidden": false
+            },
+            {
+              "answer": "timōsa",
+              "display": "τιμῶσα",
+              "hidden": false
+            },
+            {
+              "answer": "timōn",
+              "display": "τιμῶν",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "timōmenos",
+              "display": "τιμώμενος",
+              "hidden": true
+            },
+            {
+              "answer": "timōmenē",
+              "display": "τιμωμένη",
+              "hidden": true
+            },
+            {
+              "answer": "timōmenon",
+              "display": "τιμώμενον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timēsās",
+              "display": "τιμήσᾱς",
+              "hidden": true
+            },
+            {
+              "answer": "timēsāsa",
+              "display": "τιμήσᾱσα",
+              "hidden": true
+            },
+            {
+              "answer": "timēsan",
+              "display": "τιμῆσαν",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "tetimēkōs",
+              "display": "τετιμηκώς",
+              "hidden": true
+            },
+            {
+              "answer": "tetimēkuia",
+              "display": "τετιμηκυῖα",
+              "hidden": true
+            },
+            {
+              "answer": "tetimēkos",
+              "display": "τετιμηκός",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "timētheis",
+              "display": "τιμηθείς",
+              "hidden": true
+            },
+            {
+              "answer": "timētheisa",
+              "display": "τιμηθεῖσα",
+              "hidden": true
+            },
+            {
+              "answer": "timēthen",
+              "display": "τιμηθέν",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-poieo",
+    "word": "ποιέω (poieō)",
+    "language": "Ancient Greek (romanised)",
+    "category": "verb · contract -έω (ποιέω)",
+    "matrices": [
+      {
+        "label": "Active Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "poiō",
+              "display": "ποιῶ",
+              "hidden": false
+            },
+            {
+              "answer": "poioumen",
+              "display": "ποιοῦμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poieis",
+              "display": "ποιεῖς",
+              "hidden": true
+            },
+            {
+              "answer": "poieite",
+              "display": "ποιεῖτε",
+              "hidden": true
+            },
+            {
+              "answer": "poieiton",
+              "display": "ποιεῖτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poiei",
+              "display": "ποιεῖ",
+              "hidden": true
+            },
+            {
+              "answer": "poiousi/poiousin",
+              "display": "ποιοῦσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "poieiton",
+              "display": "ποιεῖτον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "epoioun",
+              "display": "ἐποίουν",
+              "hidden": false
+            },
+            {
+              "answer": "epoioumen",
+              "display": "ἐποιοῦμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "epoieis",
+              "display": "ἐποίεις",
+              "hidden": true
+            },
+            {
+              "answer": "epoieite",
+              "display": "ἐποιεῖτε",
+              "hidden": true
+            },
+            {
+              "answer": "epoieiton",
+              "display": "ἐποιεῖτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "epoiei",
+              "display": "ἐποίει",
+              "hidden": true
+            },
+            {
+              "answer": "epoioun",
+              "display": "ἐποίουν",
+              "hidden": true
+            },
+            {
+              "answer": "epoieitēn",
+              "display": "ἐποιείτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "poiēsō",
+              "display": "ποιήσω",
+              "hidden": false
+            },
+            {
+              "answer": "poiēsomen",
+              "display": "ποιήσομεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poiēseis",
+              "display": "ποιήσεις",
+              "hidden": true
+            },
+            {
+              "answer": "poiēsete",
+              "display": "ποιήσετε",
+              "hidden": true
+            },
+            {
+              "answer": "poiēseton",
+              "display": "ποιήσετον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poiēsei",
+              "display": "ποιήσει",
+              "hidden": true
+            },
+            {
+              "answer": "poiēsousi/poiēsousin",
+              "display": "ποιήσουσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "poiēseton",
+              "display": "ποιήσετον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "epoiēsa",
+              "display": "ἐποίησα",
+              "hidden": false
+            },
+            {
+              "answer": "epoiēsamen",
+              "display": "ἐποιήσαμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "epoiēsas",
+              "display": "ἐποίησας",
+              "hidden": true
+            },
+            {
+              "answer": "epoiēsate",
+              "display": "ἐποιήσατε",
+              "hidden": true
+            },
+            {
+              "answer": "epoiēsaton",
+              "display": "ἐποιήσατον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "epoiēse/epoiēsen",
+              "display": "ἐποίησε(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "epoiēsan",
+              "display": "ἐποίησαν",
+              "hidden": true
+            },
+            {
+              "answer": "epoiēsatēn",
+              "display": "ἐποιησάτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "poioumai",
+              "display": "ποιοῦμαι",
+              "hidden": false
+            },
+            {
+              "answer": "poioumetha",
+              "display": "ποιούμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poiēi/poiei",
+              "display": "ποιῇ/ποιεῖ",
+              "hidden": true
+            },
+            {
+              "answer": "poieisthe",
+              "display": "ποιεῖσθε",
+              "hidden": true
+            },
+            {
+              "answer": "poieisthon",
+              "display": "ποιεῖσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poieitai",
+              "display": "ποιεῖται",
+              "hidden": true
+            },
+            {
+              "answer": "poiountai",
+              "display": "ποιοῦνται",
+              "hidden": true
+            },
+            {
+              "answer": "poieisthon",
+              "display": "ποιεῖσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "epoioumēn",
+              "display": "ἐποιούμην",
+              "hidden": false
+            },
+            {
+              "answer": "epoioumetha",
+              "display": "ἐποιούμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "epoiou",
+              "display": "ἐποιοῦ",
+              "hidden": true
+            },
+            {
+              "answer": "epoieisthe",
+              "display": "ἐποιεῖσθε",
+              "hidden": true
+            },
+            {
+              "answer": "epoieisthon",
+              "display": "ἐποιεῖσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "epoieito",
+              "display": "ἐποιεῖτο",
+              "hidden": true
+            },
+            {
+              "answer": "epoiounto",
+              "display": "ἐποιοῦντο",
+              "hidden": true
+            },
+            {
+              "answer": "epoieisthēn",
+              "display": "ἐποιείσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "poiō",
+              "display": "ποιῶ",
+              "hidden": false
+            },
+            {
+              "answer": "poiōmen",
+              "display": "ποιῶμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poiēis",
+              "display": "ποιῇς",
+              "hidden": true
+            },
+            {
+              "answer": "poiēte",
+              "display": "ποιῆτε",
+              "hidden": true
+            },
+            {
+              "answer": "poiēton",
+              "display": "ποιῆτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poiēi",
+              "display": "ποιῇ",
+              "hidden": true
+            },
+            {
+              "answer": "poiōsi/poiōsin",
+              "display": "ποιῶσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "poiēton",
+              "display": "ποιῆτον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Optative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "poioimi",
+              "display": "ποιοῖμι",
+              "hidden": false
+            },
+            {
+              "answer": "poioimen",
+              "display": "ποιοῖμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poiois",
+              "display": "ποιοῖς",
+              "hidden": true
+            },
+            {
+              "answer": "poioite",
+              "display": "ποιοῖτε",
+              "hidden": true
+            },
+            {
+              "answer": "poioiton",
+              "display": "ποιοῖτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poioi",
+              "display": "ποιοῖ",
+              "hidden": true
+            },
+            {
+              "answer": "poioien",
+              "display": "ποιοῖεν",
+              "hidden": true
+            },
+            {
+              "answer": "poioitēn",
+              "display": "ποιοίτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "poiōmai",
+              "display": "ποιῶμαι",
+              "hidden": false
+            },
+            {
+              "answer": "poiōmetha",
+              "display": "ποιώμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poiēi",
+              "display": "ποιῇ",
+              "hidden": true
+            },
+            {
+              "answer": "poiēsthe",
+              "display": "ποιῆσθε",
+              "hidden": true
+            },
+            {
+              "answer": "poiēsthon",
+              "display": "ποιῆσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poiētai",
+              "display": "ποιῆται",
+              "hidden": true
+            },
+            {
+              "answer": "poiōntai",
+              "display": "ποιῶνται",
+              "hidden": true
+            },
+            {
+              "answer": "poiēsthon",
+              "display": "ποιῆσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Optative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "poioimēn",
+              "display": "ποιοίμην",
+              "hidden": false
+            },
+            {
+              "answer": "poioimetha",
+              "display": "ποιοίμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poioio",
+              "display": "ποιοῖο",
+              "hidden": true
+            },
+            {
+              "answer": "poioisthe",
+              "display": "ποιοῖσθε",
+              "hidden": true
+            },
+            {
+              "answer": "poioisthon",
+              "display": "ποιοῖσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poioito",
+              "display": "ποιοῖτο",
+              "hidden": true
+            },
+            {
+              "answer": "poiointo",
+              "display": "ποιοῖντο",
+              "hidden": true
+            },
+            {
+              "answer": "poioisthēn",
+              "display": "ποιοίσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Present Active Imperative",
+        "rowHeaders": [
+          "2nd Sg.",
+          "3rd Sg.",
+          "2nd Pl.",
+          "3rd Pl."
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "poiei",
+              "display": "ποίει",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "poieitō",
+              "display": "ποιείτω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poieite",
+              "display": "ποιεῖτε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poiountōn",
+              "display": "ποιούντων",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Present Middle/Passive Imperative",
+        "rowHeaders": [
+          "2nd Sg.",
+          "3rd Sg.",
+          "2nd Pl.",
+          "3rd Pl."
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "poiou",
+              "display": "ποιοῦ",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "poieisthō",
+              "display": "ποιείσθω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poieisthe",
+              "display": "ποιεῖσθε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poieisthōn",
+              "display": "ποιείσθων",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Infinitives",
+        "rowHeaders": [
+          "Present Active",
+          "Present Mid/Pass",
+          "Aorist Active",
+          "Aorist Middle",
+          "Aorist Passive",
+          "Perfect Active",
+          "Perfect Mid/Pass"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "poiein",
+              "display": "ποιεῖν",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "poieisthai",
+              "display": "ποιεῖσθαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poiēsai",
+              "display": "ποιῆσαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poiēsasthai",
+              "display": "ποιήσασθαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "poiēthēnai",
+              "display": "ποιηθῆναι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "pepoiēkenai",
+              "display": "πεποιηκέναι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "pepoiēsthai",
+              "display": "πεποιῆσθαι",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles Nom. Sg.",
+        "rowHeaders": [
+          "Present Active",
+          "Present Mid/Pass"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "poiōn",
+              "display": "ποιῶν",
+              "hidden": false
+            },
+            {
+              "answer": "poiousa",
+              "display": "ποιοῦσα",
+              "hidden": false
+            },
+            {
+              "answer": "poioun",
+              "display": "ποιοῦν",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "poioumenos",
+              "display": "ποιούμενος",
+              "hidden": true
+            },
+            {
+              "answer": "poioumenē",
+              "display": "ποιουμένη",
+              "hidden": true
+            },
+            {
+              "answer": "poioumenon",
+              "display": "ποιούμενον",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-deloo",
+    "word": "δηλόω (dēloō)",
+    "language": "Ancient Greek (romanised)",
+    "category": "verb · contract -όω (δηλόω)",
+    "matrices": [
+      {
+        "label": "Active Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dēlō",
+              "display": "δηλῶ",
+              "hidden": false
+            },
+            {
+              "answer": "dēloumen",
+              "display": "δηλοῦμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēlois",
+              "display": "δηλοῖς",
+              "hidden": true
+            },
+            {
+              "answer": "dēloute",
+              "display": "δηλοῦτε",
+              "hidden": true
+            },
+            {
+              "answer": "dēlouton",
+              "display": "δηλοῦτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēloi",
+              "display": "δηλοῖ",
+              "hidden": true
+            },
+            {
+              "answer": "dēlousi/dēlousin",
+              "display": "δηλοῦσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "dēlouton",
+              "display": "δηλοῦτον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "edēloun",
+              "display": "ἐδήλουν",
+              "hidden": false
+            },
+            {
+              "answer": "edēloumen",
+              "display": "ἐδηλοῦμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "edēlous",
+              "display": "ἐδήλους",
+              "hidden": true
+            },
+            {
+              "answer": "edēloute",
+              "display": "ἐδηλοῦτε",
+              "hidden": true
+            },
+            {
+              "answer": "edēlouton",
+              "display": "ἐδηλοῦτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "edēlou",
+              "display": "ἐδήλου",
+              "hidden": true
+            },
+            {
+              "answer": "edēloun",
+              "display": "ἐδήλουν",
+              "hidden": true
+            },
+            {
+              "answer": "edēloutēn",
+              "display": "ἐδηλούτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dēlōsō",
+              "display": "δηλώσω",
+              "hidden": false
+            },
+            {
+              "answer": "dēlōsomen",
+              "display": "δηλώσομεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēlōseis",
+              "display": "δηλώσεις",
+              "hidden": true
+            },
+            {
+              "answer": "dēlōsete",
+              "display": "δηλώσετε",
+              "hidden": true
+            },
+            {
+              "answer": "dēlōseton",
+              "display": "δηλώσετον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēlōsei",
+              "display": "δηλώσει",
+              "hidden": true
+            },
+            {
+              "answer": "dēlōsousi/dēlōsousin",
+              "display": "δηλώσουσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "dēlōseton",
+              "display": "δηλώσετον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "edēlōsa",
+              "display": "ἐδήλωσα",
+              "hidden": false
+            },
+            {
+              "answer": "edēlōsamen",
+              "display": "ἐδηλώσαμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "edēlōsas",
+              "display": "ἐδήλωσας",
+              "hidden": true
+            },
+            {
+              "answer": "edēlōsate",
+              "display": "ἐδηλώσατε",
+              "hidden": true
+            },
+            {
+              "answer": "edēlōsaton",
+              "display": "ἐδηλώσατον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "edēlōse/edēlōsen",
+              "display": "ἐδήλωσε(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "edēlōsan",
+              "display": "ἐδήλωσαν",
+              "hidden": true
+            },
+            {
+              "answer": "edēlōsatēn",
+              "display": "ἐδηλωσάτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dēloumai",
+              "display": "δηλοῦμαι",
+              "hidden": false
+            },
+            {
+              "answer": "dēloumetha",
+              "display": "δηλούμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēloi",
+              "display": "δηλοῖ",
+              "hidden": true
+            },
+            {
+              "answer": "dēlousthe",
+              "display": "δηλοῦσθε",
+              "hidden": true
+            },
+            {
+              "answer": "dēlousthon",
+              "display": "δηλοῦσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēloutai",
+              "display": "δηλοῦται",
+              "hidden": true
+            },
+            {
+              "answer": "dēlountai",
+              "display": "δηλοῦνται",
+              "hidden": true
+            },
+            {
+              "answer": "dēlousthon",
+              "display": "δηλοῦσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "edēloumēn",
+              "display": "ἐδηλούμην",
+              "hidden": false
+            },
+            {
+              "answer": "edēloumetha",
+              "display": "ἐδηλούμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "edēlou",
+              "display": "ἐδηλοῦ",
+              "hidden": true
+            },
+            {
+              "answer": "edēlousthe",
+              "display": "ἐδηλοῦσθε",
+              "hidden": true
+            },
+            {
+              "answer": "edēlousthon",
+              "display": "ἐδηλοῦσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "edēlouto",
+              "display": "ἐδηλοῦτο",
+              "hidden": true
+            },
+            {
+              "answer": "edēlounto",
+              "display": "ἐδηλοῦντο",
+              "hidden": true
+            },
+            {
+              "answer": "edēlousthēn",
+              "display": "ἐδηλούσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dēlō",
+              "display": "δηλῶ",
+              "hidden": false
+            },
+            {
+              "answer": "dēlōmen",
+              "display": "δηλῶμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēlois",
+              "display": "δηλοῖς",
+              "hidden": true
+            },
+            {
+              "answer": "dēlōte",
+              "display": "δηλῶτε",
+              "hidden": true
+            },
+            {
+              "answer": "dēlōton",
+              "display": "δηλῶτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēloi",
+              "display": "δηλοῖ",
+              "hidden": true
+            },
+            {
+              "answer": "dēlōsi/dēlōsin",
+              "display": "δηλῶσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "dēlōton",
+              "display": "δηλῶτον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Optative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dēloimi",
+              "display": "δηλοῖμι",
+              "hidden": false
+            },
+            {
+              "answer": "dēloimen",
+              "display": "δηλοῖμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēlois",
+              "display": "δηλοῖς",
+              "hidden": true
+            },
+            {
+              "answer": "dēloite",
+              "display": "δηλοῖτε",
+              "hidden": true
+            },
+            {
+              "answer": "dēloiton",
+              "display": "δηλοῖτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēloi",
+              "display": "δηλοῖ",
+              "hidden": true
+            },
+            {
+              "answer": "dēloien",
+              "display": "δηλοῖεν",
+              "hidden": true
+            },
+            {
+              "answer": "dēloitēn",
+              "display": "δηλοίτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dēlōmai",
+              "display": "δηλῶμαι",
+              "hidden": false
+            },
+            {
+              "answer": "dēlōmetha",
+              "display": "δηλώμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēloi",
+              "display": "δηλοῖ",
+              "hidden": true
+            },
+            {
+              "answer": "dēlōsthe",
+              "display": "δηλῶσθε",
+              "hidden": true
+            },
+            {
+              "answer": "dēlōsthon",
+              "display": "δηλῶσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēlōtai",
+              "display": "δηλῶται",
+              "hidden": true
+            },
+            {
+              "answer": "dēlōntai",
+              "display": "δηλῶνται",
+              "hidden": true
+            },
+            {
+              "answer": "dēlōsthon",
+              "display": "δηλῶσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle/Passive Optative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dēloimēn",
+              "display": "δηλοίμην",
+              "hidden": false
+            },
+            {
+              "answer": "dēloimetha",
+              "display": "δηλοίμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēloio",
+              "display": "δηλοῖο",
+              "hidden": true
+            },
+            {
+              "answer": "dēloisthe",
+              "display": "δηλοῖσθε",
+              "hidden": true
+            },
+            {
+              "answer": "dēloisthon",
+              "display": "δηλοῖσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēloito",
+              "display": "δηλοῖτο",
+              "hidden": true
+            },
+            {
+              "answer": "dēlointo",
+              "display": "δηλοῖντο",
+              "hidden": true
+            },
+            {
+              "answer": "dēloisthēn",
+              "display": "δηλοίσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Present Active Imperative",
+        "rowHeaders": [
+          "2nd Sg.",
+          "3rd Sg.",
+          "2nd Pl.",
+          "3rd Pl."
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dēlou",
+              "display": "δήλου",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "dēloutō",
+              "display": "δηλούτω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēloute",
+              "display": "δηλοῦτε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēlountōn",
+              "display": "δηλούντων",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Present Middle/Passive Imperative",
+        "rowHeaders": [
+          "2nd Sg.",
+          "3rd Sg.",
+          "2nd Pl.",
+          "3rd Pl."
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dēlou",
+              "display": "δηλοῦ",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "dēlousthō",
+              "display": "δηλούσθω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēlousthe",
+              "display": "δηλοῦσθε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēlousthōn",
+              "display": "δηλούσθων",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Infinitives",
+        "rowHeaders": [
+          "Present Active",
+          "Present Mid/Pass",
+          "Aorist Active",
+          "Aorist Middle",
+          "Aorist Passive"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dēloun",
+              "display": "δηλοῦν",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "dēlousthai",
+              "display": "δηλοῦσθαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēlōsai",
+              "display": "δηλῶσαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēlōsasthai",
+              "display": "δηλώσασθαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dēlōthēnai",
+              "display": "δηλωθῆναι",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles Nom. Sg.",
+        "rowHeaders": [
+          "Present Active",
+          "Present Mid/Pass"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dēlōn",
+              "display": "δηλῶν",
+              "hidden": false
+            },
+            {
+              "answer": "dēlousa",
+              "display": "δηλοῦσα",
+              "hidden": false
+            },
+            {
+              "answer": "dēloun",
+              "display": "δηλοῦν",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "dēloumenos",
+              "display": "δηλούμενος",
+              "hidden": true
+            },
+            {
+              "answer": "dēloumenē",
+              "display": "δηλουμένη",
+              "hidden": true
+            },
+            {
+              "answer": "dēloumenon",
+              "display": "δηλούμενον",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-boulomai",
+    "word": "βούλομαι (boulomai)",
+    "language": "Ancient Greek (romanised)",
+    "category": "verb · deponent (βούλομαι)",
+    "matrices": [
+      {
+        "label": "Middle Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "boulomai",
+              "display": "βούλομαι",
+              "hidden": false
+            },
+            {
+              "answer": "boulometha",
+              "display": "βουλόμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "boulei/boulēi",
+              "display": "βούλει/βούλῃ",
+              "hidden": true
+            },
+            {
+              "answer": "boulesthe",
+              "display": "βούλεσθε",
+              "hidden": true
+            },
+            {
+              "answer": "boulesthon",
+              "display": "βούλεσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bouletai",
+              "display": "βούλεται",
+              "hidden": true
+            },
+            {
+              "answer": "boulontai",
+              "display": "βούλονται",
+              "hidden": true
+            },
+            {
+              "answer": "boulesthon",
+              "display": "βούλεσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "eboulomēn",
+              "display": "ἐβουλόμην",
+              "hidden": false
+            },
+            {
+              "answer": "eboulometha",
+              "display": "ἐβουλόμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "eboulou",
+              "display": "ἐβούλου",
+              "hidden": true
+            },
+            {
+              "answer": "eboulesthe",
+              "display": "ἐβούλεσθε",
+              "hidden": true
+            },
+            {
+              "answer": "eboulesthon",
+              "display": "ἐβούλεσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "ebouleto",
+              "display": "ἐβούλετο",
+              "hidden": true
+            },
+            {
+              "answer": "eboulonto",
+              "display": "ἐβούλοντο",
+              "hidden": true
+            },
+            {
+              "answer": "eboulesthēn",
+              "display": "ἐβουλέσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "boulēsomai",
+              "display": "βουλήσομαι",
+              "hidden": false
+            },
+            {
+              "answer": "boulēsometha",
+              "display": "βουλησόμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "boulēsēi/boulēsei",
+              "display": "βουλήσῃ/βουλήσει",
+              "hidden": true
+            },
+            {
+              "answer": "boulēsesthe",
+              "display": "βουλήσεσθε",
+              "hidden": true
+            },
+            {
+              "answer": "boulēsesthon",
+              "display": "βουλήσεσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "boulēsetai",
+              "display": "βουλήσεται",
+              "hidden": true
+            },
+            {
+              "answer": "boulēsontai",
+              "display": "βουλήσονται",
+              "hidden": true
+            },
+            {
+              "answer": "boulēsesthon",
+              "display": "βουλήσεσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Aorist (passive form)",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "eboulēthēn",
+              "display": "ἐβουλήθην",
+              "hidden": false
+            },
+            {
+              "answer": "eboulēthēmen",
+              "display": "ἐβουλήθημεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "eboulēthēs",
+              "display": "ἐβουλήθης",
+              "hidden": true
+            },
+            {
+              "answer": "eboulēthēte",
+              "display": "ἐβουλήθητε",
+              "hidden": true
+            },
+            {
+              "answer": "eboulēthēton",
+              "display": "ἐβουλήθητον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "eboulēthē",
+              "display": "ἐβουλήθη",
+              "hidden": true
+            },
+            {
+              "answer": "eboulēthēsan",
+              "display": "ἐβουλήθησαν",
+              "hidden": true
+            },
+            {
+              "answer": "eboulēthētēn",
+              "display": "ἐβουληθήτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "beboulēmai",
+              "display": "βεβούλημαι",
+              "hidden": false
+            },
+            {
+              "answer": "beboulēmetha",
+              "display": "βεβουλήμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "beboulēsai",
+              "display": "βεβούλησαι",
+              "hidden": true
+            },
+            {
+              "answer": "beboulēsthe",
+              "display": "βεβούλησθε",
+              "hidden": true
+            },
+            {
+              "answer": "beboulēsthon",
+              "display": "βεβούλησθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "beboulētai",
+              "display": "βεβούληται",
+              "hidden": true
+            },
+            {
+              "answer": "beboulēntai",
+              "display": "βεβούληνται",
+              "hidden": true
+            },
+            {
+              "answer": "beboulēsthon",
+              "display": "βεβούλησθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "boulōmai",
+              "display": "βούλωμαι",
+              "hidden": false
+            },
+            {
+              "answer": "boulōmetha",
+              "display": "βουλώμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "boulēi",
+              "display": "βούλῃ",
+              "hidden": true
+            },
+            {
+              "answer": "boulēsthe",
+              "display": "βούλησθε",
+              "hidden": true
+            },
+            {
+              "answer": "boulēsthon",
+              "display": "βούλησθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "boulētai",
+              "display": "βούληται",
+              "hidden": true
+            },
+            {
+              "answer": "boulōntai",
+              "display": "βούλωνται",
+              "hidden": true
+            },
+            {
+              "answer": "boulēsthon",
+              "display": "βούλησθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Subjunctive Aorist (passive form)",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "boulēthō",
+              "display": "βουληθῶ",
+              "hidden": false
+            },
+            {
+              "answer": "boulēthōmen",
+              "display": "βουληθῶμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "boulēthēis",
+              "display": "βουληθῇς",
+              "hidden": true
+            },
+            {
+              "answer": "boulēthēte",
+              "display": "βουληθῆτε",
+              "hidden": true
+            },
+            {
+              "answer": "boulēthēton",
+              "display": "βουληθῆτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "boulēthēi",
+              "display": "βουληθῇ",
+              "hidden": true
+            },
+            {
+              "answer": "boulēthōsi/boulēthōsin",
+              "display": "βουληθῶσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "boulēthēton",
+              "display": "βουληθῆτον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Optative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "bouloimēn",
+              "display": "βουλοίμην",
+              "hidden": false
+            },
+            {
+              "answer": "bouloimetha",
+              "display": "βουλοίμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bouloio",
+              "display": "βούλοιο",
+              "hidden": true
+            },
+            {
+              "answer": "bouloisthe",
+              "display": "βούλοισθε",
+              "hidden": true
+            },
+            {
+              "answer": "bouloisthon",
+              "display": "βούλοισθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "bouloito",
+              "display": "βούλοιτο",
+              "hidden": true
+            },
+            {
+              "answer": "boulointo",
+              "display": "βούλοιντο",
+              "hidden": true
+            },
+            {
+              "answer": "bouloisthēn",
+              "display": "βουλοίσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Optative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "boulētheiēn",
+              "display": "βουληθείην",
+              "hidden": false
+            },
+            {
+              "answer": "boulētheimen",
+              "display": "βουληθεῖμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "boulētheiēs",
+              "display": "βουληθείης",
+              "hidden": true
+            },
+            {
+              "answer": "boulētheite",
+              "display": "βουληθεῖτε",
+              "hidden": true
+            },
+            {
+              "answer": "boulētheiēton",
+              "display": "βουληθείητον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "boulētheiē",
+              "display": "βουληθείη",
+              "hidden": true
+            },
+            {
+              "answer": "boulētheien",
+              "display": "βουληθεῖεν",
+              "hidden": true
+            },
+            {
+              "answer": "boulētheiētēn",
+              "display": "βουληθειήτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Infinitives",
+        "rowHeaders": [
+          "Present",
+          "Aorist",
+          "Perfect"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "boulesthai",
+              "display": "βούλεσθαι",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "boulēthēnai",
+              "display": "βουληθῆναι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "beboulēsthai",
+              "display": "βεβουλῆσθαι",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles Nom. Sg.",
+        "rowHeaders": [
+          "Present Middle",
+          "Aorist (passive form)"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "boulomenos",
+              "display": "βουλόμενος",
+              "hidden": false
+            },
+            {
+              "answer": "boulomenē",
+              "display": "βουλομένη",
+              "hidden": false
+            },
+            {
+              "answer": "boulomenon",
+              "display": "βουλόμενον",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "boulētheis",
+              "display": "βουληθείς",
+              "hidden": true
+            },
+            {
+              "answer": "boulētheisa",
+              "display": "βουληθεῖσα",
+              "hidden": true
+            },
+            {
+              "answer": "boulēthen",
+              "display": "βουληθέν",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-dynamai",
+    "word": "δύναμαι (dunamai)",
+    "language": "Ancient Greek (romanised)",
+    "category": "verb · athematic deponent (δύναμαι)",
+    "matrices": [
+      {
+        "label": "Middle Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dunamai",
+              "display": "δύναμαι",
+              "hidden": false
+            },
+            {
+              "answer": "dunametha",
+              "display": "δυνάμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dunasai",
+              "display": "δύνασαι",
+              "hidden": true
+            },
+            {
+              "answer": "dunasthe",
+              "display": "δύνασθε",
+              "hidden": true
+            },
+            {
+              "answer": "dunasthon",
+              "display": "δύνασθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dunatai",
+              "display": "δύναται",
+              "hidden": true
+            },
+            {
+              "answer": "dunantai",
+              "display": "δύνανται",
+              "hidden": true
+            },
+            {
+              "answer": "dunasthon",
+              "display": "δύνασθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "edunamēn",
+              "display": "ἐδυνάμην",
+              "hidden": false
+            },
+            {
+              "answer": "edunametha",
+              "display": "ἐδυνάμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "edunaso/edunō",
+              "display": "ἐδύνασο/ἐδύνω",
+              "hidden": true
+            },
+            {
+              "answer": "edunasthe",
+              "display": "ἐδύνασθε",
+              "hidden": true
+            },
+            {
+              "answer": "edunasthon",
+              "display": "ἐδύνασθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "edunato",
+              "display": "ἐδύνατο",
+              "hidden": true
+            },
+            {
+              "answer": "edunanto",
+              "display": "ἐδύναντο",
+              "hidden": true
+            },
+            {
+              "answer": "edunasthēn",
+              "display": "ἐδυνάσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dunēsomai",
+              "display": "δυνήσομαι",
+              "hidden": false
+            },
+            {
+              "answer": "dunēsometha",
+              "display": "δυνησόμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dunēsēi/dunēsei",
+              "display": "δυνήσῃ/δυνήσει",
+              "hidden": true
+            },
+            {
+              "answer": "dunēsesthe",
+              "display": "δυνήσεσθε",
+              "hidden": true
+            },
+            {
+              "answer": "dunēsesthon",
+              "display": "δυνήσεσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dunēsetai",
+              "display": "δυνήσεται",
+              "hidden": true
+            },
+            {
+              "answer": "dunēsontai",
+              "display": "δυνήσονται",
+              "hidden": true
+            },
+            {
+              "answer": "dunēsesthon",
+              "display": "δυνήσεσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Aorist (passive form)",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "edunēthēn/edunasthēn",
+              "display": "ἐδυνήθην/ἐδυνάσθην",
+              "hidden": false
+            },
+            {
+              "answer": "edunēthēmen",
+              "display": "ἐδυνήθημεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "edunēthēs",
+              "display": "ἐδυνήθης",
+              "hidden": true
+            },
+            {
+              "answer": "edunēthēte",
+              "display": "ἐδυνήθητε",
+              "hidden": true
+            },
+            {
+              "answer": "edunēthēton",
+              "display": "ἐδυνήθητον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "edunēthē",
+              "display": "ἐδυνήθη",
+              "hidden": true
+            },
+            {
+              "answer": "edunēthēsan",
+              "display": "ἐδυνήθησαν",
+              "hidden": true
+            },
+            {
+              "answer": "edunēthētēn",
+              "display": "ἐδυνηθήτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dedunēmai",
+              "display": "δεδύνημαι",
+              "hidden": false
+            },
+            {
+              "answer": "dedunēmetha",
+              "display": "δεδυνήμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dedunēsai",
+              "display": "δεδύνησαι",
+              "hidden": true
+            },
+            {
+              "answer": "dedunēsthe",
+              "display": "δεδύνησθε",
+              "hidden": true
+            },
+            {
+              "answer": "dedunēsthon",
+              "display": "δεδύνησθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dedunētai",
+              "display": "δεδύνηται",
+              "hidden": true
+            },
+            {
+              "answer": "dedunēntai",
+              "display": "δεδύνηνται",
+              "hidden": true
+            },
+            {
+              "answer": "dedunēsthon",
+              "display": "δεδύνησθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dunōmai",
+              "display": "δύνωμαι",
+              "hidden": false
+            },
+            {
+              "answer": "dunōmetha",
+              "display": "δυνώμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dunēi",
+              "display": "δύνῃ",
+              "hidden": true
+            },
+            {
+              "answer": "dunēsthe",
+              "display": "δύνησθε",
+              "hidden": true
+            },
+            {
+              "answer": "dunēsthon",
+              "display": "δύνησθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dunētai",
+              "display": "δύνηται",
+              "hidden": true
+            },
+            {
+              "answer": "dunōntai",
+              "display": "δύνωνται",
+              "hidden": true
+            },
+            {
+              "answer": "dunēsthon",
+              "display": "δύνησθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Subjunctive Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dunēthō",
+              "display": "δυνηθῶ",
+              "hidden": false
+            },
+            {
+              "answer": "dunēthōmen",
+              "display": "δυνηθῶμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dunēthēis",
+              "display": "δυνηθῇς",
+              "hidden": true
+            },
+            {
+              "answer": "dunēthēte",
+              "display": "δυνηθῆτε",
+              "hidden": true
+            },
+            {
+              "answer": "dunēthēton",
+              "display": "δυνηθῆτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dunēthēi",
+              "display": "δυνηθῇ",
+              "hidden": true
+            },
+            {
+              "answer": "dunēthōsi/dunēthōsin",
+              "display": "δυνηθῶσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "dunēthēton",
+              "display": "δυνηθῆτον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Optative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dunaimēn",
+              "display": "δυναίμην",
+              "hidden": false
+            },
+            {
+              "answer": "dunaimetha",
+              "display": "δυναίμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dunaio",
+              "display": "δύναιο",
+              "hidden": true
+            },
+            {
+              "answer": "dunaisthe",
+              "display": "δύναισθε",
+              "hidden": true
+            },
+            {
+              "answer": "dunaisthon",
+              "display": "δύναισθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dunaito",
+              "display": "δύναιτο",
+              "hidden": true
+            },
+            {
+              "answer": "dunainto",
+              "display": "δύναιντο",
+              "hidden": true
+            },
+            {
+              "answer": "dunaisthēn",
+              "display": "δυναίσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Optative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dunētheiēn",
+              "display": "δυνηθείην",
+              "hidden": false
+            },
+            {
+              "answer": "dunētheimen",
+              "display": "δυνηθεῖμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dunētheiēs",
+              "display": "δυνηθείης",
+              "hidden": true
+            },
+            {
+              "answer": "dunētheite",
+              "display": "δυνηθεῖτε",
+              "hidden": true
+            },
+            {
+              "answer": "dunētheiēton",
+              "display": "δυνηθείητον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dunētheiē",
+              "display": "δυνηθείη",
+              "hidden": true
+            },
+            {
+              "answer": "dunētheien",
+              "display": "δυνηθεῖεν",
+              "hidden": true
+            },
+            {
+              "answer": "dunētheiētēn",
+              "display": "δυνηθειήτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Infinitives",
+        "rowHeaders": [
+          "Present",
+          "Aorist",
+          "Perfect"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dunasthai",
+              "display": "δύνασθαι",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "dunēthēnai",
+              "display": "δυνηθῆναι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dedunēsthai",
+              "display": "δεδυνῆσθαι",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles Nom. Sg.",
+        "rowHeaders": [
+          "Present",
+          "Aorist"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "dunamenos",
+              "display": "δυνάμενος",
+              "hidden": false
+            },
+            {
+              "answer": "dunamenē",
+              "display": "δυναμένη",
+              "hidden": false
+            },
+            {
+              "answer": "dunamenon",
+              "display": "δυνάμενον",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "dunētheis",
+              "display": "δυνηθείς",
+              "hidden": true
+            },
+            {
+              "answer": "dunētheisa",
+              "display": "δυνηθεῖσα",
+              "hidden": true
+            },
+            {
+              "answer": "dunēthen",
+              "display": "δυνηθέν",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greek-lyo",
+    "word": "λύω (luō)",
+    "language": "Ancient Greek (romanised)",
+    "category": "verb · thematic (λύω), full conjugation",
+    "matrices": [
+      {
+        "label": "Active Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "luō",
+              "display": "λύω",
+              "hidden": false
+            },
+            {
+              "answer": "luomen",
+              "display": "λύομεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lueis",
+              "display": "λύεις",
+              "hidden": true
+            },
+            {
+              "answer": "luete",
+              "display": "λύετε",
+              "hidden": true
+            },
+            {
+              "answer": "lueton",
+              "display": "λύετον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luei",
+              "display": "λύει",
+              "hidden": true
+            },
+            {
+              "answer": "luousi/luousin",
+              "display": "λύουσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "lueton",
+              "display": "λύετον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "eluon",
+              "display": "ἔλυον",
+              "hidden": false
+            },
+            {
+              "answer": "eluomen",
+              "display": "ἐλύομεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "elues",
+              "display": "ἔλυες",
+              "hidden": true
+            },
+            {
+              "answer": "eluete",
+              "display": "ἐλύετε",
+              "hidden": true
+            },
+            {
+              "answer": "elueton",
+              "display": "ἐλύετον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "elue/eluen",
+              "display": "ἔλυε(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "eluon",
+              "display": "ἔλυον",
+              "hidden": true
+            },
+            {
+              "answer": "eluetēn",
+              "display": "ἐλυέτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lusō",
+              "display": "λύσω",
+              "hidden": false
+            },
+            {
+              "answer": "lusomen",
+              "display": "λύσομεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luseis",
+              "display": "λύσεις",
+              "hidden": true
+            },
+            {
+              "answer": "lusete",
+              "display": "λύσετε",
+              "hidden": true
+            },
+            {
+              "answer": "luseton",
+              "display": "λύσετον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusei",
+              "display": "λύσει",
+              "hidden": true
+            },
+            {
+              "answer": "lusousi/lusousin",
+              "display": "λύσουσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "luseton",
+              "display": "λύσετον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "elusa",
+              "display": "ἔλυσα",
+              "hidden": false
+            },
+            {
+              "answer": "elusamen",
+              "display": "ἐλύσαμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "elusas",
+              "display": "ἔλυσας",
+              "hidden": true
+            },
+            {
+              "answer": "elusate",
+              "display": "ἐλύσατε",
+              "hidden": true
+            },
+            {
+              "answer": "elusaton",
+              "display": "ἐλύσατον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "eluse/elusen",
+              "display": "ἔλυσε(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "elusan",
+              "display": "ἔλυσαν",
+              "hidden": true
+            },
+            {
+              "answer": "elusatēn",
+              "display": "ἐλυσάτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "leluka",
+              "display": "λέλυκα",
+              "hidden": false
+            },
+            {
+              "answer": "lelukamen",
+              "display": "λελύκαμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lelukas",
+              "display": "λέλυκας",
+              "hidden": true
+            },
+            {
+              "answer": "lelukate",
+              "display": "λελύκατε",
+              "hidden": true
+            },
+            {
+              "answer": "lelukaton",
+              "display": "λελύκατον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "leluke/leluken",
+              "display": "λέλυκε(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "lelukasi/lelukasin",
+              "display": "λελύκασι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "lelukaton",
+              "display": "λελύκατον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "elelukein/elelukē",
+              "display": "ἐλελύκειν/ἐλελύκη",
+              "hidden": false
+            },
+            {
+              "answer": "elelukemen",
+              "display": "ἐλελύκεμεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "elelukeis/elelukēs",
+              "display": "ἐλελύκεις/ἐλελύκης",
+              "hidden": true
+            },
+            {
+              "answer": "elelukete",
+              "display": "ἐλελύκετε",
+              "hidden": true
+            },
+            {
+              "answer": "eleluketon",
+              "display": "ἐλελύκετον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "elelukei/elelukein",
+              "display": "ἐλελύκει(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "elelukesan",
+              "display": "ἐλελύκεσαν",
+              "hidden": true
+            },
+            {
+              "answer": "eleluketēn",
+              "display": "ἐλελυκέτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "luomai",
+              "display": "λύομαι",
+              "hidden": false
+            },
+            {
+              "answer": "luometha",
+              "display": "λυόμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luēi/luei",
+              "display": "λύῃ/λύει",
+              "hidden": true
+            },
+            {
+              "answer": "luesthe",
+              "display": "λύεσθε",
+              "hidden": true
+            },
+            {
+              "answer": "luesthon",
+              "display": "λύεσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luetai",
+              "display": "λύεται",
+              "hidden": true
+            },
+            {
+              "answer": "luontai",
+              "display": "λύονται",
+              "hidden": true
+            },
+            {
+              "answer": "luesthon",
+              "display": "λύεσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Imperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "eluomēn",
+              "display": "ἐλυόμην",
+              "hidden": false
+            },
+            {
+              "answer": "eluometha",
+              "display": "ἐλυόμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "eluou",
+              "display": "ἐλύου",
+              "hidden": true
+            },
+            {
+              "answer": "eluesthe",
+              "display": "ἐλύεσθε",
+              "hidden": true
+            },
+            {
+              "answer": "eluesthon",
+              "display": "ἐλύεσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "elueto",
+              "display": "ἐλύετο",
+              "hidden": true
+            },
+            {
+              "answer": "eluonto",
+              "display": "ἐλύοντο",
+              "hidden": true
+            },
+            {
+              "answer": "eluesthēn",
+              "display": "ἐλυέσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lusomai",
+              "display": "λύσομαι",
+              "hidden": false
+            },
+            {
+              "answer": "lusometha",
+              "display": "λυσόμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusēi/lusei",
+              "display": "λύσῃ/λύσει",
+              "hidden": true
+            },
+            {
+              "answer": "lusesthe",
+              "display": "λύσεσθε",
+              "hidden": true
+            },
+            {
+              "answer": "lusesthon",
+              "display": "λύσεσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusetai",
+              "display": "λύσεται",
+              "hidden": true
+            },
+            {
+              "answer": "lusontai",
+              "display": "λύσονται",
+              "hidden": true
+            },
+            {
+              "answer": "lusesthon",
+              "display": "λύσεσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "elusamēn",
+              "display": "ἐλυσάμην",
+              "hidden": false
+            },
+            {
+              "answer": "elusametha",
+              "display": "ἐλυσάμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "elusō",
+              "display": "ἐλύσω",
+              "hidden": true
+            },
+            {
+              "answer": "elusasthe",
+              "display": "ἐλύσασθε",
+              "hidden": true
+            },
+            {
+              "answer": "elusasthon",
+              "display": "ἐλύσασθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "elusato",
+              "display": "ἐλύσατο",
+              "hidden": true
+            },
+            {
+              "answer": "elusanto",
+              "display": "ἐλύσαντο",
+              "hidden": true
+            },
+            {
+              "answer": "elusasthēn",
+              "display": "ἐλυσάσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Perfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lelumai",
+              "display": "λέλυμαι",
+              "hidden": false
+            },
+            {
+              "answer": "lelumetha",
+              "display": "λελύμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lelusai",
+              "display": "λέλυσαι",
+              "hidden": true
+            },
+            {
+              "answer": "lelusthe",
+              "display": "λέλυσθε",
+              "hidden": true
+            },
+            {
+              "answer": "lelusthon",
+              "display": "λέλυσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lelutai",
+              "display": "λέλυται",
+              "hidden": true
+            },
+            {
+              "answer": "leluntai",
+              "display": "λέλυνται",
+              "hidden": true
+            },
+            {
+              "answer": "lelusthon",
+              "display": "λέλυσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Indicative Pluperfect",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "elelumēn",
+              "display": "ἐλελύμην",
+              "hidden": false
+            },
+            {
+              "answer": "elelumetha",
+              "display": "ἐλελύμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "eleluso",
+              "display": "ἐλέλυσο",
+              "hidden": true
+            },
+            {
+              "answer": "elelusthe",
+              "display": "ἐλέλυσθε",
+              "hidden": true
+            },
+            {
+              "answer": "elelusthon",
+              "display": "ἐλέλυσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "eleluto",
+              "display": "ἐλέλυτο",
+              "hidden": true
+            },
+            {
+              "answer": "elelunto",
+              "display": "ἐλέλυντο",
+              "hidden": true
+            },
+            {
+              "answer": "elelusthēn",
+              "display": "ἐλελύσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "eluthēn",
+              "display": "ἐλύθην",
+              "hidden": false
+            },
+            {
+              "answer": "eluthēmen",
+              "display": "ἐλύθημεν",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "eluthēs",
+              "display": "ἐλύθης",
+              "hidden": true
+            },
+            {
+              "answer": "eluthēte",
+              "display": "ἐλύθητε",
+              "hidden": true
+            },
+            {
+              "answer": "eluthēton",
+              "display": "ἐλύθητον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "eluthē",
+              "display": "ἐλύθη",
+              "hidden": true
+            },
+            {
+              "answer": "eluthēsan",
+              "display": "ἐλύθησαν",
+              "hidden": true
+            },
+            {
+              "answer": "eluthētēn",
+              "display": "ἐλυθήτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Indicative Future",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "luthēsomai",
+              "display": "λυθήσομαι",
+              "hidden": false
+            },
+            {
+              "answer": "luthēsometha",
+              "display": "λυθησόμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "-",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luthēsēi/luthēsei",
+              "display": "λυθήσῃ/λυθήσει",
+              "hidden": true
+            },
+            {
+              "answer": "luthēsesthe",
+              "display": "λυθήσεσθε",
+              "hidden": true
+            },
+            {
+              "answer": "luthēsesthon",
+              "display": "λυθήσεσθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luthēsetai",
+              "display": "λυθήσεται",
+              "hidden": true
+            },
+            {
+              "answer": "luthēsontai",
+              "display": "λυθήσονται",
+              "hidden": true
+            },
+            {
+              "answer": "luthēsesthon",
+              "display": "λυθήσεσθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "luō",
+              "display": "λύω",
+              "hidden": false
+            },
+            {
+              "answer": "luōmen",
+              "display": "λύωμεν",
+              "hidden": false
+            },
+            {
+              "answer": "luēton",
+              "display": "λύητον",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "luēis",
+              "display": "λύῃς",
+              "hidden": true
+            },
+            {
+              "answer": "luēte",
+              "display": "λύητε",
+              "hidden": true
+            },
+            {
+              "answer": "luēton",
+              "display": "λύητον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luēi",
+              "display": "λύῃ",
+              "hidden": true
+            },
+            {
+              "answer": "luōsi/luōsin",
+              "display": "λύωσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "luēton",
+              "display": "λύητον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Subjunctive Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lusō",
+              "display": "λύσω",
+              "hidden": false
+            },
+            {
+              "answer": "lusōmen",
+              "display": "λύσωμεν",
+              "hidden": false
+            },
+            {
+              "answer": "lusēton",
+              "display": "λύσητον",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "lusēis",
+              "display": "λύσῃς",
+              "hidden": true
+            },
+            {
+              "answer": "lusēte",
+              "display": "λύσητε",
+              "hidden": true
+            },
+            {
+              "answer": "lusēton",
+              "display": "λύσητον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusēi",
+              "display": "λύσῃ",
+              "hidden": true
+            },
+            {
+              "answer": "lusōsi/lusōsin",
+              "display": "λύσωσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "lusēton",
+              "display": "λύσητον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Subjunctive Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "luōmai",
+              "display": "λύωμαι",
+              "hidden": false
+            },
+            {
+              "answer": "luōmetha",
+              "display": "λυώμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "luēsthon",
+              "display": "λύησθον",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "luēi",
+              "display": "λύῃ",
+              "hidden": true
+            },
+            {
+              "answer": "luēsthe",
+              "display": "λύησθε",
+              "hidden": true
+            },
+            {
+              "answer": "luēsthon",
+              "display": "λύησθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luētai",
+              "display": "λύηται",
+              "hidden": true
+            },
+            {
+              "answer": "luōntai",
+              "display": "λύωνται",
+              "hidden": true
+            },
+            {
+              "answer": "luēsthon",
+              "display": "λύησθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Subjunctive Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lusōmai",
+              "display": "λύσωμαι",
+              "hidden": false
+            },
+            {
+              "answer": "lusōmetha",
+              "display": "λυσώμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "lusēsthon",
+              "display": "λύσησθον",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "lusēi",
+              "display": "λύσῃ",
+              "hidden": true
+            },
+            {
+              "answer": "lusēsthe",
+              "display": "λύσησθε",
+              "hidden": true
+            },
+            {
+              "answer": "lusēsthon",
+              "display": "λύσησθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusētai",
+              "display": "λύσηται",
+              "hidden": true
+            },
+            {
+              "answer": "lusōntai",
+              "display": "λύσωνται",
+              "hidden": true
+            },
+            {
+              "answer": "lusēsthon",
+              "display": "λύσησθον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Subjunctive Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "luthō",
+              "display": "λυθῶ",
+              "hidden": false
+            },
+            {
+              "answer": "luthōmen",
+              "display": "λυθῶμεν",
+              "hidden": false
+            },
+            {
+              "answer": "luthēton",
+              "display": "λυθῆτον",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "luthēis",
+              "display": "λυθῇς",
+              "hidden": true
+            },
+            {
+              "answer": "luthēte",
+              "display": "λυθῆτε",
+              "hidden": true
+            },
+            {
+              "answer": "luthēton",
+              "display": "λυθῆτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luthēi",
+              "display": "λυθῇ",
+              "hidden": true
+            },
+            {
+              "answer": "luthōsi/luthōsin",
+              "display": "λυθῶσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "luthēton",
+              "display": "λυθῆτον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Optative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "luoimi",
+              "display": "λύοιμι",
+              "hidden": false
+            },
+            {
+              "answer": "luoimen",
+              "display": "λύοιμεν",
+              "hidden": false
+            },
+            {
+              "answer": "luoiton",
+              "display": "λύοιτον",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "luois",
+              "display": "λύοις",
+              "hidden": true
+            },
+            {
+              "answer": "luoite",
+              "display": "λύοιτε",
+              "hidden": true
+            },
+            {
+              "answer": "luoiton",
+              "display": "λύοιτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luoi",
+              "display": "λύοι",
+              "hidden": true
+            },
+            {
+              "answer": "luoien",
+              "display": "λύοιεν",
+              "hidden": true
+            },
+            {
+              "answer": "luoitēn",
+              "display": "λυοίτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Active Optative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lusaimi",
+              "display": "λύσαιμι",
+              "hidden": false
+            },
+            {
+              "answer": "lusaimen",
+              "display": "λύσαιμεν",
+              "hidden": false
+            },
+            {
+              "answer": "lusaiton",
+              "display": "λύσαιτον",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "lusais",
+              "display": "λύσαις",
+              "hidden": true
+            },
+            {
+              "answer": "lusaite",
+              "display": "λύσαιτε",
+              "hidden": true
+            },
+            {
+              "answer": "lusaiton",
+              "display": "λύσαιτον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusai",
+              "display": "λύσαι",
+              "hidden": true
+            },
+            {
+              "answer": "lusaien",
+              "display": "λύσαιεν",
+              "hidden": true
+            },
+            {
+              "answer": "lusaitēn",
+              "display": "λυσαίτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Optative Present",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "luoimēn",
+              "display": "λυοίμην",
+              "hidden": false
+            },
+            {
+              "answer": "luoimetha",
+              "display": "λυοίμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "luoisthon",
+              "display": "λύοισθον",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "luoio",
+              "display": "λύοιο",
+              "hidden": true
+            },
+            {
+              "answer": "luoisthe",
+              "display": "λύοισθε",
+              "hidden": true
+            },
+            {
+              "answer": "luoisthon",
+              "display": "λύοισθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luoito",
+              "display": "λύοιτο",
+              "hidden": true
+            },
+            {
+              "answer": "luointo",
+              "display": "λύοιντο",
+              "hidden": true
+            },
+            {
+              "answer": "luoisthēn",
+              "display": "λυοίσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Middle Optative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lusaimēn",
+              "display": "λυσαίμην",
+              "hidden": false
+            },
+            {
+              "answer": "lusaimetha",
+              "display": "λυσαίμεθα",
+              "hidden": false
+            },
+            {
+              "answer": "lusaisthon",
+              "display": "λύσαισθον",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "lusaio",
+              "display": "λύσαιο",
+              "hidden": true
+            },
+            {
+              "answer": "lusaisthe",
+              "display": "λύσαισθε",
+              "hidden": true
+            },
+            {
+              "answer": "lusaisthon",
+              "display": "λύσαισθον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusaito",
+              "display": "λύσαιτο",
+              "hidden": true
+            },
+            {
+              "answer": "lusainto",
+              "display": "λύσαιντο",
+              "hidden": true
+            },
+            {
+              "answer": "lusaisthēn",
+              "display": "λυσαίσθην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Passive Optative Aorist",
+        "rowHeaders": [
+          "1st Person",
+          "2nd Person",
+          "3rd Person"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural",
+          "Dual"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lutheiēn",
+              "display": "λυθείην",
+              "hidden": false
+            },
+            {
+              "answer": "lutheimen",
+              "display": "λυθεῖμεν",
+              "hidden": false
+            },
+            {
+              "answer": "lutheiēton",
+              "display": "λυθείητον",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "lutheiēs",
+              "display": "λυθείης",
+              "hidden": true
+            },
+            {
+              "answer": "lutheite",
+              "display": "λυθεῖτε",
+              "hidden": true
+            },
+            {
+              "answer": "lutheiēton",
+              "display": "λυθείητον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lutheiē",
+              "display": "λυθείη",
+              "hidden": true
+            },
+            {
+              "answer": "lutheien",
+              "display": "λυθεῖεν",
+              "hidden": true
+            },
+            {
+              "answer": "lutheiētēn",
+              "display": "λυθειήτην",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Imperatives",
+        "rowHeaders": [
+          "Present Active 2sg",
+          "Present Active 3sg",
+          "Present Active 2pl",
+          "Present Active 3pl",
+          "Aorist Active 2sg",
+          "Aorist Active 3sg",
+          "Aorist Active 2pl",
+          "Aorist Active 3pl",
+          "Present Mid/Pass 2sg",
+          "Present Mid/Pass 3sg",
+          "Present Mid/Pass 2pl",
+          "Present Mid/Pass 3pl",
+          "Aorist Middle 2sg",
+          "Aorist Middle 3sg",
+          "Aorist Middle 2pl",
+          "Aorist Middle 3pl",
+          "Aorist Passive 2sg",
+          "Aorist Passive 3sg",
+          "Aorist Passive 2pl",
+          "Aorist Passive 3pl"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "lue",
+              "display": "λῦε",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "luetō",
+              "display": "λυέτω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luete",
+              "display": "λύετε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luontōn",
+              "display": "λυόντων",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luson",
+              "display": "λῦσον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusatō",
+              "display": "λυσάτω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusate",
+              "display": "λύσατε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusantōn",
+              "display": "λυσάντων",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luou",
+              "display": "λύου",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luesthō",
+              "display": "λυέσθω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luesthe",
+              "display": "λύεσθε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luesthōn",
+              "display": "λυέσθων",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusai",
+              "display": "λῦσαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusasthō",
+              "display": "λυσάσθω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusasthe",
+              "display": "λύσασθε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusasthōn",
+              "display": "λυσάσθων",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luthēti",
+              "display": "λύθητι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luthētō",
+              "display": "λυθήτω",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luthēte",
+              "display": "λύθητε",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luthentōn",
+              "display": "λυθέντων",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Participles (Nominative Sg.)",
+        "rowHeaders": [
+          "Present Active",
+          "Future Active",
+          "Aorist Active",
+          "Perfect Active",
+          "Present Mid/Pass",
+          "Future Middle",
+          "Aorist Middle",
+          "Perfect Mid/Pass",
+          "Aorist Passive",
+          "Future Passive"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "luōn",
+              "display": "λύων",
+              "hidden": false
+            },
+            {
+              "answer": "luousa",
+              "display": "λύουσα",
+              "hidden": false
+            },
+            {
+              "answer": "luon",
+              "display": "λῦον",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "lusōn",
+              "display": "λύσων",
+              "hidden": true
+            },
+            {
+              "answer": "lusousa",
+              "display": "λύσουσα",
+              "hidden": true
+            },
+            {
+              "answer": "luson",
+              "display": "λῦσον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusas",
+              "display": "λύσας",
+              "hidden": true
+            },
+            {
+              "answer": "lusasa",
+              "display": "λύσασα",
+              "hidden": true
+            },
+            {
+              "answer": "lusan",
+              "display": "λῦσαν",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lelukōs",
+              "display": "λελυκώς",
+              "hidden": true
+            },
+            {
+              "answer": "lelukuia",
+              "display": "λελυκυῖα",
+              "hidden": true
+            },
+            {
+              "answer": "lelukos",
+              "display": "λελυκός",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luomenos",
+              "display": "λυόμενος",
+              "hidden": true
+            },
+            {
+              "answer": "luomenē",
+              "display": "λυομένη",
+              "hidden": true
+            },
+            {
+              "answer": "luomenon",
+              "display": "λυόμενον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusomenos",
+              "display": "λυσόμενος",
+              "hidden": true
+            },
+            {
+              "answer": "lusomenē",
+              "display": "λυσομένη",
+              "hidden": true
+            },
+            {
+              "answer": "lusomenon",
+              "display": "λυσόμενον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusamenos",
+              "display": "λυσάμενος",
+              "hidden": true
+            },
+            {
+              "answer": "lusamenē",
+              "display": "λυσαμένη",
+              "hidden": true
+            },
+            {
+              "answer": "lusamenon",
+              "display": "λυσάμενον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lelumenos",
+              "display": "λελυμένος",
+              "hidden": true
+            },
+            {
+              "answer": "lelumenē",
+              "display": "λελυμένη",
+              "hidden": true
+            },
+            {
+              "answer": "lelumenon",
+              "display": "λελυμένον",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lutheis",
+              "display": "λυθείς",
+              "hidden": true
+            },
+            {
+              "answer": "lutheisa",
+              "display": "λυθεῖσα",
+              "hidden": true
+            },
+            {
+              "answer": "luthen",
+              "display": "λυθέν",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luthēsomenos",
+              "display": "λυθησόμενος",
+              "hidden": true
+            },
+            {
+              "answer": "luthēsomenē",
+              "display": "λυθησομένη",
+              "hidden": true
+            },
+            {
+              "answer": "luthēsomenon",
+              "display": "λυθησόμενον",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Present Active Participle",
+        "rowHeaders": [
+          "Nominative",
+          "Vocative",
+          "Accusative",
+          "Genitive",
+          "Dative"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "M Pl.",
+          "F Pl.",
+          "N Pl."
+        ],
+        "cells": [
+          [
+            {
+              "answer": "luōn",
+              "display": "λύων",
+              "hidden": false
+            },
+            {
+              "answer": "luousa",
+              "display": "λύουσα",
+              "hidden": false
+            },
+            {
+              "answer": "luon",
+              "display": "λῦον",
+              "hidden": false
+            },
+            {
+              "answer": "luontes",
+              "display": "λύοντες",
+              "hidden": false
+            },
+            {
+              "answer": "luousai",
+              "display": "λύουσαι",
+              "hidden": false
+            },
+            {
+              "answer": "luonta",
+              "display": "λύοντα",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "luōn",
+              "display": "λύων",
+              "hidden": true
+            },
+            {
+              "answer": "luousa",
+              "display": "λύουσα",
+              "hidden": true
+            },
+            {
+              "answer": "luon",
+              "display": "λῦον",
+              "hidden": true
+            },
+            {
+              "answer": "luontes",
+              "display": "λύοντες",
+              "hidden": true
+            },
+            {
+              "answer": "luousai",
+              "display": "λύουσαι",
+              "hidden": true
+            },
+            {
+              "answer": "luonta",
+              "display": "λύοντα",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luonta",
+              "display": "λύοντα",
+              "hidden": true
+            },
+            {
+              "answer": "luousan",
+              "display": "λύουσαν",
+              "hidden": true
+            },
+            {
+              "answer": "luon",
+              "display": "λῦον",
+              "hidden": true
+            },
+            {
+              "answer": "luontas",
+              "display": "λύοντας",
+              "hidden": true
+            },
+            {
+              "answer": "luousas",
+              "display": "λυούσας",
+              "hidden": true
+            },
+            {
+              "answer": "luonta",
+              "display": "λύοντα",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luontos",
+              "display": "λύοντος",
+              "hidden": true
+            },
+            {
+              "answer": "luousēs",
+              "display": "λυούσης",
+              "hidden": true
+            },
+            {
+              "answer": "luontos",
+              "display": "λύοντος",
+              "hidden": true
+            },
+            {
+              "answer": "luontōn",
+              "display": "λυόντων",
+              "hidden": true
+            },
+            {
+              "answer": "luousōn",
+              "display": "λυουσῶν",
+              "hidden": true
+            },
+            {
+              "answer": "luontōn",
+              "display": "λυόντων",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luonti",
+              "display": "λύοντι",
+              "hidden": true
+            },
+            {
+              "answer": "luousēi",
+              "display": "λυούσῃ",
+              "hidden": true
+            },
+            {
+              "answer": "luonti",
+              "display": "λύοντι",
+              "hidden": true
+            },
+            {
+              "answer": "luousi/luousin",
+              "display": "λύουσι(ν)",
+              "hidden": true
+            },
+            {
+              "answer": "luousais",
+              "display": "λυούσαις",
+              "hidden": true
+            },
+            {
+              "answer": "luousi/luousin",
+              "display": "λύουσι(ν)",
+              "hidden": true
+            }
+          ]
+        ]
+      },
+      {
+        "label": "Infinitives",
+        "rowHeaders": [
+          "Present Active",
+          "Future Active",
+          "Aorist Active",
+          "Perfect Active",
+          "Present Mid/Pass",
+          "Future Middle",
+          "Aorist Middle",
+          "Perfect Mid/Pass",
+          "Aorist Passive",
+          "Future Passive"
+        ],
+        "columnHeaders": [
+          "Form"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "luein",
+              "display": "λύειν",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "lusein",
+              "display": "λύσειν",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusai",
+              "display": "λῦσαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lelukenai",
+              "display": "λελυκέναι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luesthai",
+              "display": "λύεσθαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusesthai",
+              "display": "λύσεσθαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lusasthai",
+              "display": "λύσασθαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "lelusthai",
+              "display": "λελύσθαι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luthēnai",
+              "display": "λυθῆναι",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "luthēsesthai",
+              "display": "λυθήσεσθαι",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

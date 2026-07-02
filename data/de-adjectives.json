@@ -1,0 +1,276 @@
+[
+  {
+    "id": "german-adj-strong",
+    "word": "gut (strong)",
+    "language": "German",
+    "category": "adjective endings · strong (no article)",
+    "matrices": [
+      {
+        "label": "Strong Declension (no article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "guter",
+              "hidden": false
+            },
+            {
+              "answer": "gute",
+              "hidden": false
+            },
+            {
+              "answer": "gutes",
+              "hidden": false
+            },
+            {
+              "answer": "gute",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "gute",
+              "hidden": true
+            },
+            {
+              "answer": "gutes",
+              "hidden": true
+            },
+            {
+              "answer": "gute",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "gutem",
+              "hidden": true
+            },
+            {
+              "answer": "guter",
+              "hidden": true
+            },
+            {
+              "answer": "gutem",
+              "hidden": true
+            },
+            {
+              "answer": "guten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "guter",
+              "hidden": true
+            },
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "guter",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-adj-weak",
+    "word": "gut (weak)",
+    "language": "German",
+    "category": "adjective endings · weak (after der-words)",
+    "matrices": [
+      {
+        "label": "Weak Declension (after der/die/das)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "M Sg.",
+          "F Sg.",
+          "N Sg.",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "gute",
+              "hidden": false
+            },
+            {
+              "answer": "gute",
+              "hidden": false
+            },
+            {
+              "answer": "gute",
+              "hidden": false
+            },
+            {
+              "answer": "guten",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "gute",
+              "hidden": true
+            },
+            {
+              "answer": "gute",
+              "hidden": true
+            },
+            {
+              "answer": "guten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "guten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "guten",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-adj-mixed",
+    "word": "gut (mixed)",
+    "language": "German",
+    "category": "adjective endings · mixed (after ein-words)",
+    "matrices": [
+      {
+        "label": "Mixed Declension (after ein/eine/ein)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "guter",
+              "hidden": false
+            },
+            {
+              "answer": "gute",
+              "hidden": false
+            },
+            {
+              "answer": "gutes",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "gute",
+              "hidden": true
+            },
+            {
+              "answer": "gutes",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "guten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "guten",
+              "hidden": true
+            },
+            {
+              "answer": "guten",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

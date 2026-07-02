@@ -1,0 +1,947 @@
+[
+  {
+    "id": "german-vater",
+    "word": "der Vater",
+    "language": "German",
+    "category": "noun · masculine (umlaut plural)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "der Vater",
+              "hidden": false
+            },
+            {
+              "answer": "die Väter",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "den Vater",
+              "hidden": true
+            },
+            {
+              "answer": "die Väter",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem Vater",
+              "hidden": true
+            },
+            {
+              "answer": "den Vätern",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "des Vaters",
+              "hidden": true
+            },
+            {
+              "answer": "der Väter",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-mutter",
+    "word": "die Mutter",
+    "language": "German",
+    "category": "noun · feminine (umlaut plural)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "die Mutter",
+              "hidden": false
+            },
+            {
+              "answer": "die Mütter",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "die Mutter",
+              "hidden": true
+            },
+            {
+              "answer": "die Mütter",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "der Mutter",
+              "hidden": true
+            },
+            {
+              "answer": "den Müttern",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "der Mutter",
+              "hidden": true
+            },
+            {
+              "answer": "der Mütter",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-buch",
+    "word": "das Buch",
+    "language": "German",
+    "category": "noun · neuter (umlaut + -er plural)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "das Buch",
+              "hidden": false
+            },
+            {
+              "answer": "die Bücher",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "das Buch",
+              "hidden": true
+            },
+            {
+              "answer": "die Bücher",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem Buch",
+              "hidden": true
+            },
+            {
+              "answer": "den Büchern",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "des Buches/des Buchs",
+              "hidden": true
+            },
+            {
+              "answer": "der Bücher",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-stadt",
+    "word": "die Stadt",
+    "language": "German",
+    "category": "noun · feminine (umlaut + -e plural)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "die Stadt",
+              "hidden": false
+            },
+            {
+              "answer": "die Städte",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "die Stadt",
+              "hidden": true
+            },
+            {
+              "answer": "die Städte",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "der Stadt",
+              "hidden": true
+            },
+            {
+              "answer": "den Städten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "der Stadt",
+              "hidden": true
+            },
+            {
+              "answer": "der Städte",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-haus",
+    "word": "das Haus",
+    "language": "German",
+    "category": "noun · neuter (umlaut + -er plural)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "das Haus",
+              "hidden": false
+            },
+            {
+              "answer": "die Häuser",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "das Haus",
+              "hidden": true
+            },
+            {
+              "answer": "die Häuser",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem Haus",
+              "hidden": true
+            },
+            {
+              "answer": "den Häusern",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "des Hauses",
+              "hidden": true
+            },
+            {
+              "answer": "der Häuser",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-frau",
+    "word": "die Frau",
+    "language": "German",
+    "category": "noun · feminine (-en plural)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "die Frau",
+              "hidden": false
+            },
+            {
+              "answer": "die Frauen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "die Frau",
+              "hidden": true
+            },
+            {
+              "answer": "die Frauen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "der Frau",
+              "hidden": true
+            },
+            {
+              "answer": "den Frauen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "der Frau",
+              "hidden": true
+            },
+            {
+              "answer": "der Frauen",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-kind",
+    "word": "das Kind",
+    "language": "German",
+    "category": "noun · neuter (-er plural)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "das Kind",
+              "hidden": false
+            },
+            {
+              "answer": "die Kinder",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "das Kind",
+              "hidden": true
+            },
+            {
+              "answer": "die Kinder",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem Kind",
+              "hidden": true
+            },
+            {
+              "answer": "den Kindern",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "des Kindes/des Kinds",
+              "hidden": true
+            },
+            {
+              "answer": "der Kinder",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-tisch",
+    "word": "der Tisch",
+    "language": "German",
+    "category": "noun · masculine (-e plural)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "der Tisch",
+              "hidden": false
+            },
+            {
+              "answer": "die Tische",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "den Tisch",
+              "hidden": true
+            },
+            {
+              "answer": "die Tische",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem Tisch",
+              "hidden": true
+            },
+            {
+              "answer": "den Tischen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "des Tisches/des Tischs",
+              "hidden": true
+            },
+            {
+              "answer": "der Tische",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-lehrer",
+    "word": "der Lehrer",
+    "language": "German",
+    "category": "noun · masculine (zero plural)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "der Lehrer",
+              "hidden": false
+            },
+            {
+              "answer": "die Lehrer",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "den Lehrer",
+              "hidden": true
+            },
+            {
+              "answer": "die Lehrer",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem Lehrer",
+              "hidden": true
+            },
+            {
+              "answer": "den Lehrern",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "des Lehrers",
+              "hidden": true
+            },
+            {
+              "answer": "der Lehrer",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-maedchen",
+    "word": "das Mädchen",
+    "language": "German",
+    "category": "noun · neuter (zero plural)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "das Mädchen",
+              "hidden": false
+            },
+            {
+              "answer": "die Mädchen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "das Mädchen",
+              "hidden": true
+            },
+            {
+              "answer": "die Mädchen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem Mädchen",
+              "hidden": true
+            },
+            {
+              "answer": "den Mädchen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "des Mädchens",
+              "hidden": true
+            },
+            {
+              "answer": "der Mädchen",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-auto",
+    "word": "das Auto",
+    "language": "German",
+    "category": "noun · neuter (-s plural)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "das Auto",
+              "hidden": false
+            },
+            {
+              "answer": "die Autos",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "das Auto",
+              "hidden": true
+            },
+            {
+              "answer": "die Autos",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem Auto",
+              "hidden": true
+            },
+            {
+              "answer": "den Autos",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "des Autos",
+              "hidden": true
+            },
+            {
+              "answer": "der Autos",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-junge",
+    "word": "der Junge",
+    "language": "German",
+    "category": "noun · masculine (n-declension)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "der Junge",
+              "hidden": false
+            },
+            {
+              "answer": "die Jungen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "den Jungen",
+              "hidden": true
+            },
+            {
+              "answer": "die Jungen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem Jungen",
+              "hidden": true
+            },
+            {
+              "answer": "den Jungen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "des Jungen",
+              "hidden": true
+            },
+            {
+              "answer": "der Jungen",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-student",
+    "word": "der Student",
+    "language": "German",
+    "category": "noun · masculine (n-declension)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "der Student",
+              "hidden": false
+            },
+            {
+              "answer": "die Studenten",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "den Studenten",
+              "hidden": true
+            },
+            {
+              "answer": "die Studenten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem Studenten",
+              "hidden": true
+            },
+            {
+              "answer": "den Studenten",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "des Studenten",
+              "hidden": true
+            },
+            {
+              "answer": "der Studenten",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-name",
+    "word": "der Name",
+    "language": "German",
+    "category": "noun · masculine (n-declension, genitive -ns)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "der Name",
+              "hidden": false
+            },
+            {
+              "answer": "die Namen",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "den Namen",
+              "hidden": true
+            },
+            {
+              "answer": "die Namen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem Namen",
+              "hidden": true
+            },
+            {
+              "answer": "den Namen",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "des Namens",
+              "hidden": true
+            },
+            {
+              "answer": "der Namen",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "german-herr",
+    "word": "der Herr",
+    "language": "German",
+    "category": "noun · masculine (n-declension, -n sg. / -en pl.)",
+    "matrices": [
+      {
+        "label": "Declension (with definite article)",
+        "rowHeaders": [
+          "Nominative",
+          "Accusative",
+          "Dative",
+          "Genitive"
+        ],
+        "columnHeaders": [
+          "Singular",
+          "Plural"
+        ],
+        "cells": [
+          [
+            {
+              "answer": "der Herr",
+              "hidden": false
+            },
+            {
+              "answer": "die Herren",
+              "hidden": false
+            }
+          ],
+          [
+            {
+              "answer": "den Herrn",
+              "hidden": true
+            },
+            {
+              "answer": "die Herren",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "dem Herrn",
+              "hidden": true
+            },
+            {
+              "answer": "den Herren",
+              "hidden": true
+            }
+          ],
+          [
+            {
+              "answer": "des Herrn",
+              "hidden": true
+            },
+            {
+              "answer": "der Herren",
+              "hidden": true
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

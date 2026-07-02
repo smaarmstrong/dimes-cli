@@ -5,7 +5,7 @@ For each hidden cell it feeds the exact `answer` (and each `/`-alternative)
 back through the engine's matcher and demands a 100% score, so malformed
 cards, empty alternatives, or answers the engine can't accept fail loudly.
 Extra guards: unique ids, grid shape, known language names, ASCII-typable
-answers, and — for Greek — no untransliterated Greek script in `answer`
+answers, and — for Greek — pure-ASCII answers (no accents or Greek script)
 plus a polytonic `display` on every drillable cell.
 
 Usage:
@@ -16,7 +16,7 @@ import sys
 import unicodedata
 from pathlib import Path
 
-LANGS = {"Latin", "German", "Ancient Greek (romanised)"}
+LANGS = {"Latin", "Ancient Greek", "German"}
 
 
 # Keep in sync with norm()/is_correct() in ./dimes.
@@ -31,10 +31,6 @@ def is_correct(answer, given):
     if given is None:
         return False
     return any(norm(given) == norm(alt) for alt in answer.split("/"))
-
-
-def has_greek_script(s):
-    return any(0x0370 <= ord(ch) <= 0x03FF or 0x1F00 <= ord(ch) <= 0x1FFF for ch in s)
 
 
 def main():
@@ -114,9 +110,10 @@ def main():
                             elif not norm(alt).isascii():
                                 err(cwhere, f"{alt!r} not typable as ASCII after folding "
                                             f"(norm -> {norm(alt)!r})")
-                        if lang == "Ancient Greek (romanised)":
-                            if has_greek_script(ans):
-                                err(cwhere, f"Greek script left in answer {ans!r} — transliterate it")
+                        if lang == "Ancient Greek":
+                            if not ans.isascii():
+                                err(cwhere, f"answer {ans!r} must be plain ASCII "
+                                            "(no accents or Greek script)")
                             if not cell.get("display"):
                                 err(cwhere, "Greek drillable cell needs polytonic 'display'")
                 if drillable == 0:

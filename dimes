@@ -14,7 +14,12 @@ Usage:
     dimes drill latin             # drill one language (latin | greek | german)
     dimes drill latin-servus      # drill one specific card
     dimes drill latin -n 5        # limit to N cards (default 6)
+    dimes drill latin --blind     # hide the hint row too — fill the whole table
     dimes status                  # your recent scores per card
+
+At each blank type any one accepted form (accents optional); press Enter to
+skip a cell (it's revealed, not marked wrong) or type q to stop. Scores are
+saved per card as you go, so you can quit any time and see them with `status`.
 """
 import json
 import os
@@ -71,8 +76,10 @@ def save_state(st):
     STATE.write_text(json.dumps(st, indent=2))
 
 # ---- rendering -------------------------------------------------------------
-def render(matrix, filled):
-    """filled: dict (r,c)->(given, ok) for hidden cells that were answered."""
+def render(matrix, filled, blind=False):
+    """filled: dict (r,c)->(given, ok) for cells that were answered.
+    ok is True (right), False (wrong), or None (skipped). blind hides the
+    otherwise-visible hint row so nothing in the paradigm is given away."""
     rows, cols = matrix["rowHeaders"], matrix["columnHeaders"]
     cells = matrix["cells"]
     disp = lambda cell: cell.get("display") or cell["answer"]
@@ -80,10 +87,12 @@ def render(matrix, filled):
         cell = cells[r][col]
         if cell["answer"] == "-":
             return DIM("—")
-        if not cell["hidden"]:
+        if not cell["hidden"] and not blind:
             return disp(cell)          # visible hint (may be polytonic Greek / umlauts)
         if (r, col) in filled:
             given, ok = filled[(r, col)]
+            if ok is None:
+                return DIM(disp(cell))         # skipped: reveal, don't mark wrong
             return G(disp(cell)) if ok else R(f"{given or '∅'}→{disp(cell)}")
         return DIM("____")
     rh_w = max(len(x) for x in rows + [""]) + 1
@@ -106,34 +115,45 @@ def render(matrix, filled):
     print()
 
 # ---- drill -----------------------------------------------------------------
-def drill_card(card):
+QUIT = object()   # drill_card sentinel: learner asked to stop the whole session
+
+def drill_card(card, blind=False):
     print()
     print(B(f"{card['word']}") + DIM(f"   {card['category']} · {card['language']}"))
-    print(DIM("  (type your answer; blank = skip; diacritics optional)"))
+    print(DIM("  (any one accepted form; Enter skips, q quits; accents optional)"))
     print()
     total = correct = 0
     for matrix in card["matrices"]:
-        render(matrix, {})
+        render(matrix, {}, blind)
         filled = {}
         for r, row in enumerate(matrix["cells"]):
             for col, cell in enumerate(row):
-                if not cell["hidden"] or cell["answer"] == "-":
+                hidden = cell["hidden"] or blind
+                if not hidden or cell["answer"] == "-":
                     continue
-                total += 1
                 label = matrix["rowHeaders"][r]
                 if len(matrix["columnHeaders"]) > 1:
                     label += " · " + matrix["columnHeaders"][col]
                 try:
                     given = input(f"  {label}: ").strip()
                 except (EOFError, KeyboardInterrupt):
-                    print(); return None
+                    print(); return QUIT
+                if given == "q":
+                    print(); return QUIT
+                if given == "":                     # skip: reveal, don't score
+                    filled[(r, col)] = ("", None)
+                    continue
+                total += 1
                 ok = is_correct(cell["answer"], given)
                 filled[(r, col)] = (given, ok)
                 if ok:
                     correct += 1
         print()
-        render(matrix, filled)
-    pct = round(100 * correct / total) if total else 0
+        render(matrix, filled, blind)
+    if total == 0:                                  # everything skipped/quit — don't score
+        print("  " + DIM("(skipped)"))
+        return None
+    pct = round(100 * correct / total)
     tag = G if pct >= 90 else (Y if pct >= 70 else R)
     print("  " + tag(BOLD(f"{correct}/{total}  ({pct}%)")))
     return pct
@@ -162,7 +182,7 @@ def cmd_status(cards, st):
         print(f"  {tag(str(pct).rjust(3)+'%')}  {cid:<22} {DIM('last: ' + h.get('date',''))}")
     print()
 
-def cmd_drill(cards, st, sel, n):
+def cmd_drill(cards, st, sel, n, blind=False):
     pool = cards
     if sel:
         key = sel.lower()
@@ -177,9 +197,11 @@ def cmd_drill(cards, st, sel, n):
     scores = []
     for i, card in enumerate(pool, 1):
         print(DIM(f"\n── card {i}/{len(pool)} " + "─" * 30))
-        pct = drill_card(card)
-        if pct is None:
-            print(DIM("\nstopped.")); break
+        pct = drill_card(card, blind)
+        if pct is QUIT:
+            print(DIM("\nstopped — scores so far are saved.")); break
+        if pct is None:                 # card fully skipped: don't record
+            continue
         scores.append(pct)
         st[card["id"]] = {"score": pct, "date": date.today().isoformat()}
         save_state(st)
@@ -200,13 +222,16 @@ def main():
     elif cmd == "drill":
         n = 6
         sel = None
+        blind = False
         it = iter(rest)
         for a in it:
             if a == "-n":
                 n = int(next(it, "6"))
+            elif a in ("--blind", "-b"):
+                blind = True
             else:
                 sel = a
-        cmd_drill(cards, st, sel, n)
+        cmd_drill(cards, st, sel, n, blind)
     else:
         sys.exit(R(f"unknown command '{cmd}'. Try: dimes help"))
 

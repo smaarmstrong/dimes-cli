@@ -16,12 +16,22 @@ modern style** (`chora`, `vasilefs`, `techni`) — no accent marks, ever.
 ./dimes drill latin          # one language (latin | greek | german)
 ./dimes drill latin-servus   # one specific card
 ./dimes drill greek -n 3     # limit to N cards
+./dimes drill latin --blind  # hide the hint row too — fill the whole table
 ./dimes status               # your recent score per paradigm
 ```
 
-At each blank you type the form. Matching is **case- and diacritic-insensitive**
-(`servi` == `servī`, `schon` == `schön`), `/` marks accepted alternatives
-(`esti/estin`), and `—` marks a cell that doesn't apply.
+At each blank you type the form. Matching is **case- and diacritic-insensitive**,
+so you never need special characters: `servi` == `servī`, `schon` == `schön`,
+`chora` == `chōrā`. Where a cell lists alternatives with `/` (`esti/estin`,
+`essēs/forēs`), **any one of them** is accepted — you don't type the slash. `—`
+marks a cell that doesn't apply.
+
+By default the first row of each table is shown as a worked example and the rest
+are blanks. Pass **`--blind`** (or `-b`) to hide that row too and drill every
+cell. Press **Enter** to skip a blank (it's revealed, not marked wrong) and
+**`q`** (or Ctrl-C) to stop. Your score for each finished card is saved as you
+go, so you can quit any time — `./dimes status` and `./dimes list` show where you
+stand.
 
 ## How it works
 

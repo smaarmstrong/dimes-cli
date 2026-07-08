@@ -14,12 +14,14 @@ Usage:
     dimes drill latin             # drill one language (latin | greek | german)
     dimes drill latin-servus      # drill one specific card
     dimes drill latin -n 5        # limit to N cards (default 6)
-    dimes drill latin --blind     # hide the hint row too — fill the whole table
+    dimes drill latin --hints     # show the first row as a worked example
     dimes status                  # your recent scores per card
 
-At each blank type any one accepted form (accents optional); press Enter to
-skip a cell (it's revealed, not marked wrong) or type q to stop. Scores are
-saved per card as you go, so you can quit any time and see them with `status`.
+Every cell of the table is a blank to fill; pass --hints to reveal the first
+row as a worked example. At each blank type any one accepted form (accents
+optional); press Enter to skip a cell (it's revealed, not marked wrong) or type
+q to stop. Scores are saved per card as you go, so you can quit any time and see
+them with `status`.
 """
 import json
 import os
@@ -222,13 +224,15 @@ def main():
     elif cmd == "drill":
         n = 6
         sel = None
-        blind = False
+        blind = True
         it = iter(rest)
         for a in it:
             if a == "-n":
                 n = int(next(it, "6"))
+            elif a in ("--hints", "-H"):
+                blind = False
             elif a in ("--blind", "-b"):
-                blind = True
+                blind = True          # kept as a no-op; blind is the default
             else:
                 sel = a
         cmd_drill(cards, st, sel, n, blind)

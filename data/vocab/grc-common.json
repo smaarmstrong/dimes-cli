@@ -1,0 +1,422 @@
+[
+  {
+    "id": "grc-vocab-anthropos",
+    "language": "Ancient Greek",
+    "headword": "ἄνθρωπος",
+    "display": "ἄνθρωπος (anthropos)",
+    "info": "ἄνθρωπος, -ου, ὁ",
+    "pos": "noun",
+    "meaning": "human being / man / person",
+    "answer": "anthropos"
+  },
+  {
+    "id": "grc-vocab-theos",
+    "language": "Ancient Greek",
+    "headword": "θεός",
+    "display": "θεός (theos)",
+    "info": "θεός, -οῦ, ὁ",
+    "pos": "noun",
+    "meaning": "god / deity",
+    "answer": "theos"
+  },
+  {
+    "id": "grc-vocab-hemera",
+    "language": "Ancient Greek",
+    "headword": "ἡμέρα",
+    "display": "ἡμέρα (hemera)",
+    "info": "ἡμέρα, -ας, ἡ",
+    "pos": "noun",
+    "meaning": "day",
+    "answer": "hemera/imera"
+  },
+  {
+    "id": "grc-vocab-oikos",
+    "language": "Ancient Greek",
+    "headword": "οἶκος",
+    "display": "οἶκος (oikos)",
+    "info": "οἶκος, -ου, ὁ",
+    "pos": "noun",
+    "meaning": "house / home / household",
+    "answer": "oikos"
+  },
+  {
+    "id": "grc-vocab-aner",
+    "language": "Ancient Greek",
+    "headword": "ἀνήρ",
+    "display": "ἀνήρ (aner)",
+    "info": "ἀνήρ, ἀνδρός, ὁ",
+    "pos": "noun",
+    "meaning": "man / husband",
+    "answer": "aner/anir"
+  },
+  {
+    "id": "grc-vocab-gyne",
+    "language": "Ancient Greek",
+    "headword": "γυνή",
+    "display": "γυνή (gyne)",
+    "info": "γυνή, γυναικός, ἡ",
+    "pos": "noun",
+    "meaning": "woman / wife",
+    "answer": "gune/gyne/gyni/gini"
+  },
+  {
+    "id": "grc-vocab-pais",
+    "language": "Ancient Greek",
+    "headword": "παῖς",
+    "display": "παῖς (pais)",
+    "info": "παῖς, παιδός, ὁ/ἡ",
+    "pos": "noun",
+    "meaning": "child / boy / girl / slave",
+    "answer": "pais"
+  },
+  {
+    "id": "grc-vocab-soma",
+    "language": "Ancient Greek",
+    "headword": "σῶμα",
+    "display": "σῶμα (soma)",
+    "info": "σῶμα, -ατος, τό",
+    "pos": "noun",
+    "meaning": "body",
+    "answer": "soma"
+  },
+  {
+    "id": "grc-vocab-ergon",
+    "language": "Ancient Greek",
+    "headword": "ἔργον",
+    "display": "ἔργον (ergon)",
+    "info": "ἔργον, -ου, τό",
+    "pos": "noun",
+    "meaning": "work / deed / task",
+    "answer": "ergon"
+  },
+  {
+    "id": "grc-vocab-nomos",
+    "language": "Ancient Greek",
+    "headword": "νόμος",
+    "display": "νόμος (nomos)",
+    "info": "νόμος, -ου, ὁ",
+    "pos": "noun",
+    "meaning": "law / custom / convention",
+    "answer": "nomos"
+  },
+  {
+    "id": "grc-vocab-arete",
+    "language": "Ancient Greek",
+    "headword": "ἀρετή",
+    "display": "ἀρετή (arete)",
+    "info": "ἀρετή, -ῆς, ἡ",
+    "pos": "noun",
+    "meaning": "virtue / excellence / valour",
+    "answer": "arete/areti"
+  },
+  {
+    "id": "grc-vocab-psyche",
+    "language": "Ancient Greek",
+    "headword": "ψυχή",
+    "display": "ψυχή (psyche)",
+    "info": "ψυχή, -ῆς, ἡ",
+    "pos": "noun",
+    "meaning": "soul / life / spirit",
+    "answer": "psuche/psyche/psychi/psichi"
+  },
+  {
+    "id": "grc-vocab-echo",
+    "language": "Ancient Greek",
+    "headword": "ἔχω",
+    "display": "ἔχω (echo)",
+    "info": "ἔχω, ἕξω/σχήσω, ἔσχον, ἔσχηκα",
+    "pos": "verb",
+    "meaning": "to have / hold / possess",
+    "answer": "echo"
+  },
+  {
+    "id": "grc-vocab-lego",
+    "language": "Ancient Greek",
+    "headword": "λέγω",
+    "display": "λέγω (lego)",
+    "info": "λέγω, ἐρῶ, εἶπον, εἴρηκα",
+    "pos": "verb",
+    "meaning": "to say / speak / tell",
+    "answer": "lego"
+  },
+  {
+    "id": "grc-vocab-grapho",
+    "language": "Ancient Greek",
+    "headword": "γράφω",
+    "display": "γράφω (grapho)",
+    "info": "γράφω, γράψω, ἔγραψα, γέγραφα",
+    "pos": "verb",
+    "meaning": "to write / draw / inscribe",
+    "answer": "grapho"
+  },
+  {
+    "id": "grc-vocab-pempo",
+    "language": "Ancient Greek",
+    "headword": "πέμπω",
+    "display": "πέμπω (pempo)",
+    "info": "πέμπω, πέμψω, ἔπεμψα, πέπομφα",
+    "pos": "verb",
+    "meaning": "to send / escort",
+    "answer": "pempo"
+  },
+  {
+    "id": "grc-vocab-ago",
+    "language": "Ancient Greek",
+    "headword": "ἄγω",
+    "display": "ἄγω (ago)",
+    "info": "ἄγω, ἄξω, ἤγαγον, ἦχα",
+    "pos": "verb",
+    "meaning": "to lead / bring / drive",
+    "answer": "ago"
+  },
+  {
+    "id": "grc-vocab-phero",
+    "language": "Ancient Greek",
+    "headword": "φέρω",
+    "display": "φέρω (phero)",
+    "info": "φέρω, οἴσω, ἤνεγκα, ἐνήνοχα",
+    "pos": "verb",
+    "meaning": "to carry / bear / bring",
+    "answer": "phero/fero"
+  },
+  {
+    "id": "grc-vocab-lambano",
+    "language": "Ancient Greek",
+    "headword": "λαμβάνω",
+    "display": "λαμβάνω (lambano)",
+    "info": "λαμβάνω, λήψομαι, ἔλαβον, εἴληφα",
+    "pos": "verb",
+    "meaning": "to take / receive / grasp",
+    "answer": "lambano"
+  },
+  {
+    "id": "grc-vocab-horao",
+    "language": "Ancient Greek",
+    "headword": "ὁράω",
+    "display": "ὁράω (horao)",
+    "info": "ὁράω, ὄψομαι, εἶδον, ἑώρακα",
+    "pos": "verb",
+    "meaning": "to see / look / behold",
+    "answer": "horao/orao"
+  },
+  {
+    "id": "grc-vocab-akouo",
+    "language": "Ancient Greek",
+    "headword": "ἀκούω",
+    "display": "ἀκούω (akouo)",
+    "info": "ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα",
+    "pos": "verb",
+    "meaning": "to hear / listen",
+    "answer": "akouo"
+  },
+  {
+    "id": "grc-vocab-gignosko",
+    "language": "Ancient Greek",
+    "headword": "γιγνώσκω",
+    "display": "γιγνώσκω (gignosko)",
+    "info": "γιγνώσκω, γνώσομαι, ἔγνων, ἔγνωκα",
+    "pos": "verb",
+    "meaning": "to know / recognise / perceive",
+    "answer": "gignosko"
+  },
+  {
+    "id": "grc-vocab-manthano",
+    "language": "Ancient Greek",
+    "headword": "μανθάνω",
+    "display": "μανθάνω (manthano)",
+    "info": "μανθάνω, μαθήσομαι, ἔμαθον, μεμάθηκα",
+    "pos": "verb",
+    "meaning": "to learn / understand",
+    "answer": "manthano"
+  },
+  {
+    "id": "grc-vocab-gignomai",
+    "language": "Ancient Greek",
+    "headword": "γίγνομαι",
+    "display": "γίγνομαι (gignomai)",
+    "info": "γίγνομαι, γενήσομαι, ἐγενόμην, γέγονα",
+    "pos": "verb",
+    "meaning": "to become / be born / happen",
+    "answer": "gignomai"
+  },
+  {
+    "id": "grc-vocab-kalos",
+    "language": "Ancient Greek",
+    "headword": "καλός",
+    "display": "καλός (kalos)",
+    "info": "καλός, -ή, -όν",
+    "pos": "adjective",
+    "meaning": "beautiful / noble / fine",
+    "answer": "kalos"
+  },
+  {
+    "id": "grc-vocab-kakos",
+    "language": "Ancient Greek",
+    "headword": "κακός",
+    "display": "κακός (kakos)",
+    "info": "κακός, -ή, -όν",
+    "pos": "adjective",
+    "meaning": "bad / evil / cowardly",
+    "answer": "kakos"
+  },
+  {
+    "id": "grc-vocab-megas",
+    "language": "Ancient Greek",
+    "headword": "μέγας",
+    "display": "μέγας (megas)",
+    "info": "μέγας, μεγάλη, μέγα",
+    "pos": "adjective",
+    "meaning": "big / large / great",
+    "answer": "megas"
+  },
+  {
+    "id": "grc-vocab-polys",
+    "language": "Ancient Greek",
+    "headword": "πολύς",
+    "display": "πολύς (polys)",
+    "info": "πολύς, πολλή, πολύ",
+    "pos": "adjective",
+    "meaning": "much / many",
+    "answer": "polus/polys"
+  },
+  {
+    "id": "grc-vocab-sophos",
+    "language": "Ancient Greek",
+    "headword": "σοφός",
+    "display": "σοφός (sophos)",
+    "info": "σοφός, -ή, -όν",
+    "pos": "adjective",
+    "meaning": "wise / skilled / clever",
+    "answer": "sophos/sofos"
+  },
+  {
+    "id": "grc-vocab-deinos",
+    "language": "Ancient Greek",
+    "headword": "δεινός",
+    "display": "δεινός (deinos)",
+    "info": "δεινός, -ή, -όν",
+    "pos": "adjective",
+    "meaning": "terrible / fearsome / clever / strange",
+    "answer": "deinos/dinos"
+  },
+  {
+    "id": "grc-vocab-ou",
+    "language": "Ancient Greek",
+    "headword": "οὐ",
+    "display": "οὐ (ou)",
+    "info": "οὐ (οὐκ before a vowel, οὐχ before rough breathing)",
+    "pos": "adverb",
+    "meaning": "not",
+    "answer": "ou/ouk/ouch"
+  },
+  {
+    "id": "grc-vocab-nyn",
+    "language": "Ancient Greek",
+    "headword": "νῦν",
+    "display": "νῦν (nyn)",
+    "info": "νῦν",
+    "pos": "adverb",
+    "meaning": "now / at present",
+    "answer": "nun/nyn"
+  },
+  {
+    "id": "grc-vocab-aei",
+    "language": "Ancient Greek",
+    "headword": "ἀεί",
+    "display": "ἀεί (aei)",
+    "info": "ἀεί",
+    "pos": "adverb",
+    "meaning": "always / ever",
+    "answer": "aei"
+  },
+  {
+    "id": "grc-vocab-en",
+    "language": "Ancient Greek",
+    "headword": "ἐν",
+    "display": "ἐν (en)",
+    "info": "ἐν (+ dative)",
+    "pos": "preposition",
+    "meaning": "in / among / on",
+    "answer": "en"
+  },
+  {
+    "id": "grc-vocab-eis",
+    "language": "Ancient Greek",
+    "headword": "εἰς",
+    "display": "εἰς (eis)",
+    "info": "εἰς (+ accusative)",
+    "pos": "preposition",
+    "meaning": "into / to / for",
+    "answer": "eis/is"
+  },
+  {
+    "id": "grc-vocab-ek",
+    "language": "Ancient Greek",
+    "headword": "ἐκ",
+    "display": "ἐκ (ek)",
+    "info": "ἐκ (ἐξ before a vowel) (+ genitive)",
+    "pos": "preposition",
+    "meaning": "out of / from",
+    "answer": "ek/ex"
+  },
+  {
+    "id": "grc-vocab-pros",
+    "language": "Ancient Greek",
+    "headword": "πρός",
+    "display": "πρός (pros)",
+    "info": "πρός (+ gen., dat., or acc.)",
+    "pos": "preposition",
+    "meaning": "toward / to / against",
+    "answer": "pros"
+  },
+  {
+    "id": "grc-vocab-dia",
+    "language": "Ancient Greek",
+    "headword": "διά",
+    "display": "διά (dia)",
+    "info": "διά (+ gen. or acc.)",
+    "pos": "preposition",
+    "meaning": "through / on account of / because of",
+    "answer": "dia"
+  },
+  {
+    "id": "grc-vocab-kai",
+    "language": "Ancient Greek",
+    "headword": "καί",
+    "display": "καί (kai)",
+    "info": "καί",
+    "pos": "conjunction",
+    "meaning": "and / also / even",
+    "answer": "kai"
+  },
+  {
+    "id": "grc-vocab-de",
+    "language": "Ancient Greek",
+    "headword": "δέ",
+    "display": "δέ (de)",
+    "info": "δέ (postpositive)",
+    "pos": "particle",
+    "meaning": "but / and / on the other hand",
+    "answer": "de"
+  },
+  {
+    "id": "grc-vocab-gar",
+    "language": "Ancient Greek",
+    "headword": "γάρ",
+    "display": "γάρ (gar)",
+    "info": "γάρ (postpositive)",
+    "pos": "conjunction",
+    "meaning": "for / because / indeed",
+    "answer": "gar"
+  },
+  {
+    "id": "grc-vocab-alla",
+    "language": "Ancient Greek",
+    "headword": "ἀλλά",
+    "display": "ἀλλά (alla)",
+    "info": "ἀλλά",
+    "pos": "conjunction",
+    "meaning": "but / rather / yet",
+    "answer": "alla"
+  }
+]

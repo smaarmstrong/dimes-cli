@@ -1,0 +1,87 @@
+[
+  {
+    "id": "la-vocab-servus",
+    "language": "Latin",
+    "headword": "servus",
+    "display": "servus",
+    "info": "servus, -ī, m.",
+    "pos": "noun",
+    "meaning": "slave / servant",
+    "answer": "servus",
+    "grammar": "latin-servus"
+  },
+  {
+    "id": "la-vocab-puella",
+    "language": "Latin",
+    "headword": "puella",
+    "display": "puella",
+    "info": "puella, -ae, f.",
+    "pos": "noun",
+    "meaning": "girl",
+    "answer": "puella",
+    "grammar": "latin-puella"
+  },
+  {
+    "id": "la-vocab-rex",
+    "language": "Latin",
+    "headword": "rex",
+    "display": "rēx",
+    "info": "rēx, rēgis, m.",
+    "pos": "noun",
+    "meaning": "king",
+    "answer": "rex",
+    "grammar": "latin-rex"
+  },
+  {
+    "id": "la-vocab-bonus",
+    "language": "Latin",
+    "headword": "bonus",
+    "display": "bonus",
+    "info": "bonus, -a, -um",
+    "pos": "adjective",
+    "meaning": "good",
+    "answer": "bonus",
+    "grammar": "latin-bonus"
+  },
+  {
+    "id": "la-vocab-amo",
+    "language": "Latin",
+    "headword": "amo",
+    "display": "amō",
+    "info": "amō, amāre, amāvī, amātum",
+    "pos": "verb",
+    "meaning": "to love / like",
+    "answer": "amo/amare",
+    "grammar": "latin-amo"
+  },
+  {
+    "id": "la-vocab-aqua",
+    "language": "Latin",
+    "headword": "aqua",
+    "display": "aqua",
+    "info": "aqua, -ae, f.",
+    "pos": "noun",
+    "meaning": "water",
+    "answer": "aqua"
+  },
+  {
+    "id": "la-vocab-magnus",
+    "language": "Latin",
+    "headword": "magnus",
+    "display": "magnus",
+    "info": "magnus, -a, -um",
+    "pos": "adjective",
+    "meaning": "big / great / large",
+    "answer": "magnus"
+  },
+  {
+    "id": "la-vocab-video",
+    "language": "Latin",
+    "headword": "video",
+    "display": "videō",
+    "info": "videō, vidēre, vīdī, vīsum",
+    "pos": "verb",
+    "meaning": "to see",
+    "answer": "video/videre"
+  }
+]

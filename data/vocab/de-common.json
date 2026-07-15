@@ -1,0 +1,572 @@
+[
+  {
+    "id": "de-vocab-mann",
+    "language": "German",
+    "headword": "der Mann",
+    "display": "der Mann",
+    "info": "der Mann, die Männer",
+    "pos": "noun",
+    "meaning": "man / husband",
+    "answer": "Mann/der Mann"
+  },
+  {
+    "id": "de-vocab-zeit",
+    "language": "German",
+    "headword": "die Zeit",
+    "display": "die Zeit",
+    "info": "die Zeit, die Zeiten",
+    "pos": "noun",
+    "meaning": "time",
+    "answer": "Zeit/die Zeit"
+  },
+  {
+    "id": "de-vocab-tag",
+    "language": "German",
+    "headword": "der Tag",
+    "display": "der Tag",
+    "info": "der Tag, die Tage",
+    "pos": "noun",
+    "meaning": "day",
+    "answer": "Tag/der Tag"
+  },
+  {
+    "id": "de-vocab-jahr",
+    "language": "German",
+    "headword": "das Jahr",
+    "display": "das Jahr",
+    "info": "das Jahr, die Jahre",
+    "pos": "noun",
+    "meaning": "year",
+    "answer": "Jahr/das Jahr"
+  },
+  {
+    "id": "de-vocab-hand",
+    "language": "German",
+    "headword": "die Hand",
+    "display": "die Hand",
+    "info": "die Hand, die Hände",
+    "pos": "noun",
+    "meaning": "hand",
+    "answer": "Hand/die Hand"
+  },
+  {
+    "id": "de-vocab-wasser",
+    "language": "German",
+    "headword": "das Wasser",
+    "display": "das Wasser",
+    "info": "das Wasser, - (die Wässer rare)",
+    "pos": "noun",
+    "meaning": "water",
+    "answer": "Wasser/das Wasser"
+  },
+  {
+    "id": "de-vocab-land",
+    "language": "German",
+    "headword": "das Land",
+    "display": "das Land",
+    "info": "das Land, die Länder",
+    "pos": "noun",
+    "meaning": "country / land",
+    "answer": "Land/das Land"
+  },
+  {
+    "id": "de-vocab-welt",
+    "language": "German",
+    "headword": "die Welt",
+    "display": "die Welt",
+    "info": "die Welt, die Welten",
+    "pos": "noun",
+    "meaning": "world",
+    "answer": "Welt/die Welt"
+  },
+  {
+    "id": "de-vocab-freund",
+    "language": "German",
+    "headword": "der Freund",
+    "display": "der Freund",
+    "info": "der Freund, die Freunde",
+    "pos": "noun",
+    "meaning": "friend",
+    "answer": "Freund/der Freund"
+  },
+  {
+    "id": "de-vocab-schule",
+    "language": "German",
+    "headword": "die Schule",
+    "display": "die Schule",
+    "info": "die Schule, die Schulen",
+    "pos": "noun",
+    "meaning": "school",
+    "answer": "Schule/die Schule"
+  },
+  {
+    "id": "de-vocab-arbeit",
+    "language": "German",
+    "headword": "die Arbeit",
+    "display": "die Arbeit",
+    "info": "die Arbeit, die Arbeiten",
+    "pos": "noun",
+    "meaning": "work / job",
+    "answer": "Arbeit/die Arbeit"
+  },
+  {
+    "id": "de-vocab-geld",
+    "language": "German",
+    "headword": "das Geld",
+    "display": "das Geld",
+    "info": "das Geld, die Gelder",
+    "pos": "noun",
+    "meaning": "money",
+    "answer": "Geld/das Geld"
+  },
+  {
+    "id": "de-vocab-nacht",
+    "language": "German",
+    "headword": "die Nacht",
+    "display": "die Nacht",
+    "info": "die Nacht, die Nächte",
+    "pos": "noun",
+    "meaning": "night",
+    "answer": "Nacht/die Nacht"
+  },
+  {
+    "id": "de-vocab-strasse",
+    "language": "German",
+    "headword": "die Straße",
+    "display": "die Straße",
+    "info": "die Straße, die Straßen",
+    "pos": "noun",
+    "meaning": "street / road",
+    "answer": "Strasse/die Strasse/Straße/die Straße"
+  },
+  {
+    "id": "de-vocab-wort",
+    "language": "German",
+    "headword": "das Wort",
+    "display": "das Wort",
+    "info": "das Wort, die Wörter (Worte in phrases)",
+    "pos": "noun",
+    "meaning": "word",
+    "answer": "Wort/das Wort"
+  },
+  {
+    "id": "de-vocab-familie",
+    "language": "German",
+    "headword": "die Familie",
+    "display": "die Familie",
+    "info": "die Familie, die Familien",
+    "pos": "noun",
+    "meaning": "family",
+    "answer": "Familie/die Familie"
+  },
+  {
+    "id": "de-vocab-hund",
+    "language": "German",
+    "headword": "der Hund",
+    "display": "der Hund",
+    "info": "der Hund, die Hunde",
+    "pos": "noun",
+    "meaning": "dog",
+    "answer": "Hund/der Hund"
+  },
+  {
+    "id": "de-vocab-essen-noun",
+    "language": "German",
+    "headword": "das Essen",
+    "display": "das Essen",
+    "info": "das Essen, die Essen",
+    "pos": "noun",
+    "meaning": "food / meal",
+    "answer": "Essen/das Essen"
+  },
+  {
+    "id": "de-vocab-sagen",
+    "language": "German",
+    "headword": "sagen",
+    "display": "sagen",
+    "info": "sagen (sagte, gesagt) - weak",
+    "pos": "verb",
+    "meaning": "to say / to tell",
+    "answer": "sagen"
+  },
+  {
+    "id": "de-vocab-finden",
+    "language": "German",
+    "headword": "finden",
+    "display": "finden",
+    "info": "finden (fand, gefunden) - strong",
+    "pos": "verb",
+    "meaning": "to find",
+    "answer": "finden"
+  },
+  {
+    "id": "de-vocab-bleiben",
+    "language": "German",
+    "headword": "bleiben",
+    "display": "bleiben",
+    "info": "bleiben (blieb, geblieben) - strong, aux. sein",
+    "pos": "verb",
+    "meaning": "to stay / to remain",
+    "answer": "bleiben"
+  },
+  {
+    "id": "de-vocab-heissen",
+    "language": "German",
+    "headword": "heißen",
+    "display": "heißen",
+    "info": "heißen (hieß, geheißen) - strong",
+    "pos": "verb",
+    "meaning": "to be called / to be named",
+    "answer": "heissen/heißen"
+  },
+  {
+    "id": "de-vocab-essen-verb",
+    "language": "German",
+    "headword": "essen",
+    "display": "essen",
+    "info": "essen (aß, gegessen) - strong (e->i)",
+    "pos": "verb",
+    "meaning": "to eat",
+    "answer": "essen"
+  },
+  {
+    "id": "de-vocab-trinken",
+    "language": "German",
+    "headword": "trinken",
+    "display": "trinken",
+    "info": "trinken (trank, getrunken) - strong",
+    "pos": "verb",
+    "meaning": "to drink",
+    "answer": "trinken"
+  },
+  {
+    "id": "de-vocab-kaufen",
+    "language": "German",
+    "headword": "kaufen",
+    "display": "kaufen",
+    "info": "kaufen (kaufte, gekauft) - weak",
+    "pos": "verb",
+    "meaning": "to buy",
+    "answer": "kaufen"
+  },
+  {
+    "id": "de-vocab-brauchen",
+    "language": "German",
+    "headword": "brauchen",
+    "display": "brauchen",
+    "info": "brauchen (brauchte, gebraucht) - weak",
+    "pos": "verb",
+    "meaning": "to need",
+    "answer": "brauchen"
+  },
+  {
+    "id": "de-vocab-wohnen",
+    "language": "German",
+    "headword": "wohnen",
+    "display": "wohnen",
+    "info": "wohnen (wohnte, gewohnt) - weak",
+    "pos": "verb",
+    "meaning": "to live / to reside",
+    "answer": "wohnen"
+  },
+  {
+    "id": "de-vocab-lernen",
+    "language": "German",
+    "headword": "lernen",
+    "display": "lernen",
+    "info": "lernen (lernte, gelernt) - weak",
+    "pos": "verb",
+    "meaning": "to learn",
+    "answer": "lernen"
+  },
+  {
+    "id": "de-vocab-verstehen",
+    "language": "German",
+    "headword": "verstehen",
+    "display": "verstehen",
+    "info": "verstehen (verstand, verstanden) - irregular",
+    "pos": "verb",
+    "meaning": "to understand",
+    "answer": "verstehen"
+  },
+  {
+    "id": "de-vocab-schreiben",
+    "language": "German",
+    "headword": "schreiben",
+    "display": "schreiben",
+    "info": "schreiben (schrieb, geschrieben) - strong",
+    "pos": "verb",
+    "meaning": "to write",
+    "answer": "schreiben"
+  },
+  {
+    "id": "de-vocab-gross",
+    "language": "German",
+    "headword": "groß",
+    "display": "groß",
+    "info": "groß (größer, am größten)",
+    "pos": "adjective",
+    "meaning": "big / large / tall",
+    "answer": "gross/groß"
+  },
+  {
+    "id": "de-vocab-klein",
+    "language": "German",
+    "headword": "klein",
+    "display": "klein",
+    "info": "klein",
+    "pos": "adjective",
+    "meaning": "small / little",
+    "answer": "klein"
+  },
+  {
+    "id": "de-vocab-neu",
+    "language": "German",
+    "headword": "neu",
+    "display": "neu",
+    "info": "neu",
+    "pos": "adjective",
+    "meaning": "new",
+    "answer": "neu"
+  },
+  {
+    "id": "de-vocab-alt",
+    "language": "German",
+    "headword": "alt",
+    "display": "alt",
+    "info": "alt (älter, am ältesten)",
+    "pos": "adjective",
+    "meaning": "old",
+    "answer": "alt"
+  },
+  {
+    "id": "de-vocab-schoen",
+    "language": "German",
+    "headword": "schön",
+    "display": "schön",
+    "info": "schön",
+    "pos": "adjective",
+    "meaning": "beautiful / nice / lovely",
+    "answer": "schoen/schön"
+  },
+  {
+    "id": "de-vocab-schnell",
+    "language": "German",
+    "headword": "schnell",
+    "display": "schnell",
+    "info": "schnell",
+    "pos": "adjective",
+    "meaning": "fast / quick",
+    "answer": "schnell"
+  },
+  {
+    "id": "de-vocab-wichtig",
+    "language": "German",
+    "headword": "wichtig",
+    "display": "wichtig",
+    "info": "wichtig",
+    "pos": "adjective",
+    "meaning": "important",
+    "answer": "wichtig"
+  },
+  {
+    "id": "de-vocab-hier",
+    "language": "German",
+    "headword": "hier",
+    "display": "hier",
+    "info": "hier",
+    "pos": "adverb",
+    "meaning": "here",
+    "answer": "hier"
+  },
+  {
+    "id": "de-vocab-jetzt",
+    "language": "German",
+    "headword": "jetzt",
+    "display": "jetzt",
+    "info": "jetzt",
+    "pos": "adverb",
+    "meaning": "now",
+    "answer": "jetzt"
+  },
+  {
+    "id": "de-vocab-immer",
+    "language": "German",
+    "headword": "immer",
+    "display": "immer",
+    "info": "immer",
+    "pos": "adverb",
+    "meaning": "always",
+    "answer": "immer"
+  },
+  {
+    "id": "de-vocab-heute",
+    "language": "German",
+    "headword": "heute",
+    "display": "heute",
+    "info": "heute",
+    "pos": "adverb",
+    "meaning": "today",
+    "answer": "heute"
+  },
+  {
+    "id": "de-vocab-sehr",
+    "language": "German",
+    "headword": "sehr",
+    "display": "sehr",
+    "info": "sehr",
+    "pos": "adverb",
+    "meaning": "very",
+    "answer": "sehr"
+  },
+  {
+    "id": "de-vocab-auch",
+    "language": "German",
+    "headword": "auch",
+    "display": "auch",
+    "info": "auch",
+    "pos": "adverb",
+    "meaning": "also / too / as well",
+    "answer": "auch"
+  },
+  {
+    "id": "de-vocab-mit",
+    "language": "German",
+    "headword": "mit",
+    "display": "mit",
+    "info": "mit (+ dative)",
+    "pos": "preposition",
+    "meaning": "with",
+    "answer": "mit"
+  },
+  {
+    "id": "de-vocab-fuer",
+    "language": "German",
+    "headword": "für",
+    "display": "für",
+    "info": "für (+ accusative)",
+    "pos": "preposition",
+    "meaning": "for",
+    "answer": "fuer/für"
+  },
+  {
+    "id": "de-vocab-ohne",
+    "language": "German",
+    "headword": "ohne",
+    "display": "ohne",
+    "info": "ohne (+ accusative)",
+    "pos": "preposition",
+    "meaning": "without",
+    "answer": "ohne"
+  },
+  {
+    "id": "de-vocab-von",
+    "language": "German",
+    "headword": "von",
+    "display": "von",
+    "info": "von (+ dative)",
+    "pos": "preposition",
+    "meaning": "from / of / by",
+    "answer": "von"
+  },
+  {
+    "id": "de-vocab-nach",
+    "language": "German",
+    "headword": "nach",
+    "display": "nach",
+    "info": "nach (+ dative)",
+    "pos": "preposition",
+    "meaning": "after / to / according to",
+    "answer": "nach"
+  },
+  {
+    "id": "de-vocab-und",
+    "language": "German",
+    "headword": "und",
+    "display": "und",
+    "info": "und - coordinating conjunction",
+    "pos": "conjunction",
+    "meaning": "and",
+    "answer": "und"
+  },
+  {
+    "id": "de-vocab-oder",
+    "language": "German",
+    "headword": "oder",
+    "display": "oder",
+    "info": "oder - coordinating conjunction",
+    "pos": "conjunction",
+    "meaning": "or",
+    "answer": "oder"
+  },
+  {
+    "id": "de-vocab-aber",
+    "language": "German",
+    "headword": "aber",
+    "display": "aber",
+    "info": "aber - coordinating conjunction",
+    "pos": "conjunction",
+    "meaning": "but / however",
+    "answer": "aber"
+  },
+  {
+    "id": "de-vocab-weil",
+    "language": "German",
+    "headword": "weil",
+    "display": "weil",
+    "info": "weil - subordinating conjunction (verb to end)",
+    "pos": "conjunction",
+    "meaning": "because",
+    "answer": "weil"
+  },
+  {
+    "id": "de-vocab-zwei",
+    "language": "German",
+    "headword": "zwei",
+    "display": "zwei",
+    "info": "zwei",
+    "pos": "numeral",
+    "meaning": "two",
+    "answer": "zwei"
+  },
+  {
+    "id": "de-vocab-drei",
+    "language": "German",
+    "headword": "drei",
+    "display": "drei",
+    "info": "drei",
+    "pos": "numeral",
+    "meaning": "three",
+    "answer": "drei"
+  },
+  {
+    "id": "de-vocab-zehn",
+    "language": "German",
+    "headword": "zehn",
+    "display": "zehn",
+    "info": "zehn",
+    "pos": "numeral",
+    "meaning": "ten",
+    "answer": "zehn"
+  },
+  {
+    "id": "de-vocab-ja",
+    "language": "German",
+    "headword": "ja",
+    "display": "ja",
+    "info": "ja",
+    "pos": "interjection",
+    "meaning": "yes",
+    "answer": "ja"
+  },
+  {
+    "id": "de-vocab-nein",
+    "language": "German",
+    "headword": "nein",
+    "display": "nein",
+    "info": "nein",
+    "pos": "interjection",
+    "meaning": "no",
+    "answer": "nein"
+  }
+]

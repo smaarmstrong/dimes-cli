@@ -49,6 +49,12 @@ VSTATE = STATE.parent / "vocab.json"          # spaced-repetition progress for v
 LANGS = {"latin": "Latin", "greek": "Ancient Greek", "german": "German"}
 V_INTERVALS = [1, 3, 7, 16, 35, 75]           # days until next review, by reps
 
+# Name commands in hints the way the learner actually invoked us: `make <verb>`
+# under make (MAKELEVEL is set), otherwise the runnable path (e.g. ./dimes).
+# SELF is always a runnable path — used for hints that carry an argument.
+SELF = sys.argv[0] or "./dimes"
+INVOKE = "make" if os.environ.get("MAKELEVEL") else SELF
+
 # ---- colour ----------------------------------------------------------------
 _tty = sys.stdout.isatty()
 def c(code, s): return f"\033[{code}m{s}\033[0m" if _tty else s
@@ -190,7 +196,7 @@ def cmd_list(cards, st):
 def cmd_status(cards, st):
     print()
     if not st:
-        print(DIM("No practice history yet. Try: dimes drill")); return
+        print(DIM(f"No practice history yet. Try: {INVOKE} drill")); return
     for cid, h in sorted(st.items()):
         pct = h.get("score", 0)
         tag = G if pct >= 90 else (Y if pct >= 70 else R)
@@ -206,7 +212,7 @@ def cmd_drill(cards, st, sel, n, blind=False):
         else:
             pool = [c for c in cards if c["id"] == sel or c["id"].endswith("-" + sel)]
     if not pool:
-        sys.exit(R(f"nothing matches '{sel}'. Try: dimes list"))
+        sys.exit(R(f"nothing matches '{sel}'. Try: {INVOKE} list"))
     random.shuffle(pool)
     pool = pool[:n]
     scores = []
@@ -311,10 +317,10 @@ def cmd_learn(vocab, vst, sel, n):
     then quiz you to lock it in. Only touches words you haven't met yet."""
     pool = vocab_pool(vocab, sel)
     if not pool:
-        sys.exit(R(f"nothing matches '{sel}'. Try: dimes vocab list"))
+        sys.exit(R(f"nothing matches '{sel}'. Try: {SELF} vocab list"))
     fresh = [v for v in pool if v["id"] not in vst]
     if not fresh:
-        print(DIM("You've already met every word here. Review them with:  dimes vocab"))
+        print(DIM(f"You've already met every word here. Review them with:  {INVOKE} vocab"))
         return
     batch = fresh[:n]
     print(DIM(f"\nLearning {len(batch)} new word(s). Read each, then type it back.\n"))
@@ -325,7 +331,7 @@ def cmd_learn(vocab, vst, sel, n):
         print(f"  {v['meaning']}")
         print(DIM(f"  {_dict_form(v)}"))
         if v.get("grammar"):
-            print(DIM(f"  full paradigm:  dimes drill {v['grammar']}"))
+            print(DIM(f"  full paradigm:  {SELF} drill {v['grammar']}"))
         try:
             go = input(DIM("\n  [Enter to try it · q to stop] ")).strip().lower()
         except (EOFError, KeyboardInterrupt):
@@ -350,21 +356,21 @@ def cmd_learn(vocab, vst, sel, n):
             print(DIM("\nstopped — progress saved.")); break
     remaining = sum(1 for v in pool if v["id"] not in vst)
     print("\n" + BOLD(f"met {sum(1 for v in batch if v['id'] in vst)} word(s)")
-          + DIM(f"   {remaining} still new here · review anytime with  dimes vocab"))
+          + DIM(f"   {remaining} still new here · review anytime with  {INVOKE} vocab"))
 
 def cmd_vocab(vocab, vst, sel, n):
     """Spaced-repetition review: auto-pick the words that are due, quiz each in
     a random direction, and reschedule based on how you did."""
     pool = vocab_pool(vocab, sel)
     if not pool:
-        sys.exit(R(f"nothing matches '{sel}'. Try: dimes vocab list"))
+        sys.exit(R(f"nothing matches '{sel}'. Try: {SELF} vocab list"))
     due = [v for v in pool if v["id"] in vst
            and (v_overdue(vst[v["id"]].get("due")) or 0) >= 0]
     due.sort(key=lambda v: -(v_overdue(vst[v["id"]].get("due")) or 0))
     if not due:
         met = [v for v in pool if v["id"] in vst]
         if not met:
-            print(DIM("No words learned yet. Start with:  dimes learn"))
+            print(DIM(f"No words learned yet. Start with:  {INVOKE} learn"))
             return
         upcoming = min((v_overdue(vst[v["id"]].get("due")) for v in met
                         if vst[v["id"]].get("due")), default=None)
@@ -373,7 +379,7 @@ def cmd_vocab(vocab, vst, sel, n):
             print(DIM(f"Next word comes due in {-upcoming} day(s)."))
         newcount = sum(1 for v in pool if v["id"] not in vst)
         if newcount:
-            print(DIM(f"Or learn something new ({newcount} left):  dimes learn"))
+            print(DIM(f"Or learn something new ({newcount} left):  {INVOKE} learn"))
         return
     batch = due[:n]
     correct = seen = 0
@@ -461,7 +467,7 @@ def main():
             sys.exit(R("no vocabulary installed yet (data/vocab/ is empty)."))
         (cmd_learn if cmd == "learn" else cmd_vocab)(vocab, vst, sel, n)
     else:
-        sys.exit(R(f"unknown command '{cmd}'. Try: dimes help"))
+        sys.exit(R(f"unknown command '{cmd}'. Try: {INVOKE} help"))
 
 if __name__ == "__main__":
     main()

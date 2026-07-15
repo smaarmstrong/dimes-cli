@@ -9,19 +9,29 @@ Greek tables display polytonic Greek; you answer in plain ASCII, in either
 scholarly transliteration (basileus) or ELOT 743 / modern style (vasilefs).
 
 Usage:
-    dimes list                    # all paradigms, grouped by language
-    dimes drill                   # drill a spread across all languages
-    dimes drill latin             # drill one language (latin | greek | german)
+    dimes learn                   # meet new words: shown, then quizzed to lock in
+    dimes learn latin             # ...in one language (latin | greek | german)
+    dimes vocab                   # review words that are due (spaced repetition)
+    dimes vocab latin             # ...in one language
+    dimes vocab list              # every word, with meaning and what's due
+    dimes list                    # all grammar paradigms, grouped by language
+    dimes drill                   # drill a paradigm spread across all languages
+    dimes drill latin             # drill one language
     dimes drill latin-servus      # drill one specific card
     dimes drill latin -n 5        # limit to N cards (default 6)
     dimes drill latin --hints     # show the first row as a worked example
     dimes status                  # your recent scores per card
 
-Every cell of the table is a blank to fill; pass --hints to reveal the first
-row as a worked example. At each blank type any one accepted form (accents
-optional); press Enter to skip a cell (it's revealed, not marked wrong) or type
-q to stop. Scores are saved per card as you go, so you can quit any time and see
-them with `status`.
+Two ways in. To build VOCABULARY: `dimes learn` introduces a few new words
+(the word, its meaning, its dictionary form), then `dimes vocab` brings them
+back for review exactly when you're about to forget them — quizzing both ways
+(word->meaning and meaning->word). To drill GRAMMAR paradigms, use `drill`:
+fill each blank of a declension/conjugation table.
+
+You always answer in plain ASCII — accents are optional and Greek is typed
+transliterated (scholarly `basileus` or ELOT `vasilefs`). Press Enter to skip
+(the answer is revealed, not marked wrong) or type q to stop; progress is saved
+as you go.
 """
 import json
 import os
@@ -33,8 +43,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
+VOCAB_DIR = DATA / "vocab"
 STATE = Path(os.environ.get("XDG_STATE_HOME", Path.home() / ".local/state")) / "dimes-cli/history.json"
+VSTATE = STATE.parent / "vocab.json"          # spaced-repetition progress for vocab
 LANGS = {"latin": "Latin", "greek": "Ancient Greek", "german": "German"}
+V_INTERVALS = [1, 3, 7, 16, 35, 75]           # days until next review, by reps
 
 # ---- colour ----------------------------------------------------------------
 _tty = sys.stdout.isatty()
@@ -210,6 +223,200 @@ def cmd_drill(cards, st, sel, n, blind=False):
     if scores:
         print("\n" + BOLD(f"session: {round(sum(scores)/len(scores))}% over {len(scores)} card(s)"))
 
+# ---- vocabulary: data + spaced repetition ---------------------------------
+def load_vocab():
+    items = []
+    if VOCAB_DIR.is_dir():
+        for f in sorted(VOCAB_DIR.glob("*.json")):
+            try:
+                items.extend(json.loads(f.read_text()))
+            except json.JSONDecodeError as e:
+                print(R(f"bad vocab file {f.name}: {e}"), file=sys.stderr)
+    return items
+
+def load_vstate():
+    try:
+        return json.loads(VSTATE.read_text())
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+def save_vstate(s):
+    VSTATE.parent.mkdir(parents=True, exist_ok=True)
+    VSTATE.write_text(json.dumps(s, indent=2))
+
+def v_interval(reps):
+    """Days until the next review after `reps` correct recalls (reps >= 1)."""
+    i = max(reps, 1) - 1
+    if i < len(V_INTERVALS):
+        return V_INTERVALS[i]
+    return V_INTERVALS[-1] * (2 ** (i - len(V_INTERVALS) + 1))
+
+def v_overdue(due):
+    """Days past the review date (>=0 means due now); None if unscheduled."""
+    if not due:
+        return None
+    return date.today().toordinal() - date.fromisoformat(due).toordinal()
+
+def v_schedule(entry_state, reps):
+    entry_state["reps"] = reps
+    due = date.fromordinal(date.today().toordinal() + v_interval(reps))
+    entry_state["due"] = due.isoformat()
+
+def vocab_pool(vocab, sel):
+    if not sel:
+        return vocab
+    key = sel.lower()
+    if key in LANGS:
+        return [v for v in vocab if v["language"] == LANGS[key]]
+    return [v for v in vocab if v["id"] == sel or v["id"].endswith("-" + sel)]
+
+def _dict_form(v):
+    return v.get("info") or v.get("display") or v["headword"]
+
+def vocab_quiz(v, direction):
+    """Ask one word in one direction. Returns 'correct' | 'wrong' | 'skip' | 'quit'."""
+    lang, pos = v["language"], v.get("pos", "")
+    postag = DIM(f"  ({pos})") if pos else ""
+    if direction == "produce":                       # meaning -> word
+        print(f"\n  {BOLD(v['meaning'])}{DIM('  [' + lang + ']')}{postag}")
+        try:
+            g = input("  the word (ASCII, accents optional): ").strip()
+        except (EOFError, KeyboardInterrupt):
+            print(); return "quit"
+        if g == "q":
+            return "quit"
+        if g == "":
+            print("  " + DIM("= " + _dict_form(v)))
+            return "skip"
+        ok = is_correct(v["answer"], g)
+    else:                                            # recall: word -> meaning
+        head = v.get("display") or v["headword"]
+        print(f"\n  {BOLD(head)}{DIM('  [' + lang + ']')}{postag}")
+        try:
+            g = input("  meaning (in English): ").strip()
+        except (EOFError, KeyboardInterrupt):
+            print(); return "quit"
+        if g == "q":
+            return "quit"
+        if g == "":
+            print("  " + DIM("= " + v["meaning"]))
+            return "skip"
+        ok = is_correct(v["meaning"], g)
+    line = f"{_dict_form(v)}  =  {v['meaning']}"
+    print("  " + (G("correct") if ok else R("not quite")) + DIM("   " + line))
+    return "correct" if ok else "wrong"
+
+def cmd_learn(vocab, vst, sel, n):
+    """Introduce new words: show each with its meaning and dictionary form,
+    then quiz you to lock it in. Only touches words you haven't met yet."""
+    pool = vocab_pool(vocab, sel)
+    if not pool:
+        sys.exit(R(f"nothing matches '{sel}'. Try: dimes vocab list"))
+    fresh = [v for v in pool if v["id"] not in vst]
+    if not fresh:
+        print(DIM("You've already met every word here. Review them with:  dimes vocab"))
+        return
+    batch = fresh[:n]
+    print(DIM(f"\nLearning {len(batch)} new word(s). Read each, then type it back.\n"))
+    quit_now = False
+    for i, v in enumerate(batch, 1):
+        print(DIM(f"── new word {i}/{len(batch)} " + "─" * 30))
+        print(f"\n  {BOLD(v.get('display') or v['headword'])}   {DIM(v.get('pos',''))}")
+        print(f"  {v['meaning']}")
+        print(DIM(f"  {_dict_form(v)}"))
+        if v.get("grammar"):
+            print(DIM(f"  full paradigm:  dimes drill {v['grammar']}"))
+        try:
+            go = input(DIM("\n  [Enter to try it · q to stop] ")).strip().lower()
+        except (EOFError, KeyboardInterrupt):
+            go = "q"
+        res = None
+        if go == "q":
+            quit_now = True
+        else:
+            res = vocab_quiz(v, "produce")
+            if res == "quit":
+                quit_now = True
+        entry = vst.setdefault(v["id"], {})
+        entry["last"] = date.today().isoformat()
+        # Met now; first review tomorrow if produced correctly, else today.
+        if res == "correct":
+            v_schedule(entry, 1)
+        else:
+            entry["reps"] = 0
+            entry["due"] = date.today().isoformat()
+        save_vstate(vst)
+        if quit_now:
+            print(DIM("\nstopped — progress saved.")); break
+    remaining = sum(1 for v in pool if v["id"] not in vst)
+    print("\n" + BOLD(f"met {sum(1 for v in batch if v['id'] in vst)} word(s)")
+          + DIM(f"   {remaining} still new here · review anytime with  dimes vocab"))
+
+def cmd_vocab(vocab, vst, sel, n):
+    """Spaced-repetition review: auto-pick the words that are due, quiz each in
+    a random direction, and reschedule based on how you did."""
+    pool = vocab_pool(vocab, sel)
+    if not pool:
+        sys.exit(R(f"nothing matches '{sel}'. Try: dimes vocab list"))
+    due = [v for v in pool if v["id"] in vst
+           and (v_overdue(vst[v["id"]].get("due")) or 0) >= 0]
+    due.sort(key=lambda v: -(v_overdue(vst[v["id"]].get("due")) or 0))
+    if not due:
+        met = [v for v in pool if v["id"] in vst]
+        if not met:
+            print(DIM("No words learned yet. Start with:  dimes learn"))
+            return
+        upcoming = min((v_overdue(vst[v["id"]].get("due")) for v in met
+                        if vst[v["id"]].get("due")), default=None)
+        print(DIM("Nothing due for review right now."))
+        if upcoming is not None:
+            print(DIM(f"Next word comes due in {-upcoming} day(s)."))
+        newcount = sum(1 for v in pool if v["id"] not in vst)
+        if newcount:
+            print(DIM(f"Or learn something new ({newcount} left):  dimes learn"))
+        return
+    batch = due[:n]
+    correct = seen = 0
+    for i, v in enumerate(batch, 1):
+        print(DIM(f"\n── review {i}/{len(batch)} " + "─" * 30))
+        direction = random.choice(["recall", "produce"])
+        res = vocab_quiz(v, direction)
+        if res == "quit":
+            print(DIM("\nstopped — progress saved.")); break
+        if res == "skip":
+            continue
+        seen += 1
+        entry = vst[v["id"]]
+        entry["last"] = date.today().isoformat()
+        if res == "correct":
+            correct += 1
+            v_schedule(entry, entry.get("reps", 1) + 1)
+        else:
+            entry["reps"] = 0                    # lapse: relearn from the start
+            entry["due"] = date.today().isoformat()
+            entry["lapses"] = entry.get("lapses", 0) + 1
+        save_vstate(vst)
+    if seen:
+        print("\n" + BOLD(f"reviewed {seen} · {correct} correct ({round(100*correct/seen)}%)"))
+
+def cmd_vocab_list(vocab, vst):
+    if not vocab:
+        print(DIM("\nNo vocabulary yet.")); return
+    by = {}
+    for v in vocab:
+        by.setdefault(v["language"], []).append(v)
+    order = {name: i for i, name in enumerate(LANGS.values())}
+    for lang in sorted(by, key=lambda l: (order.get(l, len(order)), l)):
+        met = sum(1 for v in by[lang] if v["id"] in vst)
+        print("\n" + BOLD(f"{lang} ") + DIM(f"({met}/{len(by[lang])} met)"))
+        for v in by[lang]:
+            due = ""
+            if v["id"] in vst:
+                od = v_overdue(vst[v["id"]].get("due"))
+                due = G("  due") if (od or 0) >= 0 else DIM(f"  +{-od}d")
+            print(f"  {v.get('display') or v['headword']:<18} {DIM(v['meaning'])}{due}")
+    print()
+
 def main():
     cards = load_cards()
     st = load_state()
@@ -236,6 +443,23 @@ def main():
             else:
                 sel = a
         cmd_drill(cards, st, sel, n, blind)
+    elif cmd in ("learn", "vocab"):
+        # dimes learn [lang|id] [-n N]   ·   dimes vocab [lang|id] [-n N] | vocab list
+        if cmd == "vocab" and rest and rest[0] == "list":
+            cmd_vocab_list(load_vocab(), load_vstate())
+            return
+        n = 6 if cmd == "learn" else 12
+        sel = None
+        it = iter(rest)
+        for a in it:
+            if a == "-n":
+                n = int(next(it, str(n)))
+            else:
+                sel = a
+        vocab, vst = load_vocab(), load_vstate()
+        if not vocab:
+            sys.exit(R("no vocabulary installed yet (data/vocab/ is empty)."))
+        (cmd_learn if cmd == "learn" else cmd_vocab)(vocab, vst, sel, n)
     else:
         sys.exit(R(f"unknown command '{cmd}'. Try: dimes help"))
 

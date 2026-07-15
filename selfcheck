@@ -121,7 +121,48 @@ def main():
                 if visible == 0:
                     print(f"  note {mwhere}: no visible hint row")
 
-    print(f"\nselfcheck: {len(seen_ids)} cards in {len(files)} files")
+    # ---- vocabulary (data/vocab/*.json) ------------------------------------
+    grammar_ids = set(seen_ids)
+    vfiles = sorted((data / "vocab").glob("*.json"))
+    vcount = 0
+    for f in vfiles:
+        try:
+            items = json.loads(f.read_text())
+        except json.JSONDecodeError as e:
+            err(f"vocab/{f.name}", f"invalid JSON: {e}"); continue
+        if not isinstance(items, list):
+            err(f"vocab/{f.name}", "top level must be a list of entries"); continue
+        for v in items:
+            vid = v.get("id", "<no id>")
+            where = f"vocab/{f.name}:{vid}"
+            for key in ("id", "language", "headword", "meaning", "answer"):
+                if not v.get(key):
+                    err(where, f"missing or empty '{key}'")
+            if vid in seen_ids:
+                err(where, f"duplicate id (also in {seen_ids[vid]})")
+            seen_ids[vid] = f"vocab/{f.name}"
+            lang = v.get("language")
+            if lang not in LANGS:
+                err(where, f"unknown language {lang!r}")
+            # Both fields must be answerable in plain ASCII (accents fold away).
+            for field in ("answer", "meaning"):
+                val = v.get(field) or ""
+                for alt in val.split("/"):
+                    if not norm(alt):
+                        err(where, f"empty/unmatchable alternative in {field} {val!r}")
+                    elif not is_correct(val, alt):
+                        err(where, f"engine rejects its own {field} {alt!r}")
+                    elif not norm(alt).isascii():
+                        err(where, f"{field} {alt!r} not ASCII-typable (norm -> {norm(alt)!r})")
+            if lang == "Ancient Greek" and not (v.get("answer") or "").isascii():
+                err(where, f"Greek answer {v.get('answer')!r} must be plain ASCII")
+            g = v.get("grammar")
+            if g and g not in grammar_ids:
+                err(where, f"grammar link {g!r} matches no paradigm card")
+            vcount += 1
+
+    print(f"\nselfcheck: {len(grammar_ids)} cards in {len(files)} files"
+          + (f"; {vcount} vocab entries in {len(vfiles)} files" if vfiles else ""))
     for lang in sorted(per_lang, key=str):
         print(f"  {lang}: {per_lang[lang]}")
     if errors:

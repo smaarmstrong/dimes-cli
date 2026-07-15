@@ -1,14 +1,35 @@
 # dimes-cli
 
-A console **grammar-matrix** drill for **Latin**, **Ancient Greek**, and
-**German** — a terminal take on the [dimes](https://github.com/smaarmstrong)
-apps. You fill in the blanks of a declension / conjugation table and it grades you.
+A console trainer for **Latin**, **Ancient Greek**, and **German** — a terminal
+take on the [dimes](https://github.com/smaarmstrong) apps. Two things to practise:
 
-Greek tables display polytonic Greek; you answer in plain ASCII, in either
-**scholarly transliteration** (`chora`, `basileus`, `techne`) or **ELOT 743 /
-modern style** (`chora`, `vasilefs`, `techni`) — no accent marks, ever.
+- **Vocabulary** — meet words and review them on a spaced-repetition schedule.
+- **Grammar** — fill in the blanks of a declension / conjugation table.
 
-## Use it
+You always answer in plain ASCII. Matching is case- and diacritic-insensitive,
+and Greek is typed transliterated, in either **scholarly** (`chora`, `basileus`,
+`techne`) or **ELOT 743 / modern** style (`chora`, `vasilefs`, `techni`) — no
+accent marks, ever.
+
+## Learn vocabulary
+
+```bash
+./dimes learn                # meet a few new words, then get quizzed to lock them in
+./dimes learn latin          # ...in one language (latin | greek | german)
+./dimes vocab                # review the words that are due today
+./dimes vocab greek          # ...in one language
+./dimes vocab list           # every word, its meaning, and what's due
+```
+
+`learn` shows each new word with its meaning and dictionary form (and, where a
+matching paradigm exists, points you at `drill` for its full table), then asks
+you to produce it. `vocab` is the daily driver: it auto-picks the words that are
+**due**, quizzes each in a random direction — the word ⇒ you type the English
+meaning, or the meaning ⇒ you type the word — and reschedules it further out each
+time you get it right (1, 3, 7, 16, 35, 75 days…), or brings it straight back if
+you miss it. Progress lives in `~/.local/state/dimes-cli/vocab.json`.
+
+## Drill grammar
 
 ```bash
 ./dimes list                 # every paradigm, grouped by language
@@ -60,14 +81,46 @@ quit any time — `./dimes status` and `./dimes list` show where you stand.
   fill. For Greek, `display` holds the polytonic form that is shown, while
   `answer` holds the accepted ASCII transliterations, `/`-separated (scholarly
   and modern).
-- `./selfcheck` — validates every card: schema, unique ids, and a simulated
-  drill in which each stored answer must score 100% with the engine's matcher.
-  Run it after any data edit.
+- `data/vocab/*.json` — the vocabulary, loaded separately from the grammar
+  paradigms. Each is a list of word entries:
+
+  ```json
+  {
+    "id": "la-vocab-rex",
+    "language": "Latin",
+    "headword": "rex",
+    "display": "rēx",
+    "info": "rēx, rēgis, m.",
+    "pos": "noun",
+    "meaning": "king",
+    "answer": "rex",
+    "grammar": "latin-rex"
+  }
+  ```
+
+  `meaning` is the accepted English (list synonyms with `/`); `answer` is the
+  accepted ASCII form(s) you type for the word (`/`-separated — for Greek, the
+  scholarly and modern transliterations; for German nouns, with and without the
+  article). `info` is the dictionary form shown while teaching. Optional
+  `grammar` links to a paradigm card id so `learn` can point you at its `drill`.
+- `./selfcheck` — validates every grammar card **and** every vocab entry: schema,
+  unique ids, a simulated drill in which each stored answer scores 100% with the
+  engine's matcher, ASCII-typable answers (and pure-ASCII Greek), and that every
+  `grammar` link resolves. Run it after any data edit.
 
 Progress (last score + date per card) is stored in
 `~/.local/state/dimes-cli/history.json`.
 
 ## Content so far
+
+**Vocabulary — 285 words** (Latin 95, Ancient Greek 87, German 103). Each has an
+English meaning, a dictionary/citation form, and an ASCII answer (Greek in both
+scholarly and modern transliteration; German nouns with or without the article).
+Roughly half are common high-frequency words; the rest are the headwords of the
+grammar paradigms below, so `learn` can hand you straight to `drill` for a word's
+full table. Meet them with `dimes learn`, review with `dimes vocab`.
+
+### Grammar paradigms
 
 - **Latin** (43 cards) — all five noun declensions incl. i-stems and neuters;
   the four regular conjugations plus -iō verbs and deponents; adjectives of both

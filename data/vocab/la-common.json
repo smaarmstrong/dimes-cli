@@ -1,0 +1,492 @@
+[
+  {
+    "id": "la-vocab-terra",
+    "language": "Latin",
+    "headword": "terra",
+    "display": "terra",
+    "info": "terra, -ae, f.",
+    "pos": "noun",
+    "meaning": "earth / land / ground",
+    "answer": "terra"
+  },
+  {
+    "id": "la-vocab-vita",
+    "language": "Latin",
+    "headword": "vita",
+    "display": "vīta",
+    "info": "vīta, -ae, f.",
+    "pos": "noun",
+    "meaning": "life",
+    "answer": "vita"
+  },
+  {
+    "id": "la-vocab-via",
+    "language": "Latin",
+    "headword": "via",
+    "display": "via",
+    "info": "via, -ae, f.",
+    "pos": "noun",
+    "meaning": "road / way / street",
+    "answer": "via"
+  },
+  {
+    "id": "la-vocab-amicus",
+    "language": "Latin",
+    "headword": "amicus",
+    "display": "amīcus",
+    "info": "amīcus, -ī, m.",
+    "pos": "noun",
+    "meaning": "friend",
+    "answer": "amicus"
+  },
+  {
+    "id": "la-vocab-deus",
+    "language": "Latin",
+    "headword": "deus",
+    "display": "deus",
+    "info": "deus, -ī, m.",
+    "pos": "noun",
+    "meaning": "god",
+    "answer": "deus"
+  },
+  {
+    "id": "la-vocab-dominus",
+    "language": "Latin",
+    "headword": "dominus",
+    "display": "dominus",
+    "info": "dominus, -ī, m.",
+    "pos": "noun",
+    "meaning": "master / lord / owner",
+    "answer": "dominus"
+  },
+  {
+    "id": "la-vocab-animus",
+    "language": "Latin",
+    "headword": "animus",
+    "display": "animus",
+    "info": "animus, -ī, m.",
+    "pos": "noun",
+    "meaning": "mind / spirit / soul",
+    "answer": "animus"
+  },
+  {
+    "id": "la-vocab-verbum",
+    "language": "Latin",
+    "headword": "verbum",
+    "display": "verbum",
+    "info": "verbum, -ī, n.",
+    "pos": "noun",
+    "meaning": "word",
+    "answer": "verbum"
+  },
+  {
+    "id": "la-vocab-donum",
+    "language": "Latin",
+    "headword": "donum",
+    "display": "dōnum",
+    "info": "dōnum, -ī, n.",
+    "pos": "noun",
+    "meaning": "gift / present",
+    "answer": "donum"
+  },
+  {
+    "id": "la-vocab-caelum",
+    "language": "Latin",
+    "headword": "caelum",
+    "display": "caelum",
+    "info": "caelum, -ī, n.",
+    "pos": "noun",
+    "meaning": "sky / heaven",
+    "answer": "caelum"
+  },
+  {
+    "id": "la-vocab-homo",
+    "language": "Latin",
+    "headword": "homo",
+    "display": "homō",
+    "info": "homō, hominis, m.",
+    "pos": "noun",
+    "meaning": "man / human being / person",
+    "answer": "homo"
+  },
+  {
+    "id": "la-vocab-pater",
+    "language": "Latin",
+    "headword": "pater",
+    "display": "pater",
+    "info": "pater, patris, m.",
+    "pos": "noun",
+    "meaning": "father",
+    "answer": "pater"
+  },
+  {
+    "id": "la-vocab-mater",
+    "language": "Latin",
+    "headword": "mater",
+    "display": "māter",
+    "info": "māter, mātris, f.",
+    "pos": "noun",
+    "meaning": "mother",
+    "answer": "mater"
+  },
+  {
+    "id": "la-vocab-corpus",
+    "language": "Latin",
+    "headword": "corpus",
+    "display": "corpus",
+    "info": "corpus, corporis, n.",
+    "pos": "noun",
+    "meaning": "body",
+    "answer": "corpus"
+  },
+  {
+    "id": "la-vocab-tempus",
+    "language": "Latin",
+    "headword": "tempus",
+    "display": "tempus",
+    "info": "tempus, temporis, n.",
+    "pos": "noun",
+    "meaning": "time",
+    "answer": "tempus"
+  },
+  {
+    "id": "la-vocab-urbs",
+    "language": "Latin",
+    "headword": "urbs",
+    "display": "urbs",
+    "info": "urbs, urbis, f.",
+    "pos": "noun",
+    "meaning": "city",
+    "answer": "urbs"
+  },
+  {
+    "id": "la-vocab-manus",
+    "language": "Latin",
+    "headword": "manus",
+    "display": "manus",
+    "info": "manus, -ūs, f.",
+    "pos": "noun",
+    "meaning": "hand",
+    "answer": "manus"
+  },
+  {
+    "id": "la-vocab-dies",
+    "language": "Latin",
+    "headword": "dies",
+    "display": "diēs",
+    "info": "diēs, diēī, m.",
+    "pos": "noun",
+    "meaning": "day",
+    "answer": "dies"
+  },
+  {
+    "id": "la-vocab-dico",
+    "language": "Latin",
+    "headword": "dico",
+    "display": "dīcō",
+    "info": "dīcō, dīcere, dīxī, dictum",
+    "pos": "verb",
+    "meaning": "to say / to speak / to tell",
+    "answer": "dico/dicere"
+  },
+  {
+    "id": "la-vocab-facio",
+    "language": "Latin",
+    "headword": "facio",
+    "display": "faciō",
+    "info": "faciō, facere, fēcī, factum",
+    "pos": "verb",
+    "meaning": "to do / to make",
+    "answer": "facio/facere"
+  },
+  {
+    "id": "la-vocab-habeo",
+    "language": "Latin",
+    "headword": "habeo",
+    "display": "habeō",
+    "info": "habeō, habēre, habuī, habitum",
+    "pos": "verb",
+    "meaning": "to have / to hold",
+    "answer": "habeo/habere"
+  },
+  {
+    "id": "la-vocab-do",
+    "language": "Latin",
+    "headword": "do",
+    "display": "dō",
+    "info": "dō, dare, dedī, datum",
+    "pos": "verb",
+    "meaning": "to give",
+    "answer": "do/dare"
+  },
+  {
+    "id": "la-vocab-venio",
+    "language": "Latin",
+    "headword": "venio",
+    "display": "veniō",
+    "info": "veniō, venīre, vēnī, ventum",
+    "pos": "verb",
+    "meaning": "to come",
+    "answer": "venio/venire"
+  },
+  {
+    "id": "la-vocab-mitto",
+    "language": "Latin",
+    "headword": "mitto",
+    "display": "mittō",
+    "info": "mittō, mittere, mīsī, missum",
+    "pos": "verb",
+    "meaning": "to send",
+    "answer": "mitto/mittere"
+  },
+  {
+    "id": "la-vocab-duco",
+    "language": "Latin",
+    "headword": "duco",
+    "display": "dūcō",
+    "info": "dūcō, dūcere, dūxī, ductum",
+    "pos": "verb",
+    "meaning": "to lead",
+    "answer": "duco/ducere"
+  },
+  {
+    "id": "la-vocab-peto",
+    "language": "Latin",
+    "headword": "peto",
+    "display": "petō",
+    "info": "petō, petere, petīvī, petītum",
+    "pos": "verb",
+    "meaning": "to seek / to ask for / to attack",
+    "answer": "peto/petere"
+  },
+  {
+    "id": "la-vocab-scribo",
+    "language": "Latin",
+    "headword": "scribo",
+    "display": "scrībō",
+    "info": "scrībō, scrībere, scrīpsī, scrīptum",
+    "pos": "verb",
+    "meaning": "to write",
+    "answer": "scribo/scribere"
+  },
+  {
+    "id": "la-vocab-vivo",
+    "language": "Latin",
+    "headword": "vivo",
+    "display": "vīvō",
+    "info": "vīvō, vīvere, vīxī, vīctum",
+    "pos": "verb",
+    "meaning": "to live",
+    "answer": "vivo/vivere"
+  },
+  {
+    "id": "la-vocab-parvus",
+    "language": "Latin",
+    "headword": "parvus",
+    "display": "parvus",
+    "info": "parvus, -a, -um",
+    "pos": "adjective",
+    "meaning": "small / little",
+    "answer": "parvus"
+  },
+  {
+    "id": "la-vocab-novus",
+    "language": "Latin",
+    "headword": "novus",
+    "display": "novus",
+    "info": "novus, -a, -um",
+    "pos": "adjective",
+    "meaning": "new",
+    "answer": "novus"
+  },
+  {
+    "id": "la-vocab-multus",
+    "language": "Latin",
+    "headword": "multus",
+    "display": "multus",
+    "info": "multus, -a, -um",
+    "pos": "adjective",
+    "meaning": "much / many",
+    "answer": "multus"
+  },
+  {
+    "id": "la-vocab-longus",
+    "language": "Latin",
+    "headword": "longus",
+    "display": "longus",
+    "info": "longus, -a, -um",
+    "pos": "adjective",
+    "meaning": "long",
+    "answer": "longus"
+  },
+  {
+    "id": "la-vocab-omnis",
+    "language": "Latin",
+    "headword": "omnis",
+    "display": "omnis",
+    "info": "omnis, -e",
+    "pos": "adjective",
+    "meaning": "all / every / whole",
+    "answer": "omnis"
+  },
+  {
+    "id": "la-vocab-non",
+    "language": "Latin",
+    "headword": "non",
+    "display": "nōn",
+    "info": "nōn (adv.)",
+    "pos": "adverb",
+    "meaning": "not",
+    "answer": "non"
+  },
+  {
+    "id": "la-vocab-semper",
+    "language": "Latin",
+    "headword": "semper",
+    "display": "semper",
+    "info": "semper (adv.)",
+    "pos": "adverb",
+    "meaning": "always",
+    "answer": "semper"
+  },
+  {
+    "id": "la-vocab-saepe",
+    "language": "Latin",
+    "headword": "saepe",
+    "display": "saepe",
+    "info": "saepe (adv.)",
+    "pos": "adverb",
+    "meaning": "often",
+    "answer": "saepe"
+  },
+  {
+    "id": "la-vocab-in",
+    "language": "Latin",
+    "headword": "in",
+    "display": "in",
+    "info": "in (+ acc./abl.)",
+    "pos": "preposition",
+    "meaning": "in / on / into",
+    "answer": "in"
+  },
+  {
+    "id": "la-vocab-ad",
+    "language": "Latin",
+    "headword": "ad",
+    "display": "ad",
+    "info": "ad (+ acc.)",
+    "pos": "preposition",
+    "meaning": "to / toward / near",
+    "answer": "ad"
+  },
+  {
+    "id": "la-vocab-cum",
+    "language": "Latin",
+    "headword": "cum",
+    "display": "cum",
+    "info": "cum (+ abl.)",
+    "pos": "preposition",
+    "meaning": "with",
+    "answer": "cum"
+  },
+  {
+    "id": "la-vocab-ex",
+    "language": "Latin",
+    "headword": "ex",
+    "display": "ex",
+    "info": "ex / ē (+ abl.)",
+    "pos": "preposition",
+    "meaning": "out of / from",
+    "answer": "ex/e"
+  },
+  {
+    "id": "la-vocab-per",
+    "language": "Latin",
+    "headword": "per",
+    "display": "per",
+    "info": "per (+ acc.)",
+    "pos": "preposition",
+    "meaning": "through / throughout",
+    "answer": "per"
+  },
+  {
+    "id": "la-vocab-et",
+    "language": "Latin",
+    "headword": "et",
+    "display": "et",
+    "info": "et (conj.)",
+    "pos": "conjunction",
+    "meaning": "and",
+    "answer": "et"
+  },
+  {
+    "id": "la-vocab-sed",
+    "language": "Latin",
+    "headword": "sed",
+    "display": "sed",
+    "info": "sed (conj.)",
+    "pos": "conjunction",
+    "meaning": "but",
+    "answer": "sed"
+  },
+  {
+    "id": "la-vocab-aut",
+    "language": "Latin",
+    "headword": "aut",
+    "display": "aut",
+    "info": "aut (conj.)",
+    "pos": "conjunction",
+    "meaning": "or",
+    "answer": "aut"
+  },
+  {
+    "id": "la-vocab-si",
+    "language": "Latin",
+    "headword": "si",
+    "display": "sī",
+    "info": "sī (conj.)",
+    "pos": "conjunction",
+    "meaning": "if",
+    "answer": "si"
+  },
+  {
+    "id": "la-vocab-unus",
+    "language": "Latin",
+    "headword": "unus",
+    "display": "ūnus",
+    "info": "ūnus, -a, -um",
+    "pos": "numeral",
+    "meaning": "one",
+    "answer": "unus"
+  },
+  {
+    "id": "la-vocab-duo",
+    "language": "Latin",
+    "headword": "duo",
+    "display": "duo",
+    "info": "duo, duae, duo",
+    "pos": "numeral",
+    "meaning": "two",
+    "answer": "duo"
+  },
+  {
+    "id": "la-vocab-tres",
+    "language": "Latin",
+    "headword": "tres",
+    "display": "trēs",
+    "info": "trēs, tria",
+    "pos": "numeral",
+    "meaning": "three",
+    "answer": "tres"
+  },
+  {
+    "id": "la-vocab-ipse",
+    "language": "Latin",
+    "headword": "ipse",
+    "display": "ipse",
+    "info": "ipse, ipsa, ipsum",
+    "pos": "pronoun",
+    "meaning": "himself / herself / itself / self",
+    "answer": "ipse"
+  }
+]

@@ -11,6 +11,21 @@ and Greek is typed transliterated, in either **scholarly** (`chora`, `basileus`,
 `techne`) or **ELOT 743 / modern** style (`chora`, `vasilefs`, `techni`) — no
 accent marks, ever.
 
+## Quickest: `make`
+
+If reaching for `make` is muscle memory, there's a thin wrapper:
+
+```bash
+make learn     # meet new words, then get quizzed      (all languages)
+make vocab     # review the words that are due
+make words     # list every word, its meaning, what's due
+make drill     # fill in a grammar paradigm
+make           # (or make help) list the targets
+```
+
+The `make` targets cover all three languages; for one language or a specific
+card, use `./dimes` directly (below).
+
 ## Learn vocabulary
 
 ```bash
